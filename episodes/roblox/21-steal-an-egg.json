@@ -1,0 +1,437 @@
+{
+ "preset": "roblox",
+ "num": 21,
+ "slug": "steal-an-egg",
+ "file": "21 Steal An Egg (30s).mp4",
+ "target": 30,
+ "accent": "#ffd54f",
+ "bpm": 136,
+ "root": 62,
+ "lines": [
+  {
+   "t": "This Roblox game is all about stealing eggs, and millions play it at once.",
+   "sc": {
+    "bg": "day",
+    "rays": "#fff59d",
+    "big": "STEAL AN EGG",
+    "bs": 140,
+    "sub": "& COLLECT RARE PETS",
+    "props": [
+     [
+      "base",
+      -3.9,
+      -3.9,
+      {
+       "c": "#42a5f5"
+      }
+     ],
+     [
+      "base",
+      0.6,
+      -3.9,
+      {
+       "c": "#ef5350"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.5,
+       3.0
+      ],
+      "to": [
+       2.8,
+       -1.2
+      ],
+      "a": "run",
+      "c": "a",
+      "hold": "egg_gold"
+     },
+     {
+      "p": [
+       -3.2,
+       3.4
+      ],
+      "to": [
+       1.0,
+       -0.4
+      ],
+      "a": "run",
+      "c": "b",
+      "d": 0.4,
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "egg_blue",
+      "w": [
+       -2.2,
+       -2.2,
+       0.9
+      ],
+      "s": 110
+     },
+     {
+      "n": "egg_purple",
+      "w": [
+       2.3,
+       -2.3,
+       0.9
+      ],
+      "s": 110
+     }
+    ]
+   }
+  },
+  {
+   "t": "Steal An Egg launched in July 2026.",
+   "sc": {
+    "bg": "day",
+    "big": "JULY 2026",
+    "sub": "LAUNCH",
+    "props": [
+     [
+      "tree",
+      -3.9,
+      -3.9
+     ],
+     [
+      "tree",
+      1.8,
+      -3.9
+     ],
+     [
+      "tree",
+      -3.9,
+      1.8
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "wave",
+      "c": "c"
+     },
+     {
+      "p": [
+       2.3,
+       -0.6
+      ],
+      "a": "jump",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 160,
+      "y": 900,
+      "s": 200,
+      "a": "spin"
+     },
+     {
+      "n": "egg",
+      "x": 920,
+      "y": 900,
+      "s": 150
+     }
+    ]
+   }
+  },
+  {
+   "t": "Train your speed on treadmills,",
+   "sc": {
+    "bg": "day",
+    "big": "+SPEED",
+    "bc": "#69f0ae",
+    "fx": [
+     "speed"
+    ],
+    "props": [
+     [
+      "treadmill",
+      -0.8,
+      -1.8
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -0.1,
+       0.2
+      ],
+      "z": 0.4,
+      "a": "run",
+      "c": "a",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 860,
+      "y": 820,
+      "s": 170,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "then sprint into the biomes, grab an egg, and run it home.",
+   "sc": {
+    "bg": "sunset",
+    "big": "GRAB & RUN!",
+    "bc": "#ffd54f",
+    "ground": "sand",
+    "fx": [
+     "speed"
+    ],
+    "props": [
+     [
+      "tree",
+      -3.9,
+      -3.9,
+      {
+       "c": "#558b2f"
+      }
+     ],
+     [
+      "base",
+      0.4,
+      -3.9,
+      {
+       "c": "#42a5f5"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -3.0,
+       2.0
+      ],
+      "to": [
+       2.6,
+       -2.4
+      ],
+      "a": "run",
+      "c": "a",
+      "hold": "egg_red"
+     }
+    ],
+    "ic": [
+     {
+      "n": "egg_gold",
+      "w": [
+       -1.0,
+       2.6,
+       0.9
+      ],
+      "s": 110
+     },
+     {
+      "n": "egg_blue",
+      "w": [
+       2.6,
+       1.2,
+       0.9
+      ],
+      "s": 110
+     }
+    ]
+   }
+  },
+  {
+   "t": "Eggs hatch into pets, and pets make you money. Rarities go from Common all the way to Divine.",
+   "sc": {
+    "bg": "mint",
+    "big": "HATCH & EARN",
+    "bs": 120,
+    "bar9": true,
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -1.6,
+       1.4
+      ],
+      "c": "#ffb74d",
+      "a": "bob"
+     },
+     {
+      "k": "cat",
+      "p": [
+       1.4,
+       -1.6
+      ],
+      "c": "#b0bec5",
+      "a": "bob",
+      "d": 0.6
+     },
+     {
+      "k": "dragon",
+      "p": [
+       0.6,
+       0.6
+      ],
+      "c": "#ab47bc",
+      "a": "bob",
+      "d": 1.2,
+      "s": 0.7
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "But other players can sneak into your base and steal your eggs too.",
+   "sc": {
+    "bg": "night",
+    "big": "NOBODY",
+    "sub": "IS SAFE",
+    "ground": "night",
+    "vig": true,
+    "props": [
+     [
+      "base",
+      -1.7,
+      -1.7,
+      {
+       "c": "#42a5f5",
+       "w": 3.4
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.8,
+       -2.6
+      ],
+      "to": [
+       0.4,
+       -0.4
+      ],
+      "a": "sneak",
+      "c": "k",
+      "face": "mean",
+      "hold": "egg_gold"
+     }
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 880,
+      "y": 820,
+      "s": 160,
+      "a": "shake"
+     },
+     {
+      "n": "egg_purple",
+      "w": [
+       -0.6,
+       0.6,
+       0.7
+      ],
+      "s": 100
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "Within weeks, it passed giants like Brookhaven and Blox Fruits in live players.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "PASSED THE\nGIANTS",
+    "bs": 116,
+    "by": 360,
+    "fx": [
+     "confetti"
+    ],
+    "crowd": {
+     "n": 25,
+     "appear": 1.6
+    },
+    "ic": [
+     {
+      "n": "crown",
+      "x": 540,
+      "y": 700,
+      "s": 150,
+      "a": "float",
+      "d": 0.5
+     }
+    ]
+   }
+  },
+  {
+   "t": "Stealer or defender? Tell me in the comments!",
+   "sc": {
+    "bg": "party",
+    "rays": "#ffffff",
+    "ground": "grass",
+    "big": "STEALER OR\nDEFENDER?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "star",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "preset": "roblox",
+ "num": 25,
+ "slug": "rivals",
+ "file": "25 RIVALS (30s).mp4",
+ "target": 30,
+ "accent": "#ff5252",
+ "bpm": 144,
+ "root": 55,
+ "lines": [
+  {
+   "t": "This is the Roblox shooter almost a million people played at the same time.",
+   "sc": {
+    "bg": "arena",
+    "rays": "#ff8a80",
+    "big": "RIVALS",
+    "bs": 180,
+    "sub": "ROBLOX'S TOP SHOOTER",
+    "ground": "dark",
+    "props": [
+     [
+      "crate",
+      -3.6,
+      -3.6
+     ],
+     [
+      "crate",
+      2.2,
+      -3.6,
+      {
+       "c": "#78909c"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.6,
+       1.8
+      ],
+      "a": "bob",
+      "c": "b",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       1.8,
+       -1.6
+      ],
+      "a": "bob",
+      "c": "a",
+      "hold": "gun",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crosshair",
+      "x": 540,
+      "y": 860,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "RIVALS is made by Nosniy Games, and it launched in 2024.",
+   "sc": {
+    "bg": "dark",
+    "big": "2024",
+    "bs": 170,
+    "sub": "NOSNIY GAMES",
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.4
+      ],
+      "a": "wave",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 190,
+      "y": 830,
+      "s": 180,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Matches are quick duels, from one versus one up to five versus five.",
+   "sc": {
+    "bg": "split",
+    "vs": [
+     "1V1",
+     "5V5",
+     "#1565c0",
+     "#c62828"
+    ],
+    "ground": "none",
+    "av": [
+     {
+      "p": [
+       -2.8,
+       2.0
+      ],
+      "a": "bob",
+      "c": "b",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       -1.2,
+       1.2
+      ],
+      "a": "bob",
+      "c": "h",
+      "d": 0.5
+     },
+     {
+      "p": [
+       2.0,
+       -2.8
+      ],
+      "a": "bob",
+      "c": "a",
+      "f": "y",
+      "face": "mean"
+     },
+     {
+      "p": [
+       1.2,
+       -1.2
+      ],
+      "a": "bob",
+      "c": "e",
+      "f": "y",
+      "d": 0.5
+     }
+    ]
+   }
+  },
+  {
+   "t": "Climb the ranks from Bronze all the way to Archnemesis.",
+   "sc": {
+    "bg": "arena",
+    "big": "BRONZE",
+    "bs": 110,
+    "bc": "#cd7f32",
+    "sub": "ALL THE WAY TO ARCHNEMESIS",
+    "ground": "stone",
+    "props": [
+     [
+      "block",
+      -2.5,
+      0.5,
+      {
+       "w": 1.4,
+       "d": 1.4,
+       "h": 0.6,
+       "c": "#cd7f32"
+      }
+     ],
+     [
+      "block",
+      -0.7,
+      -0.7,
+      {
+       "w": 1.4,
+       "d": 1.4,
+       "h": 1.4,
+       "c": "#cfd8dc"
+      }
+     ],
+     [
+      "block",
+      0.5,
+      -2.5,
+      {
+       "w": 1.4,
+       "d": 1.4,
+       "h": 2.4,
+       "c": "#ab47bc"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.2,
+       -1.8
+      ],
+      "z": 2.4,
+      "a": "cheer",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 880,
+      "y": 720,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It passed 13 billion visits in under two years.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 13,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 130,
+    "sub": "VISITS IN UNDER 2 YEARS",
+    "ground": "dark",
+    "crowd": {
+     "n": 25,
+     "appear": 1.4
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In 2025, it won Best Shooter at the Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "BEST SHOOTER",
+    "bs": 120,
+    "sub": "ROBLOX INNOVATION AWARDS 2025",
+    "props": [
+     [
+      "trophy",
+      -0.9,
+      -0.9
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your main weapon? Comment below!",
+   "sc": {
+    "bg": "arena",
+    "rays": "#ff8a80",
+    "ground": "dark",
+    "big": "WHAT'S YOUR\nMAIN WEAPON?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "gun",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "sword",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ]
+   }
+  }
+ ]
+}

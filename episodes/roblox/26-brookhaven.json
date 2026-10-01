@@ -1,0 +1,500 @@
+{
+ "preset": "roblox",
+ "num": 26,
+ "slug": "brookhaven",
+ "file": "26 Brookhaven RP (60s).mp4",
+ "target": 60,
+ "accent": "#ff8a65",
+ "bpm": 118,
+ "root": 60,
+ "lines": [
+  {
+   "t": "The most visited Roblox game ever has no levels, no boss, and no way to win.",
+   "sc": {
+    "bg": "day",
+    "rays": "#fff3e0",
+    "big": "BROOKHAVEN RP",
+    "bs": 120,
+    "sub": "NO LEVELS. NO BOSS. NO WIN.",
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9
+     ],
+     [
+      "house",
+      0.9,
+      -3.9,
+      {
+       "c": "#c5e1a5",
+       "r": "#1565c0"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       1.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       2.4,
+       0.0
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Brookhaven RP launched in April 2020, right when the world went into lockdown.",
+   "sc": {
+    "bg": "sunset",
+    "big": "APRIL 2020",
+    "sub": "LOCKDOWN LAUNCH",
+    "props": [
+     [
+      "house",
+      -1.5,
+      -1.5,
+      {
+       "c": "#ffe0b2"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.4,
+       1.2
+      ],
+      "a": "bob",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 180,
+      "y": 860,
+      "s": 180,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by Wolfpaq, with help from Aidanleewolf.",
+   "sc": {
+    "bg": "party",
+    "big": "WOLFPAQ",
+    "bs": 150,
+    "sub": "+ AIDANLEEWOLF",
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       -0.6,
+       1.4
+      ],
+      "a": "bob",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.4,
+       -0.6
+      ],
+      "a": "bob",
+      "c": "e"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 540,
+      "y": 700,
+      "s": 170
+     }
+    ]
+   }
+  },
+  {
+   "t": "There's nothing to beat. You just live in a town.",
+   "sc": {
+    "bg": "day",
+    "big": "JUST LIVE",
+    "bs": 140,
+    "ground": "grass",
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9,
+      {
+       "c": "#ffccbc"
+      }
+     ],
+     [
+      "tree",
+      1.4,
+      -3.9
+     ],
+     [
+      "house",
+      -3.9,
+      0.6,
+      {
+       "c": "#b3e5fc",
+       "r": "#6a1b9a"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.6,
+       2.6
+      ],
+      "to": [
+       0.8,
+       0.0
+      ],
+      "a": "walk",
+      "c": "d"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Get a house, drive a car, pick a job, and make up your own story.",
+   "sc": {
+    "bg": "day",
+    "big": "YOUR STORY",
+    "bs": 130,
+    "bc": "#ff8a65",
+    "ground": "road",
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9,
+      {
+       "c": "#fff9c4",
+       "r": "#2e7d32"
+      }
+     ],
+     [
+      "tree",
+      1.4,
+      -3.9
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.8,
+       -1.2
+      ],
+      "a": "wave",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 170,
+      "y": 760,
+      "s": 140
+     },
+     {
+      "n": "heart",
+      "x": 910,
+      "y": 760,
+      "s": 120,
+      "d": 0.4
+     }
+    ]
+   }
+  },
+  {
+   "t": "That simple idea exploded. In 2023, Guinness World Records named it the most visited game made in Roblox, with 37.2 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 37.2,
+     "fmt": "{:.1f} BILLION",
+     "dur": 2.0
+    },
+    "bs": 120,
+    "sub": "VISITS - WORLD RECORD (2023)",
+    "props": [
+     [
+      "trophy",
+      -0.9,
+      -0.9
+     ]
+    ],
+    "crowd": {
+     "n": 16,
+     "appear": 2.0,
+     "area": [
+      -3.4,
+      0.6,
+      3.4,
+      3.4
+     ]
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It was nominated for Favorite Video Game at the Kids' Choice Awards in 2022 and 2023.",
+   "sc": {
+    "bg": "party",
+    "big": "NOMINATED",
+    "bs": 130,
+    "sub": "KIDS' CHOICE AWARDS 2022 & 2023",
+    "ss": 56,
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 180,
+      "y": 800,
+      "s": 150,
+      "a": "spin"
+     },
+     {
+      "n": "star",
+      "x": 900,
+      "y": 800,
+      "s": 150,
+      "a": "spin",
+      "d": 0.3
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then in February 2025, Wolfpaq sold Brookhaven to the studio Voldex.",
+   "sc": {
+    "bg": "sunset",
+    "big": "SOLD!",
+    "bs": 170,
+    "bc": "#ff5252",
+    "sub": "TO VOLDEX (FEB 2025)",
+    "props": [
+     [
+      "house",
+      -1.5,
+      -1.5,
+      {
+       "c": "#ffe0b2"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.6,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "trade",
+      "x": 880,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "He said running a game this big by himself came at a big cost, and he wanted more time with his family.",
+   "sc": {
+    "bg": "sunset",
+    "big": "FAMILY FIRST",
+    "bs": 124,
+    "ground": "grass",
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9,
+      {
+       "c": "#ffe0b2"
+      }
+     ],
+     [
+      "tree",
+      1.4,
+      -3.9
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       1.2
+      ],
+      "a": "bob",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.6,
+       0.0
+      ],
+      "a": "bob",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.9,
+       1.9
+      ],
+      "a": "jump",
+      "c": "c",
+      "s": 0.38
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 540,
+      "y": 650,
+      "s": 140,
+      "a": "pulse",
+      "d": 0.5
+     }
+    ]
+   }
+  },
+  {
+   "t": "Now a full team builds it, and it won Best Roleplay at the 2025 Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "BEST ROLEPLAY",
+    "bs": 118,
+    "sub": "ROBLOX INNOVATION AWARDS 2025",
+    "props": [
+     [
+      "trophy",
+      -0.9,
+      -0.9
+     ]
+    ],
+    "crowd": {
+     "n": 9,
+     "appear": 0.8,
+     "area": [
+      0.8,
+      0.8,
+      3.6,
+      3.6
+     ],
+     "s": 0.3
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your job in Brookhaven? Tell me in the comments!",
+   "sc": {
+    "bg": "party",
+    "rays": "#ffffff",
+    "ground": "grass",
+    "big": "WHAT'S YOUR JOB\nIN BROOKHAVEN?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "star",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ],
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9,
+      {
+       "c": "#ffccbc"
+      }
+     ]
+    ]
+   }
+  }
+ ]
+}

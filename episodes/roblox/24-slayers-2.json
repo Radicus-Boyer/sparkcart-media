@@ -1,0 +1,296 @@
+{
+ "preset": "roblox",
+ "num": 24,
+ "slug": "slayers-2",
+ "file": "24 Slayers 2 (30s).mp4",
+ "target": 30,
+ "accent": "#ff5252",
+ "bpm": 124,
+ "root": 57,
+ "lines": [
+  {
+   "t": "Roblox anime fans waited over two years for this sequel.",
+   "sc": {
+    "bg": "red",
+    "rays": "#ffcdd2",
+    "big": "SLAYERS 2",
+    "bs": 160,
+    "sub": "2+ YEARS IN THE MAKING",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.4
+      ],
+      "a": "bob",
+      "c": "k",
+      "hold": "sword"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 880,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Slayers 2 comes from Ouw Productions, the team behind Project Slayers.",
+   "sc": {
+    "bg": "dark",
+    "big": "OUW",
+    "bs": 150,
+    "sub": "PRODUCTIONS",
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       -0.6,
+       1.4
+      ],
+      "a": "bob",
+      "c": "k"
+     },
+     {
+      "p": [
+       1.4,
+       -0.6
+      ],
+      "a": "bob",
+      "c": "w"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 540,
+      "y": 690,
+      "s": 170,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The first game got 678 million visits.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 678,
+     "fmt": "{:.0f} MILLION"
+    },
+    "bs": 120,
+    "sub": "VISITS (PROJECT SLAYERS)",
+    "crowd": {
+     "n": 20,
+     "appear": 1.2
+    }
+   }
+  },
+  {
+   "t": "The sequel was first shown in 2024 and finally launched on September 18th, 2026.",
+   "sc": {
+    "bg": "sunset",
+    "big": "SEPT 18, 2026",
+    "bs": 116,
+    "sub": "SHOWN IN 2024",
+    "props": [
+     [
+      "tower",
+      -1.0,
+      -1.0,
+      {
+       "c": "#8d6e63"
+      }
+     ]
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 170,
+      "y": 820,
+      "s": 180,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Inspired by Demon Slayer, you pick a side: a Slayer with Breathing Techniques, or a Demon with Blood Demon Arts.",
+   "sc": {
+    "bg": "split",
+    "vs": [
+     "SLAYER",
+     "DEMON",
+     "#1565c0",
+     "#b71c1c"
+    ],
+    "ground": "none",
+    "av": [
+     {
+      "p": [
+       -1.2,
+       2.2
+      ],
+      "a": "bob",
+      "c": "k",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       2.2,
+       -1.2
+      ],
+      "a": "bob",
+      "c": [
+       "#9e9e9e",
+       "#4a148c",
+       "#212121"
+      ],
+      "face": "mean",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "sword",
+      "x": 200,
+      "y": 1180,
+      "s": 140,
+      "a": "spin"
+     },
+     {
+      "n": "fire",
+      "x": 880,
+      "y": 1180,
+      "s": 140,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And this time, it's one giant connected world.",
+   "sc": {
+    "bg": "day",
+    "big": "ONE BIG MAP",
+    "bs": 130,
+    "ground": "grass",
+    "props": [
+     [
+      "tree",
+      -3.9,
+      -3.9
+     ],
+     [
+      "house",
+      1.0,
+      -3.9,
+      {
+       "c": "#d7ccc8",
+       "r": "#5d4037"
+      }
+     ],
+     [
+      "tree",
+      -3.9,
+      1.6,
+      {
+       "c": "#388e3c"
+      }
+     ]
+    ],
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -1.2,
+       2.6
+      ],
+      "to": [
+       2.6,
+       -0.6
+      ],
+      "c": "#8d6e63",
+      "a": "run",
+      "rider": "k",
+      "s": 0.85
+     }
+    ],
+    "ic": [
+     {
+      "n": "globe",
+      "x": 900,
+      "y": 700,
+      "s": 140
+     }
+    ]
+   }
+  },
+  {
+   "t": "Slayer or Demon? Comment below!",
+   "sc": {
+    "bg": "red",
+    "rays": "#ffcdd2",
+    "ground": "stone",
+    "big": "SLAYER OR\nDEMON?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "star",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ]
+   }
+  }
+ ]
+}

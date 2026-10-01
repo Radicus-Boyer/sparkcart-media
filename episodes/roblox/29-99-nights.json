@@ -1,0 +1,479 @@
+{
+ "preset": "roblox",
+ "num": 29,
+ "slug": "99-nights",
+ "file": "29 99 Nights in the Forest (60s).mp4",
+ "target": 60,
+ "accent": "#ffab40",
+ "bpm": 108,
+ "root": 57,
+ "mood": "spooky",
+ "lines": [
+  {
+   "t": "A Roblox horror game is becoming a real Hollywood movie.",
+   "sc": {
+    "bg": "forest",
+    "rays": "#ffb74d",
+    "big": "99 NIGHTS",
+    "bs": 160,
+    "sub": "IN THE FOREST",
+    "ground": "forest",
+    "vig": true,
+    "props": [
+     [
+      "campfire",
+      -0.8,
+      -0.8
+     ]
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "w": [
+       0,
+       0,
+       1.0
+      ],
+      "s": 140,
+      "a": "flicker"
+     },
+     {
+      "n": "clapper",
+      "x": 880,
+      "y": 800,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "99 Nights in the Forest came out in March 2025, made by Grandma's Favourite Games in New Zealand.",
+   "sc": {
+    "bg": "night",
+    "big": "MARCH 2025",
+    "bs": 130,
+    "sub": "GRANDMA'S FAVOURITE GAMES",
+    "ss": 56,
+    "ground": "forest",
+    "props": [
+     [
+      "tree",
+      -3.9,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ],
+     [
+      "tree",
+      1.6,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ]
+    ],
+    "ic": [
+     {
+      "n": "globe",
+      "x": 180,
+      "y": 840,
+      "s": 160,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "Your goal: survive 99 nights, keep the campfire burning, and rescue four lost kids.",
+   "sc": {
+    "bg": "forest",
+    "big": "SURVIVE",
+    "bs": 150,
+    "sub": "KEEP THE FIRE ALIVE",
+    "ground": "forest",
+    "vig": true,
+    "props": [
+     [
+      "campfire",
+      -0.8,
+      -0.8
+     ],
+     [
+      "tree",
+      -3.9,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ],
+     [
+      "tree",
+      1.8,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.6
+      ],
+      "a": "bob",
+      "c": "e"
+     },
+     {
+      "p": [
+       -1.6,
+       2.2
+      ],
+      "a": "bob",
+      "c": "c",
+      "s": 0.38,
+      "d": 0.6
+     }
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "w": [
+       0,
+       0,
+       1.0
+      ],
+      "s": 140,
+      "a": "flicker"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "But the forest fights back, with cultists and a very scary deer.",
+   "sc": {
+    "bg": "forest",
+    "big": "THE DEER",
+    "bs": 150,
+    "bc": "#ff5252",
+    "ground": "forest",
+    "vig": true,
+    "props": [
+     [
+      "tree",
+      -3.9,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ],
+     [
+      "tree",
+      1.6,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ]
+    ],
+    "pets": [
+     {
+      "k": "deer",
+      "p": [
+       -1.6,
+       0.6
+      ],
+      "to": [
+       0.0,
+       0.0
+      ],
+      "c": "#5d4037",
+      "a": "walk",
+      "s": 0.8
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       2.4,
+       -1.6
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o",
+      "f": "y"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "It blew up fast. At its peak, 14.2 million people played at the same time.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 14.2,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 124,
+    "sub": "PLAYERS AT ONCE",
+    "crowd": {
+     "n": 25,
+     "appear": 1.6
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In 2025, it won both Best Adventure and Best Horror at the Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "2 AWARDS",
+    "bs": 150,
+    "sub": "BEST ADVENTURE + BEST HORROR",
+    "props": [
+     [
+      "trophy",
+      -2.6,
+      -0.4
+     ],
+     [
+      "trophy",
+      0.4,
+      -2.6
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It's now the seventh most played game in Roblox history, with a 90% player rating.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "#7 ALL TIME",
+    "bs": 140,
+    "sub": "90% PLAYER RATING",
+    "ground": "forest",
+    "props": [
+     [
+      "campfire",
+      -0.8,
+      -0.8
+     ]
+    ],
+    "crowd": {
+     "n": 9,
+     "appear": 0.9,
+     "area": [
+      0.8,
+      0.8,
+      3.6,
+      3.6
+     ],
+     "s": 0.3
+    },
+    "ic": [
+     {
+      "n": "fire",
+      "w": [
+       0,
+       0,
+       1.0
+      ],
+      "s": 140,
+      "a": "flicker"
+     },
+     {
+      "n": "crown",
+      "x": 880,
+      "y": 800,
+      "s": 130
+     }
+    ]
+   }
+  },
+  {
+   "t": "By April 2026, it had nearly 26 billion visits, and 20th Century Studios got the movie rights.",
+   "sc": {
+    "bg": "night",
+    "rays": "#ffd54f",
+    "big": "MOVIE DEAL",
+    "bs": 140,
+    "sub": "20TH CENTURY STUDIOS",
+    "ground": "stone",
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 540,
+      "y": 760,
+      "s": 200,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "The three creators, Alec, Matthew and Cameron, will be executive producers.",
+   "sc": {
+    "bg": "party",
+    "big": "ALEC, MATTHEW\n& CAMERON",
+    "bs": 100,
+    "by": 380,
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       -1.6,
+       1.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.2,
+       0.2
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.8,
+       -1.4
+      ],
+      "a": "wave",
+      "c": "d"
+     }
+    ]
+   }
+  },
+  {
+   "t": "A Fortnite collab was even announced in August 2026.",
+   "sc": {
+    "bg": "day",
+    "big": "COLLAB!",
+    "bs": 160,
+    "sub": "AUGUST 2026",
+    "ground": "grass",
+    "props": [
+     [
+      "campfire",
+      -0.8,
+      -0.8
+     ]
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "w": [
+       0,
+       0,
+       1.0
+      ],
+      "s": 140,
+      "a": "flicker"
+     },
+     {
+      "n": "star",
+      "x": 880,
+      "y": 800,
+      "s": 150
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "How many nights have you survived? Comment below!",
+   "sc": {
+    "bg": "forest",
+    "rays": "#ffb74d",
+    "ground": "forest",
+    "big": "HOW MANY NIGHTS\nHAVE YOU SURVIVED?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "fireflies"
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.6,
+       2.2
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.2,
+       -1.6
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "w": [
+       0,
+       0,
+       1.0
+      ],
+      "s": 140,
+      "a": "flicker"
+     },
+     {
+      "n": "moon",
+      "x": 170,
+      "y": 760,
+      "s": 130
+     }
+    ],
+    "props": [
+     [
+      "campfire",
+      -0.8,
+      -0.8
+     ]
+    ]
+   }
+  }
+ ]
+}

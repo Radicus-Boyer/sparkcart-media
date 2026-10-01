@@ -1,0 +1,400 @@
+{
+ "preset": "roblox",
+ "num": 27,
+ "slug": "blox-fruits",
+ "file": "27 Blox Fruits (60s).mp4",
+ "target": 60,
+ "accent": "#ffab40",
+ "bpm": 132,
+ "root": 62,
+ "lines": [
+  {
+   "t": "One of Roblox's biggest games had to change its name.",
+   "sc": {
+    "bg": "ocean",
+    "rays": "#e1f5fe",
+    "big": "BLOX FRUITS",
+    "bs": 140,
+    "sub": "IT HAD ANOTHER NAME...",
+    "ground": "water",
+    "fx": [
+     "waves"
+    ],
+    "props": [
+     [
+      "ship",
+      -2.2,
+      -0.9
+     ]
+    ],
+    "ic": [
+     {
+      "n": "fruit",
+      "x": 880,
+      "y": 760,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Blox Fruits launched on January 16th, 2019 as Blox Piece, made by mygame43 and rip_indra at Gamer Robot.",
+   "sc": {
+    "bg": "day",
+    "big": "BLOX PIECE",
+    "bs": 140,
+    "sub": "JAN 16, 2019",
+    "ground": "sand",
+    "props": [
+     [
+      "island",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.4,
+       1.2
+      ],
+      "a": "wave",
+      "c": "e"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 170,
+      "y": 860,
+      "s": 170,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was inspired by the anime One Piece. Eat a fruit, get a power, and become a swordsman, a fighter, or a gunner.",
+   "sc": {
+    "bg": "sunset",
+    "big": "EAT. POWER UP.",
+    "bs": 116,
+    "ground": "sand",
+    "av": [
+     {
+      "p": [
+       -1.6,
+       1.6
+      ],
+      "a": "bob",
+      "c": "a",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.8,
+       -1.4
+      ],
+      "a": "bob",
+      "c": "h",
+      "hold": "gun",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "fruit",
+      "x": 540,
+      "y": 660,
+      "s": 160,
+      "a": "spin",
+      "arg": [
+       255,
+       112,
+       67
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "To steer clear of copyright trouble, it became Blox Fruits.",
+   "sc": {
+    "bg": "day",
+    "big": "BLOX PIECE",
+    "bs": 120,
+    "bc": "#9e9e9e",
+    "sub": "RENAMED: BLOX FRUITS",
+    "ss": 70,
+    "ground": "sand",
+    "props": [
+     [
+      "island",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "ic": [
+     {
+      "n": "shield",
+      "x": 880,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And it wasn't a hit right away. In its first year, it struggled to pass 20,000 players at once.",
+   "sc": {
+    "bg": "dark",
+    "count": {
+     "to": 20000,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "bs": 140,
+    "sub": "THE FIRST-YEAR WALL",
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.4
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 820,
+      "s": 140
+     }
+    ]
+   }
+  },
+  {
+   "t": "It finally took off in late 2020, after a Christmas update and the Dragon fruit.",
+   "sc": {
+    "bg": "night",
+    "big": "LATE 2020",
+    "sub": "LIFT OFF!",
+    "ground": "snow",
+    "fx": [
+     "sparkle"
+    ],
+    "pets": [
+     {
+      "k": "dragon",
+      "p": [
+       0.2,
+       0.2
+      ],
+      "c": "#e53935",
+      "a": "bob",
+      "s": 0.8
+     }
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The Third Sea arrived in September 2021, and in December 2024, the Dragon update dropped.",
+   "sc": {
+    "bg": "ocean",
+    "big": "THIRD SEA",
+    "bs": 140,
+    "sub": "SEPT 2021",
+    "ground": "water",
+    "fx": [
+     "waves"
+    ],
+    "props": [
+     [
+      "island",
+      -3.6,
+      -3.6
+     ],
+     [
+      "island",
+      0.8,
+      -3.6
+     ],
+     [
+      "ship",
+      -2.0,
+      0.8
+     ]
+    ]
+   }
+  },
+  {
+   "t": "At its peak, nearly 2.8 million people played at the same time.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 2.78,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 124,
+    "sub": "PEAK PLAYERS AT ONCE",
+    "crowd": {
+     "n": 25,
+     "appear": 1.6
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It now has over 64 billion visits, and its official Discord has around 1.5 million members.",
+   "sc": {
+    "bg": "ocean",
+    "count": {
+     "to": 64,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 130,
+    "sub": "VISITS",
+    "ground": "sand",
+    "crowd": {
+     "n": 16,
+     "appear": 1.2
+    },
+    "ic": [
+     {
+      "n": "fruit",
+      "x": 170,
+      "y": 800,
+      "s": 130,
+      "a": "spin"
+     },
+     {
+      "n": "globe",
+      "x": 910,
+      "y": 800,
+      "s": 130,
+      "d": 0.3
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2025, it won Best Action at the Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "BEST ACTION",
+    "bs": 128,
+    "sub": "ROBLOX INNOVATION AWARDS 2025",
+    "props": [
+     [
+      "trophy",
+      -0.9,
+      -0.9
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.4
+      ],
+      "a": "cheer",
+      "c": "a",
+      "hold": "sword"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your favorite fruit? Comment below!",
+   "sc": {
+    "bg": "ocean",
+    "rays": "#e1f5fe",
+    "ground": "sand",
+    "big": "WHAT'S YOUR\nFAVORITE FRUIT?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "fruit",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "fruit",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6,
+      "arg": [
+       255,
+       112,
+       67
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

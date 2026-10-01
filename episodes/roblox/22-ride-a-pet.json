@@ -1,0 +1,365 @@
+{
+ "preset": "roblox",
+ "num": 22,
+ "slug": "ride-a-pet",
+ "file": "22 Ride A Pet (30s).mp4",
+ "target": 30,
+ "accent": "#69f0ae",
+ "bpm": 130,
+ "root": 64,
+ "lines": [
+  {
+   "t": "In this Roblox game, your pet isn't just cute. It's your ride.",
+   "sc": {
+    "bg": "day",
+    "rays": "#e8f5e9",
+    "big": "RIDE A PET",
+    "bs": 150,
+    "sub": "YOUR PET IS YOUR RIDE",
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -2.4,
+       2.4
+      ],
+      "to": [
+       2.2,
+       -1.6
+      ],
+      "c": "#ffb74d",
+      "a": "run",
+      "rider": "a",
+      "s": 0.95
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Ride A Pet came out in April 2026.",
+   "sc": {
+    "bg": "day",
+    "big": "APRIL 2026",
+    "sub": "RELEASE",
+    "props": [
+     [
+      "tree",
+      -3.9,
+      -3.9
+     ],
+     [
+      "tree",
+      1.9,
+      -3.9,
+      {
+       "c": "#43a047"
+      }
+     ]
+    ],
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       0.4,
+       0.8
+      ],
+      "c": "#f48fb1",
+      "a": "bob"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       -0.8
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 170,
+      "y": 880,
+      "s": 190,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You hunt for eggs scattered across the map, hatch them, and jump on your new pet.",
+   "sc": {
+    "bg": "mint",
+    "big": "HUNT. HATCH.\nRIDE.",
+    "bs": 118,
+    "by": 360,
+    "ground": "grass",
+    "ic": [
+     {
+      "n": "egg_blue",
+      "w": [
+       -2.5,
+       -2.0,
+       0.9
+      ],
+      "s": 110
+     },
+     {
+      "n": "egg_gold",
+      "w": [
+       2.6,
+       -2.6,
+       0.9
+      ],
+      "s": 110,
+      "d": 0.3
+     },
+     {
+      "n": "egg_purple",
+      "w": [
+       -2.4,
+       2.6,
+       0.9
+      ],
+      "s": 110,
+      "d": 0.6
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       2.5,
+       2.0
+      ],
+      "to": [
+       0.0,
+       0.0
+      ],
+      "a": "run",
+      "c": "b",
+      "travel": 2
+     }
+    ]
+   }
+  },
+  {
+   "t": "Rarer pets are faster, and faster pets can reach even rarer eggs.",
+   "sc": {
+    "bg": "sunset",
+    "big": "RARER = FASTER",
+    "bs": 112,
+    "bc": "#ffd54f",
+    "fx": [
+     "speed",
+     "sparkle"
+    ],
+    "pets": [
+     {
+      "k": "dragon",
+      "p": [
+       -2.6,
+       2.6
+      ],
+      "to": [
+       2.4,
+       -1.6
+      ],
+      "c": "#ffca28",
+      "a": "run",
+      "rider": "c",
+      "s": 0.85,
+      "rs": 0.4
+     }
+    ],
+    "ic": [
+     {
+      "n": "egg_gold",
+      "x": 880,
+      "y": 800,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Mutations make your pet even quicker.",
+   "sc": {
+    "bg": "space",
+    "big": "MUTATION!",
+    "bc": "#b388ff",
+    "ground": "purple",
+    "fx": [
+     "sparkle"
+    ],
+    "pets": [
+     {
+      "k": "fox",
+      "p": [
+       0.3,
+       0.3
+      ],
+      "c": "#7c4dff",
+      "a": "hop",
+      "s": 0.85
+     }
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 190,
+      "y": 760,
+      "s": 150,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 890,
+      "y": 760,
+      "s": 150,
+      "a": "pulse",
+      "d": 0.2
+     }
+    ]
+   }
+  },
+  {
+   "t": "By September 2026, it peaked at over a million players at once.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.4,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 120,
+    "sub": "PLAYERS AT ONCE (PEAK)",
+    "crowd": {
+     "n": 25,
+     "appear": 1.4
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Players have given it close to 300,000 likes, with a 97% rating.",
+   "sc": {
+    "bg": "party",
+    "count": {
+     "to": 97,
+     "fmt": "{:.0f}% LIKED"
+    },
+    "bs": 130,
+    "sub": "~300,000 LIKES",
+    "fx": [
+     "sparkle"
+    ],
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       -1.2,
+       1.2
+      ],
+      "c": "#f48fb1",
+      "a": "hop"
+     },
+     {
+      "k": "dog",
+      "p": [
+       1.2,
+       -1.2
+      ],
+      "c": "#ffb74d",
+      "a": "hop"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 180,
+      "y": 800,
+      "s": 140,
+      "a": "pulse"
+     },
+     {
+      "n": "heart",
+      "x": 900,
+      "y": 800,
+      "s": 140,
+      "a": "pulse",
+      "d": 0.3
+     }
+    ]
+   }
+  },
+  {
+   "t": "What pet would you ride first? Comment below!",
+   "sc": {
+    "bg": "party",
+    "rays": "#ffffff",
+    "ground": "grass",
+    "big": "WHAT PET WOULD\nYOU RIDE?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "star",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ],
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       0.4,
+       0.6
+      ],
+      "c": "#ffb74d",
+      "a": "bob",
+      "rider": "a"
+     }
+    ]
+   }
+  }
+ ]
+}

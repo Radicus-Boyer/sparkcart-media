@@ -1,0 +1,541 @@
+{
+ "preset": "roblox",
+ "num": 28,
+ "slug": "murder-mystery-2",
+ "file": "28 Murder Mystery 2 (60s).mp4",
+ "target": 60,
+ "accent": "#ff5252",
+ "bpm": 112,
+ "root": 57,
+ "mood": "spooky",
+ "lines": [
+  {
+   "t": "Murder Mystery 2 is older than a lot of the kids playing it.",
+   "sc": {
+    "bg": "dark",
+    "rays": "#5c6bc0",
+    "big": "MURDER\nMYSTERY 2",
+    "bs": 124,
+    "by": 350,
+    "ground": "wood",
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       1.6
+      ],
+      "a": "bob",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "bob",
+      "c": "k",
+      "face": "mean"
+     },
+     {
+      "p": [
+       1.8,
+       -1.2
+      ],
+      "a": "bob",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 540,
+      "y": 700,
+      "s": 130,
+      "a": "float",
+      "d": 0.4
+     }
+    ]
+   }
+  },
+  {
+   "t": "Nikilis released the first Murder Mystery in January 2014.",
+   "sc": {
+    "bg": "night",
+    "big": "JANUARY 2014",
+    "bs": 120,
+    "sub": "BY NIKILIS",
+    "ground": "wood",
+    "props": [
+     [
+      "house",
+      -1.5,
+      -1.5,
+      {
+       "c": "#6d4c41",
+       "r": "#37474f"
+      }
+     ]
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 180,
+      "y": 860,
+      "s": 170,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The rules are simple. One Murderer, one Sheriff, and everyone else is Innocent.",
+   "sc": {
+    "bg": "dark",
+    "big": "1 MURDERER",
+    "bs": 110,
+    "bc": "#ff5252",
+    "sub": "1 SHERIFF + INNOCENTS",
+    "ground": "wood",
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -1.8,
+       1.8
+      ],
+      "a": "bob",
+      "c": "k",
+      "face": "mean",
+      "hold": "knife"
+     },
+     {
+      "p": [
+       0.2,
+       0.2
+      ],
+      "a": "bob",
+      "c": "b",
+      "hold": "gun",
+      "hat": "#5d4037"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "bob",
+      "c": "c"
+     },
+     {
+      "p": [
+       2.6,
+       0.6
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The Murderer has to take everyone out without getting caught, and the Sheriff has to find them first.",
+   "sc": {
+    "bg": "dark",
+    "big": "FIND THEM\nFIRST",
+    "bs": 116,
+    "by": 360,
+    "ground": "wood",
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       2.6,
+       -2.2
+      ],
+      "to": [
+       0.8,
+       -0.4
+      ],
+      "a": "sneak",
+      "c": "k",
+      "face": "mean"
+     },
+     {
+      "p": [
+       -1.8,
+       2.4
+      ],
+      "a": "bob",
+      "c": "b",
+      "hold": "gun",
+      "hat": "#5d4037"
+     }
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 880,
+      "y": 760,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In the original, every player got a disguise named after the NATO alphabet, like Alpha, Bravo and Charlie.",
+   "sc": {
+    "bg": "night",
+    "big": "ALPHA\nBRAVO\nCHARLIE",
+    "bs": 104,
+    "by": 330,
+    "ground": "wood",
+    "av": [
+     {
+      "p": [
+       -1.6,
+       1.6
+      ],
+      "a": "bob",
+      "c": "w"
+     },
+     {
+      "p": [
+       0.2,
+       0.2
+      ],
+      "a": "bob",
+      "c": "w",
+      "d": 0.3
+     },
+     {
+      "p": [
+       1.8,
+       -1.4
+      ],
+      "a": "bob",
+      "c": "w",
+      "d": 0.6
+     }
+    ]
+   }
+  },
+  {
+   "t": "The Murderer could even see other players' footsteps.",
+   "sc": {
+    "bg": "dark",
+    "big": "FOOTSTEPS",
+    "bs": 140,
+    "bc": "#ff5252",
+    "ground": "wood",
+    "vig": true,
+    "ic": [
+     {
+      "n": "steps",
+      "w": [
+       -2.0,
+       2.0,
+       0.1
+      ],
+      "s": 120
+     },
+     {
+      "n": "steps",
+      "w": [
+       0.0,
+       0.0,
+       0.1
+      ],
+      "s": 120,
+      "d": 0.4
+     },
+     {
+      "n": "steps",
+      "w": [
+       2.0,
+       -2.0,
+       0.1
+      ],
+      "s": 120,
+      "d": 0.8
+     },
+     {
+      "n": "eye",
+      "x": 880,
+      "y": 720,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And if the Sheriff went down, an Innocent could grab the gun and become the hero.",
+   "sc": {
+    "bg": "sunset",
+    "rays": "#fff8e1",
+    "big": "HERO!",
+    "bs": 170,
+    "bc": "#ffd54f",
+    "ground": "wood",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.4
+      ],
+      "a": "cheer",
+      "c": "c",
+      "hold": "gun"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Players could even grab the knife right out of the Murderer's hand. That was probably a bug!",
+   "sc": {
+    "bg": "dark",
+    "big": "OOPS!",
+    "bs": 170,
+    "bc": "#ffd54f",
+    "sub": "PROBABLY A BUG",
+    "ground": "wood",
+    "av": [
+     {
+      "p": [
+       -1.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "c",
+      "hold": "knife"
+     },
+     {
+      "p": [
+       1.4,
+       -1.0
+      ],
+      "a": "bob",
+      "c": "k",
+      "face": "o",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 880,
+      "y": 760,
+      "s": 130,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "By December 2014, it was replaced by Murder Mystery 2.",
+   "sc": {
+    "bg": "night",
+    "big": "MM2",
+    "bs": 180,
+    "bc": "#ff5252",
+    "sub": "DECEMBER 2014",
+    "ground": "wood",
+    "fx": [
+     "sparkle"
+    ],
+    "props": [
+     [
+      "house",
+      -1.5,
+      -1.5,
+      {
+       "c": "#6d4c41",
+       "r": "#b71c1c"
+      }
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Some of the original maps were even rebuilt for the sequel.",
+   "sc": {
+    "bg": "night",
+    "big": "CLASSIC MAPS",
+    "bs": 124,
+    "sub": "REBUILT FOR MM2",
+    "ground": "wood",
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9,
+      {
+       "c": "#8d6e63",
+       "r": "#37474f"
+      }
+     ],
+     [
+      "house",
+      0.9,
+      -3.9,
+      {
+       "c": "#6d4c41",
+       "r": "#b71c1c"
+      }
+     ],
+     [
+      "tree",
+      -3.9,
+      1.4,
+      {
+       "c": "#2e7d32"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trading knives and guns turned into a whole economy, and the rarest item is Nik's Scythe, named after the creator.",
+   "sc": {
+    "bg": "space",
+    "big": "NIK'S SCYTHE",
+    "bs": 120,
+    "bc": "#4fc3f7",
+    "ground": "stone",
+    "props": [
+     [
+      "pedestal",
+      -0.8,
+      -0.8
+     ]
+    ],
+    "ic": [
+     {
+      "n": "scythe",
+      "w": [
+       0,
+       0,
+       3.4
+      ],
+      "s": 200,
+      "a": "float"
+     },
+     {
+      "n": "trade",
+      "x": 170,
+      "y": 820,
+      "s": 130
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Reportedly, only seven exist, and they were gifted, not sold.",
+   "sc": {
+    "bg": "space",
+    "big": "ONLY 7",
+    "bs": 170,
+    "bc": "#ffd54f",
+    "sub": "GIFTED, NEVER SOLD",
+    "ground": "stone",
+    "props": [
+     [
+      "pedestal",
+      -0.8,
+      -0.8
+     ]
+    ],
+    "ic": [
+     {
+      "n": "scythe",
+      "w": [
+       0,
+       0,
+       3.4
+      ],
+      "s": 200,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Murderer or Sheriff? Comment below!",
+   "sc": {
+    "bg": "dark",
+    "rays": "#5c6bc0",
+    "ground": "wood",
+    "big": "MURDERER OR\nSHERIFF?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "knife",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "gun",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ]
+   }
+  }
+ ]
+}

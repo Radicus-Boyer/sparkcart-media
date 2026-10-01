@@ -1,0 +1,472 @@
+{
+ "preset": "roblox",
+ "num": 30,
+ "slug": "adopt-me",
+ "file": "30 Adopt Me! (60s).mp4",
+ "target": 60,
+ "accent": "#f48fb1",
+ "bpm": 124,
+ "root": 65,
+ "lines": [
+  {
+   "t": "The biggest pet game on Roblox didn't even have pets at first.",
+   "sc": {
+    "bg": "party",
+    "rays": "#fce4ec",
+    "big": "ADOPT ME!",
+    "bs": 160,
+    "sub": "NO PETS AT FIRST?!",
+    "props": [
+     [
+      "house",
+      -1.5,
+      -3.9,
+      {
+       "c": "#f8bbd0",
+       "r": "#7b1fa2"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.4
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "paw",
+      "x": 880,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Adopt Me launched on July 13th, 2017, made by NewFissy and Bethink.",
+   "sc": {
+    "bg": "day",
+    "big": "JULY 13, 2017",
+    "bs": 116,
+    "sub": "NEWFISSY & BETHINK",
+    "ground": "grass",
+    "av": [
+     {
+      "p": [
+       -0.6,
+       1.4
+      ],
+      "a": "bob",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       -0.6
+      ],
+      "a": "bob",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 170,
+      "y": 860,
+      "s": 170,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Back then, it was a family roleplay game. You played as a parent, or as a baby waiting to be adopted.",
+   "sc": {
+    "bg": "day",
+    "big": "FAMILY RP",
+    "bs": 140,
+    "ground": "grass",
+    "props": [
+     [
+      "house",
+      -3.9,
+      -3.9,
+      {
+       "c": "#fff9c4",
+       "r": "#e91e63"
+      }
+     ],
+     [
+      "tree",
+      1.4,
+      -3.9
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       1.4
+      ],
+      "a": "bob",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       0.2
+      ],
+      "a": "jump",
+      "c": "c",
+      "s": 0.36
+     }
+    ],
+    "ic": [
+     {
+      "n": "bottle",
+      "x": 880,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then in the summer of 2019, pets arrived, and everything changed.",
+   "sc": {
+    "bg": "sunset",
+    "rays": "#fff8e1",
+    "big": "PETS!",
+    "bs": 180,
+    "sub": "SUMMER 2019",
+    "ground": "grass",
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -1.4,
+       1.4
+      ],
+      "c": "#ffb74d",
+      "a": "hop"
+     },
+     {
+      "k": "cat",
+      "p": [
+       1.4,
+       -1.0
+      ],
+      "c": "#90a4ae",
+      "a": "hop",
+      "d": 0.4
+     },
+     {
+      "k": "dragon",
+      "p": [
+       0.4,
+       0.4
+      ],
+      "c": "#4dd0e1",
+      "a": "bob",
+      "d": 0.8,
+      "s": 0.7
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "The game blew up, and at its peak, 1.92 million people played at once.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.92,
+     "fmt": "{:.2f} MILLION"
+    },
+    "bs": 120,
+    "sub": "PEAK PLAYERS AT ONCE",
+    "crowd": {
+     "n": 25,
+     "appear": 1.6
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In April 2020, the April Fools update added a pet rock, and 680,000 players jumped in.",
+   "sc": {
+    "bg": "day",
+    "big": "PET ROCK",
+    "bs": 150,
+    "sub": "APRIL FOOLS 2020",
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       2.4,
+       0.2
+      ],
+      "a": "cheer",
+      "c": "a",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "rock",
+      "w": [
+       -1.2,
+       -0.6,
+       0.8
+      ],
+      "s": 220,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "That same year, Adopt Me won three Bloxy Awards.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "big": "3 BLOXYS",
+    "bs": 150,
+    "sub": "BLOXY AWARDS 2020",
+    "props": [
+     [
+      "trophy",
+      -3.0,
+      -0.6
+     ],
+     [
+      "trophy",
+      -0.9,
+      -0.9
+     ],
+     [
+      "trophy",
+      -0.6,
+      -3.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trading got so huge that trade licenses were added in November 2020 to help fight scams.",
+   "sc": {
+    "bg": "mint",
+    "big": "TRADE LICENSE",
+    "bs": 116,
+    "sub": "NOVEMBER 2020",
+    "ground": "stone",
+    "av": [
+     {
+      "p": [
+       -1.4,
+       1.4
+      ],
+      "a": "bob",
+      "c": "a",
+      "f": "x"
+     },
+     {
+      "p": [
+       1.4,
+       -1.4
+      ],
+      "a": "bob",
+      "c": "g",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "license",
+      "x": 540,
+      "y": 720,
+      "s": 180,
+      "a": "pulse"
+     },
+     {
+      "n": "trade",
+      "x": 880,
+      "y": 900,
+      "s": 130
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2021, the creators launched their own studio, Uplift Games.",
+   "sc": {
+    "bg": "party",
+    "big": "UPLIFT GAMES",
+    "bs": 130,
+    "sub": "2021",
+    "ground": "stone",
+    "props": [
+     [
+      "tower",
+      -1.0,
+      -1.0,
+      {
+       "c": "#f06292"
+      }
+     ]
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 180,
+      "y": 820,
+      "s": 160
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Uplift Games has grown to around 40 people.",
+   "sc": {
+    "bg": "party",
+    "big": "~40 PEOPLE",
+    "bs": 140,
+    "sub": "ON THE TEAM",
+    "ground": "stone",
+    "crowd": {
+     "n": 16,
+     "appear": 1.0,
+     "s": 0.34
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Today, Adopt Me has passed 40 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "rays": "#ffffff",
+    "count": {
+     "to": 40,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 130,
+    "sub": "VISITS",
+    "crowd": {
+     "n": 16,
+     "appear": 1.2,
+     "area": [
+      -3.4,
+      0.4,
+      3.4,
+      3.4
+     ]
+    },
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -1.6,
+       -1.6
+      ],
+      "c": "#ffb74d",
+      "a": "hop"
+     },
+     {
+      "k": "cat",
+      "p": [
+       0.8,
+       -2.2
+      ],
+      "c": "#f48fb1",
+      "a": "hop"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What was your first legendary pet? Comment below!",
+   "sc": {
+    "bg": "party",
+    "rays": "#fce4ec",
+    "ground": "grass",
+    "big": "YOUR FIRST\nLEGENDARY PET?",
+    "bs": 104,
+    "by": 380,
+    "sub": "COMMENT BELOW!",
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       2.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       2.0,
+       -1.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 760,
+      "s": 130,
+      "d": 0.4
+     },
+     {
+      "n": "star",
+      "x": 910,
+      "y": 760,
+      "s": 130,
+      "d": 0.6
+     }
+    ],
+    "pets": [
+     {
+      "k": "dragon",
+      "p": [
+       0.4,
+       0.4
+      ],
+      "c": "#4dd0e1",
+      "a": "bob",
+      "s": 0.7
+     }
+    ]
+   }
+  }
+ ]
+}
