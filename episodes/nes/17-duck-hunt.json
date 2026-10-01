@@ -1,0 +1,92 @@
+{
+ "preset": "nes",
+ "num": 17,
+ "name": "Duck Hunt",
+ "slug": "duckhunt",
+ "theme": "grass",
+ "title_lines": [
+  "DUCK",
+  "HUNT"
+ ],
+ "year_tag": "NES 1985",
+ "music": {
+  "bpm": 140,
+  "tr": 4,
+  "seed": 17
+ },
+ "lines": [
+  {
+   "say": "The NES Zapper doesn't actually shoot anything. Here's how it really worked.",
+   "scene": {
+    "kind": "title",
+    "prop": "ducks"
+   }
+  },
+  {
+   "say": "Duck Hunt launched with the NES in America in 1985.",
+   "scene": {
+    "bg": "space",
+    "head": "1985",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "DUCK HUNT",
+     "col": "lblu"
+    },
+    "subs": [
+     "LAUNCH GAME"
+    ]
+   }
+  },
+  {
+   "say": "When you pull the trigger, the screen flashes black, then a white box appears where the duck is. The gun just looks for that light.",
+   "scene": {
+    "bg": "grass",
+    "head": "THE TRICK",
+    "prop": "zapper"
+   }
+  },
+  {
+   "say": "That's why it only works on old tube TVs, not modern flat screens.",
+   "scene": {
+    "bg": "dark",
+    "head": "TUBE TVS",
+    "prop": "crt"
+   }
+  },
+  {
+   "say": "And that laughing dog? In the arcade version, Vs. Duck Hunt, you could actually shoot him.",
+   "scene": {
+    "bg": "grass",
+    "head": "THE DOG",
+    "headcol": "red",
+    "prop": "laugh",
+    "args": {
+     "target": true
+    }
+   },
+   "cap": "And that laughing dog? In the arcade version, VS. Duck Hunt, you could actually shoot him."
+  },
+  {
+   "say": "Thanks to the bundle with Super Mario Bros., it sold over 28 million copies.",
+   "scene": {
+    "bg": "grass",
+    "head": "SALES",
+    "prop": "sales",
+    "args": {
+     "n": 28,
+     "unit": "MILLION+"
+    }
+   }
+  },
+  {
+   "say": "Did you ever try to shoot the dog? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU TRY TO SHOOT THE DOG?",
+    "prop": "laugh",
+    "bg": "grass"
+   }
+  }
+ ]
+}

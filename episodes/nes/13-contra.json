@@ -1,0 +1,86 @@
+{
+ "preset": "nes",
+ "num": 13,
+ "name": "Contra",
+ "slug": "contra",
+ "theme": "jungle",
+ "title_lines": [
+  "CONTRA"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 170,
+  "tr": -3,
+  "seed": 13
+ },
+ "lines": [
+  {
+   "say": "Up, up, down, down, left, right, left, right, B, A, start. This code made Contra famous.",
+   "scene": {
+    "kind": "title",
+    "prop": "code"
+   }
+  },
+  {
+   "say": "Konami released Contra in arcades in 1987, and on the NES in 1988.",
+   "scene": {
+    "bg": "space",
+    "head": "1988",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "CONTRA",
+     "col": "red"
+    },
+    "subs": [
+     "KONAMI"
+    ]
+   }
+  },
+  {
+   "say": "Enter the code on the title screen, and you start with 30 lives instead of 3.",
+   "scene": {
+    "bg": "dark",
+    "head": "KONAMI CODE",
+    "headsc": 2,
+    "prop": "lives"
+   }
+  },
+  {
+   "say": "The code first showed up in Gradius, but Contra made it legendary.",
+   "scene": {
+    "bg": "lab",
+    "head": "BORN IN GRADIUS",
+    "headsc": 2,
+    "prop": "code"
+   }
+  },
+  {
+   "say": "The heroes, Bill and Lance, were inspired by 80s action movies like Predator and Rambo.",
+   "scene": {
+    "bg": "jungle",
+    "head": "BILL + LANCE",
+    "headsc": 2,
+    "prop": "commandos"
+   }
+  },
+  {
+   "say": "In Europe, it became Probotector, and every soldier was turned into a robot to get past strict rules in Germany.",
+   "scene": {
+    "bg": "dark",
+    "head": "EUROPE",
+    "headcol": "lblu",
+    "prop": "robotswap"
+   }
+  },
+  {
+   "say": "Could you beat it without the code? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "COULD YOU BEAT IT WITHOUT THE CODE?",
+    "prop": "commandos",
+    "bg": "jungle"
+   }
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "preset": "nes",
+ "num": 7,
+ "name": "Super Mario Bros 3",
+ "slug": "smb3",
+ "theme": "stage",
+ "title_lines": [
+  "SUPER MARIO",
+  "BROS. 3"
+ ],
+ "year_tag": "NES 1990",
+ "music": {
+  "bpm": 146,
+  "tr": -3,
+  "seed": 6
+ },
+ "lines": [
+  {
+   "say": "Super Mario Bros. 3 is secretly a stage play.",
+   "scene": {
+    "kind": "title",
+    "prop": "curtain"
+   }
+  },
+  {
+   "say": "It hit Japan in 1988, but America had to wait until 1990.",
+   "scene": {
+    "bg": "space",
+    "head": "1990",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "MARIO BROS 3",
+     "col": "yel"
+    },
+    "subs": [
+     "JAPAN GOT IT IN 1988"
+    ]
+   }
+  },
+  {
+   "say": "The curtain rises on the title screen, objects hang from above, and you walk off stage at the end of a level.",
+   "scene": {
+    "bg": "stage",
+    "prop": "curtain",
+    "subs": [
+     "IT'S ALL A SHOW"
+    ]
+   }
+  },
+  {
+   "say": "Americans got a sneak peek in the 1989 movie, The Wizard.",
+   "scene": {
+    "bg": "dark",
+    "head": "SNEAK PEEK",
+    "prop": "film"
+   }
+  },
+  {
+   "say": "It gave us the Tanooki suit, and an early idea made Mario a centaur.",
+   "scene": {
+    "bg": "stage",
+    "head": "EARLY IDEA",
+    "prop": "sketch"
+   }
+  },
+  {
+   "say": "It sold over 17 million copies.",
+   "scene": {
+    "bg": "sky",
+    "head": "SALES",
+    "prop": "sales",
+    "args": {
+     "n": 17,
+     "unit": "MILLION+"
+    }
+   }
+  },
+  {
+   "say": "Best Mario ever? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "BEST MARIO EVER?",
+    "prop": "curtain",
+    "bg": "stage"
+   }
+  }
+ ]
+}

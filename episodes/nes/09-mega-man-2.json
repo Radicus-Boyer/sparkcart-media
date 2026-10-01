@@ -1,0 +1,79 @@
+{
+ "preset": "nes",
+ "num": 9,
+ "name": "Mega Man 2",
+ "slug": "mm2",
+ "theme": "lab",
+ "title_lines": [
+  "MEGA MAN 2"
+ ],
+ "year_tag": "NES 1989",
+ "music": {
+  "bpm": 168,
+  "tr": 2,
+  "seed": 8
+ },
+ "lines": [
+  {
+   "say": "Mega Man 2 was made in the team's spare time.",
+   "scene": {
+    "kind": "title",
+    "prop": "clock"
+   }
+  },
+  {
+   "say": "They built it alongside other projects, sometimes working 20 hour days, in just a few months.",
+   "scene": {
+    "bg": "lab",
+    "head": "SIDE PROJECT",
+    "headsc": 2,
+    "prop": "clock"
+   }
+  },
+  {
+   "say": "Fans mailed in 8,370 robot master designs, and eight made it into the game.",
+   "scene": {
+    "bg": "dark",
+    "head": "FAN DESIGNS",
+    "headsc": 2,
+    "prop": "mail"
+   }
+  },
+  {
+   "say": "The American version even added an easier, Normal mode.",
+   "scene": {
+    "bg": "lab",
+    "head": "EASY MODE",
+    "prop": "difficulty"
+   }
+  },
+  {
+   "say": "It sold over 1.5 million copies, and stayed the best-selling Mega Man for 30 years.",
+   "scene": {
+    "bg": "space",
+    "head": "SALES",
+    "prop": "sales",
+    "args": {
+     "n": 1.5,
+     "unit": "MILLION+"
+    },
+    "subs": [
+     "#1 FOR 30 YEARS"
+    ]
+   }
+  },
+  {
+   "say": "Who's the best robot master? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "BEST ROBOT MASTER?",
+    "prop": "sprite",
+    "args": {
+     "who": "robot",
+     "sc": 4
+    },
+    "bg": "lab"
+   }
+  }
+ ]
+}

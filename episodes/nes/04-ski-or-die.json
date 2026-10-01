@@ -1,0 +1,105 @@
+{
+ "preset": "nes",
+ "num": 4,
+ "name": "Ski or Die",
+ "slug": "skiordie",
+ "theme": "snow",
+ "title_lines": [
+  "SKI",
+  "OR DIE!"
+ ],
+ "year_tag": "NES 1990",
+ "music": {
+  "bpm": 144,
+  "tr": 3,
+  "seed": 3
+ },
+ "lines": [
+  {
+   "say": "After Skate or Die, E.A. took the whole gang to the snow.",
+   "scene": {
+    "kind": "title",
+    "prop": "skier"
+   },
+   "cap": "After Skate or Die, EA took the whole gang to the snow."
+  },
+  {
+   "say": "Ski or Die came out in 1990, and Konami ported it to the NES under Ultra Games, again.",
+   "scene": {
+    "bg": "space",
+    "head": "1990",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "SKI OR DIE",
+     "col": "lblu"
+    },
+    "subs": [
+     "KONAMI + ULTRA",
+     "AGAIN!"
+    ]
+   }
+  },
+  {
+   "say": "Five events: snowboard halfpipe, inner tube racing, aerial skiing, downhill, and snowball fights.",
+   "scene": {
+    "bg": "snow",
+    "head": "5 EVENTS",
+    "headcol": "red",
+    "prop": "list",
+    "args": {
+     "items": [
+      "SNOWBOARD HALFPIPE",
+      "INNER TUBE RACE",
+      "AERIAL SKIING",
+      "DOWNHILL",
+      "SNOWBALL FIGHT"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Up to six friends could take turns in most of the events.",
+   "scene": {
+    "bg": "snow",
+    "head": "6 PLAYERS",
+    "prop": "players"
+   }
+  },
+  {
+   "say": "And shop owner Rodney was modeled on comedian Rodney Dangerfield.",
+   "scene": {
+    "bg": "snow",
+    "head": "FUN FACT",
+    "headcol": "lgrn",
+    "prop": "shop",
+    "args": {
+     "sign": "SKI SHOP"
+    },
+    "subs": [
+     "RODNEY DANGERFIELD"
+    ]
+   }
+  },
+  {
+   "say": "The music? Rob Hubbard, the same composer behind Skate or Die.",
+   "scene": {
+    "bg": "lab",
+    "head": "THE MUSIC",
+    "prop": "notes",
+    "subs": [
+     "ROB HUBBARD"
+    ]
+   }
+  },
+  {
+   "say": "Skate or ski? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "SKATE OR SKI?",
+    "prop": "snowballs",
+    "bg": "snow"
+   }
+  }
+ ]
+}

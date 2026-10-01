@@ -1,0 +1,90 @@
+{
+ "preset": "nes",
+ "num": 10,
+ "name": "Arkanoid",
+ "slug": "arkanoid",
+ "theme": "space",
+ "title_lines": [
+  "ARKANOID"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 140,
+  "tr": -5,
+  "seed": 9
+ },
+ "lines": [
+  {
+   "say": "Arkanoid took the simple brick-breaker, and turned it into a space war.",
+   "scene": {
+    "kind": "title",
+    "prop": "bricks"
+   }
+  },
+  {
+   "say": "Taito put it in arcades in 1986, building on Atari's classic, Breakout.",
+   "scene": {
+    "bg": "arcade",
+    "head": "1986",
+    "headsc": 4,
+    "prop": "arcade",
+    "subs": [
+     "TAITO"
+    ]
+   }
+  },
+  {
+   "say": "You pilot the Vaus, a paddle-shaped ship that escaped the mothership Arkanoid.",
+   "scene": {
+    "bg": "space",
+    "head": "THE VAUS",
+    "headcol": "cyn",
+    "prop": "ship"
+   }
+  },
+  {
+   "say": "Break through every level to face a mysterious enemy called Doh.",
+   "scene": {
+    "bg": "space",
+    "head": "FINAL BOSS",
+    "headcol": "red",
+    "prop": "doh",
+    "subs": [
+     "DOH"
+    ]
+   }
+  },
+  {
+   "say": "Its futuristic look was inspired by the movie Tron.",
+   "scene": {
+    "bg": "grid",
+    "head": "INSPIRED BY",
+    "headcol": "cyn",
+    "subs": [
+     "TRON"
+    ]
+   }
+  },
+  {
+   "say": "And the NES version came with its own knob controller, also called the Vaus.",
+   "scene": {
+    "bg": "dark",
+    "head": "SPECIAL",
+    "headcol": "yel",
+    "prop": "knob",
+    "subs": [
+     "VAUS CONTROLLER"
+    ]
+   }
+  },
+  {
+   "say": "Did you have the knob controller? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU HAVE THE KNOB?",
+    "prop": "bricks",
+    "bg": "space"
+   }
+  }
+ ]
+}

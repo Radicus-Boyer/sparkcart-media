@@ -1,0 +1,110 @@
+{
+ "preset": "nes",
+ "num": 20,
+ "name": "Castlevania",
+ "slug": "castlevania",
+ "theme": "castle",
+ "title_lines": [
+  "CASTLE",
+  "VANIA"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 150,
+  "tr": -5,
+  "seed": 20
+ },
+ "lines": [
+  {
+   "say": "Castlevania is basically a classic horror movie you can play.",
+   "scene": {
+    "kind": "title",
+    "prop": "none"
+   }
+  },
+  {
+   "say": "It came out in Japan in 1986 as Akuma-jo Dracula, and in America in 1987.",
+   "scene": {
+    "bg": "space",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "KONAMI",
+     "col": "pur"
+    },
+    "subs": [
+     "AKUMAJO DRACULA"
+    ]
+   },
+   "cap": "It came out in Japan in 1986 as Akumajo Dracula, and in America in 1987."
+  },
+  {
+   "say": "Konami of America changed the name, worried the original sounded too religious.",
+   "scene": {
+    "bg": "dark",
+    "head": "NEW NAME",
+    "prop": "nameswap",
+    "args": {
+     "frm": "DRACULA",
+     "to": "CASTLEVANIA",
+     "frmcol": "red",
+     "tocol": "pur",
+     "at": 1.8,
+     "label": "USA TITLE"
+    }
+   }
+  },
+  {
+   "say": "You play Simon Belmont, a vampire hunter with a whip, storming Dracula's castle.",
+   "scene": {
+    "bg": "castle",
+    "head": "SIMON BELMONT",
+    "headsc": 2,
+    "prop": "whip"
+   }
+  },
+  {
+   "say": "The bosses are movie monsters: Frankenstein's monster, a mummy, Medusa, and the Grim Reaper.",
+   "scene": {
+    "bg": "castle",
+    "head": "BOSSES",
+    "headcol": "red",
+    "prop": "monsters",
+    "args": {
+     "items": [
+      "FRANKENSTEIN",
+      "THE MUMMY",
+      "MEDUSA",
+      "GRIM REAPER"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Even the end credits are jokes, with fake names like Christopher Bee and Belo Lugosi.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE CREDITS",
+    "headsc": 2,
+    "prop": "credits",
+    "args": {
+     "names": [
+      "CHRISTOPHER BEE",
+      "BELO LUGOSI",
+      "THE END?"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Hardest NES game ever? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "HARDEST NES GAME EVER?",
+    "prop": "whip",
+    "bg": "castle"
+   }
+  }
+ ]
+}

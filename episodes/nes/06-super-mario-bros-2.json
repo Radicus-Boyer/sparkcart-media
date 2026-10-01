@@ -1,0 +1,98 @@
+{
+ "preset": "nes",
+ "num": 6,
+ "name": "Super Mario Bros 2",
+ "slug": "smb2",
+ "theme": "sky",
+ "title_lines": [
+  "SUPER MARIO",
+  "BROS. 2"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 138,
+  "tr": 5,
+  "seed": 5
+ },
+ "lines": [
+  {
+   "say": "The Super Mario Bros. 2 you played in America started out as a totally different game.",
+   "scene": {
+    "kind": "title",
+    "prop": "dream"
+   }
+  },
+  {
+   "say": "Japan's real sequel was so hard, Nintendo of America passed on it.",
+   "scene": {
+    "bg": "dark",
+    "head": "TOO HARD!",
+    "headcol": "red",
+    "prop": "none",
+    "subs": [
+     "JAPAN'S SEQUEL",
+     "USA PASSED"
+    ]
+   }
+  },
+  {
+   "say": "So they took a 1987 Japanese game called Doki Doki Panic, and swapped in Mario, Luigi, Toad, and the Princess.",
+   "scene": {
+    "bg": "space",
+    "head": "THE SWAP",
+    "prop": "swap",
+    "args": {
+     "frm": "DOKI DOKI PANIC",
+     "to": "MARIO BROS 2",
+     "frmcol": "pnk",
+     "tocol": "red",
+     "at": 2.4
+    }
+   }
+  },
+  {
+   "say": "It was the first time Mario and Luigi had different heights.",
+   "scene": {
+    "bg": "dark",
+    "head": "FIRST TIME",
+    "prop": "heights",
+    "subs": [
+     "DIFFERENT HEIGHTS"
+    ]
+   }
+  },
+  {
+   "say": "It gave us Shy Guys, Birdo, and Pokey, and the whole adventure turns out to be a dream.",
+   "scene": {
+    "bg": "sky",
+    "head": "IT WAS A DREAM",
+    "headsc": 2,
+    "prop": "dream",
+    "subs": [
+     "SHY GUY, BIRDO, POKEY"
+    ]
+   }
+  },
+  {
+   "say": "It sold over 7 million copies.",
+   "scene": {
+    "bg": "sky",
+    "head": "SALES",
+    "prop": "sales",
+    "args": {
+     "n": 7.4,
+     "unit": "MILLION"
+    }
+   }
+  },
+  {
+   "say": "Does it count as a real Mario game? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "IS IT A REAL MARIO GAME?",
+    "prop": "none",
+    "bg": "sky"
+   }
+  }
+ ]
+}

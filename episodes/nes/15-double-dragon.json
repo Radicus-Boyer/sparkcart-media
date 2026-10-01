@@ -1,0 +1,89 @@
+{
+ "preset": "nes",
+ "num": 15,
+ "name": "Double Dragon",
+ "slug": "doubledragon",
+ "theme": "city",
+ "title_lines": [
+  "DOUBLE",
+  "DRAGON"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 150,
+  "tr": -2,
+  "seed": 15
+ },
+ "lines": [
+  {
+   "say": "In the NES version of Double Dragon, the final boss is your own brother.",
+   "scene": {
+    "kind": "title",
+    "prop": "brothers"
+   }
+  },
+  {
+   "say": "Technos released it in arcades in 1987, led by Yoshihisa Kishimoto.",
+   "scene": {
+    "bg": "arcade",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "arcade",
+    "subs": [
+     "TECHNOS JAPAN"
+    ]
+   }
+  },
+  {
+   "say": "The name: Double for two players, and Dragon for Bruce Lee's Enter the Dragon.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE NAME",
+    "subs": [
+     "DOUBLE = 2 PLAYERS",
+     "DRAGON = BRUCE LEE"
+    ]
+   }
+  },
+  {
+   "say": "Brothers Billy and Jimmy Lee fight the Black Warriors gang to rescue Marian.",
+   "scene": {
+    "bg": "city",
+    "head": "THE STORY",
+    "prop": "brawl"
+   }
+  },
+  {
+   "say": "But on the NES, there's no co-op story. Billy fights alone, and Jimmy is secretly the gang leader.",
+   "scene": {
+    "bg": "dark",
+    "head": "PLOT TWIST",
+    "headcol": "red",
+    "prop": "brothers",
+    "args": {
+     "vs": true
+    }
+   }
+  },
+  {
+   "say": "The arcade game was America's top-earning arcade game in 1988 and 1989.",
+   "scene": {
+    "bg": "arcade",
+    "head": "#1 ARCADE",
+    "prop": "arcade",
+    "subs": [
+     "USA 1988 + 1989"
+    ]
+   }
+  },
+  {
+   "say": "Co-op or versus? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "CO-OP OR VERSUS?",
+    "prop": "brothers",
+    "bg": "city"
+   }
+  }
+ ]
+}

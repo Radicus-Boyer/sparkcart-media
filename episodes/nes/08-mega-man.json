@@ -1,0 +1,84 @@
+{
+ "preset": "nes",
+ "num": 8,
+ "name": "Mega Man",
+ "slug": "mm1",
+ "theme": "lab",
+ "title_lines": [
+  "MEGA MAN"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 160,
+  "tr": 0,
+  "seed": 7
+ },
+ "lines": [
+  {
+   "say": "Mega Man's American box art showed a guy with a pistol, who isn't even in the game.",
+   "scene": {
+    "kind": "title",
+    "prop": "boxart"
+   }
+  },
+  {
+   "say": "In Japan he's called Rockman, and he launched in December 1987.",
+   "scene": {
+    "bg": "space",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "robot",
+    "args": {
+     "rename": true
+    },
+    "subs": [
+     "CAPCOM"
+    ]
+   }
+  },
+  {
+   "say": "His sister is named Roll. Rock and Roll, get it?",
+   "scene": {
+    "bg": "lab",
+    "head": "GET IT?",
+    "prop": "rocknroll"
+   }
+  },
+  {
+   "say": "Capcom's U.S. team renamed him Mega Man, and the rushed cover art was blamed for weak sales.",
+   "scene": {
+    "bg": "dark",
+    "head": "BAD COVER",
+    "headcol": "red",
+    "prop": "boxart"
+   },
+   "cap": "Capcom's US team renamed him Mega Man, and the rushed cover art was blamed for weak sales."
+  },
+  {
+   "say": "But word of mouth made it a sleeper hit, and started a huge franchise.",
+   "scene": {
+    "bg": "lab",
+    "head": "SLEEPER HIT",
+    "headcol": "lgrn",
+    "prop": "sprite",
+    "args": {
+     "who": "robot",
+     "sc": 6
+    }
+   }
+  },
+  {
+   "say": "Worst box art ever? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "WORST BOX ART EVER?",
+    "prop": "sprite",
+    "args": {
+     "who": "robot",
+     "sc": 4
+    },
+    "bg": "lab"
+   }
+  }
+ ]
+}

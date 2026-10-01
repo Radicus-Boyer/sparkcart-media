@@ -1,0 +1,85 @@
+{
+ "preset": "nes",
+ "num": 16,
+ "name": "Battletoads",
+ "slug": "battletoads",
+ "theme": "space",
+ "title_lines": [
+  "BATTLE",
+  "TOADS"
+ ],
+ "year_tag": "NES 1991",
+ "music": {
+  "bpm": 172,
+  "tr": 0,
+  "seed": 16
+ },
+ "lines": [
+  {
+   "say": "Battletoads was made brutally hard on purpose, so kids would buy it instead of renting it.",
+   "scene": {
+    "kind": "title",
+    "prop": "toads"
+   }
+  },
+  {
+   "say": "Rare created it in 1991, as their answer to the Teenage Mutant Ninja Turtles craze.",
+   "scene": {
+    "bg": "space",
+    "head": "1991",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "BATTLE TOADS",
+     "col": "grn"
+    },
+    "subs": [
+     "RARE"
+    ]
+   }
+  },
+  {
+   "say": "Rash and Zitz set out to rescue Pimple and Princess Angelica from the Dark Queen.",
+   "scene": {
+    "bg": "planet",
+    "head": "THE TOADS",
+    "prop": "toads"
+   }
+  },
+  {
+   "say": "The Turbo Tunnel is one of the hardest levels on the NES.",
+   "scene": {
+    "bg": "dark",
+    "head": "TURBO TUNNEL",
+    "headcol": "red",
+    "headsc": 2,
+    "prop": "tunnel"
+   }
+  },
+  {
+   "say": "In two player mode, you can hit your partner, and if one player runs out of lives, you both restart.",
+   "scene": {
+    "bg": "planet",
+    "head": "2 PLAYERS",
+    "prop": "brawl"
+   }
+  },
+  {
+   "say": "It won seven Nintendo Power Awards, and even got a cartoon pilot in 1992.",
+   "scene": {
+    "bg": "lab",
+    "head": "AWARDS",
+    "prop": "trophy"
+   }
+  },
+  {
+   "say": "Did you ever get past the Turbo Tunnel? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU BEAT THE TURBO TUNNEL?",
+    "prop": "tunnel",
+    "bg": "dark"
+   }
+  }
+ ]
+}

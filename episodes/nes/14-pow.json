@@ -1,0 +1,93 @@
+{
+ "preset": "nes",
+ "num": 14,
+ "name": "POW",
+ "slug": "pow",
+ "theme": "prison",
+ "title_lines": [
+  "P.O.W."
+ ],
+ "year_tag": "NES 1989",
+ "music": {
+  "bpm": 158,
+  "tr": 1,
+  "seed": 14
+ },
+ "lines": [
+  {
+   "say": "P.O.W. starts with you breaking out of a prison camp with your bare hands.",
+   "scene": {
+    "kind": "title",
+    "prop": "prisonbreak"
+   },
+   "cap": "POW starts with you breaking out of a prison camp with your bare hands."
+  },
+  {
+   "say": "SNK made it for arcades in 1988, and it hit the NES in 1989.",
+   "scene": {
+    "bg": "space",
+    "head": "1988",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "P.O.W.",
+     "col": "grn"
+    },
+    "subs": [
+     "SNK"
+    ]
+   }
+  },
+  {
+   "say": "You play as Snake, breaking out of your cell and fighting all the way to the enemy's main base.",
+   "scene": {
+    "bg": "prison",
+    "head": "THE ESCAPE",
+    "prop": "prisonbreak"
+   }
+  },
+  {
+   "say": "Four stages: the prison camp, a warehouse, the jungle, and the enemy base.",
+   "scene": {
+    "bg": "jungle",
+    "head": "4 STAGES",
+    "headcol": "red",
+    "prop": "list",
+    "args": {
+     "items": [
+      "POW CAMP",
+      "WAREHOUSE",
+      "JUNGLE",
+      "ENEMY BASE"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Grab knives and machine guns off enemies, and take them down with jump kicks.",
+   "scene": {
+    "bg": "prison",
+    "head": "FIGHT BACK",
+    "prop": "brawl"
+   }
+  },
+  {
+   "say": "The arcade let two players team up, but the NES version was single player only.",
+   "scene": {
+    "bg": "arcade",
+    "head": "ARCADE VS NES",
+    "headsc": 2,
+    "prop": "players"
+   }
+  },
+  {
+   "say": "Did you ever escape? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU EVER ESCAPE?",
+    "prop": "brawl",
+    "bg": "prison"
+   }
+  }
+ ]
+}

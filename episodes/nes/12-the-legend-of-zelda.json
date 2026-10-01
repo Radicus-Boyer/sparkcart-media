@@ -1,0 +1,88 @@
+{
+ "preset": "nes",
+ "num": 12,
+ "name": "The Legend of Zelda",
+ "slug": "zelda",
+ "theme": "grass",
+ "title_lines": [
+  "THE LEGEND",
+  "OF ZELDA"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 132,
+  "tr": 2,
+  "seed": 12
+ },
+ "lines": [
+  {
+   "say": "The Legend of Zelda was inspired by a kid exploring the countryside.",
+   "scene": {
+    "kind": "title",
+    "prop": "map"
+   }
+  },
+  {
+   "say": "It came out in Japan in 1986, and in America in 1987, in a shiny gold cartridge.",
+   "scene": {
+    "bg": "space",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "goldcart",
+    "args": {
+     "label": "ZELDA"
+    },
+    "subs": [
+     "THE GOLD CARTRIDGE"
+    ]
+   }
+  },
+  {
+   "say": "Shigeru Miyamoto based it on his childhood, hiking the woods and stumbling onto a hidden lake.",
+   "scene": {
+    "bg": "dark",
+    "head": "INSPIRATION",
+    "headsc": 2,
+    "prop": "map"
+   }
+  },
+  {
+   "say": "It was one of the first games with a battery inside the cartridge, so you could save your adventure.",
+   "scene": {
+    "bg": "lab",
+    "head": "BATTERY SAVE",
+    "headsc": 2,
+    "prop": "battery"
+   }
+  },
+  {
+   "say": "Beat it, and you unlock a harder Second Quest, with new dungeons.",
+   "scene": {
+    "bg": "dark",
+    "head": "SECOND QUEST",
+    "headsc": 2,
+    "prop": "dungeon"
+   }
+  },
+  {
+   "say": "And Princess Zelda is named after Zelda Fitzgerald, the wife of author F. Scott Fitzgerald.",
+   "scene": {
+    "bg": "grass",
+    "head": "THE NAME",
+    "headcol": "yel",
+    "subs": [
+     "ZELDA FITZGERALD"
+    ]
+   }
+  },
+  {
+   "say": "Did you beat the Second Quest? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU BEAT THE SECOND QUEST?",
+    "prop": "dungeon",
+    "bg": "dark"
+   }
+  }
+ ]
+}

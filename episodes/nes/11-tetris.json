@@ -1,0 +1,94 @@
+{
+ "preset": "nes",
+ "num": 11,
+ "name": "Tetris",
+ "slug": "tetris",
+ "theme": "moscow",
+ "title_lines": [
+  "TETRIS"
+ ],
+ "year_tag": "GAME BOY 1989",
+ "music": {
+  "bpm": 144,
+  "tr": -1,
+  "seed": 11
+ },
+ "lines": [
+  {
+   "say": "Almost 40 years after Tetris was made, a 13-year-old finally beat it.",
+   "scene": {
+    "kind": "title",
+    "prop": "blocks"
+   }
+  },
+  {
+   "say": "Tetris was created in 1984 by Alexey Pajitnov, a software engineer in Moscow.",
+   "scene": {
+    "bg": "moscow",
+    "head": "1984",
+    "headsc": 4,
+    "prop": "computer",
+    "args": {
+     "text": "TETRIS"
+    },
+    "subs": [
+     "ALEXEY PAJITNOV",
+     "MOSCOW"
+    ]
+   }
+  },
+  {
+   "say": "The name mixes tetra, meaning four, with his favorite sport, tennis.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE NAME",
+    "prop": "tennis"
+   }
+  },
+  {
+   "say": "In 1989, it came packed in with the Game Boy, and that version sold 35 million copies.",
+   "scene": {
+    "bg": "lab",
+    "head": "35 MILLION",
+    "headsc": 3,
+    "prop": "handheld",
+    "subs": [
+     "GAME BOY PACK-IN"
+    ]
+   }
+  },
+  {
+   "say": "That same year, Nintendo and Tengen fought in court over the NES rights. Nintendo won, and Tengen's version was pulled.",
+   "scene": {
+    "bg": "dark",
+    "head": "COURT FIGHT",
+    "headcol": "red",
+    "prop": "gavel"
+   }
+  },
+  {
+   "say": "Then in 2023, 13-year-old Willis Gibson played NES Tetris until the game crashed, the first person ever to do it.",
+   "scene": {
+    "bg": "dark",
+    "head": "GAME BEATEN",
+    "headcol": "lgrn",
+    "prop": "blocks",
+    "args": {
+     "crash": true
+    },
+    "subs": [
+     "WILLIS GIBSON, AGE 13"
+    ]
+   }
+  },
+  {
+   "say": "Game Boy or NES Tetris? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "GAME BOY OR NES TETRIS?",
+    "prop": "blocks",
+    "bg": "moscow"
+   }
+  }
+ ]
+}

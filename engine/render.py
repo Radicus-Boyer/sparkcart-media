@@ -5,7 +5,8 @@ usage:  python3 engine/render.py episodes/<preset>/<episode>.json [--sheet] [--o
   --sheet   render a contact sheet (one frame per line) instead of the MP4, for a quick look
   --out     where finished MP4s go (default: build/out next to the repo root)
 
-The episode JSON picks a preset ("roblox" or "nes"). See README.md for the episode format.
+The episode JSON picks a preset: "roblox" renders here, "nes" is handed to engine/nes/engine.py
+(the original 8-Bit Backstory engine). See README.md for both episode formats.
 """
 import argparse, json, math, os, subprocess, sys, wave, hashlib, random
 import numpy as np
@@ -34,10 +35,6 @@ PRESETS = {
     "roblox": {"title_font": "LuckiestGuy.ttf", "sub_font": "Lilita.ttf", "cap_font": "Lilita.ttf",
                "text_scale": 1.0, "cap_size": 92, "edition": "ROBLOX EDITION", "studs": True,
                "pixel": 0, "stroke": 1.0, "hdr_size": 58},
-    # NES: the same scenes rendered as chunky pixel art in the NES colour palette, pixel font
-    "nes": {"title_font": "PressStart2P.ttf", "sub_font": "PressStart2P.ttf", "cap_font": "PressStart2P.ttf",
-            "text_scale": 0.52, "cap_size": 56, "edition": "", "studs": False,
-            "pixel": 6, "stroke": 0.7, "hdr_size": 40},
 }
 ST = PRESETS["roblox"]
 _PAL = None
@@ -648,4 +645,9 @@ if __name__ == "__main__":
     if a.out:
         OUT = os.path.abspath(a.out) + "/"
     for path in a.episode:
+        if json.load(open(path)).get("preset") == "nes":
+            # NES preset = the original 8-Bit Backstory engine (flat pixel scenes, 5x7 font)
+            env = dict(os.environ, NES_OUT=OUT)
+            subprocess.run([sys.executable, D + "nes/engine.py", path] + (["sheet"] if a.sheet else []), env=env, check=True)
+            continue
         render(load(path), a.sheet)

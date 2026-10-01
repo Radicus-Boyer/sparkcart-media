@@ -1,0 +1,95 @@
+{
+ "preset": "nes",
+ "num": 18,
+ "name": "Mike Tysons Punch-Out",
+ "slug": "punchout",
+ "theme": "ring",
+ "title_lines": [
+  "PUNCH-OUT!!"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 150,
+  "tr": 3,
+  "seed": 18
+ },
+ "lines": [
+  {
+   "say": "Why did Mike Tyson disappear from Punch-Out? His contract ran out.",
+   "scene": {
+    "kind": "title",
+    "prop": "boxers"
+   }
+  },
+  {
+   "say": "Mike Tyson's Punch-Out came out in 1987, based on Nintendo's arcade boxing games.",
+   "scene": {
+    "bg": "space",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "PUNCH OUT",
+     "col": "red"
+    },
+    "subs": [
+     "NINTENDO"
+    ]
+   }
+  },
+  {
+   "say": "Nintendo of America's Minoru Arakawa saw Tyson fight, and signed him for the game.",
+   "scene": {
+    "bg": "ring",
+    "head": "THE DEAL",
+    "subs": [
+     "MINORU ARAKAWA",
+     "SAW TYSON FIGHT"
+    ]
+   }
+  },
+  {
+   "say": "You play Little Mac, a 17-year-old boxer who weighs just 107 pounds, against 14 opponents.",
+   "scene": {
+    "bg": "ring",
+    "prop": "boxers",
+    "args": {
+     "stats": true
+    }
+   }
+  },
+  {
+   "say": "Type in zero zero seven, three seven three, five nine six three, to skip straight to Tyson.",
+   "scene": {
+    "bg": "dark",
+    "head": "SECRET CODE",
+    "headsc": 2,
+    "prop": "keypad"
+   },
+   "cap": "Type in 007 373 5963, to skip straight to Tyson."
+  },
+  {
+   "say": "When the license ended in 1990, Tyson was replaced by Mr. Dream.",
+   "scene": {
+    "bg": "ring",
+    "head": "1990",
+    "headsc": 3,
+    "prop": "nameswap",
+    "args": {
+     "frm": "MIKE TYSON",
+     "to": "MR. DREAM",
+     "at": 2.0
+    }
+   }
+  },
+  {
+   "say": "Did you ever beat Tyson? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU EVER BEAT TYSON?",
+    "prop": "boxers",
+    "bg": "ring"
+   }
+  }
+ ]
+}

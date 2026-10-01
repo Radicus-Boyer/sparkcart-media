@@ -1,0 +1,88 @@
+{
+ "preset": "nes",
+ "num": 19,
+ "name": "Metroid",
+ "slug": "metroid",
+ "theme": "planet",
+ "title_lines": [
+  "METROID"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 120,
+  "tr": -4,
+  "seed": 19
+ },
+ "lines": [
+  {
+   "say": "At the end of Metroid, players found out the hero was a woman the whole time.",
+   "scene": {
+    "kind": "title",
+    "prop": "suit"
+   }
+  },
+  {
+   "say": "Metroid came out in Japan in 1986, and in America in 1987.",
+   "scene": {
+    "bg": "space",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "METROID",
+     "col": "org"
+    },
+    "subs": [
+     "NINTENDO"
+    ]
+   }
+  },
+  {
+   "say": "Beat it fast enough, and Samus takes off her helmet. A huge surprise for players back then.",
+   "scene": {
+    "bg": "planet",
+    "head": "THE REVEAL",
+    "prop": "suit"
+   }
+  },
+  {
+   "say": "The movie Alien was a huge influence, and the boss Ridley is named after director Ridley Scott.",
+   "scene": {
+    "bg": "dark",
+    "head": "INSPIRED BY",
+    "headcol": "pur",
+    "prop": "alien",
+    "subs": [
+     "ALIEN (1979)"
+    ]
+   }
+  },
+  {
+   "say": "The name mixes metro and android.",
+   "scene": {
+    "bg": "planet",
+    "head": "THE NAME",
+    "prop": "metro"
+   }
+  },
+  {
+   "say": "And the password Justin Bailey lets you play without the suit.",
+   "scene": {
+    "bg": "dark",
+    "head": "SECRET CODE",
+    "headsc": 2,
+    "prop": "password"
+   },
+   "cap": "And the password JUSTIN BAILEY lets you play without the suit."
+  },
+  {
+   "say": "Did you know Samus was a woman? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU KNOW SAMUS WAS A WOMAN?",
+    "prop": "metro",
+    "bg": "planet"
+   }
+  }
+ ]
+}

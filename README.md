@@ -4,9 +4,10 @@ Video engine, episode scripts and public video files for **SparkCart / 8-Bit Bac
 posted to YouTube and TikTok through Postiz.
 
 ```
-engine/            the renderer (render.py, art.py, music.py, tts.py, fonts/, setup.sh)
-episodes/roblox/   episode scripts, Roblox Edition preset (#21-30)
-episodes/nes/      episode scripts, NES preset (_sample-skate-or-die.json is the template)
+engine/            the renderer: render.py (entry point + Roblox preset), art.py, music.py, tts.py, fonts/, setup.sh
+engine/nes/        NES preset = the original 8-Bit Backstory engine (engine.py, lib.py, props2.py, music.py, tts.py)
+episodes/nes/      episode scripts #1-20 (NES preset), re-renderable
+episodes/roblox/   episode scripts #21-30 (Roblox Edition preset)
 tools/posting.py   posting.txt checker, raw-URL lister, Postiz schedule builder
 roblox-edition/    finished MP4s + posting.txt (public links Postiz pulls from)
 build/             renders and scratch files (git-ignored)
@@ -16,7 +17,7 @@ build/             renders and scratch files (git-ignored)
 
 ```bash
 bash engine/setup.sh                                            # ffmpeg, espeak-ng, Python packages, voice model
-python3 engine/render.py episodes/nes/_sample-skate-or-die.json --sheet   # contact sheet in build/work/
+python3 engine/render.py episodes/nes/01-skate-or-die.json --sheet   # contact sheet in build/work/nes/
 python3 engine/render.py episodes/roblox/*.json                 # MP4s in build/out/
 ```
 
@@ -24,28 +25,82 @@ Rendering takes about 1 minute per 30 s video on 2 CPUs. Run two renders in para
 
 ## Presets
 
-| preset   | look |
-|----------|------|
-| `roblox` | smooth blocky-3D isometric scenes, studded baseplates, Luckiest Guy / Lilita One fonts, "ROBLOX EDITION" under the header |
-| `nes`    | the same scenes rendered as chunky pixel art snapped to the NES colour palette, Press Start 2P pixel font, no edition line |
+| preset   | look | engine |
+|----------|------|--------|
+| `nes`    | the original 8-Bit Backstory look (#1-20): flat side-view pixel scenes on a 180x320 canvas scaled 6x with scanlines, 5x7 pixel font (yellow titles with red shadow), "8-BIT BACKSTORY #N" badge, year tag box, DejaVu Sans Bold captions, black question box + pink "FOLLOW FOR MORE" outro | `engine/nes/engine.py` |
+| `roblox` | Roblox Edition (#21-30): smooth blocky-3D isometric scenes, studded baseplates, Luckiest Guy / Lilita One fonts, "ROBLOX EDITION" under the header | `engine/render.py` |
 
 Both use the Kokoro AI voice (`am_michael`), word-highlighted captions, and an original chiptune
-track that ducks under the voice. Videos are 1080x1920, 30 fps.
+track that ducks under the voice. Videos are 1080x1920, 30 fps. `engine/render.py` is the single
+entry point; it reads `"preset"` from the episode JSON and hands NES episodes to `engine/nes/engine.py`.
 
-## Episode format
+NES cover image (TikTok cover, 1080x1920 PNG in `build/out/covers/`):
+`python3 engine/nes/engine.py episodes/nes/13-contra.json cover "THE CODE THAT GAVE YOU 30 LIVES"`
+
+## NES episode format
+
+Copy a file from `episodes/nes/` (they are all real, posted episodes) and change it.
+
+```jsonc
+{
+  "preset": "nes",
+  "num": 31, "name": "Zelda II",          // output "31 - Zelda II.mp4" (or set "file")
+  "slug": "zelda2",                       // work-file name
+  "theme": "grass",                       // default background for every line
+  "title_lines": ["ZELDA II"],            // big title on the first scene (1-2 lines)
+  "year_tag": "NES 1988",                 // red tag box under the title
+  "music": {"bpm": 140, "tr": 0, "seed": 31},   // tempo, transpose (semitones), melody seed
+  "speed": 1.2,                           // optional voice speed
+  "pron": {"Arakawa": "Ara-kawa"},        // optional pronunciation fixes
+  "lines": [
+    {"say": "spoken text", "cap": "optional caption text if different (e.g. EA vs E.A.)",
+     "scene": {"kind": "title", "prop": "map"}},
+    {"say": "...", "scene": {"bg": "space", "head": "1987", "headsc": 4, "headcol": "yel",
+                             "prop": "port", "args": {"label": "ZELDA"}, "subs": ["NINTENDO"]}},
+    {"say": "Did you beat it? Follow for more 8-Bit Backstory!",
+     "scene": {"kind": "outro", "question": "DID YOU BEAT IT?", "prop": "map", "bg": "grass"}}
+  ]
+}
+```
+
+Scene keys: `kind` (`title` first line, `outro` last line, otherwise a card), `bg`, `head` (big pixel
+headline), `headsc` (size 2-4, default 3), `headcol`/`subcol` (palette name), `prop` + `args`, `subs`
+(1-2 small lines that appear one after another).
+
+Palette names: `blk wht gry lgry dgry red org yel lyel grn lgrn blu lblu cyn pur pnk brn dblu beige tan skin navy mag`.
+
+Backgrounds: `city snow sky space lab grid park stage arcade desk castle jungle prison ring grass moscow planet`, plus `dark`.
+
+Props (with example args):
+`computer {"text": "SKATE"}`, `port {"label": "TITLE", "col": "blu"}` (cartridge into console), `limit`,
+`list {"items": [...]}`, `joust`, `adventure`, `weapons`, `halfpipe {"sign": "..."}`, `shop {"son": true}`,
+`arcade`, `spin`, `bees`, `skier`, `snowballs`, `players`, `notes`, `cloudbush`, `minus`, `crown`,
+`sales {"n": 40, "unit": "MILLION+"}`, `swap {"frm": "A", "to": "B", "frmcol": "pnk", "tocol": "red", "at": 2.4}`,
+`heights`, `dream`, `curtain`, `film`, `sketch`, `boxart`, `rocknroll`, `robot {"rename": true}`, `mail`,
+`difficulty`, `clock`, `bricks`, `ship`, `doh`, `knob`, `tron`, `sprite {"who": "robot", "sc": 6}`,
+`blocks {"crash": true}`, `handheld`, `tennis`, `gavel`, `goldcart {"label": "ZELDA"}`, `map`, `battery`,
+`dungeon`, `code`, `lives`, `commandos`, `robotswap`, `prisonbreak`, `brawl`, `brothers {"vs": true}`, `toads`,
+`tunnel`, `trophy`, `ducks`, `zapper`, `crt`, `laugh {"target": true}`, `boxers {"stats": true}`, `keypad`,
+`nameswap {"frm": "A", "to": "B", "at": 2.0}`, `suit`, `password`, `alien`, `metro`, `whip`,
+`credits {"names": [...]}`, `monsters {"items": [...]}`, `none`.
+
+A new game often needs one new prop: add it to `engine/nes/props2.py` (`extra_prop`) in the same
+style: drawn with rectangles on the 180x320 canvas using palette colours, all original art.
+
+## Roblox episode format
 
 One JSON file per video.
 
 ```jsonc
 {
-  "preset": "nes",                 // "roblox" or "nes"
+  "preset": "roblox",              // Roblox Edition preset
   "num": 31,                       // episode number shown in the header
   "slug": "zelda",                 // optional, defaults to the file name
   "file": "31 Zelda (30s).mp4",    // output file name
   "target": 30,                    // target seconds (30 or 60). Voice speeds up (max 1.4x) if the script runs long
   "accent": "#f8b800",             // accent colour for header number, subtitles, VS
   "bpm": 132, "root": 60,          // music tempo and key (MIDI note). "mood": "spooky" for minor/horror
-  "edition": "GAME BOY EDITION",   // optional override of the line under the header
+  "edition": "ROBLOX EDITION",     // optional override of the line under the header
   "pron": {"Nikilis": "Nick-ill-iss"},  // optional extra pronunciations for this episode
   "lines": [ { "t": "caption + spoken text", "say": "optional different spoken text", "sc": { ...scene... } } ]
 }

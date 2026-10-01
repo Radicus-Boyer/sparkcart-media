@@ -1,0 +1,106 @@
+{
+ "preset": "nes",
+ "num": 1,
+ "name": "Skate or Die",
+ "slug": "sod1",
+ "theme": "city",
+ "title_lines": [
+  "SKATE",
+  "OR DIE!"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 150,
+  "tr": 0,
+  "seed": 0
+ },
+ "lines": [
+  {
+   "say": "E.A. made this skate game, but Konami brought it to the NES. Here's the backstory.",
+   "scene": {
+    "kind": "title"
+   },
+   "cap": "EA made this skate game, but Konami brought it to the NES. Here's the backstory."
+  },
+  {
+   "say": "Skate or Die launched in 1987 on the Commodore sixty-four, as E.A.'s first game made in-house.",
+   "scene": {
+    "bg": "desk",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "computer",
+    "args": {
+     "text": "SKATE"
+    },
+    "subs": [
+     "EA'S FIRST IN-HOUSE GAME"
+    ]
+   },
+   "cap": "Skate or Die launched in 1987 on the Commodore 64, as EA's first game made in-house."
+  },
+  {
+   "say": "In 1988, Konami ported it to the NES, under a side label called Ultra Games,",
+   "scene": {
+    "bg": "space",
+    "head": "1988",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "SKATE OR DIE"
+    },
+    "subs": [
+     "PORTED BY KONAMI",
+     "ULTRA GAMES"
+    ]
+   }
+  },
+  {
+   "say": "a trick to get around Nintendo's yearly limit on releases.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE LOOPHOLE",
+    "prop": "limit",
+    "subs": [
+     "A SECOND LABEL"
+    ]
+   }
+  },
+  {
+   "say": "Five events: freestyle ramp, high jump, two downhill races, and the pool joust.",
+   "scene": {
+    "bg": "park",
+    "head": "5 EVENTS",
+    "headcol": "red",
+    "prop": "list",
+    "args": {
+     "items": [
+      "FREESTYLE RAMP",
+      "HIGH JUMP",
+      "DOWNHILL RACE",
+      "DOWNHILL JAM",
+      "POOL JOUST"
+     ]
+    }
+   }
+  },
+  {
+   "say": "In the joust, you battle punks like Poser Pete, Aggro Eddie, and the boss, Lester.",
+   "scene": {
+    "bg": "sky",
+    "head": "POOL JOUST",
+    "headsc": 2,
+    "prop": "joust"
+   },
+   "cap": "In the joust, you battle punks like Poseur Pete, Aggro Eddie, and the boss, Lester."
+  },
+  {
+   "say": "Did you own this one? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU OWN THIS ONE?",
+    "prop": "halfpipe",
+    "bg": "park"
+   }
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "preset": "nes",
+ "num": 3,
+ "name": "720",
+ "slug": "720",
+ "theme": "arcade",
+ "title_lines": [
+  "720"
+ ],
+ "year_tag": "ARCADE 1986",
+ "music": {
+  "bpm": 160,
+  "tr": -2,
+  "seed": 2
+ },
+ "lines": [
+  {
+   "say": "In this arcade game, if you didn't skate fast enough, killer bees came to get you.",
+   "scene": {
+    "kind": "title",
+    "prop": "bees"
+   }
+  },
+  {
+   "say": "Seven twenty was made by Atari Games, and hit arcades in December 1986.",
+   "scene": {
+    "bg": "arcade",
+    "head": "1986",
+    "headsc": 4,
+    "prop": "arcade",
+    "subs": [
+     "ATARI GAMES"
+    ]
+   },
+   "cap": "720° was made by Atari Games, and hit arcades in December 1986."
+  },
+  {
+   "say": "The name comes from a seven twenty. That's two full spins in the air.",
+   "scene": {
+    "bg": "city",
+    "head": "THE NAME",
+    "prop": "spin",
+    "subs": [
+     "2 FULL SPINS"
+    ]
+   },
+   "cap": "The name comes from a 720. That's two full spins in the air."
+  },
+  {
+   "say": "You roam Skate City, earning tickets to four parks: ramp, downhill, slalom, and jump.",
+   "scene": {
+    "bg": "city",
+    "head": "SKATE CITY",
+    "headcol": "cyn",
+    "prop": "list",
+    "args": {
+     "items": [
+      "RAMP",
+      "DOWNHILL",
+      "SLALOM",
+      "JUMP"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Stall too long, and the screen flashes, Skate or Die, and the bees come for you.",
+   "scene": {
+    "bg": "sky",
+    "prop": "bees"
+   }
+  },
+  {
+   "say": "The NES version arrived in 1989, made by Beam Software and published by Mindscape.",
+   "scene": {
+    "bg": "space",
+    "head": "1989",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "720",
+     "col": "org"
+    },
+    "subs": [
+     "BEAM SOFTWARE",
+     "MINDSCAPE"
+    ]
+   }
+  },
+  {
+   "say": "Arcade or NES? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "ARCADE OR NES?",
+    "prop": "arcade",
+    "bg": "arcade"
+   }
+  }
+ ]
+}

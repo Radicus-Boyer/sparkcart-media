@@ -13,7 +13,7 @@ PRON = {
     "Ouw": "Ow", "Nosniy": "Noz-nee", "mygame43": "my game forty-three", "rip_indra": "rip indra",
     "NewFissy": "New Fissy", "Bethink": "Bee-think", "SecretVerse": "Secret Verse",
     "Nikilis": "Nick-ill-iss", "Nik's": "Nick's", "RP": "R.P.", "Blox": "Blocks", "Favourite": "Favorite",
-    "collab": "collab", "Uplift": "Up-lift", "NES": "N.E.S.", "SNES": "Super N.E.S.", "Konami": "Ko-nah-mee",
+    "collab": "collab", "Uplift": "Up-lift",
 }
 
 

@@ -1,0 +1,92 @@
+{
+ "preset": "nes",
+ "num": 5,
+ "name": "Super Mario Bros",
+ "slug": "smb1",
+ "theme": "sky",
+ "title_lines": [
+  "SUPER",
+  "MARIO BROS."
+ ],
+ "year_tag": "NES 1985",
+ "music": {
+  "bpm": 150,
+  "tr": 0,
+  "seed": 4
+ },
+ "lines": [
+  {
+   "say": "In Super Mario Bros., the clouds and the bushes are the exact same picture.",
+   "scene": {
+    "kind": "title",
+    "prop": "none"
+   }
+  },
+  {
+   "say": "It came out in 1985, designed by Shigeru Miyamoto and Takashi Tezuka, with music by Koji Kondo.",
+   "scene": {
+    "bg": "space",
+    "head": "1985",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "MARIO BROS",
+     "col": "red"
+    },
+    "subs": [
+     "MIYAMOTO + TEZUKA",
+     "MUSIC: KOJI KONDO"
+    ]
+   }
+  },
+  {
+   "say": "To save space on the cartridge, they recolored the cloud to make the bushes.",
+   "scene": {
+    "bg": "plain",
+    "head": "CLOUD = BUSH",
+    "prop": "cloudbush"
+   }
+  },
+  {
+   "say": "Use a glitch in World one-two, and you can reach the Minus World, a water level that never ends.",
+   "scene": {
+    "bg": "dark",
+    "head": "MINUS WORLD",
+    "headcol": "lblu",
+    "headsc": 2,
+    "prop": "minus"
+   },
+   "cap": "Use a glitch in World 1-2, and you can reach the Minus World, a water level that never ends."
+  },
+  {
+   "say": "Get enough lives, and a crown shows up in your life counter.",
+   "scene": {
+    "bg": "dark",
+    "head": "EASTER EGG",
+    "headcol": "yel",
+    "prop": "crown"
+   }
+  },
+  {
+   "say": "The NES version alone sold over 40 million copies.",
+   "scene": {
+    "bg": "sky",
+    "head": "SALES",
+    "prop": "sales",
+    "args": {
+     "n": 40,
+     "unit": "MILLION+"
+    }
+   }
+  },
+  {
+   "say": "Did you ever find the Minus World? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU FIND THE MINUS WORLD?",
+    "prop": "none",
+    "bg": "sky"
+   }
+  }
+ ]
+}

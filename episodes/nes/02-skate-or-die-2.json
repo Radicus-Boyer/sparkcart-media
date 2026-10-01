@@ -1,0 +1,98 @@
+{
+ "preset": "nes",
+ "num": 2,
+ "name": "Skate or Die 2",
+ "slug": "sod2",
+ "theme": "city",
+ "title_lines": [
+  "SKATE OR",
+  "DIE 2"
+ ],
+ "year_tag": "NES 1990",
+ "music": {
+  "bpm": 156,
+  "tr": 2,
+  "seed": 1
+ },
+ "lines": [
+  {
+   "say": "Skate or Die 2 wasn't just a sequel. It turned into a full adventure, with a paintball gun.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "It came out in 1990, and this time E.A. made and published the NES version itself.",
+   "scene": {
+    "bg": "space",
+    "head": "1990",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "SKATE OR DIE 2",
+     "col": "blu"
+    },
+    "subs": [
+     "MADE AND PUBLISHED BY EA"
+    ]
+   },
+   "cap": "It came out in 1990, and this time EA made and published the NES version itself."
+  },
+  {
+   "say": "You skate through the town of Elwood to rescue your girlfriend, C.J., from the gang leader, Icepick.",
+   "scene": {
+    "bg": "city",
+    "head": "ELWOOD",
+    "prop": "adventure",
+    "subs": [
+     "BOSS: ICEPICK"
+    ]
+   },
+   "cap": "You skate through the town of Elwood to rescue your girlfriend, CJ, from the gang leader, Icepick."
+  },
+  {
+   "say": "Your weapons? Paintballs, eggs, and firecrackers.",
+   "scene": {
+    "bg": "dark",
+    "head": "WEAPONS",
+    "headcol": "red",
+    "prop": "weapons"
+   }
+  },
+  {
+   "say": "The goal is to build the ultimate half-pipe, called Double Trouble.",
+   "scene": {
+    "bg": "park",
+    "head": "THE GOAL",
+    "prop": "halfpipe",
+    "args": {
+     "sign": "DOUBLE TROUBLE"
+    }
+   }
+  },
+  {
+   "say": "Fun fact: Rodney and Lester are back, and now they're on your side. Rodney sells boards, and Lester teaches tricks.",
+   "scene": {
+    "bg": "sky",
+    "head": "FUN FACT",
+    "headcol": "lgrn",
+    "prop": "shop",
+    "args": {
+     "son": true
+    },
+    "subs": [
+     "LESTER IS ON YOUR SIDE"
+    ]
+   }
+  },
+  {
+   "say": "Did you ever beat it? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU EVER BEAT IT?",
+    "prop": "adventure",
+    "bg": "city"
+   }
+  }
+ ]
+}
