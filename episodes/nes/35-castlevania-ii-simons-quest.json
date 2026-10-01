@@ -1,0 +1,222 @@
+{
+ "preset": "nes",
+ "num": 35,
+ "name": "Castlevania II Simons Quest",
+ "slug": "simonsquest",
+ "theme": "castle",
+ "title_lines": [
+  "SIMON'S",
+  "QUEST"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 126,
+  "tr": -3,
+  "seed": 35
+ },
+ "lines": [
+  {
+   "say": "Castlevania two lied to its players, on purpose.",
+   "scene": {
+    "kind": "title"
+   },
+   "cap": "Castlevania II lied to its players, on purpose."
+  },
+  {
+   "say": "Simon's Quest came out in Japan in 1987, and in America in December 1988.",
+   "scene": {
+    "bg": "space",
+    "head": "1988",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "SIMON QUEST",
+     "col": "pur"
+    },
+    "subs": [
+     "KONAMI"
+    ]
+   }
+  },
+  {
+   "say": "You play as Simon Belmont again, hunting for five pieces of Dracula to break a curse.",
+   "scene": {
+    "bg": "castle",
+    "head": "THE CURSE",
+    "prop": "whip",
+    "subs": [
+     "FIND 5 PIECES"
+    ]
+   }
+  },
+  {
+   "say": "The first game was a straight line. This one is an open world, with towns, shops, and leveling up.",
+   "scene": {
+    "bg": "dark",
+    "head": "OPEN WORLD",
+    "prop": "citymap",
+    "subs": [
+     "TOWNS, SHOPS, LEVELS"
+    ]
+   }
+  },
+  {
+   "say": "Hearts aren't just pickups here. They're money, and you spend them in the town shops.",
+   "scene": {
+    "bg": "town",
+    "head": "HEARTS = MONEY",
+    "headsc": 2,
+    "prop": "list",
+    "args": {
+     "items": [
+      "HOLY WATER",
+      "DAGGER",
+      "WHITE CRYSTAL",
+      "LAURELS"
+     ]
+    }
+   }
+  },
+  {
+   "say": "It has a day and night cycle. When night falls, the game stops to tell you:",
+   "scene": {
+    "bg": "town",
+    "head": "DAY AND NIGHT",
+    "headsc": 2,
+    "prop": "daynight"
+   }
+  },
+  {
+   "say": "What a horrible night to have a curse.",
+   "scene": {
+    "bg": "graveyard",
+    "prop": "quote",
+    "args": {
+     "text": "WHAT A HORRIBLE NIGHT TO HAVE A CURSE.",
+     "y": 84,
+     "cps": 14
+    }
+   }
+  },
+  {
+   "say": "At night, monsters get stronger, and the townspeople lock their doors.",
+   "scene": {
+    "bg": "town",
+    "head": "NIGHT = DANGER",
+    "headsc": 2,
+    "headcol": "red",
+    "prop": "daynight",
+    "args": {
+     "dur": 0.3
+    },
+    "subs": [
+     "SHOPS CLOSE"
+    ]
+   }
+  },
+  {
+   "say": "And when morning comes, you get another message: the morning sun has vanquished the horrible night.",
+   "scene": {
+    "bg": "town",
+    "prop": "quote",
+    "args": {
+     "text": "THE MORNING SUN HAS VANQUISHED THE HORRIBLE NIGHT.",
+     "y": 84,
+     "cps": 20
+    }
+   }
+  },
+  {
+   "say": "The villagers give you hints, but a lot of those hints are lies.",
+   "scene": {
+    "bg": "town",
+    "head": "THE VILLAGERS",
+    "headsc": 2,
+    "prop": "villager",
+    "args": {
+     "text": "TRUST ME, TRAVELER...",
+     "lie": true
+    }
+   }
+  },
+  {
+   "say": "The manual even warns you that people don't always tell the truth.",
+   "scene": {
+    "bg": "dark",
+    "head": "FAIR WARNING",
+    "headsc": 2,
+    "prop": "magazine",
+    "args": {
+     "title": "GAME MANUAL",
+     "issue": "WARNING",
+     "line": "SOME CLUES LIE",
+     "col": "pur"
+    }
+   }
+  },
+  {
+   "say": "One puzzle is legendary. Kneel by a cliff, holding a red crystal, and wait for a tornado to carry you away.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE CLIFF PUZZLE",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "KNEEL + RED CRYSTAL + WAIT = TORNADO",
+     "col": "yel"
+    },
+    "subs": [
+     "WHO WOULD GUESS THAT?"
+    ]
+   }
+  },
+  {
+   "say": "There are three endings, and which one you get depends on how fast you finish.",
+   "scene": {
+    "bg": "dark",
+    "head": "3 ENDINGS",
+    "prop": "graves",
+    "args": {
+     "items": [
+      "SLOW",
+      "MEDIUM",
+      "FAST"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Its mix of exploring and leveling up came back years later, in Symphony of the Night.",
+   "scene": {
+    "bg": "castle",
+    "head": "AHEAD OF ITS TIME",
+    "headsc": 2,
+    "subs": [
+     "EXPLORE + LEVEL UP"
+    ]
+   }
+  },
+  {
+   "say": "Today, that style of game has a name: Metroidvania.",
+   "scene": {
+    "bg": "dark",
+    "head": "METROIDVANIA",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "METROID + CASTLEVANIA",
+     "col": "yel"
+    }
+   }
+  },
+  {
+   "say": "Did you ever figure out that cliff? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU SOLVE THE CLIFF?",
+    "prop": "daynight",
+    "bg": "town"
+   }
+  }
+ ]
+}

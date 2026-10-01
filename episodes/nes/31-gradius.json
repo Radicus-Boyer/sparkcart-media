@@ -1,0 +1,98 @@
+{
+ "preset": "nes",
+ "num": 31,
+ "name": "Gradius",
+ "slug": "gradius",
+ "theme": "space",
+ "title_lines": [
+  "GRADIUS"
+ ],
+ "year_tag": "NES 1986",
+ "music": {
+  "bpm": 160,
+  "tr": 0,
+  "seed": 31
+ },
+ "lines": [
+  {
+   "say": "The most famous cheat code in gaming wasn't made for players. It was made for one tired programmer.",
+   "scene": {
+    "kind": "title",
+    "prop": "shooter"
+   }
+  },
+  {
+   "say": "Gradius hit arcades in 1985, and Konami brought it to the NES in 1986.",
+   "scene": {
+    "bg": "space",
+    "head": "1986",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "GRADIUS",
+     "col": "blu"
+    },
+    "subs": [
+     "KONAMI"
+    ]
+   }
+  },
+  {
+   "say": "Kazuhisa Hashimoto was porting it, but the game was so hard, he couldn't finish it to test it.",
+   "scene": {
+    "bg": "space",
+    "head": "TOO HARD",
+    "headcol": "red",
+    "prop": "shooter",
+    "subs": [
+     "KAZUHISA HASHIMOTO"
+    ]
+   }
+  },
+  {
+   "say": "So he added a secret: up, up, down, down, left, right, left, right, B, A.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE KONAMI CODE",
+    "headsc": 2,
+    "prop": "code"
+   }
+  },
+  {
+   "say": "Pause the game, enter it, and your ship powers up.",
+   "scene": {
+    "bg": "space",
+    "head": "POWER UP!",
+    "prop": "powerbar"
+   }
+  },
+  {
+   "say": "He forgot to take it out, players found it, and Konami kept using it for decades.",
+   "scene": {
+    "bg": "space",
+    "head": "LEFT IN",
+    "headcol": "lgrn",
+    "prop": "shooter",
+    "args": {
+     "options": true
+    },
+    "subs": [
+     "BY ACCIDENT"
+    ]
+   }
+  },
+  {
+   "say": "Do you know the code by heart? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "KNOW THE CODE BY HEART?",
+    "prop": "code",
+    "bg": "space"
+   }
+  }
+ ],
+ "pron": {
+  "Hashimoto": "Hashi-moto",
+  "Kazuhisa": "Kazoo-hee-sa"
+ }
+}

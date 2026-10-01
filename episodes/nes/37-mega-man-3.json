@@ -1,0 +1,190 @@
+{
+ "preset": "nes",
+ "num": 37,
+ "name": "Mega Man 3",
+ "slug": "mm3",
+ "theme": "lab",
+ "title_lines": [
+  "MEGA",
+  "MAN 3"
+ ],
+ "year_tag": "NES 1990",
+ "music": {
+  "bpm": 158,
+  "tr": 1,
+  "seed": 37
+ },
+ "lines": [
+  {
+   "say": "Mega Man 3 added a dog, a slide, and a brother. And its own artist still calls it his least favorite.",
+   "scene": {
+    "kind": "title",
+    "prop": "sprite",
+    "args": {
+     "who": "robot",
+     "sc": 4
+    }
+   }
+  },
+  {
+   "say": "It came out in Japan in September 1990, and in America that November.",
+   "scene": {
+    "bg": "space",
+    "head": "1990",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "MEGA MAN 3",
+     "col": "blu"
+    },
+    "subs": [
+     "CAPCOM"
+    ]
+   }
+  },
+  {
+   "say": "The big new move was the slide, letting you zip under low walls and enemy fire.",
+   "scene": {
+    "bg": "lab",
+    "head": "THE SLIDE",
+    "prop": "slide"
+   }
+  },
+  {
+   "say": "It also introduced Rush, a robot dog who turns into a spring, a jet, and a submarine.",
+   "scene": {
+    "bg": "lab",
+    "head": "MEET RUSH",
+    "prop": "robodog"
+   }
+  },
+  {
+   "say": "And a mysterious whistling rival, called Break Man, keeps showing up to fight you.",
+   "scene": {
+    "bg": "space",
+    "head": "BREAK MAN",
+    "headcol": "pnk",
+    "prop": "mystery"
+   }
+  },
+  {
+   "say": "He's really Proto Man, Mega Man's older brother.",
+   "scene": {
+    "bg": "space",
+    "head": "PROTO MAN",
+    "headcol": "red",
+    "prop": "mystery",
+    "args": {
+     "q": "BIG BROTHER!"
+    }
+   }
+  },
+  {
+   "say": "After the eight robot masters, you face Doc Robot, who copies all eight bosses from Mega Man 2.",
+   "scene": {
+    "bg": "lab",
+    "head": "DOC ROBOT",
+    "prop": "bignum",
+    "args": {
+     "n": 8,
+     "fmt": "{:.0f}",
+     "unit": "OLD BOSSES RETURN",
+     "dur": 1.2
+    }
+   }
+  },
+  {
+   "say": "But development was rough. The lead planner left partway through, and Keiji Inafune had to take over.",
+   "scene": {
+    "bg": "dark",
+    "head": "TROUBLE",
+    "headcol": "red",
+    "prop": "team",
+    "args": {
+     "n": 2,
+     "label": "ONE DESK EMPTY"
+    }
+   }
+  },
+  {
+   "say": "Capcom wanted it out in September instead of December, so the team ran out of time to polish it.",
+   "scene": {
+    "bg": "dark",
+    "head": "RUSHED",
+    "headcol": "red",
+    "prop": "nameswap",
+    "args": {
+     "label": "RELEASE DATE",
+     "frm": "DECEMBER",
+     "to": "SEPTEMBER",
+     "at": 1.6
+    }
+   }
+  },
+  {
+   "say": "Inafune later said it's his least favorite, because he knew it could have been better.",
+   "scene": {
+    "bg": "dark",
+    "head": "INAFUNE'S VERDICT",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "WE COULD DO A LOT OF THINGS BETTER"
+    }
+   }
+  },
+  {
+   "say": "Proof it was rushed? Debug cheats were left in. Hold right on the second controller, and Mega Man jumps sky high.",
+   "scene": {
+    "bg": "dark",
+    "head": "LEFTOVER CHEAT",
+    "headsc": 2,
+    "prop": "pad2",
+    "args": {
+     "hot": "R",
+     "text": "SUPER JUMP!"
+    }
+   }
+  },
+  {
+   "say": "Hold up on that controller, and the whole game runs in slow motion.",
+   "scene": {
+    "bg": "dark",
+    "head": "SLOW MOTION",
+    "headsc": 2,
+    "prop": "pad2",
+    "args": {
+     "hot": "U",
+     "text": "SLOW-MO!"
+    }
+   }
+  },
+  {
+   "say": "It still sold over a million copies.",
+   "scene": {
+    "bg": "dark",
+    "head": "A HIT ANYWAY",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 1,
+     "fmt": "{:.0f}",
+     "unit": "MILLION+ SOLD",
+     "dur": 1.0
+    }
+   }
+  },
+  {
+   "say": "Who's the best Mega Man 3 boss? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "BEST MEGA MAN 3 BOSS?",
+    "prop": "robodog",
+    "bg": "lab"
+   }
+  }
+ ],
+ "pron": {
+  "Inafune": "Ina-foo-nay"
+ }
+}

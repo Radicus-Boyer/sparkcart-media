@@ -1,0 +1,109 @@
+{
+ "preset": "nes",
+ "num": 34,
+ "name": "Double Dribble",
+ "slug": "doubledribble",
+ "theme": "court",
+ "title_lines": [
+  "DOUBLE",
+  "DRIBBLE"
+ ],
+ "year_tag": "NES 1987",
+ "music": {
+  "bpm": 148,
+  "tr": 2,
+  "seed": 34
+ },
+ "lines": [
+  {
+   "say": "In 1987, this basketball game did something NES games almost never did. It talked.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "Konami's Double Dribble started in arcades in 1986, and came to the NES in 1987.",
+   "scene": {
+    "bg": "space",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "DRIBBLE",
+     "col": "org"
+    },
+    "subs": [
+     "KONAMI"
+    ]
+   }
+  },
+  {
+   "say": "Turn it on, and a voice says the title out loud: Double Dribble!",
+   "scene": {
+    "bg": "dark",
+    "head": "IT TALKS",
+    "prop": "speech",
+    "args": {
+     "text": "DOUBLE DRIBBLE!"
+    }
+   }
+  },
+  {
+   "say": "Go for a slam dunk, and the game cuts to a close-up animation.",
+   "scene": {
+    "bg": "court",
+    "head": "DUNK CAM",
+    "prop": "hoop",
+    "args": {
+     "dunk": true
+    },
+    "subs": [
+     "3 DUNK CUTSCENES"
+    ]
+   }
+  },
+  {
+   "say": "The four teams aren't real, but they sound close: the Boston Frogs, New York Eagles, Chicago Ox, and L.A. Breakers.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE TEAMS",
+    "prop": "list",
+    "args": {
+     "items": [
+      "BOSTON FROGS",
+      "NEW YORK EAGLES",
+      "CHICAGO OX",
+      "L.A. BREAKERS"
+     ]
+    }
+   }
+  },
+  {
+   "say": "And the funny part? You can't actually get called for a double dribble.",
+   "scene": {
+    "bg": "court",
+    "head": "NO DOUBLE DRIBBLE",
+    "headsc": 2,
+    "prop": "hoop",
+    "args": {
+     "corner": true
+    },
+    "subs": [
+     "DRIBBLING IS AUTOMATIC"
+    ]
+   }
+  },
+  {
+   "say": "Frogs, Eagles, Ox, or Breakers? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "WHICH TEAM DID YOU PICK?",
+    "prop": "hoop",
+    "bg": "court",
+    "args": {
+     "dunk": true
+    }
+   }
+  }
+ ]
+}

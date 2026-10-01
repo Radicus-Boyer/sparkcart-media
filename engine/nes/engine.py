@@ -15,6 +15,7 @@ sys.path.insert(0, D)
 from lib import *          # palette P, font G, ptext, text_w, sprites, sky, skyline, street, stars, box, ease, paste
 import tts
 import props2
+import props3
 
 FPS = 30
 spec = json.load(open(sys.argv[1]))
@@ -44,11 +45,15 @@ def build_voice():
     return timing
 
 tfile = WORK + f"work_{slug}_timing.json"
-if SHEET and os.path.exists(tfile):
-    timing = json.load(open(tfile))
+hfile = WORK + f"work_{slug}_voice.hash"
+import hashlib
+vhash = hashlib.md5(json.dumps([[l["say"] for l in spec["lines"]], spec.get("voice"), spec.get("speed"), spec.get("pron")]).encode()).hexdigest()
+if (os.path.exists(tfile) and os.path.exists(WORK + f"work_{slug}_voice.wav")
+        and os.path.exists(hfile) and open(hfile).read() == vhash):
+    timing = json.load(open(tfile))          # same script as last time: reuse the voice (sheet -> full render)
 else:
     timing = build_voice()
-    json.dump(timing, open(tfile, "w"))
+    json.dump(timing, open(tfile, "w")); open(hfile, "w").write(vhash)
 END = timing[-1][1] + 1.0
 NF = int(END * FPS)
 
@@ -196,7 +201,7 @@ def bg(img, name, t):
     elif name == "desk":
         sky(img, P['dblu'], P['blu'])
         d.rectangle([0, 190, W, H], fill=P['brn']); d.rectangle([0, 190, W, 193], fill=P['tan'])
-    elif props2.extra_bg(img, name, t):
+    elif props3.extra_bg(img, name, t) or props2.extra_bg(img, name, t):
         pass
     else:  # dark
         sky(img, P['dgry'], P['blk'])
@@ -549,7 +554,8 @@ def prop(img, t, lt, name, a):
         spr = {"skater": sk_stand, "skier": SKIER, "robot": ROBOT, "lester": lester}[a["who"]]
         paste(img, spr, 90 - 6 * a.get("sc", 4), 110 + int(math.sin(t * 4) * 2), scale=a.get("sc", 4))
     else:
-        props2.extra_prop(img, t, lt, name, a)
+        if not props3.extra_prop(img, t, lt, name, a):
+            props2.extra_prop(img, t, lt, name, a)
 
 # ======================= scenes =======================
 def scene(img, t, lt, sc, i):
@@ -631,7 +637,7 @@ def frame_at(t):
         for yy in range(0, H, 20): d.rectangle([0, yy, W, yy + cov], fill=P['blk'])
     frame = img.convert("RGB").resize((W * S, H * S), Image.NEAREST)
     arr = np.asarray(frame).copy(); arr[::S] = (arr[::S] * 0.78).astype(np.uint8)
-    frame = Image.fromarray(arr); caption(frame, t)
+    frame = props3.apply_overlays(Image.fromarray(arr)); caption(frame, t)
     return frame
 
 if COVER:

@@ -1,0 +1,222 @@
+{
+ "preset": "nes",
+ "num": 36,
+ "name": "DuckTales",
+ "slug": "ducktales",
+ "theme": "moon",
+ "title_lines": [
+  "DUCKTALES"
+ ],
+ "year_tag": "NES 1989",
+ "music": {
+  "bpm": 144,
+  "tr": 4,
+  "seed": 36
+ },
+ "lines": [
+  {
+   "say": "Capcom's best-selling NES game isn't Mega Man. It's DuckTales.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "DuckTales came out in America in October 1989, based on the Disney cartoon.",
+   "scene": {
+    "bg": "space",
+    "head": "1989",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "DUCK TALES",
+     "col": "blu"
+    },
+    "subs": [
+     "CAPCOM + DISNEY"
+    ]
+   }
+  },
+  {
+   "say": "It was built by staff from the Mega Man team, including Keiji Inafune.",
+   "scene": {
+    "bg": "lab",
+    "head": "THE MEGA MAN TEAM",
+    "headsc": 2,
+    "prop": "team",
+    "args": {
+     "n": 3
+    }
+   }
+  },
+  {
+   "say": "You play as Scrooge McDuck, and your cane is everything. Jump on it, and it works like a pogo stick.",
+   "scene": {
+    "bg": "grass",
+    "head": "THE POGO CANE",
+    "headsc": 2,
+    "prop": "pogo"
+   }
+  },
+  {
+   "say": "Bounce on enemies, bounce over spikes, and bounce your way to treasure.",
+   "scene": {
+    "bg": "jungle",
+    "head": "BOUNCE!",
+    "headcol": "lgrn",
+    "prop": "pogo"
+   }
+  },
+  {
+   "say": "There are five levels, and you can play them in any order.",
+   "scene": {
+    "bg": "dark",
+    "head": "5 LEVELS",
+    "prop": "list",
+    "args": {
+     "items": [
+      "AFRICAN MINES",
+      "THE AMAZON",
+      "THE HIMALAYAS",
+      "TRANSYLVANIA",
+      "THE MOON"
+     ]
+    }
+   }
+  },
+  {
+   "say": "The Moon level's music, by Hiroshige Tonomura, became one of the most loved songs in 8-bit history.",
+   "scene": {
+    "bg": "moon",
+    "head": "THE MOON THEME",
+    "headsc": 2,
+    "prop": "notes",
+    "subs": [
+     "BY HIROSHIGE TONOMURA"
+    ]
+   }
+  },
+  {
+   "say": "The game has three endings, based on how much money you finish with. Ten million dollars or more gets you the best one.",
+   "scene": {
+    "bg": "dark",
+    "head": "3 ENDINGS",
+    "prop": "gems",
+    "args": {
+     "n": 10000000
+    },
+    "subs": [
+     "$10 MILLION = BEST"
+    ]
+   }
+  },
+  {
+   "say": "There's even a secret bad ending, if you finish with zero dollars.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE $0 ENDING",
+    "headsc": 2,
+    "headcol": "red",
+    "prop": "quote",
+    "args": {
+     "text": "TOTAL: $0",
+     "sc": 3
+    },
+    "subs": [
+     "SECRET BAD ENDING"
+    ]
+   }
+  },
+  {
+   "say": "It sold about 1.67 million copies, the most of any Capcom game on the NES.",
+   "scene": {
+    "bg": "dark",
+    "head": "CAPCOM'S #1 ON NES",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 1.67,
+     "fmt": "{:.2f}",
+     "unit": "MILLION SOLD"
+    }
+   }
+  },
+  {
+   "say": "The Game Boy version sold another 1.43 million.",
+   "scene": {
+    "bg": "dark",
+    "head": "GAME BOY TOO",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 1.43,
+     "fmt": "{:.2f}",
+     "unit": "MILLION ON GAME BOY"
+    }
+   }
+  },
+  {
+   "say": "The producer was Tokuro Fujiwara, the creator of Ghosts and Goblins.",
+   "scene": {
+    "bg": "graveyard",
+    "head": "THE PRODUCER",
+    "headsc": 2,
+    "prop": "knight",
+    "args": {
+     "at": 99
+    },
+    "subs": [
+     "TOKURO FUJIWARA"
+    ]
+   },
+   "cap": "The producer was Tokuro Fujiwara, the creator of Ghosts 'n Goblins."
+  },
+  {
+   "say": "A sequel followed in 1993.",
+   "scene": {
+    "bg": "space",
+    "head": "1993",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "DUCK TALES 2",
+     "col": "red"
+    },
+    "subs": [
+     "THE SEQUEL"
+    ]
+   }
+  },
+  {
+   "say": "And in 2013, it came back as DuckTales Remastered, with voices from the cartoon's cast.",
+   "scene": {
+    "bg": "dark",
+    "head": "2013",
+    "headsc": 4,
+    "prop": "quote",
+    "args": {
+     "text": "DUCKTALES REMASTERED",
+     "col": "yel"
+    },
+    "subs": [
+     "WITH THE CARTOON CAST"
+    ]
+   }
+  },
+  {
+   "say": "What's your favorite DuckTales level? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "FAVORITE DUCKTALES LEVEL?",
+    "prop": "pogo",
+    "bg": "moon"
+   }
+  }
+ ],
+ "pron": {
+  "Inafune": "Ina-foo-nay",
+  "Tonomura": "Tono-moora",
+  "Hiroshige": "Hiro-shee-gay",
+  "Tokuro": "Toe-koo-roe",
+  "Fujiwara": "Foo-jee-wara"
+ }
+}

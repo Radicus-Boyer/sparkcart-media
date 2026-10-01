@@ -1,0 +1,202 @@
+{
+ "preset": "nes",
+ "num": 33,
+ "name": "Teenage Mutant Ninja Turtles",
+ "slug": "tmnt",
+ "theme": "city",
+ "title_lines": [
+  "NINJA",
+  "TURTLES"
+ ],
+ "year_tag": "NES 1989",
+ "music": {
+  "bpm": 152,
+  "tr": 3,
+  "seed": 33
+ },
+ "lines": [
+  {
+   "say": "This NES game sold 4 million copies, and one level made almost everyone quit.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "Teenage Mutant Ninja Turtles came out in 1989, right as the cartoon was exploding.",
+   "scene": {
+    "bg": "space",
+    "head": "1989",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "TMNT",
+     "col": "grn"
+    },
+    "subs": [
+     "TURTLE MANIA"
+    ]
+   }
+  },
+  {
+   "say": "Konami made it, but in America it shipped under their second label, Ultra Games.",
+   "scene": {
+    "bg": "dark",
+    "head": "ULTRA GAMES",
+    "prop": "limit",
+    "subs": [
+     "KONAMI'S 2ND LABEL"
+    ]
+   }
+  },
+  {
+   "say": "You control all four turtles, and you can switch between them any time by pressing start.",
+   "scene": {
+    "bg": "dark",
+    "head": "4 HEROES",
+    "prop": "squad"
+   }
+  },
+  {
+   "say": "Each one has a different weapon: swords, nunchucks, a bo staff, and sai.",
+   "scene": {
+    "bg": "dark",
+    "head": "4 WEAPONS",
+    "prop": "list",
+    "args": {
+     "items": [
+      "SWORDS",
+      "NUNCHUCKS",
+      "BO STAFF",
+      "SAI"
+     ]
+    }
+   }
+  },
+  {
+   "say": "You explore the city from above, then drop into side-scrolling buildings and sewers.",
+   "scene": {
+    "bg": "dark",
+    "head": "TWO VIEWS",
+    "prop": "citymap",
+    "subs": [
+     "OVERHEAD + SIDE VIEW"
+    ]
+   }
+  },
+  {
+   "say": "Then comes level two. You swim through a dam to disarm eight time bombs.",
+   "scene": {
+    "bg": "underwater",
+    "head": "THE DAM",
+    "headcol": "red",
+    "prop": "dam",
+    "args": {
+     "rate": 8
+    }
+   }
+  },
+  {
+   "say": "You get just two minutes and twenty seconds, and the walls are lined with electric seaweed.",
+   "scene": {
+    "bg": "underwater",
+    "head": "2:20",
+    "headsc": 4,
+    "prop": "dam",
+    "args": {
+     "rate": 26
+    }
+   }
+  },
+  {
+   "say": "For a lot of kids, that's where the game ended.",
+   "scene": {
+    "bg": "dark",
+    "head": "GAME OVER",
+    "headcol": "red",
+    "prop": "quote",
+    "args": {
+     "text": "CONTINUE? 9.. 8.. 7.."
+    }
+   }
+  },
+  {
+   "say": "It still sold more than 4 million copies worldwide.",
+   "scene": {
+    "bg": "dark",
+    "head": "A MEGA HIT",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 4,
+     "fmt": "{:.0f}",
+     "unit": "MILLION+ SOLD",
+     "dur": 1.2
+    }
+   }
+  },
+  {
+   "say": "In Europe, the word ninja was a problem, so it became Teenage Mutant Hero Turtles.",
+   "scene": {
+    "bg": "dark",
+    "head": "IN EUROPE",
+    "prop": "nameswap",
+    "args": {
+     "label": "THE TITLE",
+     "frm": "NINJA",
+     "to": "HERO",
+     "at": 1.8
+    }
+   }
+  },
+  {
+   "say": "In Japan, its title translates roughly to: Legend of the Radical Ninja Turtles.",
+   "scene": {
+    "bg": "dark",
+    "head": "IN JAPAN",
+    "prop": "quote",
+    "args": {
+     "text": "LEGEND OF THE RADICAL NINJA TURTLES",
+     "col": "yel"
+    }
+   }
+  },
+  {
+   "say": "And the computer version had a jump that was impossible to make without cheating.",
+   "scene": {
+    "bg": "desk",
+    "head": "PC VERSION",
+    "prop": "computer",
+    "args": {
+     "text": "TURTLES"
+    },
+    "subs": [
+     "AN IMPOSSIBLE JUMP"
+    ]
+   }
+  },
+  {
+   "say": "Later that year, Konami's arcade Turtles game gave fans the four-player brawler they really wanted.",
+   "scene": {
+    "bg": "arcade",
+    "head": "THE ARCADE GAME",
+    "headsc": 2,
+    "prop": "arcade",
+    "subs": [
+     "ALSO 1989"
+    ]
+   }
+  },
+  {
+   "say": "Did you ever beat the dam? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU BEAT THE DAM?",
+    "prop": "dam",
+    "bg": "underwater",
+    "args": {
+     "rate": 6
+    }
+   }
+  }
+ ]
+}

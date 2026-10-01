@@ -1,0 +1,105 @@
+{
+ "preset": "nes",
+ "num": 39,
+ "name": "Bionic Commando",
+ "slug": "bionic",
+ "theme": "base",
+ "title_lines": [
+  "BIONIC",
+  "COMMANDO"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 154,
+  "tr": -1,
+  "seed": 39
+ },
+ "lines": [
+  {
+   "say": "It's a platform game where you can't jump.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "Capcom released Bionic Commando on the NES in 1988.",
+   "scene": {
+    "bg": "space",
+    "head": "1988",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "BIONIC",
+     "col": "grn"
+    },
+    "subs": [
+     "CAPCOM"
+    ]
+   }
+  },
+  {
+   "say": "Instead of jumping, you fire a bionic arm, grab a ledge, and swing across.",
+   "scene": {
+    "bg": "base",
+    "head": "THE BIONIC ARM",
+    "headsc": 2,
+    "prop": "grapple",
+    "args": {
+     "nojump": true
+    }
+   }
+  },
+  {
+   "say": "You play as Ladd, sent to rescue Super Joe, the hero of Capcom's earlier game, Commando.",
+   "scene": {
+    "bg": "jungle",
+    "head": "RESCUE SUPER JOE",
+    "headsc": 2,
+    "prop": "commandos"
+   }
+  },
+  {
+   "say": "The Japanese version had a different title and different villains, so the story was rewritten for America.",
+   "scene": {
+    "bg": "dark",
+    "head": "REWRITTEN",
+    "prop": "swap",
+    "args": {
+     "frm": "JAPAN",
+     "to": "USA",
+     "frmcol": "red",
+     "tocol": "blu",
+     "at": 1.6
+    },
+    "subs": [
+     "NEW STORY FOR THE USA"
+    ]
+   }
+  },
+  {
+   "say": "Nintendo Power put it on the cover of its second issue.",
+   "scene": {
+    "bg": "dark",
+    "head": "COVER STAR",
+    "prop": "magazine",
+    "args": {
+     "title": "GAME MAGAZINE",
+     "issue": "ISSUE 2",
+     "line": "COVER STORY"
+    },
+    "subs": [
+     "NINTENDO POWER #2"
+    ]
+   }
+  },
+  {
+   "say": "Could you play a platformer with no jump button? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "NO JUMP BUTTON. COULD YOU?",
+    "prop": "grapple",
+    "bg": "base"
+   }
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "preset": "nes",
+ "num": 40,
+ "name": "Chip n Dale Rescue Rangers",
+ "slug": "rescuerangers",
+ "theme": "grass",
+ "title_lines": [
+  "RESCUE",
+  "RANGERS"
+ ],
+ "year_tag": "NES 1990",
+ "music": {
+  "bpm": 150,
+  "tr": 5,
+  "seed": 40
+ },
+ "lines": [
+  {
+   "say": "In this NES game, your best weapon is your best friend.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "Capcom's Chip and Dale Rescue Rangers came out in 1990.",
+   "scene": {
+    "bg": "space",
+    "head": "1990",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "RESCUE",
+     "col": "red"
+    },
+    "subs": [
+     "CAPCOM + DISNEY"
+    ]
+   },
+   "cap": "Capcom's Chip 'n Dale Rescue Rangers came out in 1990."
+  },
+  {
+   "say": "You grab crates, apples, and acorns, and throw them at enemies.",
+   "scene": {
+    "bg": "grass",
+    "head": "GRAB AND THROW",
+    "headsc": 2,
+    "prop": "crates"
+   }
+  },
+  {
+   "say": "In two-player mode, you can also pick up your partner, and throw them.",
+   "scene": {
+    "bg": "grass",
+    "head": "THROW YOUR FRIEND",
+    "headsc": 2,
+    "headcol": "red",
+    "prop": "crates",
+    "args": {
+     "partner": true
+    }
+   }
+  },
+  {
+   "say": "You choose your own route across the city on a map.",
+   "scene": {
+    "bg": "dark",
+    "head": "PICK YOUR PATH",
+    "headsc": 2,
+    "prop": "citymap"
+   }
+  },
+  {
+   "say": "It sold about 1.2 million copies, making it Capcom's fourth best-selling NES game.",
+   "scene": {
+    "bg": "dark",
+    "head": "1.2 MILLION SOLD",
+    "headsc": 2,
+    "prop": "award",
+    "args": {
+     "n": "4TH",
+     "text": "BEST-SELLING CAPCOM NES GAME"
+    }
+   }
+  },
+  {
+   "say": "Did you throw your friend off a cliff? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU THROW YOUR FRIEND?",
+    "prop": "crates",
+    "bg": "grass",
+    "args": {
+     "partner": true
+    }
+   }
+  }
+ ]
+}

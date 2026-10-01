@@ -1,0 +1,99 @@
+{
+ "preset": "nes",
+ "num": 38,
+ "name": "Ghosts n Goblins",
+ "slug": "gng",
+ "theme": "graveyard",
+ "title_lines": [
+  "GHOSTS 'N",
+  "GOBLINS"
+ ],
+ "year_tag": "NES 1986",
+ "music": {
+  "bpm": 134,
+  "tr": -4,
+  "seed": 38
+ },
+ "lines": [
+  {
+   "say": "This NES game makes you beat it twice. Most people can't beat it once.",
+   "scene": {
+    "kind": "title"
+   }
+  },
+  {
+   "say": "Ghosts and Goblins hit arcades in 1985, and the NES in 1986.",
+   "scene": {
+    "bg": "space",
+    "head": "1986",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "GHOSTS",
+     "col": "pur"
+    },
+    "subs": [
+     "CAPCOM"
+    ]
+   },
+   "cap": "Ghosts 'n Goblins hit arcades in 1985, and the NES in 1986."
+  },
+  {
+   "say": "You're a knight named Arthur. One hit knocks off your armor. The second hit ends you.",
+   "scene": {
+    "bg": "graveyard",
+    "head": "2 HITS",
+    "headcol": "red",
+    "prop": "knight"
+   }
+  },
+  {
+   "say": "Beat the final boss, and the game sends you back to the start, to do it all again, only harder.",
+   "scene": {
+    "bg": "castle",
+    "head": "DO IT AGAIN",
+    "prop": "loop",
+    "args": {
+     "text": "X2"
+    }
+   }
+  },
+  {
+   "say": "Finish it twice, and your reward is this famously misspelled message.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE ENDING",
+    "prop": "quote",
+    "args": {
+     "text": "CONGRATURATION THIS STORY IS HAPPY END.",
+     "cps": 18
+    }
+   }
+  },
+  {
+   "say": "It still sold 1.64 million copies on the NES.",
+   "scene": {
+    "bg": "dark",
+    "head": "A HUGE HIT",
+    "prop": "bignum",
+    "args": {
+     "n": 1.64,
+     "fmt": "{:.2f}",
+     "unit": "MILLION SOLD"
+    }
+   }
+  },
+  {
+   "say": "Did you ever beat it, even once? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU EVER BEAT IT?",
+    "prop": "knight",
+    "bg": "graveyard",
+    "args": {
+     "at": 99
+    }
+   }
+  }
+ ]
+}

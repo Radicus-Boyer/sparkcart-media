@@ -12,6 +12,8 @@
       media.json maps each FILE name (or its leading number, e.g. "22") to the Postiz media path
       returned by uploadFromUrlTool.
       --gap MIN MAX     random minutes between posts (default 15 40)
+      posting.txt may also hold YT COMMENT / TIKTOK COMMENT lines: a first comment posted by the channel
+      under its own video (write a different one for every video; --no-comments leaves them out).
       --independent     YouTube and TikTok each get their own random timeline (default: TikTok
                         follows YouTube by a random 3-12 minutes for each video)
       Prints a readable timetable and writes the JSON (default build/sched.json).
@@ -23,6 +25,7 @@ REPO = "Radicus-Boyer/sparkcart-media"
 YOUTUBE_ID = "cmups58t40dreqw0yvi5zfyzi"   # SparkCart
 TIKTOK_ID = "cmups5usr0dsdqw0ypxeny3k7"    # sparkcart.co
 KEYS = ("FILE", "YT TITLE", "YT DESCRIPTION", "YT HASHTAGS", "YT TAGS", "TIKTOK TITLE", "TIKTOK CAPTION")
+OPTIONAL = ("YT COMMENT", "TIKTOK COMMENT")   # first comment posted by the channel under its own video
 LIMITS = {"YT TITLE": 100, "TIKTOK TITLE": 90, "TIKTOK CAPTION": 2200, "YT DESCRIPTION": 4800}
 
 YT_SETTINGS = {"type": "public", "selfDeclaredMadeForKids": "no"}
@@ -37,7 +40,7 @@ def parse(path):
     for b in blocks:
         d, key = {}, None
         for ln in b.strip().split("\n"):
-            m = [k for k in KEYS if ln.startswith(k + ":")]
+            m = [k for k in KEYS + OPTIONAL if ln.startswith(k + ":")]
             if m:
                 key = m[0]
                 d[key] = ln.split(":", 1)[1].strip()
@@ -94,7 +97,8 @@ def schedule(a):
             settings.append({"key": "tags", "value": tags})
             posts.append({"integrationId": YOUTUBE_ID, "isPremium": False, "shortLink": False, "type": "schedule",
                           "date": yt_t.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:00Z"),
-                          "postsAndComments": [{"content": html(e["YT DESCRIPTION"]) + f"<p>{e['YT HASHTAGS']}</p>", "attachments": [path]}],
+                          "postsAndComments": [{"content": html(e["YT DESCRIPTION"]) + f"<p>{e['YT HASHTAGS']}</p>", "attachments": [path]}]
+                                              + ([{"content": html(e["YT COMMENT"]), "attachments": []}] if e.get("YT COMMENT") and not a.no_comments else []),
                           "settings": settings})
             row.append("YT " + yt_t.strftime("%a %I:%M %p"))
         if "tiktok" in a.channels:
@@ -103,7 +107,8 @@ def schedule(a):
             settings = [{"key": "title", "value": e["TIKTOK TITLE"]}] + [{"key": k, "value": v} for k, v in TT_SETTINGS.items()]
             posts.append({"integrationId": TIKTOK_ID, "isPremium": False, "shortLink": False, "type": "schedule",
                           "date": tt_t.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:00Z"),
-                          "postsAndComments": [{"content": f"<p>{e['TIKTOK CAPTION']}</p>", "attachments": [path]}],
+                          "postsAndComments": [{"content": f"<p>{e['TIKTOK CAPTION']}</p>", "attachments": [path]}]
+                                              + ([{"content": html(e["TIKTOK COMMENT"]), "attachments": []}] if e.get("TIKTOK COMMENT") and not a.no_comments else []),
                           "settings": settings})
             row.append("TT " + tt_t.strftime("%a %I:%M %p"))
             if a.independent or "youtube" not in a.channels:
@@ -129,6 +134,7 @@ if __name__ == "__main__":
     s.add_argument("--channels", nargs="+", default=["youtube", "tiktok"])
     s.add_argument("--independent", action="store_true")
     s.add_argument("--seed", type=int)
+    s.add_argument("--no-comments", action="store_true", help="leave out the YT COMMENT / TIKTOK COMMENT first comments")
     s.add_argument("--out", default=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "build", "sched.json"))
     a = ap.parse_args()
     if a.cmd == "check":

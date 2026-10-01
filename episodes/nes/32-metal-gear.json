@@ -1,0 +1,227 @@
+{
+ "preset": "nes",
+ "num": 32,
+ "name": "Metal Gear",
+ "slug": "metalgear",
+ "theme": "base",
+ "title_lines": [
+  "METAL",
+  "GEAR"
+ ],
+ "year_tag": "NES 1988",
+ "music": {
+  "bpm": 138,
+  "tr": -2,
+  "seed": 32
+ },
+ "lines": [
+  {
+   "say": "The NES version of Metal Gear doesn't actually have a Metal Gear in it.",
+   "scene": {
+    "kind": "title",
+    "prop": "sneak"
+   }
+  },
+  {
+   "say": "Metal Gear started on a Japanese computer called the M.S.X. two, in July 1987.",
+   "scene": {
+    "bg": "desk",
+    "head": "1987",
+    "headsc": 4,
+    "prop": "computer",
+    "args": {
+     "text": "MGEAR"
+    },
+    "subs": [
+     "MSX2 COMPUTER"
+    ]
+   },
+   "cap": "Metal Gear started on a Japanese computer called the MSX2, in July 1987."
+  },
+  {
+   "say": "It was the first game Hideo Kojima ever directed.",
+   "scene": {
+    "bg": "dark",
+    "head": "HIDEO KOJIMA",
+    "headsc": 2,
+    "prop": "award",
+    "args": {
+     "n": "1ST",
+     "text": "GAME AS DIRECTOR"
+    }
+   }
+  },
+  {
+   "say": "The computer couldn't handle lots of bullets and enemies on screen, so Kojima made a game about hiding instead of shooting.",
+   "scene": {
+    "bg": "base",
+    "head": "HIDE, DON'T SHOOT",
+    "headsc": 2,
+    "prop": "sneak"
+   }
+  },
+  {
+   "say": "He was inspired by the movie, The Great Escape.",
+   "scene": {
+    "bg": "dark",
+    "head": "INSPIRATION",
+    "headsc": 2,
+    "prop": "film",
+    "args": {
+     "t1": "THE GREAT ESCAPE",
+     "t2": "1963"
+    }
+   }
+  },
+  {
+   "say": "The NES version reached America in June 1988, published by Konami's second label, Ultra Games.",
+   "scene": {
+    "bg": "space",
+    "head": "1988",
+    "headsc": 4,
+    "prop": "port",
+    "args": {
+     "label": "METAL GEAR",
+     "col": "grn"
+    },
+    "subs": [
+     "ULTRA GAMES"
+    ]
+   }
+  },
+  {
+   "say": "But a different Konami team made it, and they changed a lot.",
+   "scene": {
+    "bg": "dark",
+    "head": "A NEW TEAM",
+    "prop": "swap",
+    "args": {
+     "frm": "MSX2",
+     "to": "NES",
+     "frmcol": "blu",
+     "tocol": "red",
+     "at": 1.4
+    }
+   }
+  },
+  {
+   "say": "You now start by parachuting into a jungle.",
+   "scene": {
+    "bg": "jungle",
+    "head": "NEW OPENING",
+    "headsc": 2,
+    "prop": "parachute"
+   }
+  },
+  {
+   "say": "And the final boss, the Metal Gear tank itself, was replaced by a supercomputer.",
+   "scene": {
+    "bg": "base",
+    "head": "SWAPPED",
+    "headcol": "red",
+    "prop": "nameswap",
+    "args": {
+     "frm": "METAL GEAR",
+     "to": "A COMPUTER",
+     "at": 1.8
+    }
+   }
+  },
+  {
+   "say": "The giant helicopter boss was swapped out too, for a pair of turret gunners.",
+   "scene": {
+    "bg": "base",
+    "head": "NO HELICOPTER",
+    "headsc": 2,
+    "prop": "nameswap",
+    "args": {
+     "label": "BOSS FIGHT",
+     "frm": "HELICOPTER",
+     "to": "2 TURRETS",
+     "at": 1.6
+    }
+   }
+  },
+  {
+   "say": "And instead of saving to tape, like the computer version, the NES game uses passwords.",
+   "scene": {
+    "bg": "dark",
+    "head": "PASSWORDS",
+    "prop": "quote",
+    "args": {
+     "text": "PASSWORD: * * * * *",
+     "col": "lblu"
+    },
+    "subs": [
+     "NO TAPE SAVES"
+    ]
+   }
+  },
+  {
+   "say": "The translation was rough, too. One sleepy guard says: I feel asleep!",
+   "scene": {
+    "bg": "base",
+    "head": "OOPS",
+    "prop": "quote",
+    "args": {
+     "text": "I FEEL ASLEEP!!"
+    },
+    "subs": [
+     "A SLEEPY GUARD"
+    ]
+   }
+  },
+  {
+   "say": "Kojima later said the NES port wasn't up to his standards.",
+   "scene": {
+    "bg": "dark",
+    "head": "KOJIMA'S VERDICT",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "WASN'T UP TO MY STANDARDS",
+     "col": "red"
+    }
+   }
+  },
+  {
+   "say": "Still, it sold a million copies in the United States.",
+   "scene": {
+    "bg": "dark",
+    "head": "A HIT ANYWAY",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 1,
+     "fmt": "{:.0f}",
+     "unit": "MILLION SOLD IN USA",
+     "dur": 1.0
+    }
+   }
+  },
+  {
+   "say": "And for a lot of American kids, it was their very first stealth game.",
+   "scene": {
+    "bg": "base",
+    "head": "STEALTH BEGINS",
+    "headsc": 2,
+    "prop": "sneak",
+    "args": {
+     "alert": true
+    }
+   }
+  },
+  {
+   "say": "Did you play Metal Gear on the NES? Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "DID YOU PLAY IT ON NES?",
+    "prop": "sneak",
+    "bg": "base"
+   }
+  }
+ ],
+ "pron": {
+  "Kojima": "Ko-jee-ma"
+ }
+}

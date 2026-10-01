@@ -84,7 +84,18 @@ Props (with example args):
 `nameswap {"frm": "A", "to": "B", "at": 2.0}`, `suit`, `password`, `alien`, `metro`, `whip`,
 `credits {"names": [...]}`, `monsters {"items": [...]}`, `none`.
 
-A new game often needs one new prop: add it to `engine/nes/props2.py` (`extra_prop`) in the same
+Episodes 31+ add (in `engine/nes/props3.py`): backgrounds `moon court underwater graveyard base town`, and props
+`photo {"file": "x.png", "label": "..."}` (your own image or clip from `episodes/assets/`, see the README there),
+`quote {"text": "...", "col": "yel", "sc": 2}` (typed text box), `bignum {"n": 1.67, "fmt": "{:.2f}", "unit": "MILLION SOLD"}`,
+`award {"n": "4TH", "text": "..."}`, `shooter {"options": true}`, `powerbar`, `sneak {"alert": true}`, `parachute`,
+`mainframe`, `dam {"rate": 8}`, `squad`, `hoop {"dunk": true}`, `speech {"text": "..."}`, `daynight`,
+`villager {"text": "...", "lie": true}`, `graves {"items": [...]}`, `pogo`, `gems {"n": 10000000}`, `team {"n": 3, "label": "..."}`,
+`robodog`, `slide`, `mystery {"q": "..."}`, `pad2 {"hot": "R", "text": "SUPER JUMP!"}`, `knight`, `loop {"text": "X2"}`,
+`grapple {"nojump": true}`, `magazine {"title": "...", "issue": "...", "line": "..."}`, `crates {"partner": true}`, `citymap`.
+
+The voice is cached between a `--sheet` preview and the full render as long as the script lines don't change.
+
+A new game often needs one new prop: add it to `engine/nes/props3.py` (`extra_prop`) in the same
 style: drawn with rectangles on the 180x320 canvas using palette colours, all original art.
 
 ## Roblox episode format
