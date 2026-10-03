@@ -1,0 +1,203 @@
+{
+ "preset": "popular",
+ "num": 5,
+ "theme": "wardogs",
+ "game": "WARDOGS",
+ "target": 70,
+ "pron": {
+  "Wardogs": "War dogs",
+  "WARDOGS": "War dogs",
+  "Team17": "Team Seventeen"
+ },
+ "lines": [
+  {
+   "t": "This game sold two million copies in under five days, and its studio almost didn't survive to make it.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "2 MILLION SOLD",
+     "*IN 5 DAYS"
+    ],
+    "size": 150
+   }
+  },
+  {
+   "t": "Wardogs is a 100 player shooter. Three teams fight to hold one control zone on a giant map.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "100 PLAYERS"
+     ],
+     [
+      "flag",
+      "3 TEAMS OF 33"
+     ],
+     [
+      "location-crosshairs",
+      "HOLD THE ZONE"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Everything runs on in-game cash. You start with 10,000 dollars, and every gun and vehicle has a price.",
+   "sc": {
+    "kind": "stat",
+    "val": "$10,000",
+    "label": "YOU START WITH",
+    "sub": "every gun and vehicle costs cash",
+    "icon": "sack-dollar"
+   }
+  },
+  {
+   "t": "You earn more by fighting, reviving, driving and building.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "gun",
+      "FIGHTING"
+     ],
+     [
+      "kit-medical",
+      "REVIVING"
+     ],
+     [
+      "truck-pickup",
+      "DRIVING"
+     ],
+     [
+      "hammer",
+      "BUILDING"
+     ]
+    ],
+    "head": "HOW YOU GET PAID"
+   }
+  },
+  {
+   "t": "Players even started running their own paid taxi services.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "PLAYER",
+     "*TAXIS"
+    ],
+    "icon": "taxi",
+    "sub": "people charge for rides"
+   }
+  },
+  {
+   "t": "Buildings can be destroyed, and voice chat is heard by all three teams.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "house-crack",
+      "DESTRUCTIBLE BUILDINGS"
+     ],
+     [
+      "microphone",
+      "EVERYONE HEARS YOU"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Three days after launch it peaked at over 428,000 players on Steam.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     428666,
+     "{:,.0f}"
+    ],
+    "label": "PEAK ON STEAM",
+    "sub": "September 13, 2026",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "The map is a fictional country, modelled on the real country of Georgia.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-chiatura.jpg",
+    "label": "GEORGIA: THE REAL PLACE BEHIND THE MAP",
+    "credit": "Chiatura. Photo: Alexkom000, CC BY 4.0"
+   }
+  },
+  {
+   "t": "The studio, Bulkhead, needed just 400,000 sales to survive. It sold a million on day one.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "NEEDED",
+     "400K",
+     "sales to survive"
+    ],
+    "right": [
+     "DAY ONE",
+     "1M",
+     "copies sold"
+    ]
+   }
+  },
+  {
+   "t": "A bigger publisher passed on the pitch, so they signed with Team17 instead.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TOO SMALL?"
+    ],
+    "icon": "xmark",
+    "sub": "a bigger publisher said no"
+   }
+  },
+  {
+   "t": "There's no battle pass and no microtransactions. The developers even published ten reasons not to buy it.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "ban",
+      "NO BATTLE PASS"
+     ],
+     [
+      "ban",
+      "NO MICROTRANSACTIONS"
+     ],
+     [
+      "list-ol",
+      "10 REASONS NOT TO BUY"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "And the boss says cash is the best anti-cheat.",
+   "sc": {
+    "kind": "quote",
+    "quote": "Cash is the best anticheat.",
+    "by": "Joe Brammer, Bulkhead CEO"
+   }
+  },
+  {
+   "t": "It's in early access, only on PC, for 40 dollars.",
+   "sc": {
+    "kind": "stat",
+    "val": "$39.99",
+    "label": "EARLY ACCESS",
+    "sub": "PC only, since September 10, 2026",
+    "icon": "tag"
+   }
+  },
+  {
+   "t": "Would you be a soldier, or a taxi driver? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "SOLDIER OR TAXI DRIVER?"
+   }
+  }
+ ],
+ "file": "05 - WARDOGS.mp4"
+}

@@ -1,0 +1,83 @@
+{
+ "preset": "popular",
+ "num": 9,
+ "theme": "wolv",
+ "game": "Marvel's Wolverine",
+ "target": 30,
+ "lines": [
+  {
+   "t": "Fans waited five years for this game.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "5 YEARS",
+     "*OF WAITING"
+    ]
+   }
+  },
+  {
+   "t": "Marvel's Wolverine is a single player action game from the makers of Spider-Man, only on PlayStation 5.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "user",
+      "PLAY AS LOGAN"
+     ],
+     [
+      "bolt",
+      "RAGE METER"
+     ],
+     [
+      "heart-pulse",
+      "HEALING FACTOR"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "One analyst estimates it sold almost two million copies in three days.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "~1.9 MILLION",
+    "label": "COPIES IN 3 DAYS",
+    "sub": "analyst estimate",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "The first teaser hid a license plate, H L K 181. That's the comic where Wolverine first appeared, in 1974.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "HLK 181"
+    ],
+    "icon": "car-side",
+    "sub": "The Incredible Hulk #181, 1974"
+   },
+   "say": "The first teaser hid a license plate: H, L, K, one eighty-one. That's the comic where Wolverine first appeared, in 1974."
+  },
+  {
+   "t": "And yes, this is a real wolverine. Famous for standing up to animals many times its size.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-wolverine-animal.jpg",
+    "label": "A REAL WOLVERINE",
+    "credit": "Photo: Uusijani, CC0",
+    "focus": [
+     0.55,
+     0.4
+    ]
+   }
+  },
+  {
+   "t": "Is it your game of the year? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "GAME OF THE YEAR?"
+   }
+  }
+ ],
+ "file": "09 - Marvels Wolverine.mp4"
+}

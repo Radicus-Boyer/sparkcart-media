@@ -1,0 +1,98 @@
+{
+ "preset": "popular",
+ "num": 7,
+ "theme": "dawn",
+ "game": "The Blood of Dawnwalker",
+ "target": 30,
+ "pron": {
+  "Dawnwalker": "Dawn walker",
+  "Carpathian": "Car-pay-thian"
+ },
+ "lines": [
+  {
+   "t": "In this game you are human by day, and a vampire by night.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "Human by Day",
+     "*Vampire by Night"
+    ],
+    "size": 128
+   }
+  },
+  {
+   "t": "The Blood of Dawnwalker gives you 30 days and nights to rescue your family from a vampire lord.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "30 Days",
+     "*30 Nights"
+    ],
+    "icon": "hourglass-half",
+    "sub": "to save your family"
+   }
+  },
+  {
+   "t": "It's set in the Carpathian mountains, during the Black Death.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-hunyad-castle.jpg",
+    "label": "A real Carpathian castle",
+    "credit": "Hunyad Castle, Romania. Photo: Luke.ender, public domain",
+    "crop": [
+     0,
+     0,
+     1,
+     0.7
+    ],
+    "focus": [
+     0.4,
+     0.3
+    ]
+   }
+  },
+  {
+   "t": "It sold a million copies in three days, and peaked at 78,000 players on Steam.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 Million",
+    "label": "Sold in 3 days",
+    "sub": "78,188 at once on Steam",
+    "icon": "droplet"
+   }
+  },
+  {
+   "t": "It was made by the director of The Witcher 3, who paid for the first prototype himself.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Director of",
+     "*The Witcher 3"
+    ],
+    "size": 112,
+    "icon": "feather-pointed",
+    "sub": "he paid for the first prototype"
+   }
+  },
+  {
+   "t": "The twist: exploring is free, but every quest costs you time.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Time is",
+     "*Currency"
+    ],
+    "icon": "clock",
+    "sub": "only quests move the clock"
+   }
+  },
+  {
+   "t": "Day, or night? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Day or night?"
+   }
+  }
+ ],
+ "file": "07 - The Blood of Dawnwalker.mp4"
+}

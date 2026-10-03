@@ -1,0 +1,104 @@
+{
+ "preset": "popular",
+ "num": 8,
+ "theme": "control",
+ "game": "Control Resonant",
+ "target": 30,
+ "pron": {
+  "Faden": "Fay-den",
+  "Aberrant": "Ab-air-ent"
+ },
+ "lines": [
+  {
+   "t": "The sequel to Control took away the gun.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "THE GUN",
+     "*IS GONE"
+    ]
+   }
+  },
+  {
+   "t": "In Control Resonant you fight with the Aberrant, a weapon that changes shape in your hands.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE",
+     "*ABERRANT"
+    ],
+    "icon": "shapes",
+    "sub": "a shape-shifting melee weapon"
+   }
+  },
+  {
+   "t": "You play Dylan Faden, in a warped, reality-bending Manhattan.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "user",
+      "PLAY AS DYLAN FADEN"
+     ],
+     [
+      "city",
+      "A WARPED MANHATTAN"
+     ],
+     [
+      "clock",
+      "7 YEARS AFTER CONTROL"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "It peaked at nearly 43,000 players on Steam: the biggest launch Remedy has ever had.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     42799,
+     "{:,.0f}"
+    ],
+    "label": "PEAK ON STEAM",
+    "sub": "Remedy's biggest launch ever",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Remedy bought the rights back and published it themselves.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SELF",
+     "*PUBLISHED"
+    ],
+    "icon": "handshake",
+    "sub": "rights bought back for 17 million euros"
+   }
+  },
+  {
+   "t": "And the series' Oldest House was inspired by this real windowless skyscraper in New York.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-33-thomas.jpg",
+    "label": "33 THOMAS STREET, NEW YORK",
+    "credit": "Photo: Jim.henderson, CC BY 4.0",
+    "crop": [
+     0,
+     0.08,
+     0.78,
+     0.86
+    ],
+    "maxh": 620
+   }
+  },
+  {
+   "t": "Do you miss the gun? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "DO YOU MISS THE GUN?"
+   }
+  }
+ ],
+ "file": "08 - Control Resonant.mp4"
+}

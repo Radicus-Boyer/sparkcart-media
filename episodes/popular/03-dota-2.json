@@ -1,0 +1,183 @@
+{
+ "preset": "popular",
+ "num": 3,
+ "theme": "dota",
+ "game": "Dota 2",
+ "target": 70,
+ "pron": {
+  "IceFrog": "Ice Frog",
+  "Roshan": "Row-shahn",
+  "Dota": "Doe-tuh",
+  "OpenAI": "Open A.I."
+ },
+ "lines": [
+  {
+   "t": "This free game once gave away 40 million dollars at a single tournament.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "$40 MILLION",
+     "*ONE EVENT"
+    ]
+   }
+  },
+  {
+   "t": "Dota 2 is five against five. Everyone picks one hero, and you win by destroying the enemy's Ancient.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "5 VS 5"
+     ],
+     [
+      "hat-wizard",
+      "PICK ONE HERO"
+     ],
+     [
+      "chess-rook",
+      "DESTROY THE ANCIENT"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "There are more than 125 heroes, and every single one is free.",
+   "sc": {
+    "kind": "stat",
+    "val": "125+",
+    "label": "HEROES",
+    "sub": "all free for everyone",
+    "icon": "dragon"
+   }
+  },
+  {
+   "t": "It began in 2003 as a fan-made map for Warcraft 3. Its lead designer, IceFrog, has stayed anonymous for 20 years.",
+   "sc": {
+    "kind": "timeline",
+    "rows": [
+     [
+      2003,
+      "Warcraft III fan map"
+     ],
+     [
+      2005,
+      "IceFrog takes over"
+     ],
+     [
+      2013,
+      "Dota 2 launches"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Its record is 1.29 million players at once, and it still averages over half a million.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     1295114,
+     "{:,.0f}"
+    ],
+    "label": "ALL-TIME PEAK ON STEAM",
+    "sub": "March 2016",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Every year the best teams meet at The International, in front of a packed arena.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-dota-ti7.jpg",
+    "label": "THE INTERNATIONAL 2017",
+    "credit": "Photo: Kevin Tao, CC BY 2.0",
+    "focus": [
+     0.35,
+     0.2
+    ]
+   }
+  },
+  {
+   "t": "In 2021 the prize pool passed 40 million dollars, the biggest in esports history. Fans funded it by buying the battle pass.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "$40,018,195",
+    "label": "PRIZE POOL, 2021",
+    "sub": "biggest in esports history",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "This August, Team Spirit became the first team to win it three times.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TEAM SPIRIT",
+     "*3X CHAMPIONS"
+    ],
+    "size": 118,
+    "icon": "crown",
+    "sub": "2021 - 2023 - 2026"
+   }
+  },
+  {
+   "t": "In 2019 an AI called OpenAI Five beat the world champions two games to zero.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "OPENAI FIVE",
+     "2",
+     "wins"
+    ],
+    "right": [
+     "WORLD CHAMPS",
+     "0",
+     "wins"
+    ]
+   }
+  },
+  {
+   "t": "It had trained by playing against itself for the equivalent of 45,000 years.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "45,000 YEARS",
+    "label": "OF SELF-PLAY",
+    "sub": "then it won 99.4% of its public games",
+    "icon": "robot"
+   }
+  },
+  {
+   "t": "A song about playing it even became a top ten hit in Sweden.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "A TOP 10",
+     "*HIT SONG"
+    ],
+    "icon": "music",
+    "sub": "Basshunter, 2006"
+   }
+  },
+  {
+   "t": "And the giant boss, Roshan, is reportedly named after a bowling ball.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ROSHAN"
+    ],
+    "icon": "bowling-ball",
+    "sub": "reportedly named after a bowling ball"
+   }
+  },
+  {
+   "t": "Who is your main hero? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "WHO'S YOUR MAIN HERO?"
+   }
+  }
+ ],
+ "file": "03 - Dota 2.mp4"
+}

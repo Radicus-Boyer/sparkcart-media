@@ -8,6 +8,10 @@ engine/            the renderer: render.py (entry point + Roblox preset), art.py
 engine/nes/        NES preset = the original 8-Bit Backstory engine (engine.py, lib.py, props2.py, music.py, tts.py)
 episodes/nes/      episode scripts #1-20 (NES preset), re-renderable
 episodes/roblox/   episode scripts #21-30 (Roblox Edition preset)
+engine/modern/     'popular' preset = Most Popular Games of the Internet (engine.py, themes.py, gfx.py, music2.py, fonts/)
+episodes/popular/  episode scripts for Most Popular Games of the Internet
+episodes/assets/   real images used by photo scenes + CREDITS.txt (licence and source of every image)
+popular-batch-1/   finished MP4s + posting.txt, Most Popular Games #1-10
 tools/posting.py   posting.txt checker, raw-URL lister, Postiz schedule builder
 roblox-edition/    finished MP4s + posting.txt (public links Postiz pulls from)
 build/             renders and scratch files (git-ignored)
@@ -36,6 +40,49 @@ entry point; it reads `"preset"` from the episode JSON and hands NES episodes to
 
 NES cover image (TikTok cover, 1080x1920 PNG in `build/out/covers/`):
 `python3 engine/nes/engine.py episodes/nes/13-contra.json cover "THE CODE THAT GAVE YOU 30 LIVES"`
+
+## Popular episode format (Most Popular Games of the Internet)
+
+`"preset": "popular"`. Motion-graphics Shorts with one visual theme per game: fonts, colours, background, panels,
+music and a small live counter all change with `theme`. No NES or Roblox look. The header always reads
+"MOST POPULAR GAMES / OF THE INTERNET" plus the game name. Captions sit at y=1330 (well above the YouTube and
+TikTok title and buttons); the bottom third of the frame is left empty on purpose.
+
+```json
+{"preset": "popular", "num": 1, "theme": "cs2", "game": "Counter-Strike 2", "file": "01 - Counter-Strike 2.mp4",
+ "target": 70, "pron": {"Minh Le": "Min Lay"},
+ "lines": [{"t": "caption and spoken text", "say": "optional different spoken text", "sc": {"kind": "stat", "...": "..."}}]}
+```
+
+Themes (in `engine/modern/themes.py`, music in `music2.py`): `cs2` tactical HUD, `dw9` ink and war banners,
+`dota` arcane battle map, `pubg` drop-zone map with a shrinking circle, `wardogs` cash and concrete, `oni` ink wash,
+`dawn` day/night cycle, `control` brutalist black/red, `wolv` comic book, `witcher` parchment map.
+A new game needs a new theme: copy the closest one (static painter, per-frame layer, panel, text roles, caption style)
+and add a music style with the same name. Keep all art original and generic: no logos, sprites or known characters.
+
+Scene kinds (`sc.kind`):
+
+| kind | keys |
+|------|------|
+| `title` / `text` | `big` (list of lines, `*` prefix = accent colour), `icon`, `kicker`, `sub`, `size` |
+| `stat` | `val` or `num: [value, "{:,.0f}"]` (counts up), `label`, `sub`, `icon`, `size` |
+| `list` | `items: [[icon, text], ...]`, `head` |
+| `bars` | `rows: [[label, value, shown text], ...]`, `head` |
+| `vs` | `left` and `right`: `[label, value, sub]` |
+| `timeline` | `rows: [[year, text], ...]` |
+| `quote` | `quote`, `by` |
+| `photo` | `img` (file in `episodes/assets/`), `label`, `credit`, `crop: [l, t, r, b]` as fractions, `focus: [x, y]`, `maxh` |
+| `outro` | `question` |
+
+Icons are Font Awesome Free solid names (`engine/modern/icons.json`).
+Length: about 85 words for 30 s, about 190 words for 70 s. Voice speed starts at 1.12 and rises (max 1.32) if the
+script runs over `target`; keep it at 1.20 or lower by trimming text instead.
+
+Real images: every video gets at least one `photo` scene. Use only public-domain, CC0 or CC BY files (Wikimedia
+Commons is the easiest source: official publisher trailers uploaded under CC BY, esports event photos, real places
+behind the game), put the credit in `credit`, list it in `episodes/assets/CREDITS.txt` and in the YouTube
+description. No screenshots or box art without a free licence. The cloud workspace cannot download from
+Wikimedia directly; images come in through the browser on the user's linked computer.
 
 ## NES episode format
 

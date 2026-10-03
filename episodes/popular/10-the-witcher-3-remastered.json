@@ -1,0 +1,179 @@
+{
+ "preset": "popular",
+ "num": 10,
+ "theme": "witcher",
+ "game": "The Witcher 3 Remastered",
+ "target": 70,
+ "pron": {
+  "Geralt": "Geh-ralt",
+  "Ciri": "Siri",
+  "Andrzej": "Ahn-jay",
+  "Sapkowski": "Sap-koff-skee",
+  "Gwent": "Gwent"
+ },
+ "lines": [
+  {
+   "t": "This game is 11 years old, and it just broke its own player record.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "11 Years Old",
+     "*New Record"
+    ]
+   }
+  },
+  {
+   "t": "The Witcher 3 Remastered launched on September 29th and hit almost 121,000 players at once on Steam.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     120975,
+     "{:,.0f}"
+    ],
+    "label": "Players at once on Steam",
+    "sub": "September 29, 2026",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "It adds path-traced lighting, reworked combat animations and a new skill tree.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "sun",
+      "Path-traced lighting"
+     ],
+     [
+      "hand-fist",
+      "Reworked combat"
+     ],
+     [
+      "sitemap",
+      "New skill tree"
+     ]
+    ],
+    "head": "What's new"
+   }
+  },
+  {
+   "t": "And if you already own the game, the upgrade is free.",
+   "sc": {
+    "kind": "stat",
+    "val": "Free",
+    "label": "For everyone who owns it",
+    "sub": "both expansions included",
+    "icon": "gift"
+   }
+  },
+  {
+   "t": "You play Geralt of Rivia, a monster hunter for hire, searching for his adopted daughter, Ciri.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-witcher3.jpg",
+    "label": "The Witcher 3 gameplay",
+    "credit": "BANDAI NAMCO Europe, CC BY 3.0",
+    "focus": [
+     0.5,
+     0.4
+    ]
+   }
+  },
+  {
+   "t": "It has sold over 65 million copies and won more than 250 game of the year awards.",
+   "sc": {
+    "kind": "stat",
+    "val": "65 Million",
+    "label": "Copies sold",
+    "sub": "250+ Game of the Year awards",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "The script is 450,000 words long, with 950 speaking roles.",
+   "sc": {
+    "kind": "stat",
+    "val": "450,000",
+    "label": "Words in the script",
+    "sub": "950 speaking roles",
+    "icon": "scroll"
+   }
+  },
+  {
+   "t": "The author of the books, Andrzej Sapkowski, sold the game rights for about 9,500 dollars, and turned down a share of the profits.",
+   "sc": {
+    "kind": "stat",
+    "val": "$9,500",
+    "label": "Game rights sold for",
+    "sub": "the author refused a profit share",
+    "icon": "book"
+   }
+  },
+  {
+   "t": "When the Netflix show came out, sales jumped by 554 percent.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "+554%"
+    ],
+    "icon": "tv",
+    "sub": "sales after the Netflix show"
+   }
+  },
+  {
+   "t": "Its card game, Gwent, got so popular that it became its own standalone game.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Gwent"
+    ],
+    "icon": "clone",
+    "sub": "the mini-game that became a game"
+   }
+  },
+  {
+   "t": "The remaster finally fixed Roach, the glitchy horse. But there is reportedly a setting to keep the glitches.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Legacy",
+     "*Roach"
+    ],
+    "icon": "horse",
+    "sub": "a setting to keep the glitches"
+   }
+  },
+  {
+   "t": "A new expansion arrives in 2027, and The Witcher 4 won't be here before 2028.",
+   "sc": {
+    "kind": "timeline",
+    "rows": [
+     [
+      2015,
+      "The Witcher 3"
+     ],
+     [
+      2026,
+      "Remastered"
+     ],
+     [
+      2027,
+      "New expansion"
+     ],
+     [
+      "2028+",
+      "The Witcher 4"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Be honest: the story, or just Gwent? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Story or Gwent?"
+   }
+  }
+ ],
+ "file": "10 - The Witcher 3 Remastered.mp4"
+}

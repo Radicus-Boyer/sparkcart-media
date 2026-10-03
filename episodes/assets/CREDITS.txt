@@ -1,0 +1,24 @@
+Image credits for episodes/assets (all from Wikimedia Commons, checked 2026-10-02).
+Only public-domain, CC0 and CC BY files are used. CC BY needs the credit shown: every "photo" scene prints it
+under the picture, and posting.txt repeats it in the YouTube description. Images are cropped; no other changes.
+
+pop-cs2-major.jpg         "PGL CS2 Major Copenhagen 2024 stage - 02" by European Parliament, CC BY 2.0
+                          https://commons.wikimedia.org/wiki/File:PGL_CS2_Major_Copenhagen_2024_stage_-_02.jpg
+pop-dota-ti7.jpg          "OG vs TNC at TI7, in Key Arena" by Kevin Tao, CC BY 2.0
+                          https://commons.wikimedia.org/wiki/File:OG_vs_TNC_at_TI7,_in_Key_Arena.jpg
+pop-pubg-mobile.jpg       frame from "PUBG MOBILE - Erangel's New Imagination Plaza" by PUBG MOBILE, CC BY 3.0
+                          https://commons.wikimedia.org/wiki/File:PUBG_MOBILE_-_Erangel's_New_Imagination_Plaza.webm
+pop-onimusha.jpg          frame from "Onimusha- Way of the Sword - Gameplay 'art du sabre'" by Capcom France, CC BY 3.0
+                          https://commons.wikimedia.org/wiki/File:Onimusha-_Way_of_the_Sword_-_Gameplay_%22art_du_sabre%22.webm
+pop-witcher3.jpg          "The Witcher 3 Wild Hunt - Morvudd fight" by BANDAI NAMCO Europe, CC BY 3.0
+                          https://commons.wikimedia.org/wiki/File:The_Witcher_3_Wild_Hunt_-_Morvudd_fight.jpg
+pop-chiatura.jpg          "2025-06-16 Chiatura 1" by Alexkom000, CC BY 4.0
+                          https://commons.wikimedia.org/wiki/File:2025-06-16_Chiatura_1.jpg
+pop-33-thomas.jpg         "33 Thomas Street uncut 2021 jeh" by Jim.henderson, CC BY 4.0
+                          https://commons.wikimedia.org/wiki/File:33_Thomas_Street_uncut_2021_jeh.jpg
+pop-hunyad-castle.jpg     "Hunyad Castle, Hunedoara, Romania, July 2012" by Luke.ender, public domain
+                          https://commons.wikimedia.org/wiki/File:Hunyad_Castle,_Hunedoara,_Romania,_July_2012.jpg
+pop-lu-bu.jpg             "Lu Bu at Hulao", Qing dynasty print from Romance of the Three Kingdoms, public domain
+                          https://commons.wikimedia.org/wiki/File:Lu_Bu_at_Hulao.png
+pop-wolverine-animal.jpg  "Wolverine (Gulo gulo), Korkeasaari" by Uusijani, CC0
+                          https://commons.wikimedia.org/wiki/File:Wolverine_(Gulo_gulo),_Korkeasaari.JPG

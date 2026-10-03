@@ -1,0 +1,186 @@
+{
+ "preset": "popular",
+ "num": 1,
+ "theme": "cs2",
+ "game": "Counter-Strike 2",
+ "target": 70,
+ "pron": {
+  "Minh Le": "Min Lay",
+  "Cliffe": "Cliff"
+ },
+ "lines": [
+  {
+   "t": "Why do over a million people play Counter-Strike 2 every single day?",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "1 MILLION+",
+     "*EVERY DAY"
+    ]
+   }
+  },
+  {
+   "t": "It is five against five. One team plants a bomb, the other team stops them, and there are no respawns.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "5 VS 5"
+     ],
+     [
+      "bomb",
+      "PLANT OR DEFUSE"
+     ],
+     [
+      "skull",
+      "NO RESPAWNS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Every round you earn money, and spend it on weapons for the next one.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "BUY PHASE",
+    "label": "EVERY ROUND",
+    "sub": "win rounds, earn cash, buy better guns",
+    "icon": "sack-dollar"
+   }
+  },
+  {
+   "t": "It started in 1999 as a fan mod for Half-Life, made by Minh Le and Jess Cliffe. Valve picked it up a year later.",
+   "sc": {
+    "kind": "timeline",
+    "rows": [
+     [
+      1999,
+      "Fan-made mod"
+     ],
+     [
+      2000,
+      "Valve takes over"
+     ],
+     [
+      2012,
+      "CS:GO"
+     ],
+     [
+      2023,
+      "CS2, free"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "In April 2025 it hit its all-time record: 1.86 million players at the same time.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     1862531,
+     "{:,.0f}"
+    ],
+    "label": "ALL-TIME PEAK ON STEAM",
+    "sub": "April 12, 2025",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Pro tournaments fill entire arenas. This year's Cologne Major peaked at 2.75 million viewers.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-cs2-major.jpg",
+    "label": "CS2 MAJOR, COPENHAGEN 2024",
+    "credit": "Photo: European Parliament, CC BY 2.0",
+    "focus": [
+     0.75,
+     0.35
+    ]
+   }
+  },
+  {
+   "t": "The weapon skins are worth real money. One rifle skin reportedly sold for over a million dollars.",
+   "sc": {
+    "kind": "stat",
+    "val": "$1,000,000+",
+    "label": "ONE RIFLE SKIN",
+    "sub": "reported private sale, 2024",
+    "icon": "gun"
+   }
+  },
+  {
+   "t": "Trackers put the whole skin market at around 6 billion dollars.",
+   "sc": {
+    "kind": "stat",
+    "val": "$6 BILLION",
+    "label": "THE SKIN MARKET",
+    "sub": "tracker estimate, 2026",
+    "icon": "coins"
+   }
+  },
+  {
+   "t": "One update last October reportedly wiped two billion dollars off that market in a single day.",
+   "sc": {
+    "kind": "stat",
+    "val": "-$2 BILLION",
+    "label": "ONE UPDATE, ONE DAY",
+    "sub": "reported, October 2025",
+    "icon": "arrow-trend-down"
+   }
+  },
+  {
+   "t": "Fun detail: bullets and grenades punch real holes in smoke clouds.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SHOOT HOLES",
+     "*IN SMOKE"
+    ],
+    "icon": "smog"
+   }
+  },
+  {
+   "t": "And Steam still says it came out in 2012, because it took over the old game's store page.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "RELEASED",
+     "*2012?!"
+    ],
+    "icon": "calendar-days",
+    "sub": "it replaced CS:GO's store page"
+   }
+  },
+  {
+   "t": "It's free, simple to understand, and almost impossible to master.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "gift",
+      "FREE TO PLAY"
+     ],
+     [
+      "lightbulb",
+      "EASY TO LEARN"
+     ],
+     [
+      "trophy",
+      "HARD TO MASTER"
+     ]
+    ],
+    "head": "WHY IT STAYS #1"
+   }
+  },
+  {
+   "t": "What's your rank? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "WHAT'S YOUR RANK?"
+   }
+  }
+ ],
+ "file": "01 - Counter-Strike 2.mp4"
+}

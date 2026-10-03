@@ -1,0 +1,179 @@
+{
+ "preset": "popular",
+ "num": 4,
+ "theme": "pubg",
+ "game": "PUBG: Battlegrounds",
+ "target": 70,
+ "pron": {
+  "PUBG": "pub-jee"
+ },
+ "lines": [
+  {
+   "t": "No game in Steam history has ever beaten this record.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "THE RECORD",
+     "*NOBODY BEATS"
+    ]
+   }
+  },
+  {
+   "t": "In January 2018, PUBG had 3.25 million people playing at the same time. Eight years later, nothing has topped it.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     3257248,
+     "{:,.0f}"
+    ],
+    "label": "PLAYERS AT ONCE",
+    "sub": "January 13, 2018",
+    "icon": "ranking-star"
+   }
+  },
+  {
+   "t": "100 players parachute onto an island, grab whatever they can find, and fight until one is left.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "parachute-box",
+      "100 PLAYERS DROP"
+     ],
+     [
+      "magnifying-glass",
+      "FIND YOUR GEAR"
+     ],
+     [
+      "person-running",
+      "LAST ONE STANDING"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The safe zone keeps shrinking, so everyone gets pushed closer together.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-pubg-mobile.jpg",
+    "label": "PUBG MOBILE GAMEPLAY",
+    "credit": "PUBG MOBILE, CC BY 3.0",
+    "crop": [
+     0,
+     0,
+     1,
+     0.85
+    ]
+   }
+  },
+  {
+   "t": "It was created by Brendan Greene, a photographer who made his first battle royale mod while saving up for a flight home.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BRENDAN",
+     "GREENE"
+    ],
+    "size": 132,
+    "icon": "camera",
+    "sub": "photographer turned game designer"
+   }
+  },
+  {
+   "t": "The idea came from a Japanese film from the year 2000, called Battle Royale.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BATTLE ROYALE",
+     "*THE MOVIE"
+    ],
+    "size": 118,
+    "icon": "film",
+    "sub": "Japan, 2000"
+   }
+  },
+  {
+   "t": "He wanted the zone to be a square, but couldn't code it. So it became a circle.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "WHY A",
+     "*CIRCLE?"
+    ],
+    "icon": "circle-notch",
+    "sub": "a square was too hard to code"
+   }
+  },
+  {
+   "t": "And the bulletproof frying pan? An accident the team decided to keep.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE PAN"
+    ],
+    "icon": "utensils",
+    "sub": "bulletproof by accident"
+   }
+  },
+  {
+   "t": "It sold a million copies in just 16 days, and set seven Guinness World Records in a single night.",
+   "sc": {
+    "kind": "stat",
+    "val": "16 DAYS",
+    "label": "TO SELL 1 MILLION",
+    "sub": "plus 7 Guinness records in one night",
+    "icon": "bolt"
+   }
+  },
+  {
+   "t": "It sold 75 million copies, and the mobile version passed one billion downloads.",
+   "sc": {
+    "kind": "bars",
+    "head": "HOW BIG IT GOT",
+    "rows": [
+     [
+      "Mobile downloads",
+      1000,
+      "1 BILLION"
+     ],
+     [
+      "PC + console copies",
+      75,
+      "75 M"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "It went free in 2022, and hundreds of thousands still play every day.",
+   "sc": {
+    "kind": "stat",
+    "val": "788,224",
+    "label": "PEAK, SEPTEMBER 2026",
+    "sub": "free to play since 2022",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "Winner winner chicken dinner is older than the game. It comes from old casino slang.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "WINNER WINNER",
+     "*CHICKEN DINNER"
+    ],
+    "size": 112,
+    "icon": "drumstick-bite",
+    "sub": "old casino slang"
+   }
+  },
+  {
+   "t": "How many chicken dinners do you have? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "HOW MANY CHICKEN DINNERS?"
+   }
+  }
+ ],
+ "file": "04 - PUBG Battlegrounds.mp4"
+}

@@ -1,0 +1,91 @@
+{
+ "preset": "popular",
+ "num": 2,
+ "theme": "dw9",
+ "game": "Dynasty Warriors 9",
+ "target": 30,
+ "lines": [
+  {
+   "t": "One hero against a thousand soldiers. That is Dynasty Warriors.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "ONE HERO",
+     "*VS 1,000"
+    ]
+   }
+  },
+  {
+   "t": "It's based on a 14th century Chinese novel with about a thousand characters.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-lu-bu.jpg",
+    "label": "ROMANCE OF THE THREE KINGDOMS",
+    "credit": "Qing dynasty print, public domain",
+    "crop": [
+     0,
+     0.2,
+     1,
+     0.74
+    ],
+    "maxh": 640
+   }
+  },
+  {
+   "t": "Dynasty Warriors 9 had 90 playable heroes and the series' first open world.",
+   "sc": {
+    "kind": "stat",
+    "val": "90",
+    "label": "PLAYABLE HEROES",
+    "sub": "one giant map of China",
+    "icon": "khanda"
+   }
+  },
+  {
+   "t": "Honestly? Only a few dozen people play it on Steam today. But the series has sold over 24 million copies.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "ON STEAM NOW",
+     "~40",
+     "players"
+    ],
+    "right": [
+     "THE SERIES",
+     "24M+",
+     "copies sold"
+    ]
+   }
+  },
+  {
+   "t": "It's trending again because Dynasty Warriors 3 was just remastered.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TRENDING",
+     "*AGAIN"
+    ],
+    "icon": "fire",
+    "sub": "DW3 Remastered: Oct 1, 2026"
+   }
+  },
+  {
+   "t": "And Guinness lists it as the most prolific hack and slash series ever.",
+   "sc": {
+    "kind": "stat",
+    "val": "33 GAMES",
+    "label": "GUINNESS WORLD RECORD",
+    "sub": "most prolific hack-and-slash series",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "Who's your main? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "WHO'S YOUR MAIN?"
+   }
+  }
+ ],
+ "file": "02 - Dynasty Warriors 9.mp4"
+}

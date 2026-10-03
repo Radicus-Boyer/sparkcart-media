@@ -1,0 +1,83 @@
+{
+ "preset": "popular",
+ "num": 6,
+ "theme": "oni",
+ "game": "Onimusha: Way of the Sword",
+ "target": 30,
+ "pron": {
+  "Onimusha": "Oh-nee-moo-sha",
+  "Musashi": "Moo-sah-shee",
+  "Mifune": "Mee-foo-nay",
+  "Toshiro": "Toe-shee-ro"
+ },
+ "lines": [
+  {
+   "t": "Capcom waited 20 years to make this game.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "20 Years",
+     "*Later"
+    ]
+   }
+  },
+  {
+   "t": "Onimusha: Way of the Sword is a samurai action game. You play Miyamoto Musashi, fighting demons in old Kyoto.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop-onimusha.jpg",
+    "label": "Onimusha: Way of the Sword",
+    "credit": "Capcom France, CC BY 3.0",
+    "crop": [
+     0,
+     0,
+     1,
+     0.9
+    ]
+   }
+  },
+  {
+   "t": "It sold a million copies on day one, and peaked at 85,000 players on Steam.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 Million",
+    "label": "Sold on day one",
+    "sub": "85,081 at once on Steam",
+    "icon": "fire"
+   }
+  },
+  {
+   "t": "Musashi has the face of the late film star Toshiro Mifune. Capcom spent about two years negotiating for it.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Toshiro",
+     "*Mifune"
+    ],
+    "icon": "film",
+    "sub": "his face, used with permission"
+   }
+  },
+  {
+   "t": "And the series began as a ninja version of Resident Evil.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Ninja",
+     "*Resident Evil"
+    ],
+    "size": 120,
+    "icon": "user-ninja",
+    "sub": "the original 1990s pitch"
+   }
+  },
+  {
+   "t": "Do you parry, or dodge? Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Parry or dodge?"
+   }
+  }
+ ],
+ "file": "06 - Onimusha Way of the Sword.mp4"
+}

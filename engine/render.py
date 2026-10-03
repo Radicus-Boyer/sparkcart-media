@@ -650,4 +650,9 @@ if __name__ == "__main__":
             env = dict(os.environ, NES_OUT=OUT)
             subprocess.run([sys.executable, D + "nes/engine.py", path] + (["sheet"] if a.sheet else []), env=env, check=True)
             continue
+        if json.load(open(path)).get("preset") == "popular":
+            # 'Most Popular Games of the Internet' preset: motion graphics, one visual theme per game
+            env = dict(os.environ, POP_OUT=OUT)
+            subprocess.run([sys.executable, D + "modern/engine.py", path] + (["sheet"] if a.sheet else []), env=env, check=True)
+            continue
         render(load(path), a.sheet)
