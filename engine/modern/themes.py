@@ -451,6 +451,460 @@ def panel_witcher(w, h, kind="main"):
     return im
 
 
+# ================================================================ AION 2: wings and starlight
+def _wing(d, cx, cy, side, col):
+    for k in range(9):
+        a = math.radians(-78 + k * 17)
+        L = 520 - k * 30
+        x2, y2 = cx + side * math.cos(a) * L, cy + math.sin(a) * L * 0.9
+        w = 46 - k * 3
+        d.polygon([(cx, cy - w / 2), (cx, cy + w / 2), (x2, y2)], fill=col)
+
+
+def static_aion():
+    img = vgrad("#0b0a2e", "#3a1f6e")
+    over(img, blobs(61, 5, ["#f2c86b", "#8d6bff", "#3fb6ff"], 200, 420, 60, 110, (0, 300, W, 1300)))
+    lay, d = layer()
+    rnd = random.Random(7)
+    for _ in range(170):
+        x, y, r = rnd.uniform(0, W), rnd.uniform(0, H), rnd.choice([1, 1.5, 2, 3])
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(255, 244, 214, rnd.randint(70, 220)))
+    over(img, lay)
+    lay, d = layer()
+    _wing(d, 40, 1250, 1, (255, 255, 255, 34))
+    _wing(d, 1040, 1250, -1, (255, 255, 255, 34))
+    over(img, lay, 3)
+    return vignette(img, 0.45)
+
+
+def dyn_aion(img, d, now, prog, end, S):
+    for i, (a, b, c, e) in enumerate(S.setdefault("p", particles(16, 61))):
+        y = (b * H + now * (50 + 60 * c)) % (H + 40) - 20
+        x = a * W + math.sin(now * 0.8 + i * 1.3) * 70
+        w_, h_ = 16 + 10 * e, 5 + 3 * e
+        d.ellipse([x - w_, y - h_, x + w_, y + h_], fill=mix("#ffffff", "#b9a8ff", e))
+    left = 60 - int(now) % 60
+    paste(img, icon_img("feather-pointed", 34, "#f2c86b"), 418, 372)
+    paste(img, text_img(f"FLIGHT TIME 0:{left % 60:02d}", "Marcellus-Regular.ttf", 38, "#f2c86b"), 580, 372)
+
+
+def panel_aion(w, h, kind="main"):
+    im, d = _panel(w, h, (16, 12, 48, 232), (242, 200, 107, 255), 3, 18, (0, 10, (0, 0, 0, 110)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 12, PM + 12, PM + w - 12, PM + h - 12], 12, outline=(141, 107, 255, 160), width=2)
+        for x in (PM + w // 2 - 60, PM + w // 2, PM + w // 2 + 60):
+            d.regular_polygon((x, PM, 9 if x != PM + w // 2 else 14), 4, rotation=45, fill=(242, 200, 107))
+    return im
+
+
+# ================================================================ DEADLOCK: occult noir city
+def static_deadlock():
+    img = vgrad("#04100f", "#12302b")
+    over(img, blobs(71, 1, ["#5ff0c8"], 300, 301, 70, 120, (539, 699, 541, 701)))
+    lay, d = layer()
+    rnd = random.Random(12)
+    x = -20
+    while x < W:
+        bw, bh = rnd.randint(90, 190), rnd.randint(380, 900)
+        top = H - bh
+        d.rectangle([x, top, x + bw, H], fill=(5, 12, 12, 255))
+        if rnd.random() < 0.6:
+            d.rectangle([x + bw * 0.3, top - 60, x + bw * 0.7, top], fill=(5, 12, 12, 255))
+            d.line([(x + bw / 2, top - 60), (x + bw / 2, top - 150)], fill=(5, 12, 12, 255), width=6)
+        for wy in range(int(top) + 30, H - 20, 46):
+            for wx in range(int(x) + 16, int(x + bw) - 16, 30):
+                if rnd.random() < 0.22:
+                    d.rectangle([wx, wy, wx + 12, wy + 22], fill=(233, 161, 59, rnd.randint(110, 230)))
+        x += bw + rnd.randint(4, 22)
+    over(img, lay)
+    return vignette(grain(img, 6, 4), 0.55)
+
+
+def dyn_deadlock(img, d, now, prog, end, S):
+    for i, (a, b, c, e) in enumerate(S.setdefault("p", particles(46, 33))):
+        y = (b * H + now * (900 + 500 * c)) % (H + 60) - 30
+        x = (a * (W + 300) - 150) - (y / H) * 120
+        d.line([(x, y), (x - 6, y + 34 + 20 * e)], fill=(120, 170, 160), width=2)
+    on = (int(now * 9) % 11) != 3
+    col = "#e9a13b" if on else "#5c3f17"
+    paste(img, icon_img("fire-flame-curved", 34, col), 414, 372)
+    paste(img, text_img(f"SOULS {int(1200 + now * 317):,}", "Limelight-Regular.ttf", 38, col), 580, 372)
+
+
+def panel_deadlock(w, h, kind="main"):
+    im, d = _panel(w, h, (8, 16, 16, 240), (233, 161, 59, 255), 3, 0, (0, 12, (0, 0, 0, 120)))
+    if kind == "main":
+        d.rectangle([PM + 10, PM + 10, PM + w - 10, PM + h - 10], outline=(233, 161, 59, 120), width=1)
+        for (x, y, sx, sy) in ((PM, PM, 1, 1), (PM + w, PM, -1, 1), (PM, PM + h, 1, -1), (PM + w, PM + h, -1, -1)):
+            for k in range(3):
+                d.rectangle([min(x, x + sx * (36 - k * 12)), min(y + sy * k * 8, y + sy * (k * 8 + 6)),
+                             max(x, x + sx * (36 - k * 12)), max(y + sy * k * 8, y + sy * (k * 8 + 6))], fill=(233, 161, 59, 255))
+    return im
+
+
+# ================================================================ ACE COMBAT 8: sky and HUD
+def static_ace():
+    img = vgrad("#0a2a66", "#9fd0f5")
+    over(img, blobs(81, 9, ["#ffffff"], 160, 380, 150, 70, (-100, 1250, W + 100, 1900)))
+    over(img, blobs(82, 5, ["#ffffff", "#dcefff"], 120, 260, 90, 80, (-100, 500, W + 100, 1150)))
+    over(img, blobs(83, 1, ["#fff6d0"], 200, 201, 170, 90, (859, 479, 861, 481)))
+    return img
+
+
+def base_ace(now, prog, end, S):
+    if "cl" not in S:
+        cl = blobs(84, 7, ["#ffffff"], 120, 260, 120, 60, (0, 900, W, 1500))
+        S["cl"] = cl
+    img = S["static"].copy()
+    x = int((now * 38) % W)
+    img.paste(S["cl"], (x, 0), S["cl"])
+    img.paste(S["cl"], (x - W, 0), S["cl"])
+    return img
+
+
+def dyn_ace(img, d, now, prog, end, S):
+    g = (124, 255, 107)
+    for k in range(-3, 4):
+        y = CY + k * 150 + math.sin(now * 0.7) * 40
+        L = 70 if k else 150
+        d.line([(60, y), (60 + L, y)], fill=g, width=3)
+        d.line([(W - 60 - L, y), (W - 60, y)], fill=g, width=3)
+    for (x, y, sx, sy) in ((36, 420, 1, 1), (1044, 420, -1, 1), (36, 1190, 1, -1), (1044, 1190, -1, -1)):
+        d.line([(x, y), (x + 60 * sx, y)], fill=g, width=4)
+        d.line([(x, y), (x, y + 60 * sy)], fill=g, width=4)
+    k = (now % 11) / 11
+    if k < 0.75:
+        x, y = -80 + 1400 * (k / 0.75), 1240 - 160 * (k / 0.75)
+        d.line([(x - 260, y + 30), (x - 20, y + 3)], fill=(255, 255, 255), width=5)
+        paste(img, icon_img("jet-fighter", 58, "#f4f8ff", 4, "#0a2a66"), x, y)
+    paste(img, text_img(f"SPD {1725 + int(60 * math.sin(now * 1.3))}   ALT {31250 + int(now * 77) % 900:,}", "Oxanium[wght].ttf", 36, "#7cff6b", 3, "#06203f", 700), 540, 372)
+
+
+def panel_ace(w, h, kind="main"):
+    im, d = _panel(w, h, (6, 22, 48, 222), (124, 255, 107, 255), 2, 10)
+    if kind == "main":
+        for (x, y, sx, sy) in ((PM, PM, 1, 1), (PM + w, PM, -1, 1), (PM, PM + h, 1, -1), (PM + w, PM + h, -1, -1)):
+            d.line([(x + 18 * sx, y + 18 * sy), (x + 58 * sx, y + 18 * sy)], fill=(124, 255, 107), width=4)
+            d.line([(x + 18 * sx, y + 18 * sy), (x + 18 * sx, y + 58 * sy)], fill=(124, 255, 107), width=4)
+    return im
+
+
+# ================================================================ DRESSMAKER: cozy sewing table
+def static_dress():
+    img = Image.new("RGB", (W, H), rgb("#f8efe2"))
+    lay, d = layer()
+    for x in range(0, W, 54):
+        d.rectangle([x, 0, x + 27, H], fill=(236, 150, 178, 26))
+    for y in range(0, H, 54):
+        d.rectangle([0, y, W, y + 27], fill=(236, 150, 178, 26))
+    over(img, lay)
+    over(img, blobs(91, 6, ["#ffd1e0", "#cfe6d4", "#ffe6b3"], 160, 320, 110, 90))
+    lay, d = layer()
+    d.rectangle([0, 396, W, 426], fill=(255, 209, 77, 255))
+    for i, x in enumerate(range(0, W, 18)):
+        d.line([(x, 396), (x, 396 + (18 if i % 5 == 0 else 10))], fill=(60, 42, 53, 255), width=2)
+    rnd = random.Random(5)
+    for _ in range(11):
+        x, y, r = rnd.uniform(60, 1020), rnd.uniform(1480, 1860), rnd.uniform(24, 44)
+        col = rgb(rnd.choice(["#d6457a", "#6aa58a", "#f2b84b", "#5b8fd6"]))
+        d.ellipse([x - r, y - r, x + r, y + r], fill=col + (255,), outline=(60, 42, 53, 255), width=3)
+        for (dx, dy) in ((-0.3, -0.3), (0.3, -0.3), (-0.3, 0.3), (0.3, 0.3)):
+            d.ellipse([x + dx * r - 4, y + dy * r - 4, x + dx * r + 4, y + dy * r + 4], fill=(60, 42, 53, 255))
+    over(img, lay)
+    return grain(img, 4, 2)
+
+
+def dyn_dress(img, d, now, prog, end, S):
+    y = 1212
+    x_end = 40 + (now * 150) % 1000
+    x = 40
+    while x < x_end:
+        d.line([(x, y), (min(x + 22, x_end), y)], fill=(214, 69, 122), width=6)
+        x += 38
+    d.line([(x_end, y), (x_end + 46, y - 46)], fill=(120, 120, 130), width=5)
+    d.ellipse([x_end + 38, y - 56, x_end + 52, y - 42], outline=(120, 120, 130), width=3)
+    paste(img, icon_img("scissors", 34, "#d6457a"), 430, 468 - 96)
+    paste(img, text_img(f"Orders done: {int(now * 0.9) + 1}", "Nunito[wght].ttf", 38, "#3a2a35", wght=900), 580, 372)
+
+
+def panel_dress(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 252, 246, 255), None, 0, 30, (0, 12, (120, 80, 90, 90)), 8)
+    m = 14
+    x0, y0, x1, y1 = PM + m, PM + m, PM + w - m, PM + h - m
+    step = 30
+    for x in range(int(x0) + 16, int(x1) - 16, step):
+        d.line([(x, y0), (x + 16, y0)], fill=(214, 69, 122, 255), width=4)
+        d.line([(x, y1), (x + 16, y1)], fill=(214, 69, 122, 255), width=4)
+    if kind == "main":
+        for y in range(int(y0) + 16, int(y1) - 16, step):
+            d.line([(x0, y), (x0, y + 16)], fill=(214, 69, 122, 255), width=4)
+            d.line([(x1, y), (x1, y + 16)], fill=(214, 69, 122, 255), width=4)
+    return im
+
+
+# ================================================================ BONGO CAT: desk doodle
+def _paw(d, x, y, s, fill, out=(27, 27, 31, 255)):
+    d.ellipse([x - 26 * s, y - 20 * s, x + 26 * s, y + 24 * s], fill=fill, outline=out, width=max(2, int(5 * s)))
+    for dx in (-24, -8, 8, 24):
+        d.ellipse([x + dx * s - 9 * s, y - 40 * s, x + dx * s + 9 * s, y - 20 * s], fill=fill, outline=out, width=max(2, int(4 * s)))
+
+
+def static_bongo():
+    img = vgrad("#ffffff", "#dff1ff")
+    over(img, blobs(101, 7, ["#ffd9e6", "#fff2b8", "#cdeeff"], 150, 300, 150, 60))
+    lay, d = layer()
+    rnd = random.Random(3)
+    for _ in range(16):
+        _paw(d, rnd.uniform(60, 1020), rnd.uniform(1300, 1880), rnd.uniform(0.6, 1.1), (255, 190, 210, 120), (255, 150, 180, 150))
+    over(img, lay)
+    lay, d = layer()
+    pts = [(x, 1214 + 5 * math.sin(x / 37)) for x in range(-10, W + 20, 12)]
+    d.line(pts, fill=(27, 27, 31, 255), width=9, joint="curve")
+    over(img, lay)
+    return img
+
+
+def dyn_bongo(img, d, now, prog, end, S):
+    beat = now * 5.2
+    for j, cx in enumerate((300, 780)):
+        down = (int(beat) % 2 == j) and (beat % 1) < 0.55
+        y = 1168 + (34 if down else 0)
+        d.ellipse([cx - 62, y - 44, cx + 62, y + 52], fill=(255, 255, 255), outline=(27, 27, 31), width=9)
+        if down:
+            for k in (-1, 0, 1):
+                d.line([(cx + k * 60, 1124), (cx + k * 82, 1086)], fill=(255, 93, 143), width=7)
+    paste(img, icon_img("keyboard", 34, "#ff5d8f"), 400, 372)
+    paste(img, text_img(f"Taps: {int(now * 173):,}", "Baloo2[wght].ttf", 40, "#1b1b1f", wght=800), 570, 372)
+
+
+def panel_bongo(w, h, kind="main"):
+    return _panel(w, h, (255, 255, 255, 255), (27, 27, 31, 255), 8, 34, (12, 14, (255, 93, 143, 255)))[0]
+
+
+# ================================================================ GEARS OF WAR: E-DAY: ash and embers
+def static_gears():
+    img = vgrad("#0b0b0c", "#2a2523")
+    over(img, blobs(111, 4, ["#c2410c", "#7c1d12"], 260, 460, 120, 130, (0, 1500, W, 2000)))
+    lay, d = layer()
+    for cx in (110, 300, 800, 990):
+        top = 1080 + (cx * 7) % 260
+        d.rectangle([cx - 38, top, cx + 38, H], fill=(14, 13, 13, 255))
+        d.rectangle([cx - 54, top - 26, cx + 54, top], fill=(14, 13, 13, 255))
+        for k in range(-2, 3):
+            d.line([(cx + k * 15, top + 10), (cx + k * 15, H)], fill=(30, 28, 27, 255), width=3)
+    d.pieslice([360, 1180, 720, 1540], 180, 360, fill=(14, 13, 13, 255))
+    d.rectangle([340, 1360, 740, H], fill=(14, 13, 13, 255))
+    d.polygon([(600, 1180), (720, 1360), (640, 1300)], fill=(42, 37, 35, 255))
+    over(img, lay)
+    over(img, blobs(112, 8, ["#555049"], 140, 300, 50, 80, (0, 300, W, 1300)))
+    return vignette(grain(img, 9, 6, 2), 0.6)
+
+
+def dyn_gears(img, d, now, prog, end, S):
+    R, r2 = 470, 500
+    for k in range(24):
+        a = math.radians(k * 15 + now * 6)
+        a2 = math.radians(k * 15 + 7 + now * 6)
+        d.polygon([(CX + R * math.cos(a), CY + R * math.sin(a)), (CX + r2 * math.cos(a), CY + r2 * math.sin(a)),
+                   (CX + r2 * math.cos(a2), CY + r2 * math.sin(a2)), (CX + R * math.cos(a2), CY + R * math.sin(a2))], fill=(70, 22, 20))
+    d.ellipse([CX - R, CY - R, CX + R, CY + R], outline=(70, 22, 20), width=6)
+    for i, (a, b, c, e) in enumerate(S.setdefault("p", particles(34, 44))):
+        y = H - ((b * H + now * (120 + 220 * c)) % (H + 40))
+        x = a * W + math.sin(now * 1.6 + i) * 40
+        r = 2 + 3 * e
+        d.ellipse([x - r, y - r, x + r, y + r], fill=mix("#ffb347", "#d1161c", (1 - y / H)))
+    t = int(now)
+    paste(img, text_img(f"E-DAY +00:{t // 60:02d}:{t % 60:02d}", "SairaStencilOne-Regular.ttf", 38, "#d1161c"), 540, 372)
+
+
+def panel_gears(w, h, kind="main"):
+    im, d = _panel(w, h, (36, 37, 38, 244), (12, 12, 12, 255), 6, 0, (0, 12, (0, 0, 0, 150)))
+    d.rectangle([PM + 6, PM + 6, PM + w - 6, PM + (20 if kind == "main" else 14)], fill=(209, 22, 28, 255))
+    if kind == "main":
+        rnd = random.Random(w * 3 + h)
+        for _ in range(26):
+            x, y = PM + rnd.uniform(20, w - 20), PM + rnd.uniform(30, h - 20)
+            L = rnd.uniform(12, 60)
+            d.line([(x, y), (x + L, y + rnd.uniform(-5, 5))], fill=(70, 72, 74, 255), width=1)
+        for (x, y) in ((PM + 22, PM + 40), (PM + w - 22, PM + 40), (PM + 22, PM + h - 22), (PM + w - 22, PM + h - 22)):
+            d.ellipse([x - 7, y - 7, x + 7, y + 7], fill=(92, 94, 96, 255), outline=(12, 12, 12, 255), width=2)
+    return im
+
+
+# ================================================================ STAR WARS: GALACTIC RACER: neon desert
+HZ = 1215
+
+
+def static_swr():
+    top = vgrad("#170a3c", "#ff7a3d").resize((W, HZ))
+    img = Image.new("RGB", (W, H), rgb("#1a0d14"))
+    img.paste(top, (0, 0))
+    lay, d = layer()
+    d.ellipse([720, HZ - 330, 900, HZ - 150], fill=(255, 226, 170, 255))
+    d.ellipse([880, HZ - 250, 990, HZ - 140], fill=(255, 190, 130, 255))
+    over(img, lay, 2)
+    lay, d = layer()
+    for (x0, x1, hgt) in ((-40, 260, 150), (200, 420, 90), (820, 1120, 120)):
+        d.polygon([(x0, HZ), (x0 + 40, HZ - hgt), (x1 - 50, HZ - hgt), (x1, HZ)], fill=(60, 22, 50, 255))
+    d.rectangle([0, HZ, W, H], fill=(22, 10, 26, 255))
+    for k in range(-9, 10):
+        d.line([(540 + k * 16, HZ), (540 + k * 330, H)], fill=(41, 240, 255, 90), width=3)
+    over(img, lay)
+    return grain(img, 4)
+
+
+def dyn_swr(img, d, now, prog, end, S):
+    for j in range(9):
+        k = ((j / 9) + now * 0.9) % 1.0
+        y = HZ + (H - HZ) * k ** 2.2
+        d.line([(0, y), (W, y)], fill=mix("#170a3c", "#29f0ff", 0.25 + 0.75 * k), width=max(1, int(1 + 5 * k)))
+    for i, (a, b, c, e) in enumerate(S.setdefault("p", particles(14, 55))):
+        k = (b + now * (0.9 + 0.9 * c)) % 1.0
+        x = W - k * (W + 400)
+        y = 440 + a * 720
+        L = 120 + 260 * e
+        d.line([(x, y), (x + L, y)], fill=mix("#ffffff", "#ff7a3d", e), width=3 if e > 0.5 else 2)
+    paste(img, text_img(f"SPEED {742 + int(38 * math.sin(now * 2.1)) + int(now * 3)} KM/H", "Audiowide-Regular.ttf", 34, "#29f0ff", 3, "#170a3c"), 540, 372)
+
+
+def panel_swr(w, h, kind="main"):
+    im = Image.new("RGBA", (w + 2 * PM, h + 2 * PM), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    c = 34 if kind == "main" else 16
+    pts = [(PM + c, PM), (PM + w, PM), (PM + w, PM + h - c), (PM + w - c, PM + h), (PM, PM + h), (PM, PM + c)]
+    d.polygon(pts, fill=(20, 8, 44, 232))
+    d.line(pts + [pts[0]], fill=(41, 240, 255, 255), width=4, joint="curve")
+    if kind == "main":
+        d.line([(PM + w - 150, PM + h - 10), (PM + w - c - 6, PM + h - 10)], fill=(255, 179, 71, 255), width=6)
+    return im
+
+
+# ================================================================ CALL OF DUTY: MODERN WARFARE 4: night vision
+def static_mw4():
+    img = radial("#0f3a1c", "#020804", CX, 820, 1050)
+    lay, d = layer()
+    rnd = random.Random(23)
+    for _ in range(9):
+        x, y, r = rnd.uniform(0, W), rnd.uniform(300, 1800), rnd.uniform(160, 420)
+        for j in range(4):
+            rr = r - j * 36
+            if rr > 30:
+                d.ellipse([x - rr * 1.3, y - rr, x + rr * 1.3, y + rr], outline=(109, 255, 143, 20), width=2)
+    for r in (150, 300, 450):
+        d.ellipse([CX - r, CY - r, CX + r, CY + r], outline=(109, 255, 143, 30), width=2)
+    d.line([(CX - 500, CY), (CX + 500, CY)], fill=(109, 255, 143, 26), width=2)
+    d.line([(CX, CY - 380), (CX, CY + 380)], fill=(109, 255, 143, 26), width=2)
+    for y in range(0, H, 4):
+        d.line([(0, y), (W, y)], fill=(0, 0, 0, 46), width=1)
+    over(img, lay)
+    return vignette(grain(img, 10, 8), 0.7)
+
+
+def dyn_mw4(img, d, now, prog, end, S):
+    y = int((now * 260) % (H + 200)) - 100
+    for k in range(6):
+        d.line([(0, y - k * 5), (W, y - k * 5)], fill=mix("#6dff8f", "#061a0c", 0.45 + k * 0.1), width=2)
+    for (x, y0, sx, sy) in ((36, 420, 1, 1), (1044, 420, -1, 1), (36, 1190, 1, -1), (1044, 1190, -1, -1)):
+        d.line([(x, y0), (x + 80 * sx, y0)], fill=(109, 255, 143), width=4)
+        d.line([(x, y0), (x, y0 + 80 * sy)], fill=(109, 255, 143), width=4)
+    if int(now * 2) % 2 == 0:
+        d.ellipse([318, 362, 338, 382], fill=(255, 59, 48))
+    t = int(now)
+    paste(img, text_img(f"REC  37.5665 N  126.9780 E  00:{t % 60:02d}", "Teko[wght].ttf", 40, "#6dff8f", wght=600), 580, 374)
+
+
+def panel_mw4(w, h, kind="main"):
+    im, d = _panel(w, h, (3, 12, 6, 238), (109, 255, 143, 255), 2)
+    if kind == "main":
+        d.rectangle([PM, PM, PM + 150, PM + 10], fill=(109, 255, 143, 255))
+        d.rectangle([PM + w - 60, PM + h - 10, PM + w, PM + h], fill=(109, 255, 143, 255))
+    return im
+
+
+# ================================================================ PHANTOM BLADE ZERO: ink and steel
+def static_pbz():
+    img = vgrad("#0a0d10", "#1e262c")
+    over(img, blobs(121, 10, ["#000000"], 120, 300, 110, 60))
+    lay, d = layer()
+    for k in range(60):
+        a0 = k * 6
+        wdt = int(26 + 20 * math.sin(k * 0.21) + (10 if k % 7 == 0 else 0))
+        d.arc([CX - 430, CY - 430, CX + 430, CY + 430], a0, a0 + 5.4 if k < 54 else a0 + 2, fill=(170, 26, 30, 210), width=max(6, wdt))
+    over(img, lay, 2)
+    lay, d = layer()
+    rnd = random.Random(31)
+    for _ in range(8):
+        x = rnd.uniform(-200, W)
+        d.line([(x, 1920), (x + 520, 300)], fill=(200, 215, 225, 16), width=rnd.choice([2, 3, 6]))
+    over(img, lay)
+    return vignette(grain(img, 7, 9), 0.6)
+
+
+def dyn_pbz(img, d, now, prog, end, S):
+    for i, (a, b, c, e) in enumerate(S.setdefault("p", particles(40, 66))):
+        y = (b * H + now * (1000 + 600 * c)) % (H + 60) - 30
+        x = a * (W + 200) - 100 + (y / H) * 90
+        d.line([(x, y), (x + 5, y + 30 + 22 * e)], fill=(120, 140, 150), width=2)
+    k = (now % 3.2) / 0.22
+    if k < 1:
+        x0 = -200 + 1500 * k
+        d.line([(x0, 1250), (x0 + 420, 420)], fill=(240, 244, 248), width=int(10 * (1 - k)) + 2)
+    days = max(1, 66 - int(prog * 65))
+    paste(img, text_img(f"{days} DAYS LEFT", "Eczar[wght].ttf", 40, "#e02a2a", wght=800), 540, 372)
+
+
+def panel_pbz(w, h, kind="main"):
+    im, d = _panel(w, h, (8, 10, 12, 244))
+    rnd = random.Random(w * 5 + h)
+    for _ in range((w + h) // 10):
+        side = rnd.choice("tb")
+        x, y = PM + rnd.uniform(0, w), PM + (0 if side == "t" else h)
+        r = rnd.uniform(4, 13)
+        d.ellipse([x - r * 2.6, y - r, x + r * 2.6, y + r], fill=(8, 10, 12, 244))
+    if kind == "main":
+        d.line([(PM + 20, PM + 20), (PM + 20, PM + h - 20)], fill=(150, 170, 182, 255), width=2)
+        d.rectangle([PM + w - 64, PM + 18, PM + w - 22, PM + 60], fill=(224, 42, 42, 255))
+        d.rectangle([PM + w - 54, PM + 28, PM + w - 32, PM + 50], outline=(8, 10, 12, 255), width=3)
+    return im
+
+
+# ================================================================ DANDY'S WORLD: cartoon stage with a dark side
+def static_dandy():
+    img = vgrad("#8fe3d9", "#ffc1dc")
+    lay, d = layer()
+    for k, c in enumerate(("#ff6b8b", "#ffb347", "#ffe14d", "#7bd88f", "#6cb6ff", "#b28dff")):
+        r = 1150 - k * 62
+        d.pieslice([CX - r, 1260 - r, CX + r, 1260 + r], 180, 360, fill=rgb(c) + (120,))
+    d.pieslice([CX - 770, 1260 - 770, CX + 770, 1260 + 770], 180, 360, fill=(255, 246, 228, 255))
+    over(img, lay)
+    lay, d = layer()
+    sq = 90
+    for iy, y in enumerate(range(1260, H, sq)):
+        for ix, x in enumerate(range(0, W, sq)):
+            d.rectangle([x, y, x + sq, y + sq], fill=(29, 26, 38, 255) if (ix + iy) % 2 else (255, 246, 228, 255))
+    d.rectangle([0, 1250, W, 1264], fill=(29, 26, 38, 255))
+    over(img, lay)
+    return vignette(grain(img, 6, 11, 2), 0.62, (20, 8, 30))
+
+
+def dyn_dandy(img, d, now, prog, end, S):
+    rnd = random.Random(int(now * 12))
+    for _ in range(3):
+        x = rnd.uniform(0, W)
+        d.line([(x, 0), (x + rnd.uniform(-6, 6), H)], fill=(255, 255, 255) if rnd.random() < 0.6 else (40, 30, 50), width=1)
+    for i, (a, b, c, e) in enumerate(S.setdefault("p", particles(7, 77))):
+        x = 80 + a * 920
+        y = 520 + b * 560 + math.sin(now * (1.4 + c) + i) * 26
+        paste(img, icon_img("star", int(30 + 26 * e), ["#ffe14d", "#ff6b8b", "#6cb6ff"][i % 3], 4, "#1d1a26"), x, y)
+    floor = 1 + int(now / 3.2)
+    paste(img, icon_img("elevator", 36, "#1d1a26"), 440, 372)
+    paste(img, text_img(f"FLOOR {floor:02d}", "Chewy-Regular.ttf", 42, "#1d1a26"), 570, 372)
+
+
+def panel_dandy(w, h, kind="main"):
+    return _panel(w, h, (255, 246, 228, 255), (29, 26, 38, 255), 9, 40, (12, 14, (29, 26, 38, 255)))[0]
+
+
 # ================================================================ registry
 def roles(big, small, ink, acc, dim, ptext, pacc, pdim, stroke=0.0, sfill="#000000", shadow=None, wb=None, ws=None, box=None, accbox=None):
     return {
@@ -493,8 +947,40 @@ THEMES = {
                     text=roles("Almendra-Bold.ttf", "Almendra-Bold.ttf", "#2b1d12", "#8b1a1a", "#5b4630", "#2b1d12", "#8b1a1a", "#6b563c"),
                     cap=dict(font="Almendra-Bold.ttf", size=98, fill="#fff6e0", hi="#ffc94a", stroke="#24160a")),
 }
+THEMES.update({
+    "aion": dict(case="upper", static=static_aion, dyn=dyn_aion, panel=panel_aion, flash="#f2c86b", frame=("#f2c86b", 6),
+                 text=roles("Marcellus-Regular.ttf", "CrimsonText-Bold.ttf", "#fdf6e3", "#f2c86b", "#d9d2f2", "#fdf6e3", "#f2c86b", "#b9b3d9", stroke=0.03, sfill="#120a2a"),
+                 cap=dict(font="Marcellus-Regular.ttf", size=96, fill="#ffffff", hi="#f2c86b", stroke="#120a2a")),
+    "deadlock": dict(case="upper", static=static_deadlock, dyn=dyn_deadlock, panel=panel_deadlock, flash="#e9a13b", frame=("#e9a13b", 6),
+                     text=roles("Limelight-Regular.ttf", "BarlowCondensed-ExtraBold.ttf", "#f3e9d2", "#e9a13b", "#b9d6cc", "#f3e9d2", "#e9a13b", "#8fb3a8", stroke=0.035, sfill="#020807"),
+                     cap=dict(font="BarlowCondensed-ExtraBold.ttf", size=110, fill="#f3e9d2", hi="#5ff0c8", stroke="#06100f")),
+    "ace": dict(case="upper", static=static_ace, base=base_ace, dyn=dyn_ace, panel=panel_ace, flash="#ffffff", frame=("#7cff6b", 5),
+                text=roles("Oxanium[wght].ttf", "Oxanium[wght].ttf", "#ffffff", "#7cff6b", "#ffffff", "#ffffff", "#7cff6b", "#a9c8e8", stroke=0.05, sfill="#06203f", wb=800, ws=700),
+                cap=dict(font="Oxanium[wght].ttf", wght=800, size=92, fill="#ffffff", hi="#7cff6b", stroke="#041326")),
+    "dress": dict(case="title", static=static_dress, dyn=dyn_dress, panel=panel_dress, flash="#ffd1e0", frame=("#d6457a", 8),
+                  text=roles("DMSerifDisplay-Regular.ttf", "Nunito[wght].ttf", "#3a2a35", "#d6457a", "#6a5460", "#3a2a35", "#d6457a", "#7a6470", ws=800),
+                  cap=dict(font="Nunito[wght].ttf", wght=900, size=92, fill="#ffffff", hi="#ffd166", stroke="#3a2a35")),
+    "bongo": dict(case="title", static=static_bongo, dyn=dyn_bongo, panel=panel_bongo, flash="#ffffff", frame=("#1b1b1f", 10),
+                  text=roles("Baloo2[wght].ttf", "Baloo2[wght].ttf", "#1b1b1f", "#ff5d8f", "#4a4a55", "#1b1b1f", "#ff5d8f", "#55555f", wb=800, ws=700),
+                  cap=dict(font="Baloo2[wght].ttf", wght=800, size=100, fill="#ffffff", hi="#ffd23f", stroke="#1b1b1f")),
+    "gears": dict(case="upper", static=static_gears, dyn=dyn_gears, panel=panel_gears, flash="#d1161c", frame=("#d1161c", 8),
+                  text=roles("SairaStencilOne-Regular.ttf", "BarlowCondensed-ExtraBold.ttf", "#e9e4dc", "#e5282d", "#c4bdb1", "#efeae2", "#ff3b30", "#a8a196", stroke=0.035, sfill="#050505"),
+                  cap=dict(font="BarlowCondensed-ExtraBold.ttf", size=112, fill="#ffffff", hi="#ff3b30", stroke="#0a0a0a")),
+    "swr": dict(case="upper", static=static_swr, dyn=dyn_swr, panel=panel_swr, flash="#ffb347", frame=("#29f0ff", 6),
+                text=roles("Audiowide-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#29f0ff", "#ffe2c8", "#ffffff", "#29f0ff", "#c9b8e8", stroke=0.05, sfill="#170a3c"),
+                cap=dict(font="Rajdhani-Bold.ttf", size=108, fill="#ffffff", hi="#ffb347", stroke="#150828")),
+    "mw4": dict(case="upper", static=static_mw4, dyn=dyn_mw4, panel=panel_mw4, flash="#6dff8f", frame=("#6dff8f", 5),
+                text=roles("Teko[wght].ttf", "BarlowCondensed-ExtraBold.ttf", "#eafff0", "#6dff8f", "#9fdfaf", "#eafff0", "#6dff8f", "#7fbf8f", stroke=0.03, sfill="#020803", wb=700),
+                cap=dict(font="Teko[wght].ttf", wght=700, size=128, fill="#ffffff", hi="#6dff8f", stroke="#020803")),
+    "pbz": dict(case="upper", static=static_pbz, dyn=dyn_pbz, panel=panel_pbz, flash="#e02a2a", frame=("#e02a2a", 6),
+                text=roles("Eczar[wght].ttf", "CrimsonText-Bold.ttf", "#f0ece4", "#ff3b33", "#aebfc8", "#f0ece4", "#ff4a3d", "#93a7b1", stroke=0.04, sfill="#000000", wb=800),
+                cap=dict(font="Eczar[wght].ttf", wght=800, size=96, fill="#ffffff", hi="#ff4a3d", stroke="#050607")),
+    "dandy": dict(case="upper", tag_role="small", static=static_dandy, dyn=dyn_dandy, panel=panel_dandy, flash="#ffffff", frame=("#1d1a26", 10),
+                  text=roles("Chewy-Regular.ttf", "Nunito[wght].ttf", "#1d1a26", "#e8336d", "#2b2640", "#1d1a26", "#7a3cf0", "#4a4460", ws=900),
+                  cap=dict(font="Chewy-Regular.ttf", size=104, fill="#ffffff", hi="#ffe14d", stroke="#1d1a26")),
+})
 # small-text and credit roles never get a stroke on themes whose backgrounds are light
-for _n in ("dw9", "oni", "witcher", "wolv"):
+for _n in ("dw9", "oni", "witcher", "wolv", "dress", "bongo", "dandy"):
     for _r in ("small", "credit"):
         t = THEMES[_n]["text"][_r]
         THEMES[_n]["text"][_r] = (t[0], t[1], t[2], 0, t[4], None, None)

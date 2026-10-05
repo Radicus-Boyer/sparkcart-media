@@ -318,16 +318,42 @@ def sc_vs(th, sc, dur):
 
 
 def sc_outro(th, sc, dur):
-    ent = [(im, 0.05 + j * 0.15, "pop") for j, im in enumerate(wrapped(th, "big", sc["question"], sc.get("size", 118), 950, 4))]
-    items = stack(ent, MID - 110, 16)
+    """Question, then the 'comment which game next' card, then the follow button. "cta": "" hides the card."""
+    cta = sc.get("cta", "COMMENT FOR WHICH GAME WE SHOULD REVIEW NEXT!")
+    q = wrapped(th, "big", sc["question"], sc.get("size", 118), 950, 3 if cta else 4)
+    qh = sum(im.height for im in q) + 16 * (len(q) - 1)
     t = T(th, "pacc", "FOLLOW FOR MORE", 74, 760)
     pl = th["panel"](t.width + 96, 132, "tag")
-    by = max(e["y"] + e["im"].height / 2 for e in items) + 140
+    if cta:
+        cl = wrapped(th, "pbig", cta, 60, 780, 3)
+        ch = sum(im.height for im in cl) + 10 * (len(cl) - 1)
+        ic = I(th, "comment-dots", 84, "pacc")
+        ph = ch + 70
+        card = th["panel"](940, int(ph), "main")
+        total = qh + 44 + ph + 44 + 132
+    else:
+        total = qh + 74 + 132
+    top = max(412, MID - 20 - total / 2)
+    items = stack([(im, 0.05 + j * 0.15, "pop") for j, im in enumerate(q)], top + qh / 2, 16)
+    y = top + qh
+    tc = min(max(0.9, dur * 0.28), 2.4)
+    tf = min(max(tc + 0.8, dur * 0.72), tc + 3.2) if cta else 0.6
+    if cta:
+        cy = y + 44 + ph / 2
+        items.append(S(card, 540, cy, tc, "slide"))
+        items.append(S(ic, 540 - 470 + 88, cy, tc + 0.1, "pop"))
+        items += stack([(im, tc + 0.12 + j * 0.1, "pop") for j, im in enumerate(cl)], cy, 10)
+        for e in items[-len(cl):]:
+            e["x"] = 540 + 62
+        y = cy + ph / 2
+        by = y + 44 + 66
+    else:
+        by = y + 74 + 66
 
     def dyn(img, lt):
-        if lt < 0.6:
+        if lt < tf:
             return
-        s = back((lt - 0.6) / 0.3) * (1 + 0.035 * math.sin(lt * 7))
+        s = back(min(1.0, (lt - tf) / 0.3)) * (1 + 0.035 * math.sin(lt * 7))
         paste(img, pl, 540, by, s)
         paste(img, t, 540, by, s)
     items.append(dyn)

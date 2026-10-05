@@ -41,6 +41,36 @@ STYLES = {
     # folk lute + hand drum
     "witcher": dict(bpm=104, root=38, scale="dorian", prog=[0, 6, 3, 4], pad=("saw", 0.06, 80), bass=("x.....x.x.......", "sine", 0.24),
                     arp=("0.2.4.2.1.2.4.2.", "pluck", 0.20, 2), kick="x.....x...x.....", snare="", hat="", wood="....x..x....x.x.", ),
+    # ethereal: choir, harp-like plucks
+    "aion": dict(bpm=88, root=41, scale="dorian", prog=[0, 3, 5, 4], pad=("saw", 0.14, 100), bass=("x.......x.......", "sine", 0.26),
+                 arp=("0.2.4.6.4.2.0.2.", "pluck", 0.16, 2), kick="", snare="", hat="", boom="x...............", choir=True),
+    # noir: walking bass, brushed hats
+    "deadlock": dict(bpm=104, root=36, scale="harm", prog=[0, 3, 4, 0], pad=("saw", 0.07, 70), bass=("x...x...x...x.x.", "sine", 0.34),
+                     arp=("....0..2....3.1.", "bell", 0.09, 2), kick="x.......x.......", snare="", hat="x..xx..xx..xx..x", wood="....x.......x..."),
+    # soaring, driving
+    "ace": dict(bpm=146, root=38, scale="minor", prog=[0, 5, 2, 6], pad=("saw", 0.10, 45), bass=("x.x.x.x.x.x.x.x.", "saw", 0.20),
+                arp=("0...2...4...2.4.", "sq", 0.10, 2), kick="x...x...x...x...", snare="....x.......x...", hat="..x...x...x...x.", dist=True),
+    # cozy waltz
+    "dress": dict(bpm=108, root=43, scale="major", prog=[0, 3, 4, 0], steps=12, pad=("tri", 0.08, 40), bass=("x...........", "sine", 0.26),
+                  arp=("0...2.4.2.4.", "pluck", 0.20, 2), kick="", snare="", hat="....x...x...", wood="....x...x..."),
+    # playful bongos
+    "bongo": dict(bpm=118, root=45, scale="cpenta", prog=[0, 3, 0, 4], pad=("tri", 0.06, 30), bass=("x.....x.x.......", "sine", 0.26),
+                  arp=("0.2.4...2.0.4.2.", "pluck", 0.18, 2), kick="x.......x.......", snare="", hat="", wood="x.xx.x.xx.x.xx.x"),
+    # heavy and slow
+    "gears": dict(bpm=76, root=33, scale="phryg", prog=[0, 0, 1, 0], pad=("saw", 0.12, 90), bass=("x.....x.x.....x.", "saw", 0.28),
+                  arp=("0.......1.......", "bell", 0.07, 2), kick="x.......x..x....", snare="........x.......", hat="", boom="x.......x.......", dist=True),
+    # synthwave
+    "swr": dict(bpm=128, root=38, scale="dorian", prog=[0, 5, 3, 4], pad=("saw", 0.10, 50), bass=("x.xx.xx.x.xx.xx.", "sq", 0.20),
+                arp=("0.2.4.6.4.2.4.6.", "sq", 0.07, 2), kick="x...x...x...x...", snare="....x.......x...", hat="..x...x...x...x."),
+    # tense, military
+    "mw4": dict(bpm=120, root=36, scale="minor", prog=[0, 0, 5, 6], pad=("saw", 0.10, 70), bass=("x..x..x.x..x..x.", "sq", 0.22),
+                arp=("0.......2.......", "bell", 0.06, 2), kick="x.......x.x.....", snare="....x..x....x.xx", hat="", boom="x...............", tick=True, roll=True),
+    # plucks, drums, grit
+    "pbz": dict(bpm=98, root=38, scale="insen", prog=[0, 3, 0, 1], pad=("saw", 0.07, 80), bass=("x.....x...x.x...", "saw", 0.24),
+                arp=("0.1.3.2.1.0.3.1.", "pluck", 0.18, 2), kick="x.........x.....", snare="", hat="", boom="x.......x.......", wood="....x.......x.x.", dist=True),
+    # bouncy cartoon rag
+    "dandy": dict(bpm=132, root=43, scale="major", prog=[0, 5, 3, 4], pad=("tri", 0.05, 30), bass=("x...x...x...x...", "sq", 0.18),
+                  arp=("0.4.2.4.0.4.2.6.", "pluck", 0.16, 2), kick="x.......x.......", snare="....x.......x...", hat="..x...x...x...x.", wood="......x.......x."),
 }
 
 

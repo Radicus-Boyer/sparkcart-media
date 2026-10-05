@@ -1,0 +1,171 @@
+{
+ "preset": "popular",
+ "num": 13,
+ "theme": "ace",
+ "game": "Ace Combat 8: Wings of Theve",
+ "target": 70,
+ "pron": {
+  "Strangereal": "Strange Real",
+  "Kyiv": "Keev"
+ },
+ "lines": [
+  {
+   "t": "Fans waited seven years for this game, and it reportedly tripled the last one's record on Steam.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "7 YEAR WAIT",
+     "*ACE COMBAT 8"
+    ]
+   }
+  },
+  {
+   "t": "Ace Combat 8 is an arcade jet fighter game. Real planes, fast dogfights, and far more missiles than any real jet could carry.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "jet-fighter",
+      "REAL JETS"
+     ],
+     [
+      "bolt",
+      "ARCADE DOGFIGHTS"
+     ],
+     [
+      "rocket",
+      "ENDLESS MISSILES"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "It launched on October 2nd, for PlayStation 5, Xbox and PC.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "OCT 2, 2026",
+    "label": "OUT NOW",
+    "sub": "PS5, Xbox Series, PC",
+    "icon": "calendar-check"
+   }
+  },
+  {
+   "t": "On Steam it reportedly passed 52,000 players at once. The last game peaked at about 13,000.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "ACE COMBAT 7",
+     "~13K",
+     "Steam peak"
+    ],
+    "right": [
+     "ACE COMBAT 8",
+     "52K+",
+     "reported peak"
+    ]
+   }
+  },
+  {
+   "t": "This is that last game, Ace Combat 7, from 2019.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-ace-combat-7.jpg",
+    "label": "ACE COMBAT 7 GAMEPLAY (2019)",
+    "credit": "Image: Bandai Namco Entertainment America, CC BY 3.0"
+   }
+  },
+  {
+   "t": "This time, you don't start as the pilot. You're the weapons officer in the back seat, and you take over when your pilot is killed.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BACK SEAT",
+     "*TO ACE"
+    ],
+    "icon": "user-astronaut",
+    "sub": "you take over the jet"
+   }
+  },
+  {
+   "t": "The story is set in 2029, in the series' own fictional world, called Strangereal.",
+   "sc": {
+    "kind": "stat",
+    "val": "2029",
+    "label": "A FICTIONAL WORLD",
+    "sub": "fans call it Strangereal",
+    "icon": "earth-americas"
+   }
+  },
+  {
+   "t": "And it was reportedly inspired by the legend of the Ghost of Kyiv.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "GHOST OF",
+     "*KYIV"
+    ],
+    "icon": "ghost",
+    "sub": "the legend behind the story"
+   }
+  },
+  {
+   "t": "There are more than 30 aircraft, and the maps are built at true one to one scale.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "jet-fighter-up",
+      "30+ AIRCRAFT"
+     ],
+     [
+      "map",
+      "TRUE 1:1 SCALE MAPS"
+     ],
+     [
+      "cloud",
+      "SIMULATED CLOUDS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The series turned 30 last year. The very first game came out in 1995.",
+   "sc": {
+    "kind": "timeline",
+    "rows": [
+     [
+      1995,
+      "The first game"
+     ],
+     [
+      2019,
+      "Ace Combat 7"
+     ],
+     [
+      2026,
+      "Ace Combat 8"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Early Steam reviews were around 75 percent positive.",
+   "sc": {
+    "kind": "stat",
+    "val": "~75%",
+    "label": "POSITIVE ON STEAM",
+    "sub": "at launch, reported",
+    "icon": "thumbs-up"
+   }
+  },
+  {
+   "t": "Arcade flying, or full simulator? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "ARCADE OR SIMULATOR?"
+   }
+  }
+ ],
+ "file": "13 - Ace Combat 8.mp4"
+}

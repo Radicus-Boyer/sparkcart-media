@@ -1,0 +1,171 @@
+{
+ "preset": "popular",
+ "num": 16,
+ "theme": "gears",
+ "game": "Gears of War: E-Day",
+ "target": 70,
+ "pron": {
+  "Fenix": "Fee-nix",
+  "E-Day": "E Day",
+  "iTunes": "eye tunes"
+ },
+ "lines": [
+  {
+   "t": "Gears of War is back after seven years, and it goes back to the very first day of the war.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "GEARS IS BACK",
+     "*E-DAY"
+    ]
+   }
+  },
+  {
+   "t": "It's a third person cover shooter. You duck behind walls, fight monsters called the Locust, and yes, your rifle has a chainsaw.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "shield-halved",
+      "COVER SHOOTER"
+     ],
+     [
+      "skull",
+      "FIGHT THE LOCUST"
+     ],
+     [
+      "gears",
+      "CHAINSAW RIFLE"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "E-Day is a prequel, set 14 years before the first game, on the day the monsters burst out of the ground.",
+   "sc": {
+    "kind": "stat",
+    "val": "14 YEARS",
+    "label": "BEFORE THE FIRST GAME",
+    "sub": "Emergence Day",
+    "icon": "clock-rotate-left"
+   }
+  },
+  {
+   "t": "You play as a young Marcus Fenix, with his best friend Dom at his side.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MARCUS",
+     "*AND DOM"
+    ],
+    "icon": "user-group",
+    "sub": "the original duo returns"
+   }
+  },
+  {
+   "t": "The full launch is October 6th on Xbox and PC, and it's on Game Pass from day one.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "OCT 6, 2026",
+    "label": "FULL LAUNCH",
+    "sub": "Xbox Series, PC, Game Pass",
+    "icon": "calendar-days"
+   }
+  },
+  {
+   "t": "The hype is real. It even took over WWE SummerSlam.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-gears-summerslam.jpg",
+    "label": "E-DAY TAKEOVER AT WWE SUMMERSLAM",
+    "credit": "Photo: Guywelch2000, CC0"
+   }
+  },
+  {
+   "t": "In early access it peaked at over 20,000 players on Steam. That's double Gears 5.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "GEARS 5",
+     "10,196",
+     "Steam peak"
+    ],
+    "right": [
+     "E-DAY",
+     "20,374",
+     "early access peak"
+    ]
+   }
+  },
+  {
+   "t": "Reviews are strong too, with scores in the high eighties.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "HIGH 80s",
+    "label": "REVIEW SCORES",
+    "sub": "Metacritic, at launch",
+    "icon": "star"
+   }
+  },
+  {
+   "t": "Fun fact: the famous chainsaw gun started out as a sketch of a buzzsaw.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "IT WAS A",
+     "*BUZZSAW"
+    ],
+    "icon": "pencil",
+    "sub": "the first sketch of the chainsaw gun"
+   }
+  },
+  {
+   "t": "The first game cost about 10 million dollars to make, and sold 3 million copies in ten weeks.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "COST",
+     "$10M",
+     "to make, approx."
+    ],
+    "right": [
+     "SOLD",
+     "3M",
+     "in 10 weeks"
+    ]
+   }
+  },
+  {
+   "t": "And its 2006 TV ad sent the song Mad World to number one on iTunes.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MAD WORLD",
+     "*#1"
+    ],
+    "icon": "music",
+    "sub": "after the 2006 TV ad"
+   }
+  },
+  {
+   "t": "The whole series has sold over 41 million copies.",
+   "sc": {
+    "kind": "stat",
+    "val": "41 MILLION+",
+    "label": "SERIES SALES",
+    "sub": "as of 2019",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "Chainsaw, or shotgun? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "CHAINSAW OR SHOTGUN?"
+   }
+  }
+ ],
+ "file": "16 - Gears of War E-Day.mp4"
+}

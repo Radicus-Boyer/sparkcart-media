@@ -1,0 +1,85 @@
+{
+ "preset": "popular",
+ "num": 14,
+ "theme": "dress",
+ "game": "Dressmaker",
+ "target": 30,
+ "pron": {
+  "Gorn": "Gorn",
+  "Broforce": "Bro force"
+ },
+ "lines": [
+  {
+   "t": "A cozy game about sewing dresses just cracked Steam's top ten sellers.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "A Sewing Game",
+     "*Top 10 on Steam"
+    ],
+    "size": 150
+   }
+  },
+  {
+   "t": "In Dressmaker you run a boutique. Pick a pattern, choose the fabric, cut it, and sew it.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "ruler",
+      "Pick a pattern"
+     ],
+     [
+      "scissors",
+      "Cut the fabric"
+     ],
+     [
+      "shirt",
+      "Sew the dress"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "It's a real craft, turned into a game.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-seamstress.jpg",
+    "label": "The real job behind the game",
+    "credit": "Photo: Kris Atomic (Unsplash), CC0",
+    "maxh": 580
+   }
+  },
+  {
+   "t": "It peaked at over 35,000 players, and nearly every review is positive.",
+   "sc": {
+    "kind": "stat",
+    "val": "35,000+",
+    "label": "Peak players on Steam",
+    "sub": "Overwhelmingly Positive",
+    "icon": "heart"
+   }
+  },
+  {
+   "t": "The funny part? Its developer used to work on wild action games like Broforce and Gorn.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "From Broforce",
+     "*to Ballgowns"
+    ],
+    "size": 150,
+    "icon": "bomb",
+    "sub": "developer Ruan Rothmann"
+   }
+  },
+  {
+   "t": "Would you play it? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Would you play it?"
+   }
+  }
+ ],
+ "file": "14 - Dressmaker.mp4"
+}

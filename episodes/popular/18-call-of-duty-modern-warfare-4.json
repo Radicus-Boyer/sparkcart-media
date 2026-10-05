@@ -1,0 +1,181 @@
+{
+ "preset": "popular",
+ "num": 18,
+ "theme": "mw4",
+ "game": "Call of Duty: Modern Warfare 4",
+ "target": 70,
+ "pron": {
+  "Mikkelsen": "Mickel-sen",
+  "Gaz": "Gazz",
+  "DMZ": "D M Z",
+  "PS4": "P S 4"
+ },
+ "lines": [
+  {
+   "t": "The next Call of Duty has Mads Mikkelsen as the villain, and it's coming to Nintendo.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "CALL OF DUTY",
+     "*MODERN WARFARE 4"
+    ],
+    "size": 150
+   }
+  },
+  {
+   "t": "Modern Warfare 4 launches October 23rd. It's a military shooter with a story campaign, multiplayer, and more.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "OCT 23, 2026",
+    "label": "LAUNCH DAY",
+    "sub": "PS5, Xbox Series, PC, Switch 2",
+    "icon": "calendar-days"
+   }
+  },
+  {
+   "t": "The story starts with an invasion of South Korea, then moves to New York, Paris and Mumbai.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "location-dot",
+      "SOUTH KOREA"
+     ],
+     [
+      "location-dot",
+      "NEW YORK"
+     ],
+     [
+      "location-dot",
+      "PARIS"
+     ],
+     [
+      "location-dot",
+      "MUMBAI"
+     ]
+    ],
+    "head": "THE CAMPAIGN"
+   }
+  },
+  {
+   "t": "Captain Price is on the run, hunted by his own teammates, Ghost and Gaz.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "PRICE",
+     "*ON THE RUN"
+    ],
+    "icon": "person-running",
+    "sub": "hunted by Ghost and Gaz"
+   }
+  },
+  {
+   "t": "The villain is called the Archer, played by Mads Mikkelsen.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE ARCHER"
+    ],
+    "icon": "bullseye",
+    "sub": "played by Mads Mikkelsen"
+   }
+  },
+  {
+   "t": "This is Modern Warfare 2, from 2022. The same heroes are back.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-mw2-trailer.jpg",
+    "label": "MODERN WARFARE II TRAILER (2022)",
+    "credit": "Video: Xbox Mexico / Activision, CC BY 3.0"
+   }
+  },
+  {
+   "t": "It's the first Call of Duty on a Nintendo console since Ghosts, in 2013.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "LAST TIME",
+     "2013",
+     "Ghosts, Wii U"
+    ],
+    "right": [
+     "NOW",
+     "2026",
+     "Switch 2"
+    ]
+   }
+  },
+  {
+   "t": "It's also the first one made only for current consoles. No PS4, no Xbox One.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "xmark",
+      "NO PS4"
+     ],
+     [
+      "xmark",
+      "NO XBOX ONE"
+     ],
+     [
+      "check",
+      "CURRENT GEN ONLY"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "One multiplayer map, Kill Block, can rearrange itself into more than 500 layouts.",
+   "sc": {
+    "kind": "stat",
+    "val": "500+",
+    "label": "LAYOUTS, ONE MAP",
+    "sub": "the map is called Kill Block",
+    "icon": "cubes"
+   }
+  },
+  {
+   "t": "The extraction mode DMZ returns, with 20 squads of three.",
+   "sc": {
+    "kind": "stat",
+    "val": "20 SQUADS",
+    "label": "DMZ IS BACK",
+    "sub": "three players each",
+    "icon": "people-group"
+   }
+  },
+  {
+   "t": "Fun fact: the writers reportedly talked to North Korean defectors for the story.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "REAL",
+     "*DEFECTORS"
+    ],
+    "icon": "comments",
+    "sub": "consulted for the story, reported"
+   }
+  },
+  {
+   "t": "And it reportedly won't be on Game Pass for at least a year.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NO GAME PASS"
+    ],
+    "icon": "ban",
+    "sub": "for at least a year, reported"
+   }
+  },
+  {
+   "t": "Campaign, or multiplayer first? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "CAMPAIGN OR MULTIPLAYER?"
+   }
+  }
+ ],
+ "file": "18 - Call of Duty Modern Warfare 4.mp4"
+}

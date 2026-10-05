@@ -1,0 +1,81 @@
+{
+ "preset": "popular",
+ "num": 19,
+ "theme": "pbz",
+ "game": "Phantom Blade Zero",
+ "target": 30,
+ "pron": {
+  "Yen": "Yen"
+ },
+ "lines": [
+  {
+   "t": "In this game, your hero has only 66 days left to live.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "66 DAYS",
+     "*TO LIVE"
+    ]
+   }
+  },
+  {
+   "t": "Phantom Blade Zero is a lightning fast kung fu action game, out October 29th on PS5 and PC.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "bolt",
+      "FAST KUNG FU COMBAT"
+     ],
+     [
+      "calendar-days",
+      "OCTOBER 29"
+     ],
+     [
+      "gamepad",
+      "PS5 AND PC"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Action movie star Donnie Yen is a creative consultant, and did motion capture for it.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-donnie-yen.jpg",
+    "label": "DONNIE YEN: CREATIVE CONSULTANT",
+    "credit": "Photo: Cecilia Wang, CC BY 4.0",
+    "maxh": 600
+   }
+  },
+  {
+   "t": "It passed a million wishlists in just 15 days.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 MILLION+",
+    "label": "WISHLISTS IN 15 DAYS",
+    "sub": "after its store pages opened",
+    "icon": "heart"
+   }
+  },
+  {
+   "t": "And the studio says it's all hand crafted, with no AI.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NO AI"
+    ],
+    "icon": "hand",
+    "sub": "hand-crafted, says the studio"
+   }
+  },
+  {
+   "t": "Day one, or wait for reviews? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "DAY ONE OR WAIT?"
+   }
+  }
+ ],
+ "file": "19 - Phantom Blade Zero.mp4"
+}

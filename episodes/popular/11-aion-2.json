@@ -1,0 +1,170 @@
+{
+ "preset": "popular",
+ "num": 11,
+ "theme": "aion",
+ "game": "AION 2",
+ "target": 70,
+ "pron": {
+  "AION": "Eye-on",
+  "Aion": "Eye-on"
+ },
+ "lines": [
+  {
+   "t": "This game had 171,000 people playing on Steam before it was even free.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "171,000 PLAYERS",
+     "*BEFORE IT WAS FREE"
+    ],
+    "size": 150
+   }
+  },
+  {
+   "t": "AION 2 is a massive online role-playing game from the Korean studio NC.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "earth-asia",
+      "MADE IN KOREA"
+     ],
+     [
+      "users",
+      "SHARED ONLINE WORLD"
+     ],
+     [
+      "hat-wizard",
+      "FANTASY RPG"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The series is famous for one thing. Your character has wings, and you can fly.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "YOU HAVE",
+     "*WINGS"
+    ],
+    "icon": "dove",
+    "sub": "the thing Aion is known for"
+   }
+  },
+  {
+   "t": "The first Aion launched in Korea in 2008. Back then, you could only stay in the air for 60 seconds.",
+   "sc": {
+    "kind": "stat",
+    "val": "60 SEC",
+    "label": "OF FLIGHT AT FIRST",
+    "sub": "the original Aion, 2008",
+    "icon": "stopwatch"
+   }
+  },
+  {
+   "t": "This is the original, pulling in crowds at a game show.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-aion-booth.jpg",
+    "label": "THE ORIGINAL AION AT A GAME SHOW",
+    "credit": "Photo: map (Flickr), CC BY 2.0"
+   }
+  },
+  {
+   "t": "It was huge. In China, over a million people logged in within four days.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 MILLION+",
+    "label": "LOGINS IN 4 DAYS",
+    "sub": "China launch, 2009",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "And it had three and a half million subscribers in Asia.",
+   "sc": {
+    "kind": "stat",
+    "val": "3.5 MILLION",
+    "label": "SUBSCRIBERS IN ASIA",
+    "sub": "May 2009",
+    "icon": "id-card"
+   }
+  },
+  {
+   "t": "Now the sequel is here. Early access opened on September 30th, with founder's packs from 25 dollars.",
+   "sc": {
+    "kind": "stat",
+    "val": "$24.99",
+    "label": "FOUNDER'S PACKS FROM",
+    "sub": "early access: September 30, 2026",
+    "icon": "ticket"
+   }
+  },
+  {
+   "t": "It peaked at 171,530 players at once on Steam.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     171530,
+     "{:,.0f}"
+    ],
+    "label": "PEAK ON STEAM",
+    "sub": "during paid early access",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "It reportedly hit number one on Steam's top sellers in 12 countries, with over 1.3 million wishlists.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "TOP SELLER",
+     "#1",
+     "in 12 countries"
+    ],
+    "right": [
+     "WISHLISTS",
+     "1.3M+",
+     "on Steam"
+    ]
+   }
+  },
+  {
+   "t": "On October 5th, it goes free to play for everyone, in eight languages.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "FREE TO PLAY",
+     "*OCTOBER 5"
+    ],
+    "icon": "gift",
+    "sub": "PC, in 8 languages"
+   }
+  },
+  {
+   "t": "Fun fact: the first game took over two years to go free in North America. The sequel took five days.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "AION 1",
+     "2.5 YRS",
+     "to go free"
+    ],
+    "right": [
+     "AION 2",
+     "5 DAYS",
+     "to go free"
+    ]
+   }
+  },
+  {
+   "t": "Are you jumping in? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "ARE YOU JUMPING IN?"
+   }
+  }
+ ],
+ "file": "11 - AION 2.mp4"
+}

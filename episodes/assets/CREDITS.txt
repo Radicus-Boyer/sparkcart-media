@@ -22,3 +22,26 @@ pop-lu-bu.jpg             "Lu Bu at Hulao", Qing dynasty print from Romance of t
                           https://commons.wikimedia.org/wiki/File:Lu_Bu_at_Hulao.png
 pop-wolverine-animal.jpg  "Wolverine (Gulo gulo), Korkeasaari" by Uusijani, CC0
                           https://commons.wikimedia.org/wiki/File:Wolverine_(Gulo_gulo),_Korkeasaari.JPG
+
+Batch 2 (checked 2026-10-04). Where no free-licensed image of the game itself exists, a related real photo is used and labelled as such.
+
+pop2-aion-booth.jpg       "NCSoft booth" by map (Flickr), CC BY 2.0
+                          https://commons.wikimedia.org/wiki/File:NCSoft_booth_-_Flickr_-_map.jpg
+pop2-52nd-street.jpg      "52nd Street, New York, by Gottlieb, 1948" by William P. Gottlieb, public domain
+                          https://commons.wikimedia.org/wiki/File:52nd_Street,_New_York,_by_Gottlieb,_1948.jpg
+pop2-ace-combat-7.jpg     "Ace Combat 7 Skies Unknown gameplay" by Bandai Namco Entertainment America, CC BY 3.0
+                          https://commons.wikimedia.org/wiki/File:Ace_Combat_7_Skies_Unknown_gameplay.png
+pop2-seamstress.jpg       "Seamstress at work (Unsplash)" by Kris Atomic, CC0
+                          https://commons.wikimedia.org/wiki/File:Seamstress_at_work_(Unsplash).jpg
+pop2-cat-keyboard.jpg     "Midge cat and computer" by dougwoods, CC BY 2.0
+                          https://commons.wikimedia.org/wiki/File:Midge_cat_and_computer.jpg
+pop2-gears-summerslam.jpg "WWE Summerslam Gears of War" by Guywelch2000, CC0
+                          https://commons.wikimedia.org/wiki/File:WWE_Summerslam_Gears_of_War.jpg
+pop2-kinect-podracing.jpg "CES 2012 - Microsoft Kinect Star Wars Episode 1 Podracing" by The Conmunity - Pop Culture Geek (Doug Kline), CC BY 2.0
+                          https://commons.wikimedia.org/wiki/File:CES_2012_-_Microsoft_Kinect_Star_Wars_Episode_1_Podracing_(6764013293).jpg
+pop2-mw2-trailer.jpg      frame from "Call of Duty- Modern Warfare II - Tráiler Mundial de Revelación" by Xbox México, CC BY 3.0
+                          https://commons.wikimedia.org/wiki/File:Call_of_Duty-_Modern_Warfare_II_-_Tráiler_Mundial_de_Revelación.webm
+pop2-donnie-yen.jpg       "Donnie Yen Formal" by Cecilia Wang, CC BY 4.0
+                          https://commons.wikimedia.org/wiki/File:Donnie_Yen_Formal.jpeg
+pop2-flip-the-frog.jpg    "Flip the Frog opening title" (1930), Celebrity Productions, public domain
+                          https://commons.wikimedia.org/wiki/File:Flip_the_Frog_opening_title.jpg

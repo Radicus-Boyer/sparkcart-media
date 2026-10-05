@@ -1,0 +1,91 @@
+{
+ "preset": "popular",
+ "num": 15,
+ "theme": "bongo",
+ "game": "Bongo Cat",
+ "target": 30,
+ "lines": [
+  {
+   "t": "One of the most played things on Steam is a cat that taps along while you type.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "150,000 Players",
+     "*One Cat"
+    ]
+   }
+  },
+  {
+   "t": "Bongo Cat sits on your screen. Every key you press, it taps its paws.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "keyboard",
+      "You type"
+     ],
+     [
+      "paw",
+      "It taps"
+     ],
+     [
+      "hat-wizard",
+      "You earn hats"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Real cats have been doing this for years.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-cat-keyboard.jpg",
+    "label": "A real keyboard cat",
+    "credit": "Photo: dougwoods, CC BY 2.0",
+    "maxh": 600
+   }
+  },
+  {
+   "t": "Around 150,000 people run it at once, and it's free.",
+   "sc": {
+    "kind": "stat",
+    "val": "150,000",
+    "label": "Running it at once",
+    "sub": "free on Steam since March 2025",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "Keep typing and you earn hats to trade on the Steam market.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Tradeable",
+     "*Hats"
+    ],
+    "icon": "store",
+    "sub": "random drops while you type"
+   }
+  },
+  {
+   "t": "The meme began in 2018, as a Twitter doodle.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Born in",
+     "*2018"
+    ],
+    "icon": "pencil",
+    "sub": "a doodle that went viral"
+   }
+  },
+  {
+   "t": "How many taps are you at? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "How many taps?"
+   }
+  }
+ ],
+ "file": "15 - Bongo Cat.mp4"
+}

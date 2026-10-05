@@ -1,0 +1,81 @@
+{
+ "preset": "popular",
+ "num": 20,
+ "theme": "dandy",
+ "game": "Dandy's World",
+ "target": 30,
+ "pron": {
+  "Twisteds": "Twist-eds"
+ },
+ "lines": [
+  {
+   "t": "This cute Roblox game is actually horror, with six billion visits.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "6 Billion Visits",
+     "*Cute Horror"
+    ]
+   }
+  },
+  {
+   "t": "In Dandy's World you play as a Toon. Ride the elevator down, fix machines, and hide from the Twisteds.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "elevator",
+      "Ride the elevator"
+     ],
+     [
+      "gears",
+      "Fix the machines"
+     ],
+     [
+      "ghost",
+      "Hide from Twisteds"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Its bouncy art style looks just like 1930s cartoons.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-flip-the-frog.jpg",
+    "label": "1930s cartoons: the same bouncy style",
+    "credit": "Flip the Frog, 1930, public domain"
+   }
+  },
+  {
+   "t": "Over 200,000 people play at once, putting it in Roblox's top five.",
+   "sc": {
+    "kind": "stat",
+    "val": "208,000",
+    "label": "Playing at once",
+    "sub": "#4 on Roblox, October 2026",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "It only launched in 2024, and Scholastic books arrive next year.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Toys",
+     "*and Books"
+    ],
+    "icon": "book-open",
+    "sub": "plushies out, books in 2027"
+   }
+  },
+  {
+   "t": "Who's your main Toon? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Who's your main Toon?"
+   }
+  }
+ ],
+ "file": "20 - Dandys World.mp4"
+}

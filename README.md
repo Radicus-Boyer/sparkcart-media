@@ -12,6 +12,7 @@ engine/modern/     'popular' preset = Most Popular Games of the Internet (engine
 episodes/popular/  episode scripts for Most Popular Games of the Internet
 episodes/assets/   real images used by photo scenes + CREDITS.txt (licence and source of every image)
 popular-batch-1/   finished MP4s + posting.txt, Most Popular Games #1-10
+popular-batch-2/   finished MP4s + posting.txt, Most Popular Games #11-20
 tools/posting.py   posting.txt checker, raw-URL lister, Postiz schedule builder
 roblox-edition/    finished MP4s + posting.txt (public links Postiz pulls from)
 build/             renders and scratch files (git-ignored)
@@ -56,7 +57,10 @@ TikTok title and buttons); the bottom third of the frame is left empty on purpos
 
 Themes (in `engine/modern/themes.py`, music in `music2.py`): `cs2` tactical HUD, `dw9` ink and war banners,
 `dota` arcane battle map, `pubg` drop-zone map with a shrinking circle, `wardogs` cash and concrete, `oni` ink wash,
-`dawn` day/night cycle, `control` brutalist black/red, `wolv` comic book, `witcher` parchment map.
+`dawn` day/night cycle, `control` brutalist black/red, `wolv` comic book, `witcher` parchment map,
+`aion` indigo sky and gold wings, `deadlock` noir skyline in the rain, `ace` open sky with a jet HUD, `dress` gingham and
+measuring tape, `bongo` desk doodle, `gears` ash and embers, `swr` neon desert track, `mw4` night vision, `pbz` ink and steel,
+`dandy` pastel cartoon with a dark edge.
 A new game needs a new theme: copy the closest one (static painter, per-frame layer, panel, text roles, caption style)
 and add a music style with the same name. Keep all art original and generic: no logos, sprites or known characters.
 
@@ -72,7 +76,7 @@ Scene kinds (`sc.kind`):
 | `timeline` | `rows: [[year, text], ...]` |
 | `quote` | `quote`, `by` |
 | `photo` | `img` (file in `episodes/assets/`), `label`, `credit`, `crop: [l, t, r, b]` as fractions, `focus: [x, y]`, `maxh` |
-| `outro` | `question` |
+| `outro` | `question`; shows the card "COMMENT FOR WHICH GAME WE SHOULD REVIEW NEXT!" then the follow button (`cta: ""` hides the card, any other `cta` text replaces it). Say the same line in the last caption. |
 
 Icons are Font Awesome Free solid names (`engine/modern/icons.json`).
 Length: about 85 words for 30 s, about 190 words for 70 s. Voice speed starts at 1.12 and rises (max 1.32) if the

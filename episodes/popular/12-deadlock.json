@@ -1,0 +1,194 @@
+{
+ "preset": "popular",
+ "num": 12,
+ "theme": "deadlock",
+ "game": "Deadlock",
+ "target": 70,
+ "lines": [
+  {
+   "t": "This game just broke its own player record, and it still hasn't officially launched.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "228,000 PLAYERS",
+     "*STILL NOT OUT"
+    ]
+   }
+  },
+  {
+   "t": "Deadlock is Valve's six versus six hero shooter. It mixes third person shooting with a Dota style map.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "6 VS 6"
+     ],
+     [
+      "gun",
+      "HERO SHOOTER"
+     ],
+     [
+      "chess-rook",
+      "LANES AND TOWERS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "It's set in a haunted version of 1940s New York, called the Cursed Apple.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-52nd-street.jpg",
+    "label": "REAL 1940s NEW YORK: THE INSPIRATION",
+    "credit": "Photo: William P. Gottlieb, 1948, public domain"
+   }
+  },
+  {
+   "t": "It leaked in May 2024, under the name Neon Prime.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NEON PRIME"
+    ],
+    "icon": "user-secret",
+    "sub": "the leaked name, May 2024"
+   }
+  },
+  {
+   "t": "Valve said nothing for months. One reporter was even banned from the game for previewing it early.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BANNED"
+    ],
+    "icon": "ban",
+    "sub": "a reporter previewed it too early"
+   }
+  },
+  {
+   "t": "That September it peaked at 171,000 players, while it was still invite only.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     171490,
+     "{:,.0f}"
+    ],
+    "label": "PEAK IN SEPTEMBER 2024",
+    "sub": "invite only",
+    "icon": "envelope"
+   }
+  },
+  {
+   "t": "Then came this week's update, The City Never Sleeps. Six new heroes, four new districts, and over ten thousand new voice lines.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "user-plus",
+      "6 NEW HEROES"
+     ],
+     [
+      "city",
+      "4 NEW DISTRICTS"
+     ],
+     [
+      "microphone",
+      "10,000+ VOICE LINES"
+     ]
+    ],
+    "head": "THE CITY NEVER SLEEPS"
+   }
+  },
+  {
+   "t": "On September 30th, it set a new record: 228,086 players at once.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     228086,
+     "{:,.0f}"
+    ],
+    "label": "ALL-TIME PEAK ON STEAM",
+    "sub": "September 30, 2026",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "The new heroes arrive two per week, with names like Rat King and Deadman Danny.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "crown",
+      "RAT KING"
+     ],
+     [
+      "skull",
+      "DEADMAN DANNY"
+     ],
+     [
+      "syringe",
+      "NURSE HARROW"
+     ]
+    ],
+    "head": "NEW HEROES"
+   }
+  },
+  {
+   "t": "The roster has grown from about 20 heroes to around 40.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "2024",
+     "20",
+     "heroes"
+    ],
+    "right": [
+     "2026",
+     "40+",
+     "heroes"
+    ]
+   }
+  },
+  {
+   "t": "Fun fact: fans drew a new look for the hero Ivy, and Valve redesigned her to match.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "FAN ART",
+     "*WON"
+    ],
+    "icon": "palette",
+    "sub": "Ivy was redesigned to match it"
+   }
+  },
+  {
+   "t": "It's free, it's PC only, and it still has no release date.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "gift",
+      "FREE"
+     ],
+     [
+      "desktop",
+      "PC ONLY"
+     ],
+     [
+      "calendar-xmark",
+      "NO RELEASE DATE"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Who's your main? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "WHO'S YOUR MAIN?"
+   }
+  }
+ ],
+ "file": "12 - Deadlock.mp4"
+}

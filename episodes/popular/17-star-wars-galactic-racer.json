@@ -1,0 +1,72 @@
+{
+ "preset": "popular",
+ "num": 17,
+ "theme": "swr",
+ "game": "Star Wars: Galactic Racer",
+ "target": 30,
+ "pron": {
+  "Jakku": "Jah-koo",
+  "Tatooine": "Tatoo-een"
+ },
+ "lines": [
+  {
+   "t": "Developers who made Burnout are building a Star Wars racing game.",
+   "sc": {
+    "kind": "title",
+    "big": [
+     "BURNOUT DEVS",
+     "*STAR WARS RACING"
+    ],
+    "size": 150
+   }
+  },
+  {
+   "t": "Star Wars: Galactic Racer launches October 6th. You race podracers, landspeeders and speeder bikes.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "flag-checkered",
+      "PODRACERS"
+     ],
+     [
+      "car-side",
+      "LANDSPEEDERS"
+     ],
+     [
+      "motorcycle",
+      "SPEEDER BIKES"
+     ]
+    ],
+    "head": "OUT OCTOBER 6"
+   }
+  },
+  {
+   "t": "Tracks include Tatooine and Jakku, with 12 players online.",
+   "sc": {
+    "kind": "stat",
+    "val": "12",
+    "label": "PLAYERS ONLINE",
+    "sub": "PS5, Xbox Series and PC",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "It's the first full Star Wars racing game since 2002. After that, podracing was just a Kinect mini-game.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop2-kinect-podracing.jpg",
+    "label": "STAR WARS PODRACING ON KINECT, 2012",
+    "credit": "Photo: Doug Kline / Pop Culture Geek, CC BY 2.0"
+   }
+  },
+  {
+   "t": "Podracer, or speeder bike? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "PODRACER OR BIKE?"
+   }
+  }
+ ],
+ "file": "17 - Star Wars Galactic Racer.mp4"
+}
