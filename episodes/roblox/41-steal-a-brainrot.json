@@ -1,0 +1,571 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 41,
+ "slug": "41-steal-a-brainrot",
+ "file": "41 Steal a Brainrot (90s).mp4",
+ "target": 90,
+ "accent": "#ff5252",
+ "bpm": 134,
+ "root": 62,
+ "pron": {
+  "Sahur": "Sah-hoor",
+  "SpyderSammy": "Spider Sammy",
+  "Brainrot": "Brain rot",
+  "Brainrots": "Brain rots"
+ },
+ "lines": [
+  {
+   "t": "Bruno Mars played a concert inside this Roblox game, and 12.8 million people showed up.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "12.8 MILLION",
+    "sub": "AT A CONCERT INSIDE ROBLOX",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-bruno-mars.jpg",
+     "label": "BRUNO MARS PLAYED INSIDE IT",
+     "credit": "Photo: Brothers Le, CC BY 2.0",
+     "y": 820,
+     "h": 440
+    },
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       2.8,
+       2.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       -3.2,
+       3.2
+      ],
+      "a": "cheer",
+      "c": "d"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The game is Steal a Brainrot. You buy weird meme characters called Brainrots, and each one earns you money.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "STEAL A\nBRAINROT",
+    "sub": "BUY MEME CHARACTERS",
+    "bs": 124,
+    "props": [
+     [
+      "pedestal",
+      -1.5,
+      -1.5
+     ],
+     [
+      "pedestal",
+      0.8,
+      -1.5
+     ]
+    ],
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       -1.0,
+       -1.0
+      ],
+      "a": "hop",
+      "c": "#ff7043",
+      "s": 0.7
+     },
+     {
+      "k": "fox",
+      "p": [
+       1.3,
+       -1.0
+      ],
+      "a": "hop",
+      "c": "#7e57c2",
+      "s": 0.7
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       1.5,
+       2.2
+      ],
+      "a": "wave",
+      "c": "a"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "They come from the Italian brainrot memes that took over TikTok.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "ITALIAN\nBRAINROT",
+    "sub": "THE TIKTOK MEMES",
+    "rays": "#ffffff",
+    "bs": 124,
+    "pets": [
+     {
+      "k": "dragon",
+      "p": [
+       0,
+       0
+      ],
+      "a": "hop",
+      "c": "#26c6da",
+      "s": 0.9
+     }
+    ],
+    "ic": [
+     {
+      "n": "globe",
+      "x": 880,
+      "y": 840,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The twist: every other player can sneak into your base and steal them.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "sand",
+    "big": "THEY CAN\nSTEAL IT",
+    "bs": 124,
+    "bc": "#ff5252",
+    "props": [
+     [
+      "base",
+      -2.4,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       3.2,
+       1.0
+      ],
+      "to": [
+       -0.4,
+       -0.4
+      ],
+      "a": "sneak",
+      "c": "k",
+      "face": "mean"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "So you lock your base, set traps, and steal theirs right back.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "big": "LOCK UP",
+    "sub": "THEN STEAL BACK",
+    "props": [
+     [
+      "base",
+      -2.4,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.6
+      ],
+      "a": "bob",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "pulse"
+     },
+     {
+      "n": "star",
+      "x": 200,
+      "y": 880,
+      "s": 130,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It launched in May 2025, made by a developer called SpyderSammy.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "MAY 2025",
+    "sub": "BY SPYDERSAMMY",
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Three months later, 20 million people were playing at once. That beat Fortnite's all time record.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "BEAT FORTNITE'S RECORD",
+    "rays": "#ffffff",
+    "count": {
+     "to": 20,
+     "fmt": "{:.0f} MILLION"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "By October it hit 25.4 million. No game on Roblox had ever passed 25 million before.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "A ROBLOX RECORD",
+    "rays": "#ffffff",
+    "count": {
+     "from": 20,
+     "to": 25.4,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 124,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "During one event that August, all of Roblox hit 47 million players at the same time.",
+   "sc": {
+    "bg": "space",
+    "ground": "space",
+    "sub": "ON ALL OF ROBLOX AT ONCE",
+    "count": {
+     "to": 47.4,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 25,
+     "appear": 0.8
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It got so big that Fortnite got its own official version, and half a million people played that too.",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "FORTNITE\nVERSION",
+    "sub": "500,000 AT ONCE",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       -1.6,
+       1.0
+      ],
+      "a": "run",
+      "to": [
+       1.6,
+       1.0
+      ],
+      "c": "f"
+     }
+    ],
+    "ic": [
+     {
+      "n": "controller",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "One character caused real drama. Tung Tung Tung Sahur was removed over a licensing dispute, then came back months later.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "REMOVED",
+    "sub": "THEN BROUGHT BACK",
+    "bc": "#ff5252",
+    "vig": true,
+    "props": [
+     [
+      "pedestal",
+      -0.8,
+      -0.8
+     ]
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "w": [
+       0,
+       0,
+       2.0
+      ],
+      "s": 200,
+      "a": "pulse"
+     },
+     {
+      "n": "license",
+      "x": 860,
+      "y": 880,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The developers even sued a copycat version.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "LAWSUIT",
+    "sub": "AGAINST A COPYCAT",
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Critics say it can feel pay to win, because Robux gets you ahead faster.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "sand",
+    "big": "PAY TO WIN?",
+    "sub": "A COMMON COMPLAINT",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "It still won Best Creative Direction at the 2025 Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "AWARD\nWINNER",
+    "sub": "BEST CREATIVE DIRECTION",
+    "rays": "#ffffff",
+    "ss": 56,
+    "props": [
+     [
+      "trophy",
+      -2.4,
+      -0.4
+     ],
+     [
+      "trophy",
+      0.4,
+      -2.4
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "And yes, a Steal a Brainrot movie is in development.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "THE MOVIE",
+    "sub": "IN DEVELOPMENT",
+    "av": [
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 860,
+      "s": 180,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Today it's calmer. About 60,000 people are playing right now.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "sub": "PLAYING NOW (OCT 2026)",
+    "count": {
+     "to": 60000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 14,
+     "appear": 0.8
+    }
+   }
+  },
+  {
+   "t": "What's the best Brainrot you ever stole? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "BEST STEAL?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

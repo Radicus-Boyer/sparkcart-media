@@ -1,0 +1,215 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 22,
+ "theme": "mine",
+ "game": "Minecraft",
+ "target": 90,
+ "pron": {
+  "C418": "C four eighteen"
+ },
+ "lines": [
+  {
+   "t": "The best-selling game of all time started as one man's side project, called Cave Game.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop3-minecraft-alpha.jpg",
+    "big": [
+     "400 MILLION SOLD",
+     "*IT WAS \"CAVE GAME\""
+    ],
+    "label": "MINECRAFT ALPHA, 2010",
+    "credit": "Image: Xbox Mexico, CC BY 3.0"
+   }
+  },
+  {
+   "t": "Minecraft has sold over 400 million copies. No other game in history comes close.",
+   "sc": {
+    "kind": "stat",
+    "val": "400M+",
+    "label": "COPIES SOLD",
+    "sub": "best-selling game ever (May 2026)",
+    "icon": "crown"
+   }
+  },
+  {
+   "t": "The idea is simple. The whole world is made of blocks. Break them, collect them, and build anything.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "cube",
+      "A WORLD OF BLOCKS"
+     ],
+     [
+      "hammer",
+      "BREAK AND COLLECT"
+     ],
+     [
+      "house-chimney",
+      "BUILD ANYTHING"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "A Swedish programmer known as Notch built the first version in about a week, in May 2009.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 WEEK",
+    "label": "TO BUILD VERSION ONE",
+    "sub": "by Markus \"Notch\" Persson, May 2009",
+    "icon": "calendar-week"
+   }
+  },
+  {
+   "t": "He posted it on a small indie forum on May 17th, 2009.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MAY 17, 2009"
+    ],
+    "size": 120,
+    "icon": "comments",
+    "sub": "first posted on an indie forum"
+   }
+  },
+  {
+   "t": "The Creeper was an accident. Notch was trying to model a pig, and mixed up the height and the length.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE CREEPER",
+     "*= A BROKEN PIG"
+    ],
+    "size": 124,
+    "icon": "bug",
+    "sub": "a modelling mistake Notch kept"
+   }
+  },
+  {
+   "t": "Composer C418 made the spider sounds from a recording of a fire hose.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SPIDER SOUNDS",
+     "*= A FIRE HOSE"
+    ],
+    "size": 124,
+    "icon": "volume-high"
+   }
+  },
+  {
+   "t": "It officially launched in 2011. Three years later, Microsoft bought it for 2.5 billion dollars.",
+   "sc": {
+    "kind": "stat",
+    "val": "$2.5 BILLION",
+    "label": "PAID BY MICROSOFT",
+    "sub": "2014",
+    "icon": "sack-dollar"
+   }
+  },
+  {
+   "t": "By 2021, 140 million people were playing every month.",
+   "sc": {
+    "kind": "stat",
+    "val": "140 MILLION",
+    "label": "PLAYERS EVERY MONTH",
+    "sub": "2021",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "On YouTube, Minecraft videos have been watched over a trillion times.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 TRILLION+",
+    "label": "YOUTUBE VIEWS",
+    "sub": "passed in 2021",
+    "icon": "play"
+   }
+  },
+  {
+   "t": "Schools even use a special edition to teach coding.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "IN SCHOOLS"
+    ],
+    "icon": "graduation-cap",
+    "sub": "Minecraft Education teaches coding"
+   }
+  },
+  {
+   "t": "Last year's Minecraft Movie became the second highest grossing video game movie ever.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE MOVIE",
+     "*#2 EVER"
+    ],
+    "icon": "film",
+    "sub": "among video game movies, 2025"
+   }
+  },
+  {
+   "t": "Last year it finally got a modern graphics mode, called Vibrant Visuals.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "VIBRANT",
+     "*VISUALS"
+    ],
+    "icon": "sun",
+    "sub": "a new look, June 2025"
+   }
+  },
+  {
+   "t": "And the game does have an ending. Beat the Ender Dragon, and the credits roll.",
+   "sc": {
+    "kind": "photo",
+    "img": "pop3-minecraft-end.jpg",
+    "label": "THE END: THE FINAL BOSS ARENA",
+    "credit": "Image: Xbox Mexico, CC BY 3.0"
+   }
+  },
+  {
+   "t": "It's still growing. A Switch 2 version arrives October 27th, and a brand new dimension is planned for 2027.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "gamepad",
+      "SWITCH 2: OCT 27"
+     ],
+     [
+      "door-open",
+      "NEW DIMENSION: 2027"
+     ]
+    ],
+    "head": "WHAT'S NEXT"
+   }
+  },
+  {
+   "t": "Fun fact: in 2011, it beat The Binding of Isaac for best indie game.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BEST INDIE GAME",
+     "*2011"
+    ],
+    "size": 124,
+    "icon": "trophy",
+    "sub": "it beat The Binding of Isaac"
+   }
+  },
+  {
+   "t": "What was the first thing you ever built? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "FIRST THING YOU BUILT?"
+   }
+  }
+ ],
+ "file": "22 - Minecraft (90s).mp4"
+}

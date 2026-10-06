@@ -1,0 +1,79 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 23,
+ "theme": "poke",
+ "game": "Pokemon",
+ "target": 30,
+ "pron": {
+  "Tajiri": "Tah-jee-ree"
+ },
+ "lines": [
+  {
+   "t": "Pokemon turned 30 this year, and it exists because one kid loved collecting bugs.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop3-pokemon-go-crowd.jpg",
+    "big": [
+     "POKEMON IS 30",
+     "*BECAUSE OF BUGS"
+    ],
+    "label": "POKEMON GO PLAYERS, TOKYO",
+    "credit": "Photo: Brian Miller, CC BY 2.0",
+    "size": 78
+   }
+  },
+  {
+   "t": "The first games launched in Japan in 1996, with 151 monsters.",
+   "sc": {
+    "kind": "stat",
+    "val": "151",
+    "label": "ORIGINAL POKEMON",
+    "sub": "by Satoshi Tajiri, Feb 27, 1996",
+    "icon": "bug"
+   }
+  },
+  {
+   "t": "One was a secret. A programmer hid Mew in the game as a prank.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MEW",
+     "*WAS A PRANK"
+    ],
+    "icon": "user-secret",
+    "sub": "hidden by Shigeki Morimoto"
+   }
+  },
+  {
+   "t": "Those first games sold over 31 million copies.",
+   "sc": {
+    "kind": "stat",
+    "val": "31M+",
+    "label": "COPIES SOLD",
+    "sub": "the first generation",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Next: Winds and Waves, on Switch 2 in 2027.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "WINDS",
+     "*& WAVES"
+    ],
+    "icon": "wind",
+    "sub": "Switch 2, 2027"
+   }
+  },
+  {
+   "t": "Who was your first starter? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "FIRST STARTER?"
+   }
+  }
+ ],
+ "file": "23 - Pokemon (30s).mp4"
+}

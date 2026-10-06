@@ -1,0 +1,87 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 24,
+ "theme": "gdash",
+ "game": "Geometry Dash",
+ "target": 30,
+ "pron": {
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "This game hit a record 100,000 players on Steam this year, with zero new updates.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop3-geometry-dash-cube.png",
+    "big": [
+     "100,000 PLAYERS",
+     "*ZERO UPDATES"
+    ],
+    "label": "THE GEOMETRY DASH CUBE",
+    "credit": "Icon: Robert Topala, public domain",
+    "maxh": 520,
+    "pixel": true
+   }
+  },
+  {
+   "t": "Geometry Dash is a one button rhythm game. Hit one spike, and you start over.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "hand-pointer",
+      "ONE BUTTON"
+     ],
+     [
+      "music",
+      "JUMP TO THE BEAT"
+     ],
+     [
+      "skull",
+      "ONE HIT = RESTART"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "One Swedish developer, RobTop, made it in about four months.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 DEV",
+    "label": "ROBERT \"ROBTOP\" TOPALA",
+    "sub": "made in about 4 months, 2013",
+    "icon": "user"
+   }
+  },
+  {
+   "t": "Then fans waited almost seven years for update 2.2.",
+   "sc": {
+    "kind": "stat",
+    "val": "7 YEARS",
+    "label": "WAITING FOR ONE UPDATE",
+    "sub": "2.1 in 2017, 2.2 in December 2023",
+    "icon": "hourglass-half"
+   },
+   "say": "Then fans waited almost seven years for update two point two."
+  },
+  {
+   "t": "Players have built over 140 million levels.",
+   "sc": {
+    "kind": "stat",
+    "val": "140M+",
+    "label": "PLAYER-MADE LEVELS",
+    "sub": "some rebuild whole other games",
+    "icon": "cubes"
+   }
+  },
+  {
+   "t": "What's the hardest level you've beaten? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "HARDEST LEVEL?"
+   }
+  }
+ ],
+ "file": "24 - Geometry Dash (30s).mp4"
+}

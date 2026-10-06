@@ -1,0 +1,247 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 45,
+ "slug": "45-forsaken",
+ "file": "45 Forsaken (30s).mp4",
+ "target": 30,
+ "accent": "#b388ff",
+ "bpm": 112,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "Baszucki": "Buh-zoo-key"
+ },
+ "lines": [
+  {
+   "t": "Roblox's founder made a test account in 2005. Today it's a horror villain.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "A TEST ACCOUNT\nBECAME A VILLAIN",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-baszucki.jpg",
+     "label": "ROBLOX CO-FOUNDER DAVID BASZUCKI",
+     "credit": "Photo: TechCrunch, CC BY 2.0",
+     "y": 830,
+     "h": 420,
+     "ls": 36
+    },
+    "bs": 88,
+    "vig": false
+   }
+  },
+  {
+   "t": "Forsaken is one killer against a team of survivors.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "FORSAKEN",
+    "sub": "BUILT ON OLD ROBLOX MYTHS",
+    "bs": 150,
+    "vig": true,
+    "props": [
+     [
+      "tree",
+      -3.8,
+      -3.8,
+      {
+       "c": "#1b5e20"
+      }
+     ],
+     [
+      "tree",
+      1.8,
+      -3.9,
+      {
+       "c": "#1b5e20"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -2.0,
+       0.2
+      ],
+      "to": [
+       -0.2,
+       0.2
+      ],
+      "a": "walk",
+      "c": "k",
+      "face": "mean",
+      "hold": "knife"
+     },
+     {
+      "p": [
+       1.4,
+       1.4
+      ],
+      "to": [
+       3.2,
+       1.4
+      ],
+      "a": "run",
+      "c": "c",
+      "face": "o"
+     },
+     {
+      "p": [
+       2.0,
+       2.6
+      ],
+      "to": [
+       3.6,
+       2.6
+      ],
+      "a": "run",
+      "c": "f",
+      "face": "o",
+      "d": 0.15
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "The killer John Doe was a real test account, made by Roblox's founders.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "JOHN DOE",
+    "sub": "USER #2, CREATED IN 2005",
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       0.2,
+       0.2
+      ],
+      "a": "idle",
+      "c": [
+       "#f5cd30",
+       "#fafafa",
+       "#1565c0"
+      ]
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2017, a rumor said he'd hack everyone on March 18th. Nothing happened.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "MARCH 18",
+    "sub": "THE HACK THAT NEVER CAME",
+    "ss": 56,
+    "av": [
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "shake"
+     },
+     {
+      "n": "question",
+      "x": 200,
+      "y": 860,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Forsaken has passed 4.6 billion visits.",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "sub": "VISITS + BEST SURVIVAL GAME 2025",
+    "rays": "#b388ff",
+    "count": {
+     "to": 4.6,
+     "fmt": "{:.1f} BILLION"
+    },
+    "bs": 124,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Killer, or survivor? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "KILLER OR\nSURVIVOR?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 44,
+ "slug": "44-fisch",
+ "file": "44 Fisch (30s).mp4",
+ "target": 30,
+ "accent": "#4dd0e1",
+ "bpm": 124,
+ "root": 57,
+ "pron": {
+  "Fisch": "Fish",
+  "WoozyNate": "Woozy Nate"
+ },
+ "lines": [
+  {
+   "t": "One person built this Roblox fishing game in four months. A year later, a million played at once.",
+   "sc": {
+    "bg": "ocean",
+    "ground": "water",
+    "big": "1 MILLION\nAT ONCE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-boy-fishing.jpg",
+     "label": "REAL FISHING: SLOW. FISCH: NOT.",
+     "credit": "Photo: Virginia State Parks, CC BY 2.0",
+     "y": 850,
+     "h": 410
+    },
+    "bs": 116,
+    "fx": [
+     "waves"
+    ]
+   }
+  },
+  {
+   "t": "Fisch launched in October 2024. You cast, win a quick mini-game, and collect rare fish.",
+   "sc": {
+    "bg": "ocean",
+    "ground": "water",
+    "big": "FISCH",
+    "sub": "CAST. REEL. COLLECT.",
+    "bs": 170,
+    "props": [
+     [
+      "ship",
+      -2.0,
+      -0.8
+     ]
+    ],
+    "fx": [
+     "waves"
+    ]
+   }
+  },
+  {
+   "t": "Its creator, WoozyNate, was inspired by Stardew Valley and fishing in Nova Scotia.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "water",
+    "big": "NOVA SCOTIA",
+    "sub": "THE REAL INSPIRATION",
+    "bs": 116,
+    "props": [
+     [
+      "island",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "fx": [
+     "waves"
+    ]
+   }
+  },
+  {
+   "t": "The name is German for fish.",
+   "sc": {
+    "bg": "mint",
+    "ground": "sand",
+    "big": "FISCH =\nFISH",
+    "sub": "IN GERMAN",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.8
+      ],
+      "a": "wave",
+      "c": "f"
+     }
+    ],
+    "ic": [
+     {
+      "n": "globe",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It hit a billion visits in about three months.",
+   "sc": {
+    "bg": "gold",
+    "ground": "sand",
+    "big": "1 BILLION",
+    "sub": "VISITS IN ABOUT 3 MONTHS",
+    "rays": "#ffffff",
+    "bs": 140,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your rarest catch? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "ocean",
+    "ground": "purple",
+    "big": "RAREST CATCH?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

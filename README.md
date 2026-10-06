@@ -13,6 +13,7 @@ episodes/popular/  episode scripts for Most Popular Games of the Internet
 episodes/assets/   real images used by photo scenes + CREDITS.txt (licence and source of every image)
 popular-batch-1/   finished MP4s + posting.txt, Most Popular Games #1-10
 popular-batch-2/   finished MP4s + posting.txt, Most Popular Games #11-20
+batch-3/           finished MP4s + posting.txt: Most Popular Games #21-25 and Roblox Edition #41-45 (hook-first openings)
 tools/posting.py   posting.txt checker, raw-URL lister, Postiz schedule builder
 roblox-edition/    finished MP4s + posting.txt (public links Postiz pulls from)
 build/             renders and scratch files (git-ignored)
@@ -42,6 +43,19 @@ entry point; it reads `"preset"` from the episode JSON and hands NES episodes to
 NES cover image (TikTok cover, 1080x1920 PNG in `build/out/covers/`):
 `python3 engine/nes/engine.py episodes/nes/13-contra.json cover "THE CODE THAT GAVE YOU 30 LIVES"`
 
+## Hook-first opening (batch 3 onwards)
+
+Channel analytics (Oct 2026) showed only about a third of viewers stayed past the first second, so new episodes open
+differently. Set `"hdr": "tag"` in the episode: the series title becomes a small corner tag, the voice starts after
+0.12 s, and the first scene shows the hook line and a real image from frame 0 with no pop-in.
+
+- `popular`: first scene is `{"kind": "hook", "img": ..., "big": ["LINE 1", "*ACCENT LINE"], "label": ..., "credit": ...}`
+  (`maxh`, `crop`, `focus`, `size`, `pixel` optional).
+- `roblox`: first scene uses `"instant": true` plus `"photo": {"img", "label", "credit", "y", "h", "crop", "rot"}`,
+  a framed photo card above the 3D scene. Any later scene can also carry a `photo`.
+- Roblox outros put "COMMENT FOR WHICH GAME / WE SHOULD REVIEW NEXT!" in `sub` and say it in the last line.
+- Lengths: `"target": 90` works for both presets (about 245 words popular, about 240 words Roblox).
+
 ## Popular episode format (Most Popular Games of the Internet)
 
 `"preset": "popular"`. Motion-graphics Shorts with one visual theme per game: fonts, colours, background, panels,
@@ -60,7 +74,8 @@ Themes (in `engine/modern/themes.py`, music in `music2.py`): `cs2` tactical HUD,
 `dawn` day/night cycle, `control` brutalist black/red, `wolv` comic book, `witcher` parchment map,
 `aion` indigo sky and gold wings, `deadlock` noir skyline in the rain, `ace` open sky with a jet HUD, `dress` gingham and
 measuring tape, `bongo` desk doodle, `gears` ash and embers, `swr` neon desert track, `mw4` night vision, `pbz` ink and steel,
-`dandy` pastel cartoon with a dark edge.
+`dandy` pastel cartoon with a dark edge, `isaac` basement floor and tears, `mine` blocky sky and dirt,
+`poke` handheld dot-matrix screen, `gdash` neon squares and spikes, `among` drifting stars and a task bar.
 A new game needs a new theme: copy the closest one (static painter, per-frame layer, panel, text roles, caption style)
 and add a music style with the same name. Keep all art original and generic: no logos, sprites or known characters.
 

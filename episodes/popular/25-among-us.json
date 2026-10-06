@@ -1,0 +1,94 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 25,
+ "theme": "among",
+ "game": "Among Us",
+ "target": 30,
+ "lines": [
+  {
+   "t": "For two years, almost nobody played Among Us. Then 500 million people did.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop3-among-us-cosplay.jpg",
+    "big": [
+     "NOBODY PLAYED IT",
+     "*THEN 500 MILLION DID"
+    ],
+    "label": "AMONG US COSPLAY, 2023",
+    "credit": "Photo: Captain Galaxy, CC BY 4.0",
+    "maxh": 600,
+    "crop": [
+     0,
+     0.02,
+     1,
+     0.78
+    ],
+    "focus": [
+     0.5,
+     0.3
+    ]
+   }
+  },
+  {
+   "t": "It launched in 2018 with about 40 players online. The team nearly quit.",
+   "sc": {
+    "kind": "stat",
+    "val": "30-50",
+    "label": "PLAYERS ONLINE IN 2018",
+    "sub": "the tiny team nearly gave up",
+    "icon": "user-group"
+   }
+  },
+  {
+   "t": "In 2020, streamers found it, and it exploded.",
+   "sc": {
+    "kind": "stat",
+    "val": "500 MILLION",
+    "label": "PLAYERS IN ONE MONTH",
+    "sub": "November 2020",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "It put the word sus in the dictionary.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SUS"
+    ],
+    "icon": "book",
+    "sub": "added to Merriam-Webster, 2022"
+   }
+  },
+  {
+   "t": "And a nugget shaped like a crewmate sold for almost 100,000 dollars.",
+   "sc": {
+    "kind": "stat",
+    "val": "$99,997",
+    "label": "FOR ONE CHICKEN NUGGET",
+    "sub": "eBay, 2021: a Guinness record",
+    "icon": "drumstick-bite"
+   }
+  },
+  {
+   "t": "This June it got its own TV show.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE TV SHOW"
+    ],
+    "icon": "tv",
+    "sub": "Paramount+, June 2026"
+   }
+  },
+  {
+   "t": "Crewmate, or impostor? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "CREWMATE OR IMPOSTOR?"
+   }
+  }
+ ],
+ "file": "25 - Among Us (30s).mp4"
+}

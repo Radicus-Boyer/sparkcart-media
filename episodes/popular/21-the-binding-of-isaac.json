@@ -1,0 +1,215 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 21,
+ "theme": "isaac",
+ "game": "The Binding of Isaac",
+ "target": 90,
+ "pron": {
+  "McMillen": "Mick-Millen"
+ },
+ "lines": [
+  {
+   "t": "Nintendo refused to sell this game. Fifteen years later, it just broke its own record.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop3-edmund-mcmillen.jpg",
+    "big": [
+     "NINTENDO SAID NO",
+     "*NOW IT'S A RECORD"
+    ],
+    "label": "EDMUND McMILLEN, THE CREATOR",
+    "credit": "Photo: Official GDC, CC BY 2.0"
+   }
+  },
+  {
+   "t": "The Binding of Isaac came out in September 2011. Two people made it in about three months, using Flash.",
+   "sc": {
+    "kind": "stat",
+    "val": "3 MONTHS",
+    "label": "TO MAKE THE WHOLE GAME",
+    "sub": "two developers, built in Flash",
+    "icon": "stopwatch"
+   }
+  },
+  {
+   "t": "You play a crying kid named Isaac, escaping into a basement full of monsters. Your weapon is your own tears.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "face-sad-tear",
+      "YOU ARE ISAAC"
+     ],
+     [
+      "dungeon",
+      "A MONSTER BASEMENT"
+     ],
+     [
+      "droplet",
+      "TEARS ARE BULLETS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Every run is random. New rooms, new items, new bosses. Die once, and you start over.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "shuffle",
+      "RANDOM ROOMS"
+     ],
+     [
+      "wand-magic-sparkles",
+      "HUNDREDS OF ITEMS"
+     ],
+     [
+      "skull",
+      "ONE LIFE"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The dungeons were inspired by the very first Legend of Zelda.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ZELDA'S",
+     "*DUNGEONS"
+    ],
+    "icon": "key",
+    "sub": "the inspiration for every room"
+   }
+  },
+  {
+   "t": "The story comes from the Bible, and that scared Nintendo. In 2012 they blocked it from the 3DS, over questionable religious content.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "BLOCKED",
+    "label": "BY NINTENDO IN 2012",
+    "sub": "\"questionable religious content\"",
+    "icon": "ban"
+   }
+  },
+  {
+   "t": "Its creator expected to sell a few hundred copies. It sold a million in about a year, and five million by 2015.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "EXPECTED",
+     "100s",
+     "of copies"
+    ],
+    "right": [
+     "REALITY",
+     "5M+",
+     "by 2015"
+    ]
+   }
+  },
+  {
+   "t": "YouTubers made it famous, with endless Let's Play videos.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "LET'S PLAYS",
+     "*MADE IT FAMOUS"
+    ],
+    "size": 130,
+    "icon": "play"
+   }
+  },
+  {
+   "t": "Funny detail: in 2011 it was up for best indie game, and lost to Minecraft.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "LOST TO",
+     "*MINECRAFT"
+    ],
+    "icon": "trophy",
+    "sub": "best indie game, 2011"
+   }
+  },
+  {
+   "t": "The remake, Rebirth, hid a secret character behind a puzzle meant to last. Players data-mined it in 109 hours.",
+   "sc": {
+    "kind": "stat",
+    "val": "109 HOURS",
+    "label": "TO FIND THE SECRET CHARACTER",
+    "sub": "players data-mined the answer",
+    "icon": "magnifying-glass"
+   }
+  },
+  {
+   "t": "And it never stopped growing: Rebirth in 2014, Repentance in 2021, and online co-op in 2024, which is set to hit consoles this November.",
+   "sc": {
+    "kind": "timeline",
+    "rows": [
+     [
+      2011,
+      "The original"
+     ],
+     [
+      2014,
+      "Rebirth"
+     ],
+     [
+      2021,
+      "Repentance"
+     ],
+     [
+      2024,
+      "Online co-op"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Then this June, a 90 percent off sale on Steam changed everything.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "90% OFF"
+    ],
+    "icon": "tags",
+    "sub": "Steam sale, June 2026"
+   }
+  },
+  {
+   "t": "It hit 156,000 players at once. More than double its old record.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     156000,
+     "{:,.0f}"
+    ],
+    "label": "PLAYERS AT ONCE ON STEAM",
+    "sub": "June 2026: a new all-time record",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Nearly four million people reportedly bought it during that one sale.",
+   "sc": {
+    "kind": "stat",
+    "val": "~4 MILLION",
+    "label": "COPIES IN ONE SALE",
+    "sub": "reported, June 2026",
+    "icon": "cart-shopping"
+   }
+  },
+  {
+   "t": "What's the best item in the game? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "BEST ITEM IN THE GAME?"
+   }
+  }
+ ],
+ "file": "21 - The Binding of Isaac (90s).mp4"
+}

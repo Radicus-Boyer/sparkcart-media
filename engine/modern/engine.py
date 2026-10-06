@@ -264,6 +264,69 @@ def sc_photo(th, sc, dur):
     return items
 
 
+def sc_hook(th, sc, dur):
+    """Opening scene: a real image and the hook line, both on screen from the very first frame (no pop-in)."""
+    src = Image.open(ASSETS + sc["img"]).convert("RGB")
+    if sc.get("crop"):
+        l, t, r, b = sc["crop"]
+        src = src.crop((int(src.width * l), int(src.height * t), int(src.width * r), int(src.height * b)))
+    a = src.width / src.height
+    fw, fh = 1000, 1000 / a
+    if fh > sc.get("maxh", 600):
+        fh = sc.get("maxh", 600)
+        fw = fh * a
+    fw, fh = int(fw) // 2 * 2, int(fh) // 2 * 2
+    top = sc.get("top", 272)
+    cy = top + fh / 2
+    Z = 1.12
+    pre = src.resize((int(fw * Z), int(fh * Z)), Image.LANCZOS if not sc.get("pixel") else Image.NEAREST)
+    fx, fy = sc.get("focus", [0.5, 0.5])
+    col, bw = th["frame"]
+    fr = Image.new("RGBA", (fw + 2 * bw + 8, fh + 2 * bw + 8), (0, 0, 0, 0))
+    fd = ImageDraw.Draw(fr)
+    fd.rectangle([0, 0, fr.width - 1, fr.height - 1], outline=(0, 0, 0, 200), width=4)
+    fd.rectangle([4, 4, fr.width - 5, fr.height - 5], outline=rgb(col) + (255,), width=bw)
+
+    def dyn(img, lt):
+        k = ease(min(1.0, lt / max(0.5, dur)))
+        s = 1.0 + (Z - 1.0) * k * 0.9
+        cw, ch = pre.width / s, pre.height / s
+        x0 = (pre.width - cw) * (0.5 + (fx - 0.5) * 2 * k)
+        y0 = (pre.height - ch) * (0.5 + (fy - 0.5) * 2 * k)
+        x0, y0 = min(max(0, x0), pre.width - cw), min(max(0, y0), pre.height - ch)
+        im = pre.resize((fw, fh), Image.BILINEAR, box=(x0, y0, x0 + cw, y0 + ch))
+        img.paste(im, (540 - fw // 2, int(top)))
+        paste(img, fr, 540, cy)
+    items = [dyn]
+    y = top + fh + bw + 8
+    if sc.get("credit"):
+        t = text_img(sc["credit"], "BarlowCondensed-ExtraBold.ttf", 30, "#ffffff", 4, "#000000")
+        items.append(S(t, 540 + fw // 2 - 14 - t.width / 2 if t.width < fw - 40 else 540, top + fh - 26, 0.0, "none"))
+    if sc.get("label"):
+        t = T(th, "pacc", sc["label"], 42, 900)
+        pl = th["panel"](t.width + 44, 68, "tag")
+        items += [S(pl, 540, y + 30, 0.0, "none"), S(t, 540, y + 30, 0.0, "none")]
+        y += 76
+    lines = sc.get("big", [])
+    size = sc.get("size", 128)
+    while True:
+        ims = []
+        for ln in lines:
+            role = "big"
+            if ln.startswith("*"):
+                role, ln = "acc", ln[1:]
+            ims.append(T(th, role, ln, size, 1010))
+        hh = sum(im.height for im in ims) + 6 * (len(ims) - 1)
+        if y + 20 + hh <= 1236 or size <= 60:
+            break
+        size = int(size * 0.93)
+    yy = y + 20 + max(0, (1236 - (y + 20) - hh) / 2) * 0.5
+    for im in ims:
+        items.append(S(im, 540, yy + im.height / 2, 0.0, "none"))
+        yy += im.height + 6
+    return items
+
+
 def sc_quote(th, sc, dur):
     lines = wrapped(th, "pbig", sc["quote"], sc.get("size", 82), 820, 5)
     lh = lines[0].height + 12
@@ -360,12 +423,20 @@ def sc_outro(th, sc, dur):
     return items
 
 
-KINDS = {"title": lambda th, sc, d: sc_text(th, sc, d, True), "text": sc_text, "stat": sc_stat, "list": sc_list, "bars": sc_bars,
+KINDS = {"title": lambda th, sc, d: sc_text(th, sc, d, True), "hook": sc_hook, "text": sc_text, "stat": sc_stat, "list": sc_list, "bars": sc_bars,
          "photo": sc_photo, "quote": sc_quote, "timeline": sc_timeline, "vs": sc_vs, "outro": sc_outro}
 
 
 def header(th, ep):
     im = Image.new("RGBA", (W, 360), (0, 0, 0, 0))
+    if ep.get("hdr") == "tag":  # small corner tag: the hook owns the first second, not the series title
+        l1 = text_img("MOST POPULAR GAMES OF THE INTERNET", "BarlowCondensed-ExtraBold.ttf", 30, "#ffffff", 0)
+        l2 = text_img(f"#{ep['num']}  {ep['game'].upper()}", "BarlowCondensed-ExtraBold.ttf", 34, th.get("tag_col", th["flash"]), 0)
+        w = max(l1.width, l2.width)
+        ImageDraw.Draw(im).rounded_rectangle([26, 150, 26 + w + 28, 242], 16, fill=(12, 12, 18, 205))
+        im.alpha_composite(l1, (40, 172 - l1.height // 2))
+        im.alpha_composite(l2, (40, 214 - l2.height // 2))
+        return im
     l1, l2 = T(th, "pbig", SERIES[0], 60, 780), T(th, "pacc", SERIES[1], 42, 780)
     pl = th["panel"](max(l1.width, l2.width) + 90, 138, "tag")
     im.alpha_composite(pl, (540 - pl.width // 2, 196 - pl.height // 2))
@@ -417,7 +488,7 @@ def draw_caption(th, img, line, t0, t1, now):
                 cur = a <= now < b + (0.25 if (w, a, b) == seg[-1] else 0)
                 ims.append(text_img(w.upper(), cs["font"], cs["size"], cs["hi"] if cur else cs["fill"], sw, cs["stroke"], cs.get("wght"), line=True))
                 curs.append(cur)
-            sp = int(cs["size"] * 0.24)
+            sp = int(cs["size"] * cs.get("gap", 0.24))
             tw = sum(i.width - 12 for i in ims) + sp * (len(ims) - 1)
             sc = min(1.0, 980 / max(1, tw))
             k = back(min(1.0, (now - start) / 0.16)) if now - start < 0.16 else 1.0
@@ -450,7 +521,7 @@ def synth_lines(ep, speed):
 
 def build_voice(ep):
     target, speed = ep["target"], ep.get("speed", 1.12)
-    gap, lead, tail = 0.16, 0.3, 1.2
+    gap, lead, tail = 0.16, (0.12 if ep.get("hdr") == "tag" else 0.3), 1.2
     for _ in range(3):
         clips, sr = synth_lines(ep, speed)
         total = lead + sum(len(c) / sr for c in clips) + gap * (len(clips) - 1) + tail

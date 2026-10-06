@@ -74,6 +74,20 @@ STYLES = {
 }
 
 
+STYLES.update({
+    # creepy music box
+    "isaac": dict(STYLES["dandy"], bpm=96, root=38, scale="minor", prog=[0, 5, 3, 6]),
+    # calm and open
+    "mine": dict(STYLES["dress"], bpm=96, root=41, prog=[0, 4, 5, 3]),
+    # handheld chiptune
+    "poke": dict(STYLES["swr"], bpm=138, root=45, scale="major", prog=[0, 4, 5, 3]),
+    # driving electro
+    "gdash": dict(STYLES["swr"], bpm=140, root=40, scale="minor", prog=[0, 5, 2, 6]),
+    # sneaky
+    "among": dict(STYLES["mw4"], bpm=104, root=40, prog=[0, 0, 3, 4]),
+})
+
+
 def hz(m):
     return 440.0 * 2 ** ((m - 69) / 12)
 

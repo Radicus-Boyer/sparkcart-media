@@ -1,0 +1,643 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 43,
+ "slug": "43-dress-to-impress",
+ "file": "43 Dress to Impress (90s).mp4",
+ "target": 90,
+ "accent": "#ff80ab",
+ "bpm": 128,
+ "root": 64,
+ "pron": {
+  "XCX": "X C X",
+  "Cenat": "Suh-nat",
+  "CaseOh": "Case Oh",
+  "Pokimane": "Poke-ee-main"
+ },
+ "lines": [
+  {
+   "t": "Lady Gaga was a judge inside this Roblox game, and a teenager made it.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "LADY GAGA\nWAS A JUDGE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-lady-gaga.jpg",
+     "label": "LADY GAGA ON TOUR, 2025",
+     "credit": "Photo: kandl, CC BY 4.0",
+     "y": 850,
+     "h": 400,
+     "crop": [
+      0.18,
+      0.0,
+      1.0,
+      0.7
+     ]
+    },
+    "bs": 112,
+    "av": [
+     {
+      "p": [
+       3.0,
+       3.0
+      ],
+      "a": "cheer",
+      "c": "g"
+     },
+     {
+      "p": [
+       -3.2,
+       3.4
+      ],
+      "a": "cheer",
+      "c": "d"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Dress to Impress is a fashion game. You get a theme, and six minutes to build an outfit.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "DRESS TO\nIMPRESS",
+    "sub": "A THEME + 6 MINUTES",
+    "rays": "#ffffff",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then everyone walks the runway, and the other players rate you from one to five stars.",
+   "sc": {
+    "bg": "arena",
+    "ground": {
+     "c": "#ec407a",
+     "w": 3,
+     "d": 8
+    },
+    "big": "RUNWAY",
+    "sub": "RATED 1 TO 5 STARS",
+    "av": [
+     {
+      "p": [
+       0,
+       -3.0
+      ],
+      "to": [
+       0,
+       2.6
+      ],
+      "a": "walk",
+      "c": "g",
+      "f": "y"
+     }
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 200,
+      "y": 700,
+      "s": 110,
+      "a": "pulse",
+      "d": 0.3
+     },
+     {
+      "n": "star",
+      "x": 370,
+      "y": 700,
+      "s": 110,
+      "a": "pulse",
+      "d": 0.48
+     },
+     {
+      "n": "star",
+      "x": 540,
+      "y": 700,
+      "s": 110,
+      "a": "pulse",
+      "d": 0.6599999999999999
+     },
+     {
+      "n": "star",
+      "x": 710,
+      "y": 700,
+      "s": 110,
+      "a": "pulse",
+      "d": 0.8400000000000001
+     },
+     {
+      "n": "star",
+      "x": 880,
+      "y": 700,
+      "s": 110,
+      "a": "pulse",
+      "d": 1.02
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "You can layer up to 18 clothing items, which is how players make outfits the game never planned for.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "18 ITEMS",
+    "sub": "LAYERED INTO ONE OUTFIT",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g",
+      "hat": "#ff80ab"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "bob",
+      "c": "d",
+      "hat": "#ffd54f"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The themes get weird: mall goth, Y2K, even album covers.",
+   "sc": {
+    "bg": "dark",
+    "ground": "purple",
+    "big": "MALL GOTH?",
+    "sub": "THE THEMES GET WEIRD",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.2,
+       0.8
+      ],
+      "a": "bob",
+      "c": "k",
+      "hat": "#7e57c2"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   },
+   "say": "The themes get weird: mall goth, Y two K, even album covers."
+  },
+  {
+   "t": "You can play in duos, or skip the timer completely in freeplay mode.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "DUOS",
+    "sub": "OR NO TIMER IN FREEPLAY",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g"
+     },
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And you unlock new items by ranking up.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "RANK UP",
+    "sub": "TO UNLOCK NEW ITEMS",
+    "rays": "#ffffff",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Its creator, Gigi, started building it at just 14 years old.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "AGE 14",
+    "sub": "WHEN GIGI STARTED",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "g",
+      "s": 0.4
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It officially launched in November 2023, and became one of the fastest games ever to reach a billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "1 BILLION",
+    "sub": "VISITS, IN RECORD TIME",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 860,
+      "s": 180,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "In 2024, pop star Charli XCX teamed up with it, and 651,000 people played at once.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "RECORD: THE CHARLI XCX EVENT",
+    "rays": "#ffffff",
+    "ss": 54,
+    "count": {
+     "to": 651000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "That year it won three Roblox Innovation Awards, including Best New Experience.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "3 AWARDS",
+    "sub": "INCL. BEST NEW EXPERIENCE",
+    "rays": "#ffffff",
+    "ss": 56,
+    "props": [
+     [
+      "trophy",
+      -2.6,
+      -0.2
+     ],
+     [
+      "trophy",
+      -1.1,
+      -1.4
+     ],
+     [
+      "trophy",
+      0.4,
+      -2.6
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Streamers like Kai Cenat, Pokimane and CaseOh all played it.",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "STREAMERS\nLOVED IT",
+    "bs": 116,
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "cheer",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.6,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e"
+     }
+    ],
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 800,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "There's even hidden lore. A nail tech named Lana has a creepy secret story.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "LANA",
+    "sub": "THE NAIL TECH HAS A SECRET",
+    "bc": "#ff80ab",
+    "ss": 56,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       0.2,
+       0.2
+      ],
+      "a": "idle",
+      "c": "k",
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 840,
+      "s": 150,
+      "a": "flicker"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "One Christmas, a free item was available for only three hours, and so many players rushed in that the game crashed.",
+   "sc": {
+    "bg": "red",
+    "ground": "red",
+    "big": "CRASHED",
+    "sub": "BY A 3 HOUR FREE ITEM",
+    "av": [
+     {
+      "p": [
+       3.2,
+       0.4
+      ],
+      "to": [
+       -0.4,
+       0.4
+      ],
+      "a": "run",
+      "c": "g"
+     },
+     {
+      "p": [
+       3.6,
+       1.8
+      ],
+      "to": [
+       0.4,
+       1.8
+      ],
+      "a": "run",
+      "c": "d",
+      "d": 0.2
+     }
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 170,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "In August 2025 came Lady Gaga, with outfits from her album Mayhem.",
+   "sc": {
+    "bg": "dark",
+    "ground": "purple",
+    "big": "MAYHEM",
+    "sub": "LADY GAGA EVENT, AUG 2025",
+    "ss": 56,
+    "av": [
+     {
+      "p": [
+       0.2,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "k",
+      "hat": "#b0bec5"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Then a Wicked movie crossover that November.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "WICKED",
+    "sub": "CROSSOVER, NOV 2025",
+    "bc": "#69f0ae",
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": [
+       "#66bb6a",
+       "#212121",
+       "#212121"
+      ],
+      "hat": "#212121"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g",
+      "hat": "#f8bbd0"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "Today around 33,000 people are dressing up right now.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "PLAYING NOW (OCT 2026)",
+    "count": {
+     "to": 33000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 12,
+     "appear": 0.7
+    }
+   }
+  },
+  {
+   "t": "What's the worst theme you ever got? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WORST THEME?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

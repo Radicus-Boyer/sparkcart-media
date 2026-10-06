@@ -45,3 +45,19 @@ pop2-donnie-yen.jpg       "Donnie Yen Formal" by Cecilia Wang, CC BY 4.0
                           https://commons.wikimedia.org/wiki/File:Donnie_Yen_Formal.jpeg
 pop2-flip-the-frog.jpg    "Flip the Frog opening title" (1930), Celebrity Productions, public domain
                           https://commons.wikimedia.org/wiki/File:Flip_the_Frog_opening_title.jpg
+
+Batch 3 (checked 2026-10-06). The first scene of every video now shows one of these with the hook line.
+
+pop3-edmund-mcmillen.jpg    "Edmund McMillen - Game Developers Conference 2010 - Day 2 cropped" by Official GDC, CC BY 2.0
+pop3-minecraft-alpha.jpg    "Minecraft Alpha screenshot" by Xbox México, CC BY 3.0
+pop3-minecraft-end.jpg      "Screenshot from the Minecraft End" by Xbox México, CC BY 3.0
+pop3-pokemon-go-crowd.jpg   "Pokemon Go Setagaya Park Tokio" by Brian Miller, CC BY 2.0
+pop3-geometry-dash-cube.png "Icon 4 12,07,2024" (Geometry Dash default cube) by Robert Topala, public domain (simple shapes), redrawn larger
+pop3-among-us-cosplay.jpg   "Among Us cosplay at Insomnia Gaming Festival i70 - April 2023" by Captain Galaxy, CC BY 4.0
+pop3-among-us-skins.jpg     "Among Us skins cosmetics" by Innersloth, CC BY 3.0 (not used yet)
+pop3-bruno-mars.jpg         "Bruno Mars 2010" by Brothers Le, CC BY 2.0
+pop3-garden.jpg             "Kale and Cabbage in Raised Garden Beds (49200262267)" by Alabama Extension, CC0
+pop3-lady-gaga.jpg          "Lady Gaga performing Born This Way on The Mayhem Ball, Los Angeles, July 2025" by kandl, CC BY 4.0
+pop3-boy-fishing.jpg        "Boy fishing off dock at Claytor Lake State Park (16451814425)" by Virginia State Parks staff, CC BY 2.0
+pop3-baszucki.jpg           "David Baszucki 2018" by TechCrunch, CC BY 2.0
+All from https://commons.wikimedia.org/wiki/File:<title>

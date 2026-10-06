@@ -906,6 +906,174 @@ def panel_dandy(w, h, kind="main"):
 
 
 # ================================================================ registry
+# ================================================================ THE BINDING OF ISAAC: basement floor and tears
+def static_isaac():
+    img = radial("#5e4838", "#1b130f", CX, 820, 1150)
+    lay, d = layer()
+    rnd = random.Random(66)
+    for y in range(240, H, 150):
+        off = 0 if (y // 150) % 2 else 80
+        for x in range(-80 + off, W, 160):
+            d.rounded_rectangle([x + 4, y + 4, x + 156, y + 146], 14, outline=(20, 12, 8, 64), width=5)
+    for _ in range(30):
+        x, y = rnd.uniform(40, 1040), rnd.uniform(280, 1880)
+        pts = [(x, y)]
+        for k in range(4):
+            x += rnd.uniform(-40, 40)
+            y += rnd.uniform(10, 40)
+            pts.append((x, y))
+        d.line(pts, fill=(15, 9, 6, 110), width=4, joint="curve")
+    for _ in range(12):
+        x, y, r = rnd.uniform(30, 1050), rnd.uniform(1420, 1880), rnd.uniform(18, 46)
+        d.ellipse([x - r, y - r * 0.8, x + r, y + r * 0.8], fill=(92, 82, 76, 255), outline=(20, 13, 9, 255), width=5)
+    over(img, lay)
+    return vignette(grain(img, 9, 4), 0.85)
+
+
+def dyn_isaac(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(13, 9):
+        x = 40 + a * 1000
+        y = ((b + now * (0.10 + c * 0.12)) % 1.0) * (H + 200) - 100
+        r = 9 + e * 9
+        d.polygon([(x, y - r * 2.3), (x - r * 0.85, y - r * 0.4), (x + r * 0.85, y - r * 0.4)], fill=(124, 200, 255))
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(124, 200, 255), outline=(30, 60, 110), width=3)
+    paste(img, text_img(f"ROOM {1 + int(now / 3.2)}", "PermanentMarker-Regular.ttf", 40, "#f3e6c8", 5, "#140d09"), 940, 198)
+
+
+def panel_isaac(w, h, kind="main"):
+    return _panel(w, h, (243, 230, 200, 255), (20, 13, 9, 255), 7, 22, (10, 12, (0, 0, 0, 120)))[0]
+
+
+# ================================================================ MINECRAFT: blocky sky, grass and dirt
+def static_mine():
+    img = vgrad("#6fb0ff", "#cfe8ff")
+    lay, d = layer()
+    rnd = random.Random(64)
+    for (x, y, sc) in ((60, 330, 1.0), (700, 300, 1.2), (380, 1120, 0.8)):
+        for (dx, dy, w, h) in ((0, 0, 260, 60), (60, -60, 140, 60)):
+            d.rectangle([x + dx * sc, y + dy * sc, x + (dx + w) * sc, y + (dy + h) * sc], fill=(255, 255, 255, 215))
+    B = 90
+    for gy in range(1440, H + B, B):
+        row = (gy - 1440) // B
+        base = (106, 170, 64) if row == 0 else ((134, 96, 67) if row < 4 else (128, 128, 128))
+        for gx in range(0, W, B):
+            k = rnd.uniform(0.9, 1.08)
+            d.rectangle([gx, gy, gx + B, gy + B], fill=tuple(int(min(255, c * k)) for c in base) + (255,))
+            for _ in range(7):
+                px, py = gx + rnd.randrange(0, 76, 15), gy + rnd.randrange(0, 76, 15)
+                kk = rnd.uniform(0.74, 1.18)
+                d.rectangle([px, py, px + 14, py + 14], fill=tuple(int(min(255, c * kk)) for c in base) + (255,))
+    over(img, lay)
+    return img
+
+
+def dyn_mine(img, d, now, prog, end, S):
+    x = int((now * 30) % (W + 420)) - 320
+    d.rectangle([x, 600, x + 240, 656], fill=(255, 255, 255))
+    d.rectangle([x + 56, 544, x + 176, 600], fill=(255, 255, 255))
+    paste(img, text_img(f"BLOCKS: {int(now * 41):,}", "PressStart2P-Regular.ttf", 24, "#ffffff", 5, "#1d2b12"), 900, 198)
+
+
+def panel_mine(w, h, kind="main"):
+    im, d = _panel(w, h, (198, 198, 198, 255), (38, 38, 38, 255), 6, 0, (10, 10, (0, 0, 0, 110)))
+    d.line([(PM + 8, PM + h - 9), (PM + 8, PM + 8), (PM + w - 9, PM + 8)], fill=(255, 255, 255, 255), width=5)
+    d.line([(PM + 8, PM + h - 9), (PM + w - 9, PM + h - 9), (PM + w - 9, PM + 8)], fill=(120, 120, 120, 255), width=5)
+    return im
+
+
+# ================================================================ POKEMON: handheld dot-matrix screen
+def static_poke():
+    img = Image.new("RGB", (W, H), rgb("#9bbc0f"))
+    lay, d = layer()
+    for y in range(0, H, 8):
+        d.line([(0, y), (W, y)], fill=(48, 98, 48, 34), width=1)
+    for x in range(0, W, 8):
+        d.line([(x, 0), (x, H)], fill=(48, 98, 48, 34), width=1)
+    rnd = random.Random(151)
+    for gy in range(1452, H, 64):
+        for gx in range(0, W, 64):
+            if rnd.random() < 0.82:
+                for k in range(3):
+                    d.rectangle([gx + 8 + k * 18, gy + 24 - (k % 2) * 12, gx + 20 + k * 18, gy + 56], fill=(48, 98, 48, 255))
+    d.rectangle([0, 1430, W, 1442], fill=(15, 56, 15, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_poke(img, d, now, prog, end, S):
+    n = min(151, 1 + int(prog * 151))
+    paste(img, text_img(f"SEEN {n}/151", "PressStart2P-Regular.ttf", 26, "#0f380f"), 900, 198)
+    if int(now * 2) % 2 == 0:
+        d.polygon([(1010, 1250), (1040, 1250), (1025, 1272)], fill=(15, 56, 15))
+
+
+def panel_poke(w, h, kind="main"):
+    im, d = _panel(w, h, (224, 248, 208, 255), (15, 56, 15, 255), 8, 18)
+    if kind == "main":
+        d.rounded_rectangle([PM + 16, PM + 16, PM + w - 16, PM + h - 16], 10, outline=(48, 98, 48, 255), width=4)
+    return im
+
+
+# ================================================================ GEOMETRY DASH: neon squares, a ground line and spikes
+def static_gdash():
+    img = vgrad("#0a58ff", "#5a1fd1")
+    lay, d = layer()
+    rnd = random.Random(22)
+    for _ in range(28):
+        sz = rnd.choice([120, 180, 240])
+        x, y = rnd.randrange(-60, W, 60), rnd.randrange(240, 1500, 60)
+        d.rectangle([x, y, x + sz, y + sz], outline=(255, 255, 255, 24), width=6)
+    d.rectangle([0, 1640, W, H], fill=(8, 30, 130, 255))
+    for x in range(0, W, 180):
+        d.rectangle([x + 10, 1662, x + 170, 1822], outline=(255, 255, 255, 40), width=5)
+    d.line([(0, 1640), (W, 1640)], fill=(255, 255, 255, 255), width=6)
+    over(img, lay)
+    return img
+
+
+def dyn_gdash(img, d, now, prog, end, S):
+    off = (now * 520) % 360
+    for k in range(5):
+        x = W + 100 - off - k * 360
+        if k % 2 == 0:
+            d.polygon([(x, 1637), (x + 45, 1552), (x + 90, 1637)], fill=(10, 10, 24), outline=(255, 255, 255))
+        else:
+            d.rectangle([x, 1550, x + 90, 1637], fill=(10, 10, 24), outline=(255, 255, 255), width=5)
+    ph = ((off - 260 + 180) % 360) / 360
+    y = 1637 - 45 - 4 * ph * (1 - ph) * 150
+    d.rectangle([155, y - 45, 245, y + 45], fill=(125, 255, 60), outline=(10, 10, 24), width=7)
+    d.polygon([(200, y - 22), (222, y), (200, y + 22), (178, y)], fill=(255, 255, 255), outline=(10, 10, 24))
+    paste(img, text_img(f"ATTEMPT {1 + int(now / 2.4)}", "RussoOne-Regular.ttf", 38, "#ffffff", 5, "#06103a"), 900, 198)
+
+
+def panel_gdash(w, h, kind="main"):
+    im, d = _panel(w, h, (8, 20, 70, 238), (255, 255, 255, 255), 6, 18, (10, 12, (0, 0, 0, 110)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 14, PM + 14, PM + w - 14, PM + h - 14], 10, outline=(125, 255, 60, 255), width=3)
+    return im
+
+
+# ================================================================ AMONG US: drifting stars and a task bar
+def static_among():
+    return vignette(vgrad("#070b1a", "#151c3a"), 0.5)
+
+
+def dyn_among(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(80, 5):
+        x = ((a - now * (0.01 + c * 0.05)) % 1.0) * W
+        y, r = b * H, 1.5 + e * 3
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(255, 255, 255) if e > 0.3 else (160, 190, 255))
+    d.rounded_rectangle([700, 180, 1044, 216], 8, fill=(20, 26, 50), outline=(255, 255, 255), width=4)
+    d.rounded_rectangle([706, 186, 706 + int(332 * prog), 210], 5, fill=(74, 222, 96))
+    paste(img, text_img("TASKS", "TitanOne-Regular.ttf", 30, "#ffffff", 4, "#000000"), 640, 198)
+
+
+def panel_among(w, h, kind="main"):
+    if kind == "tag":
+        return _panel(w, h, (197, 17, 17, 255), (255, 255, 255, 255), 5, 20)[0]
+    return _panel(w, h, (24, 30, 58, 240), (255, 255, 255, 255), 6, 28, (10, 12, (0, 0, 0, 120)))[0]
+
+
 def roles(big, small, ink, acc, dim, ptext, pacc, pdim, stroke=0.0, sfill="#000000", shadow=None, wb=None, ws=None, box=None, accbox=None):
     return {
         "big": (big, wb, ink, stroke, sfill, shadow, box), "acc": (big, wb, acc, stroke, sfill, shadow, accbox),
@@ -987,3 +1155,21 @@ for _n in ("dw9", "oni", "witcher", "wolv", "dress", "bongo", "dandy"):
 # control: floating black blocks drift behind the content, so small text sits on its own black plate
 _t = THEMES["control"]["text"]["small"]
 THEMES["control"]["text"]["small"] = (_t[0], _t[1], "#ffffff", 0, _t[4], None, "#000000")
+
+THEMES.update({
+    "isaac": dict(case="upper", static=static_isaac, dyn=dyn_isaac, panel=panel_isaac, flash="#7cc8ff", frame=("#f3e6c8", 8),
+                  text=roles("PermanentMarker-Regular.ttf", "PatrickHand-Regular.ttf", "#f6ecd2", "#7cc8ff", "#ead9b6", "#1c130d", "#c22a2f", "#4e3c31", stroke=0.06, sfill="#140d09"),
+                  cap=dict(font="PermanentMarker-Regular.ttf", size=92, fill="#ffffff", hi="#7cc8ff", stroke="#140d09")),
+    "mine": dict(case="upper", static=static_mine, dyn=dyn_mine, panel=panel_mine, flash="#ffffff", tag_col="#7dff5c", frame=("#3b3b3b", 8),
+                 text=roles("PressStart2P-Regular.ttf", "BarlowCondensed-ExtraBold.ttf", "#ffffff", "#ffe14d", "#ffffff", "#2a2a2a", "#2f7d1f", "#4a4a4a", stroke=0.09, sfill="#1d2b12"),
+                 cap=dict(font="PressStart2P-Regular.ttf", size=60, gap=0.6, fill="#ffffff", hi="#ffe14d", stroke="#1d2b12")),
+    "poke": dict(case="upper", static=static_poke, dyn=dyn_poke, panel=panel_poke, flash="#e0f8d0", tag_col="#9bbc0f", frame=("#0f380f", 10),
+                 text=roles("PressStart2P-Regular.ttf", "PressStart2P-Regular.ttf", "#0f380f", "#d7ee8a", "#0f380f", "#0f380f", "#306230", "#306230", accbox="#0f380f"),
+                 cap=dict(font="PressStart2P-Regular.ttf", size=62, gap=0.6, fill="#9bbc0f", hi="#ffffff", stroke="#0f380f", box="#0f380f")),
+    "gdash": dict(case="upper", static=static_gdash, dyn=dyn_gdash, panel=panel_gdash, flash="#7dff3c", frame=("#ffffff", 8),
+                  text=roles("RussoOne-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#7dff3c", "#dfe8ff", "#ffffff", "#ffe14d", "#b9c8ff", stroke=0.06, sfill="#06103a"),
+                  cap=dict(font="RussoOne-Regular.ttf", size=92, fill="#ffffff", hi="#7dff3c", stroke="#06103a")),
+    "among": dict(case="upper", static=static_among, dyn=dyn_among, panel=panel_among, flash="#ff4d4d", frame=("#ffffff", 8),
+                  text=roles("TitanOne-Regular.ttf", "Nunito[wght].ttf", "#ffffff", "#ff4d4d", "#c9d4ff", "#ffffff", "#ffe14d", "#aab6e8", stroke=0.07, sfill="#000000", ws=900),
+                  cap=dict(font="TitanOne-Regular.ttf", size=94, fill="#ffffff", hi="#ff4d4d", stroke="#000000")),
+})

@@ -1,0 +1,593 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 42,
+ "slug": "42-grow-a-garden",
+ "file": "42 Grow a Garden (90s).mp4",
+ "target": 90,
+ "accent": "#7ed957",
+ "bpm": 126,
+ "root": 60,
+ "pron": {
+  "Sheckles": "Sheckels"
+ },
+ "lines": [
+  {
+   "t": "A 16 year old built this Roblox game in three days. Then it beat Fortnite.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "MADE IN 3 DAYS",
+    "sub": "BY A 16 YEAR OLD",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-garden.jpg",
+     "label": "A REAL GARDEN TAKES MONTHS",
+     "credit": "Photo: Alabama Extension, CC0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       3.0,
+       3.0
+      ],
+      "a": "wave",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's called Grow a Garden. You buy seeds, plant them, and sell the harvest for coins called Sheckles.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "GROW A\nGARDEN",
+    "sub": "PLANT. HARVEST. SELL.",
+    "bs": 124,
+    "props": [
+     [
+      "tree",
+      -3.0,
+      -3.0,
+      {
+       "c": "#43a047"
+      }
+     ],
+     [
+      "crate",
+      1.4,
+      -2.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       1.6
+      ],
+      "a": "bob",
+      "c": "c",
+      "hold": "fruit"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "The clever part: your plants keep growing while you're offline.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "GROWS WHILE\nYOU SLEEP",
+    "bs": 110,
+    "props": [
+     [
+      "tree",
+      -2.2,
+      -2.2,
+      {
+       "c": "#2e7d32"
+      }
+     ],
+     [
+      "tree",
+      0.6,
+      -2.6,
+      {
+       "c": "#388e3c"
+      }
+     ]
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "So you log in, harvest, buy rarer seeds, and repeat.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "REPEAT",
+    "sub": "HARVEST, THEN RARER SEEDS",
+    "props": [
+     [
+      "crate",
+      -2.0,
+      -1.0
+     ],
+     [
+      "crate",
+      -0.6,
+      -2.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.4,
+       0.4
+      ],
+      "to": [
+       -0.2,
+       0.4
+      ],
+      "a": "walk",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "fruit",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Rich players can pay Robux to skip the wait, or even to steal other people's crops.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "PAY TO STEAL",
+    "sub": "ROBUX SKIPS THE WAIT",
+    "bs": 116,
+    "props": [
+     [
+      "crate",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       3.0,
+       0.6
+      ],
+      "to": [
+       -0.4,
+       -0.4
+      ],
+      "a": "sneak",
+      "c": "k",
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It runs on phones, PCs, PlayStation and Xbox.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "EVERYWHERE",
+    "sub": "PHONE, PC, CONSOLE",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "controller",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "spin"
+     },
+     {
+      "n": "tv",
+      "x": 200,
+      "y": 860,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It launched in March 2025, with barely anyone watching.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "MARCH 2025",
+    "sub": "A QUIET LAUNCH",
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.4
+      ],
+      "a": "idle",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "A studio called Splitting Point joined in when it had only about a thousand players.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "sub": "PLAYERS WHEN A STUDIO JOINED",
+    "ss": 54,
+    "count": {
+     "to": 1000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 6,
+     "appear": 0.6
+    }
+   }
+  },
+  {
+   "t": "Then it exploded. It reached one billion visits in 33 days, the fastest in Roblox history.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "1 BILLION",
+    "sub": "VISITS IN 33 DAYS",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 860,
+      "s": 180,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "On June 14th, it passed 16 million players at once, beating Fortnite's record.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "BEAT FORTNITE (15.3M)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 16,
+     "fmt": "{:.0f} MILLION+"
+    },
+    "bs": 120,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "By August, it peaked at 22.3 million.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "ALL-TIME PEAK",
+    "rays": "#ffffff",
+    "count": {
+     "from": 16,
+     "to": 22.3,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 124,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It was so huge that Roblox's stock price jumped 21 percent in a single month.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "+21%",
+    "sub": "ROBLOX STOCK, JUNE 2025",
+    "bs": 180,
+    "av": [
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "w"
+     }
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Analysts said it added around 600 million dollars to Roblox's sales forecast.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "$600 MILLION",
+    "sub": "ADDED TO ROBLOX'S FORECAST",
+    "rays": "#ffffff",
+    "bs": 112,
+    "ss": 54,
+    "fx": [
+     "coins"
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "w"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It even helped push Roblox past 100 million daily players.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "111 MILLION",
+    "sub": "DAILY ROBLOX PLAYERS",
+    "bs": 120,
+    "crowd": {
+     "n": 25,
+     "appear": 0.6
+    }
+   }
+  },
+  {
+   "t": "About a third of its players are under 13.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "1 IN 3",
+    "sub": "PLAYERS ARE UNDER 13",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       1.0
+      ],
+      "a": "bob",
+      "c": "g",
+      "s": 0.38
+     },
+     {
+      "p": [
+       0.2,
+       1.4
+      ],
+      "a": "bob",
+      "c": "f",
+      "s": 0.38
+     },
+     {
+      "p": [
+       1.8,
+       1.0
+      ],
+      "a": "bob",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The teen who made it reportedly still owns half of the game.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "sand",
+    "big": "50%",
+    "sub": "STILL OWNED BY ITS CREATOR",
+    "bs": 180,
+    "ss": 56,
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It has now passed 35 billion visits, and a movie is on the way.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "VISITS, AND A MOVIE DEAL",
+    "count": {
+     "to": 35,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 124,
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 880,
+      "s": 170,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "This June came Grow a Garden 2, where you can raid other players' gardens at night. It pulled in 400,000 players in 20 minutes.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "GROW A\nGARDEN 2",
+    "sub": "400,000 IN 20 MINUTES",
+    "bs": 120,
+    "vig": true,
+    "props": [
+     [
+      "tree",
+      -3.6,
+      -3.6,
+      {
+       "c": "#1b5e20"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       3.0,
+       0.6
+      ],
+      "to": [
+       0.2,
+       0.6
+      ],
+      "a": "sneak",
+      "c": "k"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "What's the rarest plant you ever grew? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "RAREST PLANT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

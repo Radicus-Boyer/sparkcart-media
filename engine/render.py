@@ -379,8 +379,51 @@ def draw_bar9(img, lt):
         paste_center(img, text_img("DIVINE", T(46), (255, 241, 118), ST["sub_font"], SW(7)), 880, 690)
 
 
+_PH = {}
+
+
+def photo_card(ph):
+    """Real photo as a framed card: white border, dark outline, label plate on top, credit underneath."""
+    key = json.dumps(ph, sort_keys=True)
+    if key not in _PH:
+        src = Image.open(ROOT + "episodes/assets/" + ph["img"]).convert("RGB")
+        if ph.get("crop"):
+            l, t, r, b = ph["crop"]
+            src = src.crop((int(src.width * l), int(src.height * t), int(src.width * r), int(src.height * b)))
+        a = src.width / src.height
+        fw, fh = ph.get("w", 800), ph.get("w", 800) / a
+        if fh > ph.get("h", 470):
+            fh = ph.get("h", 470)
+            fw = fh * a
+        fw, fh = int(fw), int(fh)
+        src = src.resize((fw, fh), Image.LANCZOS)
+        bd, pad = 16, 70
+        card = Image.new("RGBA", (fw + 2 * bd + 2 * pad, fh + 2 * bd + 2 * pad + 40), (0, 0, 0, 0))
+        d = ImageDraw.Draw(card)
+        d.rounded_rectangle([pad + 10, pad + 14, pad + fw + 2 * bd + 10, pad + fh + 2 * bd + 14], 20, fill=(0, 0, 0, 90))
+        d.rounded_rectangle([pad, pad, pad + fw + 2 * bd, pad + fh + 2 * bd], 20, fill=(255, 255, 255, 255), outline=(20, 20, 30, 255), width=6)
+        card.paste(src, (pad + bd, pad + bd))
+        if ph.get("credit"):
+            t = text_img(ph["credit"], 28, (255, 255, 255), ST["sub_font"], 5, fw + 100)
+            card.alpha_composite(t, ((card.width - t.width) // 2, pad + fh + 2 * bd + 6))
+        card = card.rotate(ph.get("rot", -2), resample=Image.BICUBIC, expand=True)
+        if ph.get("label"):
+            t = text_img(ph["label"], ph.get("ls", 40), (255, 255, 255), ST["sub_font"], 6, fw + 60)
+            d = ImageDraw.Draw(card)
+            x0, y0 = (card.width - t.width) // 2, max(0, pad - 40 + (card.height - (fh + 2 * bd + 2 * pad + 40)) // 2)
+            d.rounded_rectangle([x0 - 16, y0 + 2, x0 + t.width + 16, y0 + t.height - 8], 16, fill=(20, 20, 35, 235))
+            card.alpha_composite(t, (x0, y0))
+        _PH[key] = card
+    return _PH[key]
+
+
 def draw_texts(img, sc, lt, ep):
-    y = sc.get("by", 400)
+    y = sc.get("by", 330 if ep.get("hdr") == "tag" else 400)
+    inst = sc.get("instant")
+    if sc.get("photo"):
+        ph = sc["photo"]
+        s = (1 + 0.035 * min(1.0, lt / 4)) if inst else pop(lt - ph.get("d", 0.15), 0.3)
+        paste_center(img, photo_card(ph), 540, ph.get("y", 760), s)
     big = sc.get("big")
     if "count" in sc:
         c = sc["count"]
@@ -391,13 +434,13 @@ def draw_texts(img, sc, lt, ep):
         for i, line in enumerate(big.split("\n")):
             col = rgb(sc.get("bc", "#ffffff"))
             im = text_img(line, T(sc.get("bs", 130)), col, ST["title_font"], SW(10))
-            s = pop(lt - 0.05 - i * 0.12, 0.32) if "count" not in sc else 1
+            s = pop(lt - 0.05 - i * 0.12, 0.32) if "count" not in sc and not inst else 1
             paste_center(img, im, 540, y + i * (T(sc.get("bs", 130)) + 18), s)
         y += (len(big.split("\n")) - 1) * (T(sc.get("bs", 130)) + 18)
     if sc.get("sub"):
         for i, line in enumerate(sc["sub"].split("\n")):
             im = text_img(line, T(sc.get("ss", 66)), rgb(sc.get("sc", ep["accent"])), ST["sub_font"], SW(9))
-            paste_center(img, im, 540, y + 135 + i * 78, pop(lt - 0.35 - i * 0.1, 0.3))
+            paste_center(img, im, 540, y + 135 + i * sc.get("sgap", 78), 1 if inst else pop(lt - 0.35 - i * 0.1, 0.3))
     if "vs" in sc:
         l, r = sc["vs"][0], sc["vs"][1]
         paste_center(img, text_img(l, T(84), (255, 255, 255), ST["title_font"], SW(10), 460), 280, 420, pop(lt, 0.3))
@@ -406,8 +449,16 @@ def draw_texts(img, sc, lt, ep):
 
 
 def header(ep):
-    im = Image.new("RGBA", (W, 230), (0, 0, 0, 0))
+    im = Image.new("RGBA", (W, 260), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
+    if ep.get("hdr") == "tag":  # small corner tag: the hook owns the first second, not the series title
+        t1 = text_img(f"8-BIT BACKSTORY #{ep['num']}", 30, (255, 255, 255), ST["sub_font"], 5)
+        t3 = text_img(ep.get("edition", ST["edition"]) or "", 26, rgb(ep["accent"]), ST["sub_font"], 5)
+        w = max(t1.width, t3.width)
+        d.rounded_rectangle([26, 148, 26 + w + 20, 236], 18, fill=(20, 20, 35, 175))
+        im.alpha_composite(t1, (36, 146))
+        im.alpha_composite(t3, (36, 186))
+        return im
     t1 = text_img("8-BIT BACKSTORY ", ST["hdr_size"], (255, 255, 255), ST["title_font"], SW(8))
     t2 = text_img(f"#{ep['num']}", ST["hdr_size"], rgb(ep["accent"]), ST["title_font"], SW(8))
     wtot = t1.width + t2.width - 6
@@ -451,7 +502,7 @@ def word_times(text, t0, t1):
     return res
 
 
-def draw_caption(img, line, t0, t1, now):
+def draw_caption(img, line, t0, t1, now, cy=1500):
     wt = word_times(line, t0, t1)
     chs = chunks_for(line)
     idx = 0
@@ -471,7 +522,7 @@ def draw_caption(img, line, t0, t1, now):
             k = pop(now - start, 0.18)
             for im, (w, cur) in zip(ims, parts):
                 s = sc * (1.08 if cur else 1.0) * k
-                paste_center(img, im, x + (im.width - 20) * sc / 2, 1500, s)
+                paste_center(img, im, x + (im.width - 20) * sc / 2, cy, s)
                 x += (im.width - 20 + sp) * sc
             return
         idx += len(ch)
@@ -496,7 +547,7 @@ def synth_lines(ep, speed):
 def build_voice(ep):
     target = ep["target"]
     speed = ep.get("speed", 1.12)
-    gap, lead, tail = 0.16, 0.3, 1.2
+    gap, lead, tail = 0.16, (0.12 if ep.get("hdr") == "tag" else 0.3), 1.2
     for _ in range(3):
         clips, sr = synth_lines(ep, speed)
         total = lead + sum(len(c) / sr for c in clips) + gap * (len(clips) - 1) + tail
@@ -587,7 +638,7 @@ def render(ep, sheet=False):
         ln = ep["lines"][i]
         t0, t1 = timing[i]
         if now >= t0 - 0.05:
-            draw_caption(img, ln["t"], t0, t1, now)
+            draw_caption(img, ln["t"], t0, t1, now, 1455 if ep.get("hdr") == "tag" else 1500)
         if lt < 0.1 and i > 0:
             fl = Image.new("RGBA", (W, H), (255, 255, 255, int(150 * (1 - lt / 0.1))))
             img.alpha_composite(fl)
