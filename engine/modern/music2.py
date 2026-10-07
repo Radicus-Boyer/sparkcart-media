@@ -82,6 +82,7 @@ STYLES.update({
     # handheld chiptune
     "poke": dict(STYLES["swr"], bpm=138, root=45, scale="major", prog=[0, 4, 5, 3]),
     # driving electro
+    "fnaf": dict(STYLES["dandy"], bpm=88, root=36, scale="minor", prog=[0, 3, 5, 6]),
     "gdash": dict(STYLES["swr"], bpm=140, root=40, scale="minor", prog=[0, 5, 2, 6]),
     # sneaky
     "among": dict(STYLES["mw4"], bpm=104, root=40, prog=[0, 0, 3, 4]),

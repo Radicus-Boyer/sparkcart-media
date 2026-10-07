@@ -1,0 +1,204 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 27,
+ "theme": "gdash",
+ "game": "Geometry Dash: Part 2",
+ "target": 70,
+ "pron": {
+  "RobTop": "Rob Top",
+  "SubZero": "Sub Zero",
+  "Demonlist": "Demon list",
+  "Newgrounds": "New grounds",
+  "Topala": "Toe-pah-la"
+ },
+ "lines": [
+  {
+   "t": "Players have rebuilt entire video games inside Geometry Dash. Even Five Nights at Freddy's.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop3-geometry-dash-cube.png",
+    "big": [
+     "WHOLE GAMES",
+     "*BUILT INSIDE IT"
+    ],
+    "label": "THE GEOMETRY DASH CUBE",
+    "credit": "Icon: Robert Topala, public domain",
+    "maxh": 520,
+    "pixel": true
+   }
+  },
+  {
+   "t": "Its level editor is so powerful that fans have recreated Super Mario Kart and Celeste inside it.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "flag-checkered",
+      "SUPER MARIO KART"
+     ],
+     [
+      "mountain",
+      "CELESTE"
+     ],
+     [
+      "ghost",
+      "FIVE NIGHTS AT FREDDY'S"
+     ]
+    ],
+    "head": "REBUILT BY FANS"
+   }
+  },
+  {
+   "t": "The game was almost called Geometry Jump. That was its name during testing.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "GEOMETRY",
+     "*JUMP"
+    ],
+    "icon": "pen",
+    "sub": "the name during testing"
+   }
+  },
+  {
+   "t": "Its creator, Robert Topala, quit studying civil engineering to make games.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "QUIT",
+     "*ENGINEERING"
+    ],
+    "size": 130,
+    "icon": "helmet-safety",
+    "sub": "Robert \"RobTop\" Topala, Sweden"
+   }
+  },
+  {
+   "t": "It launched in August 2013. Today it has 26 official levels.",
+   "sc": {
+    "kind": "stat",
+    "val": "26",
+    "label": "OFFICIAL LEVELS",
+    "sub": "launched August 13, 2013",
+    "icon": "layer-group"
+   }
+  },
+  {
+   "t": "Custom levels use music from Newgrounds, a site full of independent artists.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NEWGROUNDS",
+     "*MUSIC"
+    ],
+    "size": 124,
+    "icon": "music",
+    "sub": "songs by independent artists"
+   }
+  },
+  {
+   "t": "By 2015 it had nearly 80 million downloads.",
+   "sc": {
+    "kind": "stat",
+    "size": 160,
+    "val": "~80 MILLION",
+    "label": "DOWNLOADS",
+    "sub": "by February 2015",
+    "icon": "download"
+   }
+  },
+  {
+   "t": "By 2018, the mobile version alone had earned 21 million dollars.",
+   "sc": {
+    "kind": "stat",
+    "size": 160,
+    "val": "$21 MILLION",
+    "label": "EARNED ON MOBILE",
+    "sub": "by September 2018",
+    "icon": "sack-dollar"
+   }
+  },
+  {
+   "t": "There are four spin-offs: Lite, Meltdown, World and SubZero.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "feather",
+      "LITE"
+     ],
+     [
+      "fire",
+      "MELTDOWN"
+     ],
+     [
+      "earth-americas",
+      "WORLD"
+     ],
+     [
+      "snowflake",
+      "SUBZERO"
+     ]
+    ],
+    "head": "4 SPIN-OFFS"
+   }
+  },
+  {
+   "t": "The community ranks the 150 hardest levels ever beaten. It's called the Demonlist.",
+   "sc": {
+    "kind": "stat",
+    "val": "TOP 150",
+    "label": "THE DEMONLIST",
+    "sub": "the hardest levels ever beaten",
+    "icon": "skull"
+   }
+  },
+  {
+   "t": "In December 2023, update 2.2 added a platformer mode, where you can finally move left and right.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "PLATFORMER",
+     "*MODE"
+    ],
+    "size": 124,
+    "icon": "arrows-left-right",
+    "sub": "update 2.2, December 2023"
+   },
+   "say": "In December 2023, update two point two added a platformer mode, where you can finally move left and right."
+  },
+  {
+   "t": "This January, it set a new record of over 100,000 players on Steam, more than twelve years after launch.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     100000,
+     "{:,.0f}+"
+    ],
+    "label": "PLAYERS AT ONCE ON STEAM",
+    "sub": "January 2026: a new record",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "It's reportedly played by more than a million people every day.",
+   "sc": {
+    "kind": "stat",
+    "size": 160,
+    "val": "1 MILLION+",
+    "label": "PLAYERS EVERY DAY",
+    "sub": "reported estimate",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "What's the best level you've ever played? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "BEST LEVEL EVER?"
+   }
+  }
+ ],
+ "file": "27 - Geometry Dash Part 2 (70s).mp4"
+}

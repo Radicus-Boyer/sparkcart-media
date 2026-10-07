@@ -1152,6 +1152,48 @@ for _n in ("dw9", "oni", "witcher", "wolv", "dress", "bongo", "dandy"):
     for _r in ("small", "credit"):
         t = THEMES[_n]["text"][_r]
         THEMES[_n]["text"][_r] = (t[0], t[1], t[2], 0, t[4], None, None)
+# ================================================================ FIVE NIGHTS AT FREDDY'S: security camera feed
+def static_fnaf():
+    img = radial("#27302b", "#050706", CX, 900, 1250)
+    lay, d = layer()
+    for y in range(0, H, 6):
+        d.line([(0, y), (W, y)], fill=(0, 0, 0, 70), width=2)
+    for k, x in enumerate(range(0, W, 60)):
+        for j in range(2):
+            if (k + j) % 2 == 0:
+                d.rectangle([x, 1790 + j * 60, x + 60, 1850 + j * 60], fill=(235, 235, 225, 60))
+            else:
+                d.rectangle([x, 1790 + j * 60, x + 60, 1850 + j * 60], fill=(0, 0, 0, 120))
+    d.rectangle([18, 254, W - 18, H - 18], outline=(220, 230, 220, 70), width=4)
+    over(img, lay)
+    return vignette(grain(img, 16, 5), 0.9)
+
+
+def dyn_fnaf(img, d, now, prog, end, S):
+    rnd = random.Random(int(now * 14))
+    for _ in range(7):
+        y = rnd.randrange(260, H - 30)
+        x = rnd.randrange(0, W - 300)
+        d.line([(x, y), (x + rnd.randrange(120, 520), y)], fill=(150, 160, 152), width=rnd.choice([1, 2, 3]))
+    band = int((now * 240) % (H + 300)) - 150
+    for k in range(0, 46, 6):
+        d.line([(0, band + k), (W, band + k)], fill=(60, 68, 63), width=2)
+    if int(now * 1.6) % 2 == 0:
+        d.ellipse([706, 182, 738, 214], fill=(255, 40, 40))
+    hr = [12, 1, 2, 3, 4, 5, 6][min(6, int(prog * 6.999))]
+    paste(img, text_img(f"{hr} AM", "ChakraPetch-Bold.ttf", 46, "#ffffff", 5, "#000000"), 900, 198)
+
+
+def panel_fnaf(w, h, kind="main"):
+    im, d = _panel(w, h, (12, 15, 13, 240), (214, 224, 214, 255), 5, 6, (10, 12, (0, 0, 0, 150)))
+    if kind == "main":
+        d.rectangle([PM + 12, PM + 12, PM + 44, PM + 16], fill=(255, 210, 63, 255))
+        d.rectangle([PM + 12, PM + 12, PM + 16, PM + 44], fill=(255, 210, 63, 255))
+        d.rectangle([PM + w - 44, PM + h - 16, PM + w - 12, PM + h - 12], fill=(255, 210, 63, 255))
+        d.rectangle([PM + w - 16, PM + h - 44, PM + w - 12, PM + h - 12], fill=(255, 210, 63, 255))
+    return im
+
+
 # control: floating black blocks drift behind the content, so small text sits on its own black plate
 _t = THEMES["control"]["text"]["small"]
 THEMES["control"]["text"]["small"] = (_t[0], _t[1], "#ffffff", 0, _t[4], None, "#000000")
@@ -1172,4 +1214,10 @@ THEMES.update({
     "among": dict(case="upper", static=static_among, dyn=dyn_among, panel=panel_among, flash="#ff4d4d", frame=("#ffffff", 8),
                   text=roles("TitanOne-Regular.ttf", "Nunito[wght].ttf", "#ffffff", "#ff4d4d", "#c9d4ff", "#ffffff", "#ffe14d", "#aab6e8", stroke=0.07, sfill="#000000", ws=900),
                   cap=dict(font="TitanOne-Regular.ttf", size=94, fill="#ffffff", hi="#ff4d4d", stroke="#000000")),
+})
+
+THEMES.update({
+    "fnaf": dict(case="upper", static=static_fnaf, dyn=dyn_fnaf, panel=panel_fnaf, flash="#ff4040", tag_col="#ffd23f", frame=("#d6e0d6", 6),
+                 text=roles("Anton-Regular.ttf", "ChakraPetch-Bold.ttf", "#f4f4ec", "#ff4040", "#c9d2ca", "#f4f4ec", "#ffd23f", "#9aa59d", stroke=0.06, sfill="#000000"),
+                 cap=dict(font="ChakraPetch-Bold.ttf", size=90, fill="#ffffff", hi="#ffd23f", stroke="#000000")),
 })

@@ -1,0 +1,469 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 48,
+ "slug": "48-roblox-oof",
+ "file": "48 The Roblox Oof (70s).mp4",
+ "target": 70,
+ "accent": "#ffd54f",
+ "bpm": 128,
+ "root": 60,
+ "pron": {
+  "Tallarico": "Tal-uh-ree-co"
+ },
+ "lines": [
+  {
+   "t": "Roblox's famous oof sound was never made for Roblox. It came from a game released in the year 2000.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "THE OOF SOUND",
+    "sub": "WAS NEVER MADE FOR ROBLOX",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop4-tallarico.jpg",
+     "label": "COMPOSER TOMMY TALLARICO",
+     "credit": "Photo: Marcin Wichary, CC BY 2.0",
+     "y": 850,
+     "h": 410,
+     "crop": [
+      0.0,
+      0.04,
+      1.0,
+      0.57
+     ]
+    },
+    "bs": 116,
+    "ss": 52
+   }
+  },
+  {
+   "t": "That game was called Messiah. Its sound team made a short grunt for when a character gets hurt.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "MESSIAH",
+    "sub": "A PC GAME FROM 2000",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       0.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "controller",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "The whole sound is just a third of a second long.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "0.34 SEC",
+    "sub": "THE WHOLE SOUND",
+    "bs": 160,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 860,
+      "s": 170,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Roblox launched in 2006, and used it as the sound you hear every time you die.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "2006",
+    "sub": "ROBLOX'S DEATH SOUND",
+    "bs": 200,
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "to": [
+       1.6,
+       0.8
+      ],
+      "a": "jump",
+      "c": [
+       "#f5cd30",
+       "#1565c0",
+       "#2e7d32"
+      ]
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Millions of kids heard it, and it turned into one of the biggest memes in gaming.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "OOF!",
+    "sub": "ONE OF GAMING'S BIGGEST MEMES",
+    "rays": "#ffffff",
+    "bs": 230,
+    "ss": 52,
+    "crowd": {
+     "n": 25,
+     "appear": 0.6
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Then in 2019, composer Tommy Tallarico, whose studio made the sound, said he owned it.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "sand",
+    "big": "2019",
+    "sub": "TALLARICO CLAIMS THE OOF",
+    "bs": 200,
+    "av": [
+     {
+      "p": [
+       -1.3,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k"
+     },
+     {
+      "p": [
+       1.3,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Roblox said it had come from a stock sound library.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "STOCK\nSOUND?",
+    "sub": "ROBLOX'S SIDE OF THE STORY",
+    "bs": 130,
+    "ss": 52,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 850,
+      "s": 170,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "They made a deal. Creators could keep using the oof, for one hundred Robux.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "100 ROBUX",
+    "sub": "THE PRICE TO KEEP THE OOF",
+    "rays": "#ffffff",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 850,
+      "s": 170,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "But in July 2022, it vanished. Roblox removed it over a licensing issue, and replaced it with a new sound.",
+   "sc": {
+    "bg": "red",
+    "ground": "red",
+    "big": "REMOVED",
+    "sub": "JULY 2022: A LICENSING ISSUE",
+    "bc": "#ffffff",
+    "ss": 52,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 840,
+      "s": 170,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "Fans hated the replacement, and the complaints never stopped.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "FANS\nHATED IT",
+    "sub": "THE NEW SOUND FLOPPED",
+    "bs": 130,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "a": "bob",
+      "c": "b",
+      "face": "mean"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "bob",
+      "c": "g",
+      "face": "mean"
+     },
+     {
+      "p": [
+       1.6,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "mean"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Three years later, in July 2025, Roblox brought the original oof back.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "IT'S BACK",
+    "sub": "JULY 2025",
+    "rays": "#ffffff",
+    "bs": 160,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "The announcement said: a comeback so good, it hurts.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "SO GOOD\nIT HURTS",
+    "sub": "THE COMEBACK ANNOUNCEMENT",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ss": 52,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "jump",
+      "c": "f"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Fun fact: the original file wasn't even named oof. It was called, uh.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "UUHHH.MP3",
+    "sub": "THE ORIGINAL FILE NAME",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Did you miss the oof? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "DID YOU MISS\nTHE OOF?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -61,3 +61,9 @@ pop3-lady-gaga.jpg          "Lady Gaga performing Born This Way on The Mayhem Ba
 pop3-boy-fishing.jpg        "Boy fishing off dock at Claytor Lake State Park (16451814425)" by Virginia State Parks staff, CC BY 2.0
 pop3-baszucki.jpg           "David Baszucki 2018" by TechCrunch, CC BY 2.0
 All from https://commons.wikimedia.org/wiki/File:<title>
+
+Batch 4 (2026-10-07)
+pop4-animatronic-band.jpg  "Creepy ass Chuck e Band" by downing.amanda, CC BY 2.0, Wikimedia Commons (real restaurant animatronics; used for Five Nights at Freddy's)
+pop4-hotel-hallway.jpg     "2009-365-252 Down the Hall" by cogdogblog, CC0, Wikimedia Commons (a real hotel hallway; used for DOORS)
+pop4-obstacle-tower.jpg    "Lackland Air Force Base - Obstacle Course Tower Climb", United States Air Force, public domain, Wikimedia Commons (used for Tower of Hell)
+pop4-tallarico.jpg         "Tallarico" by Marcin Wichary, CC BY 2.0, Wikimedia Commons (Tommy Tallarico; used for the Roblox "oof" sound)

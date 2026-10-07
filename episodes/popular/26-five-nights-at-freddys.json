@@ -1,0 +1,194 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 26,
+ "theme": "fnaf",
+ "game": "Five Nights at Freddy's",
+ "target": 70,
+ "pron": {
+  "Cawthon": "Caw-thon",
+  "Markiplier": "Mark-ip-liar",
+  "Blumhouse": "Blum house",
+  "Chica": "Chee-ka",
+  "PewDiePie": "Pew-dee-pie",
+  "Jacksepticeye": "Jack septic eye"
+ },
+ "lines": [
+  {
+   "t": "One of the most famous horror games ever was made by a man who used to make Christian games.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop4-animatronic-band.jpg",
+    "big": [
+     "HE MADE CHRISTIAN GAMES",
+     "*THEN CAME FREDDY"
+    ],
+    "label": "REAL RESTAURANT ANIMATRONICS",
+    "credit": "Photo: downing.amanda, CC BY 2.0",
+    "size": 84
+   }
+  },
+  {
+   "t": "His name is Scott Cawthon. Players said the beaver in one of his kids games looked like a creepy animatronic.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "\"CREEPY",
+     "*ANIMATRONIC\""
+    ],
+    "size": 124,
+    "icon": "robot",
+    "sub": "what players called his cute beaver"
+   }
+  },
+  {
+   "t": "So he leaned into it, and made something scary on purpose.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SCARY",
+     "*ON PURPOSE"
+    ],
+    "icon": "ghost"
+   }
+  },
+  {
+   "t": "Five Nights at Freddy's came out in August 2014. You're a night guard in a pizza place, from midnight to six A M.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "calendar-days",
+      "AUGUST 8, 2014"
+     ],
+     [
+      "pizza-slice",
+      "A PIZZA PLACE"
+     ],
+     [
+      "moon",
+      "MIDNIGHT TO 6 AM"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The animatronics, Freddy, Bonnie, Chica and Foxy, wander the halls at night, hunting you.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "robot",
+      "FREDDY"
+     ],
+     [
+      "robot",
+      "BONNIE"
+     ],
+     [
+      "robot",
+      "CHICA"
+     ],
+     [
+      "robot",
+      "FOXY"
+     ]
+    ],
+    "head": "THEY MOVE AT NIGHT"
+   }
+  },
+  {
+   "t": "You can't move. You watch the cameras, shut the doors, and try not to run out of power.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "video",
+      "WATCH THE CAMERAS"
+     ],
+     [
+      "door-closed",
+      "SHUT THE DOORS"
+     ],
+     [
+      "battery-quarter",
+      "SAVE YOUR POWER"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "YouTubers like Markiplier, PewDiePie and Jacksepticeye screamed at it on camera, and millions watched.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "YOUTUBE",
+     "*MADE IT HUGE"
+    ],
+    "size": 130,
+    "icon": "play",
+    "sub": "jumpscare reactions went viral"
+   }
+  },
+  {
+   "t": "Then came three sequels in under a year. That's a Guinness World Record.",
+   "sc": {
+    "kind": "stat",
+    "val": "3 SEQUELS",
+    "label": "IN UNDER A YEAR",
+    "sub": "a Guinness World Record",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "Fans have made thousands of their own versions, enough to get their own category on Game Jolt.",
+   "sc": {
+    "kind": "stat",
+    "val": "1,000s",
+    "label": "OF FAN GAMES",
+    "sub": "Game Jolt gave them their own category",
+    "icon": "gamepad"
+   }
+  },
+  {
+   "t": "The 2023 movie made nearly 300 million dollars, a record for its studio, Blumhouse.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "~$300 MILLION",
+    "label": "AT THE BOX OFFICE",
+    "sub": "2023: Blumhouse's biggest film",
+    "icon": "film"
+   }
+  },
+  {
+   "t": "A second movie followed in December 2025.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MOVIE 2"
+    ],
+    "icon": "clapperboard",
+    "sub": "December 2025"
+   }
+  },
+  {
+   "t": "And the eleventh main game, Secret of the Mimic, arrived in June 2025.",
+   "sc": {
+    "kind": "stat",
+    "val": "GAME #11",
+    "label": "SECRET OF THE MIMIC",
+    "sub": "June 2025",
+    "icon": "gamepad"
+   }
+  },
+  {
+   "t": "Which animatronic scares you the most? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "SCARIEST ANIMATRONIC?"
+   }
+  }
+ ],
+ "file": "26 - Five Nights at Freddys (70s).mp4"
+}

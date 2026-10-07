@@ -14,6 +14,7 @@ episodes/assets/   real images used by photo scenes + CREDITS.txt (licence and s
 popular-batch-1/   finished MP4s + posting.txt, Most Popular Games #1-10
 popular-batch-2/   finished MP4s + posting.txt, Most Popular Games #11-20
 batch-3/           finished MP4s + posting.txt: Most Popular Games #21-25 and Roblox Edition #41-45 (hook-first openings)
+batch-4/           finished MP4s + posting.txt: five 70 second videos, Roblox Edition #46-48 and Most Popular Games #26-27
 tools/posting.py   posting.txt checker, raw-URL lister, Postiz schedule builder
 roblox-edition/    finished MP4s + posting.txt (public links Postiz pulls from)
 build/             renders and scratch files (git-ignored)
@@ -75,7 +76,8 @@ Themes (in `engine/modern/themes.py`, music in `music2.py`): `cs2` tactical HUD,
 `aion` indigo sky and gold wings, `deadlock` noir skyline in the rain, `ace` open sky with a jet HUD, `dress` gingham and
 measuring tape, `bongo` desk doodle, `gears` ash and embers, `swr` neon desert track, `mw4` night vision, `pbz` ink and steel,
 `dandy` pastel cartoon with a dark edge, `isaac` basement floor and tears, `mine` blocky sky and dirt,
-`poke` handheld dot-matrix screen, `gdash` neon squares and spikes, `among` drifting stars and a task bar.
+`poke` handheld dot-matrix screen, `gdash` neon squares and spikes, `among` drifting stars and a task bar,
+`fnaf` security-camera static with a night clock.
 A new game needs a new theme: copy the closest one (static painter, per-frame layer, panel, text roles, caption style)
 and add a music style with the same name. Keep all art original and generic: no logos, sprites or known characters.
 

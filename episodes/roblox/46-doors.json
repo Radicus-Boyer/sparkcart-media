@@ -1,0 +1,576 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 46,
+ "slug": "46-doors",
+ "file": "46 DOORS (70s).mp4",
+ "target": 70,
+ "accent": "#ffca28",
+ "bpm": 108,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "LSPLASH": "L Splash",
+  "Builderman": "Builder man"
+ },
+ "lines": [
+  {
+   "t": "One monster in this Roblox game came straight from a developer's nightmare.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "BORN FROM\nA NIGHTMARE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop4-hotel-hallway.jpg",
+     "label": "A REAL HOTEL HALLWAY",
+     "credit": "Photo: cogdogblog, CC0",
+     "y": 850,
+     "h": 420,
+     "crop": [
+      0.0,
+      0.04,
+      1.0,
+      0.56
+     ]
+    },
+    "bs": 104,
+    "vig": false
+   }
+  },
+  {
+   "t": "The game is DOORS. You're trapped in a haunted hotel, and the only way out is through one hundred doors.",
+   "sc": {
+    "bg": "dark",
+    "ground": "wood",
+    "big": "DOORS",
+    "sub": "100 DOORS TO ESCAPE",
+    "bs": 180,
+    "vig": true,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       3.0,
+       1.2
+      ],
+      "to": [
+       0.4,
+       0.6
+      ],
+      "a": "walk",
+      "c": "c",
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "Up to four players can go in together, and the rooms are random every time.",
+   "sc": {
+    "bg": "night",
+    "ground": "wood",
+    "big": "UP TO 4",
+    "sub": "RANDOM ROOMS EVERY RUN",
+    "bs": 160,
+    "av": [
+     {
+      "p": [
+       -2.2,
+       0.6
+      ],
+      "to": [
+       -0.8,
+       0.6
+      ],
+      "a": "walk",
+      "c": "a"
+     },
+     {
+      "p": [
+       -1.2,
+       1.6
+      ],
+      "to": [
+       0.2,
+       1.6
+      ],
+      "a": "walk",
+      "c": "g",
+      "d": 0.1
+     },
+     {
+      "p": [
+       -0.2,
+       0.4
+      ],
+      "to": [
+       1.2,
+       0.4
+      ],
+      "a": "walk",
+      "c": "b",
+      "d": 0.2
+     },
+     {
+      "p": [
+       0.8,
+       1.8
+      ],
+      "to": [
+       2.2,
+       1.8
+      ],
+      "a": "walk",
+      "c": "f",
+      "d": 0.3
+     }
+    ]
+   }
+  },
+  {
+   "t": "When the lights flicker, hide. That means Rush is coming, and it kills in one hit.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "HIDE!",
+    "sub": "RUSH KILLS IN ONE HIT",
+    "bs": 190,
+    "bc": "#ff5252",
+    "vig": true,
+    "props": [
+     [
+      "crate",
+      -1.8,
+      -1.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.6,
+       0.8
+      ],
+      "to": [
+       -0.9,
+       -0.6
+      ],
+      "a": "run",
+      "c": "c",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 860,
+      "y": 820,
+      "s": 170,
+      "a": "flicker"
+     },
+     {
+      "n": "alarm",
+      "x": 200,
+      "y": 860,
+      "s": 130,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "red",
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Ambush is worse. It comes back again and again, up to six times.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "AMBUSH",
+    "sub": "COMES BACK UP TO 6 TIMES",
+    "vig": true,
+    "bs": 160,
+    "ic": [
+     {
+      "n": "eye",
+      "w": [
+       0,
+       0,
+       2.0
+      ],
+      "s": 230,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       1.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Figure is blind, so it hunts by sound. You have to crouch and stay quiet.",
+   "sc": {
+    "bg": "dark",
+    "ground": "wood",
+    "big": "FIGURE",
+    "sub": "BLIND. IT HUNTS BY SOUND.",
+    "vig": true,
+    "bs": 160,
+    "av": [
+     {
+      "p": [
+       -2.0,
+       -1.0
+      ],
+      "a": "idle",
+      "c": [
+       "#8d3b2f",
+       "#5d2a22",
+       "#3e1c17"
+      ],
+      "face": "mean",
+      "s": 0.62
+     },
+     {
+      "p": [
+       3.0,
+       1.8
+      ],
+      "to": [
+       0.8,
+       1.8
+      ],
+      "a": "sneak",
+      "c": "c",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And Screech, the one from the nightmare, hides in the dark. Look straight at it, or it bites.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "SCREECH",
+    "sub": "LOOK AT IT, OR IT BITES",
+    "vig": true,
+    "bs": 150,
+    "ic": [
+     {
+      "n": "eye",
+      "x": 400,
+      "y": 860,
+      "s": 150,
+      "a": "flicker"
+     },
+     {
+      "n": "eye",
+      "x": 680,
+      "y": 860,
+      "s": 150,
+      "a": "flicker",
+      "d": 0.1
+     },
+     {
+      "n": "moon",
+      "x": 880,
+      "y": 700,
+      "s": 110,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       1.6
+      ],
+      "a": "bob",
+      "c": "g",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Seek chases you down long hallways. It was the very first monster the team built.",
+   "sc": {
+    "bg": "red",
+    "ground": "red",
+    "big": "SEEK",
+    "sub": "THE FIRST MONSTER BUILT",
+    "bs": 190,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -3.4,
+       0.8
+      ],
+      "to": [
+       -0.8,
+       0.8
+      ],
+      "a": "run",
+      "c": "k",
+      "face": "mean",
+      "s": 0.6
+     },
+     {
+      "p": [
+       0.2,
+       0.9
+      ],
+      "to": [
+       3.0,
+       0.9
+      ],
+      "a": "run",
+      "c": "c",
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "speed",
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "DOORS came out in August 2022, made by a small team called LSPLASH.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "AUGUST 2022",
+    "sub": "MADE BY LSPLASH",
+    "bs": 116,
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.9,
+       0.8
+      ],
+      "a": "wave",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was inspired by an older Roblox game called Rooms. Later, it inspired the hit game Pressure.",
+   "sc": {
+    "bg": "night",
+    "ground": "wood",
+    "big": "ROOMS",
+    "sub": "THE GAME THAT INSPIRED IT",
+    "bs": 170,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.2,
+       1.2
+      ],
+      "a": "bob",
+      "c": "f"
+     }
+    ],
+    "ic": [
+     {
+      "n": "steps",
+      "x": 860,
+      "y": 860,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It passed three billion visits in under a year. Trackers now show over seven billion.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS (3 BILLION IN YEAR ONE)",
+    "rays": "#ffffff",
+    "ss": 52,
+    "count": {
+     "from": 3,
+     "to": 7,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It won Roblox's top prize, the Builderman Award of Excellence, in 2023.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "TOP PRIZE",
+    "sub": "BUILDERMAN AWARD, 2023",
+    "rays": "#ffffff",
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       1.4
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "And in 2024, a second floor arrived, set in the mines.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "FLOOR 2",
+    "sub": "THE MINES, AUGUST 2024",
+    "vig": true,
+    "bs": 170,
+    "props": [
+     [
+      "crate",
+      -2.2,
+      -1.4
+     ],
+     [
+      "crate",
+      -0.8,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.6,
+       1.0
+      ],
+      "to": [
+       0.6,
+       1.0
+      ],
+      "a": "walk",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "rock",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "fall"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Which monster scares you the most? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "SCARIEST\nMONSTER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

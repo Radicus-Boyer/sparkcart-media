@@ -1,0 +1,470 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 47,
+ "slug": "47-tower-of-hell",
+ "file": "47 Tower of Hell (70s).mp4",
+ "target": 70,
+ "accent": "#ff7043",
+ "bpm": 132,
+ "root": 62,
+ "pron": {
+  "Saboteur": "Sabo-tur"
+ },
+ "lines": [
+  {
+   "t": "This Roblox game has no checkpoints. One slip, and you fall all the way back down.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "NO CHECKPOINTS",
+    "sub": "ONE SLIP = BACK TO THE BOTTOM",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop4-obstacle-tower.jpg",
+     "label": "A REAL OBSTACLE TOWER",
+     "credit": "Photo: U.S. Air Force, public domain",
+     "y": 850,
+     "h": 400
+    },
+    "bs": 108,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's Tower of Hell. Every round builds a brand new tower out of random sections, and you get six minutes to climb it.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "TOWER\nOF HELL",
+    "sub": "A NEW TOWER EVERY ROUND",
+    "bs": 130,
+    "props": [
+     [
+      "tower",
+      -1.8,
+      -1.8
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.2
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 880,
+      "y": 880,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "When another player reaches the top, the timer speeds up for everyone else.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "TIMER\nSPEEDS UP",
+    "sub": "WHEN SOMEONE FINISHES",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       -2.6,
+       0.8
+      ],
+      "to": [
+       1.4,
+       0.8
+      ],
+      "a": "run",
+      "c": "b",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 850,
+      "s": 180,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "There are 358 sections in total, so you almost never see the same tower twice.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "sub": "SECTIONS IN TOTAL",
+    "count": {
+     "to": 358,
+     "fmt": "{:.0f}"
+    },
+    "bs": 200,
+    "props": [
+     [
+      "tower",
+      -2.4,
+      -2.4
+     ],
+     [
+      "block",
+      1.2,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       1.4
+      ],
+      "a": "jump",
+      "c": "f"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The rarest one is the Saboteur. It only has a one in ten thousand chance to appear.",
+   "sc": {
+    "bg": "dark",
+    "ground": "purple",
+    "big": "1 IN 10,000",
+    "sub": "THE SECRET SABOTEUR SECTION",
+    "bs": 120,
+    "ss": 52,
+    "vig": true,
+    "ic": [
+     {
+      "n": "question",
+      "w": [
+       0,
+       0,
+       2.0
+      ],
+      "s": 210,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       1.6
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It launched in June 2018, made by a two person studio.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "JUNE 2018",
+    "sub": "BY YXCEPTIONAL STUDIOS",
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.9,
+       0.8
+      ],
+      "a": "wave",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 860,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was inspired by an even harder Roblox game, Kiddie's Towers of Hell.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "sand",
+    "big": "INSPIRED BY",
+    "sub": "KIDDIE'S TOWERS OF HELL",
+    "bs": 116,
+    "props": [
+     [
+      "tower",
+      -2.6,
+      -1.2
+     ],
+     [
+      "tower",
+      -0.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.0,
+       1.4
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It has passed 27 billion visits, one of the most visited Roblox games ever.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS: ONE OF THE MOST EVER",
+    "rays": "#ffffff",
+    "ss": 52,
+    "count": {
+     "to": 27,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "The calm music is on purpose. It's there to keep you relaxed.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "CALM MUSIC",
+    "sub": "ON PURPOSE, TO KEEP YOU RELAXED",
+    "bs": 116,
+    "ss": 50,
+    "av": [
+     {
+      "p": [
+       -0.9,
+       0.8
+      ],
+      "a": "bob",
+      "c": "c"
+     },
+     {
+      "p": [
+       0.9,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Younger players have their own name for it: Tower of Heck.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "TOWER\nOF HECK",
+    "sub": "WHAT YOUNGER PLAYERS CALL IT",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ss": 52,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       1.0
+      ],
+      "a": "bob",
+      "c": "g",
+      "s": 0.38
+     },
+     {
+      "p": [
+       0.2,
+       1.4
+      ],
+      "a": "cheer",
+      "c": "f",
+      "s": 0.38
+     },
+     {
+      "p": [
+       1.8,
+       1.0
+      ],
+      "a": "bob",
+      "c": "b",
+      "s": 0.38
+     }
+    ]
+   }
+  },
+  {
+   "t": "There's also a mode with every regular section stacked into one giant tower, and no timer at all.",
+   "sc": {
+    "bg": "space",
+    "ground": "space",
+    "big": "330 SECTIONS",
+    "sub": "ONE GIANT TOWER. NO TIMER.",
+    "bs": 112,
+    "props": [
+     [
+      "tower",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.4
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It won Best Obby at the 2024 Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "BEST OBBY",
+    "sub": "ROBLOX INNOVATION AWARDS 2024",
+    "rays": "#ffffff",
+    "ss": 50,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       1.4
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "And eight years later, about 30,000 people are still climbing right now.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "sub": "CLIMBING NOW (OCT 2026)",
+    "count": {
+     "to": 30000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 14,
+     "appear": 0.8
+    }
+   }
+  },
+  {
+   "t": "Have you ever reached the top? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "EVER REACHED\nTHE TOP?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}
