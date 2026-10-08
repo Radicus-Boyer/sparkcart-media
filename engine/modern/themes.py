@@ -1194,6 +1194,76 @@ def panel_fnaf(w, h, kind="main"):
     return im
 
 
+# ================================================================ UNDERTALE: black void, battle box and a red soul
+def _heart(d, x, y, r, fill):
+    d.ellipse([x - r, y - r * 0.6, x, y + r * 0.4], fill=fill)
+    d.ellipse([x, y - r * 0.6, x + r, y + r * 0.4], fill=fill)
+    d.polygon([(x - r * 0.97, y), (x + r * 0.97, y), (x, y + r * 1.1)], fill=fill)
+
+
+def static_ut():
+    img = Image.new("RGB", (W, H), (0, 0, 0))
+    lay, d = layer()
+    rnd = random.Random(7)
+    for _ in range(70):
+        x, y = rnd.uniform(0, W), rnd.uniform(240, H)
+        d.rectangle([x, y, x + 4, y + 4], fill=(255, 255, 255, rnd.randint(40, 140)))
+    d.rectangle([90, 1660, W - 90, 1870], outline=(255, 255, 255, 255), width=8)
+    over(img, lay)
+    return img
+
+
+def dyn_ut(img, d, now, prog, end, S):
+    x = 540 + 330 * math.sin(now * 1.3)
+    y = 1765 + 50 * math.sin(now * 2.1)
+    _heart(d, x, y, 26, (255, 0, 0))
+    if int(now * 2) % 2 == 0:
+        cx, cy = 980, 300
+        d.polygon([(cx, cy - 26), (cx + 8, cy - 8), (cx + 26, cy), (cx + 8, cy + 8), (cx, cy + 26), (cx - 8, cy + 8), (cx - 26, cy), (cx - 8, cy - 8)], fill=(255, 255, 0))
+    paste(img, text_img(f"LV {1 + int(prog * 19)}", "PressStart2P-Regular.ttf", 28, "#ffffff"), 910, 198)
+
+
+def panel_ut(w, h, kind="main"):
+    im, d = _panel(w, h, (0, 0, 0, 245), (255, 255, 255, 255), 7, 0)
+    return im
+
+
+# ================================================================ SUBWAY SURFERS: sunny tracks, graffiti wall and coins
+def static_subway():
+    img = vgrad("#4fc3ff", "#bfeaff")
+    lay, d = layer()
+    rnd = random.Random(12)
+    cols = [(255, 92, 92, 120), (255, 196, 0, 120), (92, 220, 120, 120), (186, 104, 255, 120)]
+    d.rectangle([0, 1180, W, 1560], fill=(196, 170, 150, 255))
+    for k in range(16):
+        x, y = rnd.uniform(-60, W), rnd.uniform(1200, 1500)
+        d.ellipse([x, y, x + rnd.uniform(120, 260), y + rnd.uniform(50, 110)], fill=cols[k % 4])
+    d.rectangle([0, 1560, W, H], fill=(120, 110, 104, 255))
+    for x in (240, 540, 840):
+        d.line([(x - 70, 1560), (x - 140, H)], fill=(220, 220, 225, 255), width=10)
+        d.line([(x + 70, 1560), (x + 140, H)], fill=(220, 220, 225, 255), width=10)
+    for y in range(1590, H, 60):
+        d.rectangle([0, y, W, y + 14], fill=(90, 70, 60, 200))
+    over(img, lay)
+    return img
+
+
+def dyn_subway(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(9, 31):
+        x = 120 + a * 840
+        y = 1560 + ((b + now * (0.25 + c * 0.2)) % 1.0) * 360
+        r = 16 + e * 8
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(255, 205, 40), outline=(190, 120, 0), width=4)
+    paste(img, text_img(f"COINS {int(prog * 999):03d}", "Bangers-Regular.ttf", 46, "#ffd23f", 5, "#1a1a2e"), 900, 198)
+
+
+def panel_subway(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 255, 255, 245), (26, 26, 46, 255), 7, 26, (10, 12, (0, 0, 0, 90)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 16, PM + h - 22, PM + w - 16, PM + h - 12], 4, fill=(255, 140, 0, 255))
+    return im
+
+
 # control: floating black blocks drift behind the content, so small text sits on its own black plate
 _t = THEMES["control"]["text"]["small"]
 THEMES["control"]["text"]["small"] = (_t[0], _t[1], "#ffffff", 0, _t[4], None, "#000000")
@@ -1220,4 +1290,13 @@ THEMES.update({
     "fnaf": dict(case="upper", static=static_fnaf, dyn=dyn_fnaf, panel=panel_fnaf, flash="#ff4040", tag_col="#ffd23f", frame=("#d6e0d6", 6),
                  text=roles("Anton-Regular.ttf", "ChakraPetch-Bold.ttf", "#f4f4ec", "#ff4040", "#c9d2ca", "#f4f4ec", "#ffd23f", "#9aa59d", stroke=0.06, sfill="#000000"),
                  cap=dict(font="ChakraPetch-Bold.ttf", size=90, fill="#ffffff", hi="#ffd23f", stroke="#000000")),
+})
+
+THEMES.update({
+    "ut": dict(case="upper", static=static_ut, dyn=dyn_ut, panel=panel_ut, flash="#ffff00", tag_col="#ffff00", frame=("#ffffff", 8),
+               text=roles("PressStart2P-Regular.ttf", "PressStart2P-Regular.ttf", "#ffffff", "#ffff00", "#ffffff", "#ffffff", "#ffff00", "#bbbbbb"),
+               cap=dict(font="PressStart2P-Regular.ttf", size=58, gap=0.6, fill="#ffffff", hi="#ffff00", stroke="#000000", box="#000000")),
+    "subway": dict(case="upper", static=static_subway, dyn=dyn_subway, panel=panel_subway, flash="#ff8c00", tag_col="#ffd23f", frame=("#1a1a2e", 8),
+                   text=roles("Bangers-Regular.ttf", "BarlowCondensed-ExtraBold.ttf", "#ffffff", "#ffd23f", "#ffffff", "#1a1a2e", "#ff6a00", "#4a4a5e", stroke=0.08, sfill="#1a1a2e"),
+                   cap=dict(font="Bangers-Regular.ttf", size=100, fill="#ffffff", hi="#ffd23f", stroke="#1a1a2e")),
 })

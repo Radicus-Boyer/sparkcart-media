@@ -1,0 +1,168 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 56,
+ "slug": "56-arsenal",
+ "file": "56 Arsenal (30s).mp4",
+ "target": 30,
+ "accent": "#ef5350",
+ "bpm": 136,
+ "root": 55,
+ "pron": {
+  "ROLVe": "Rolve",
+  "Bloxy": "Blocks-ee"
+ },
+ "lines": [
+  {
+   "t": "In this Roblox shooter, every kill changes your gun.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "EVERY KILL\nNEW GUN",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-paintball.jpg",
+     "label": "THE REAL-LIFE VERSION",
+     "credit": "Photo: Ken Thomas, public domain",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 110
+   }
+  },
+  {
+   "t": "It's Arsenal, made by ROLVe in 2015. Get a kill, and you instantly get a new weapon.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "ARSENAL",
+    "sub": "KILL = NEW WEAPON",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "a": "idle",
+      "c": "b",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       1.6,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "hold": "gun"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crosshair",
+      "x": 540,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Critics compared it to Counter-Strike. In 2020, it became the first Roblox shooter to reach a billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "1 BILLION",
+    "sub": "FIRST ROBLOX SHOOTER TO DO IT",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ss": 50,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It won Game of the Year at the 7th Bloxy Awards.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "GAME OF\nTHE YEAR",
+    "sub": "7TH BLOXY AWARDS",
+    "rays": "#ffffff",
+    "bs": 124,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.2
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your best kill streak? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "BEST\nSTREAK?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

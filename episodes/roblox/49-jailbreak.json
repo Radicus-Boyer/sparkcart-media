@@ -1,0 +1,451 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 49,
+ "slug": "49-jailbreak",
+ "file": "49 Jailbreak (70s).mp4",
+ "target": 70,
+ "accent": "#42a5f5",
+ "bpm": 130,
+ "root": 57,
+ "pron": {
+  "badcc": "bad C C",
+  "asimo3089": "Asimo thirty eighty nine",
+  "Badimo": "Bad-ee-mo"
+ },
+ "lines": [
+  {
+   "t": "A teenager made this Roblox game, and it paid for his whole college degree.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "IT PAID FOR\nCOLLEGE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-alcatraz.jpg",
+     "label": "A REAL PRISON: ALCATRAZ",
+     "credit": "Photo: Nonie, CC BY 2.0",
+     "y": 850,
+     "h": 410
+    },
+    "bs": 108
+   }
+  },
+  {
+   "t": "It's Jailbreak. You're either a prisoner breaking out, or a cop trying to stop them.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "JAILBREAK",
+    "sub": "PRISONERS VS COPS",
+    "bs": 150,
+    "props": [
+     [
+      "base",
+      -2.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.8,
+       0.6
+      ],
+      "a": "run",
+      "c": [
+       "#ffcc80",
+       "#ff7043",
+       "#ff7043"
+      ],
+      "to": [
+       0.4,
+       0.6
+      ]
+     },
+     {
+      "p": [
+       3.8,
+       1.8
+      ],
+      "a": "run",
+      "c": [
+       "#ffcc80",
+       "#1565c0",
+       "#0d47a1"
+      ],
+      "to": [
+       1.6,
+       1.8
+      ],
+      "d": 0.3
+     }
+    ]
+   }
+  },
+  {
+   "t": "Escape the prison, then rob banks, jewelry stores and trains, while police chase you through the city.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "ROB EVERYTHING",
+    "sub": "BANKS, JEWELRY STORES, TRAINS",
+    "bs": 112,
+    "ss": 50,
+    "props": [
+     [
+      "car",
+      -1.8,
+      -0.4
+     ]
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 850,
+      "s": 170,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "coins",
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Critics compared it to Grand Theft Auto.",
+   "sc": {
+    "bg": "dark",
+    "ground": "road",
+    "big": "LIKE GTA?",
+    "sub": "WHAT CRITICS SAID",
+    "bs": 150,
+    "props": [
+     [
+      "car",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It started as a bigger, better version of an older Roblox game, Prison Life.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "PRISON LIFE",
+    "sub": "THE GAME IT GREW FROM",
+    "bs": 130,
+    "props": [
+     [
+      "base",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.2
+      ],
+      "a": "idle",
+      "c": [
+       "#ffcc80",
+       "#ff7043",
+       "#ff7043"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "Two developers made it, known as badcc and asimo3089. They called their studio Badimo.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "BADIMO",
+    "sub": "BADCC + ASIMO3089",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Badcc started making Roblox games when he was just nine years old.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "AGE 9",
+    "sub": "WHEN BADCC STARTED CODING",
+    "bs": 190,
+    "ss": 50,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a",
+      "s": 0.4
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Jailbreak launched in 2017, and 70,000 people played on day one.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "PLAYERS ON DAY ONE (2017)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 70000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It made over a million dollars in its first year, and turned badcc into a millionaire.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "$1 MILLION+",
+    "sub": "IN THE FIRST YEAR",
+    "rays": "#ffffff",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "He used the money to pay for his degree at Duke University.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "COLLEGE\nPAID OFF",
+    "sub": "DUKE UNIVERSITY",
+    "bs": 124,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.2
+      ],
+      "a": "cheer",
+      "c": "a",
+      "hat": "#212121"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In April 2020, 530,000 people played at the same time. That was a Roblox record back then.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "PLAYING AT ONCE, APRIL 2020",
+    "rays": "#ffffff",
+    "ss": 52,
+    "count": {
+     "to": 530000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 0.8
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It has now been played about 7.9 billion times.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "VISITS (JUNE 2026)",
+    "count": {
+     "to": 7.9,
+     "fmt": "{:.1f} BILLION"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 16,
+     "appear": 0.8
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It was even part of Roblox's Ready Player One event.",
+   "sc": {
+    "bg": "space",
+    "ground": "space",
+    "big": "READY\nPLAYER ONE",
+    "sub": "A ROBLOX MOVIE EVENT",
+    "bs": 120,
+    "ic": [
+     {
+      "n": "planet",
+      "x": 860,
+      "y": 820,
+      "s": 160,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "jump",
+      "c": "f"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And in November 2025, a Jailbreak movie was announced.",
+   "sc": {
+    "bg": "dark",
+    "ground": "road",
+    "big": "THE MOVIE",
+    "sub": "ANNOUNCED NOV 2025",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 850,
+      "s": 170,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Cop, or criminal? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "COP OR\nCRIMINAL?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

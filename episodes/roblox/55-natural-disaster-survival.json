@@ -1,0 +1,172 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 55,
+ "slug": "55-natural-disaster-survival",
+ "file": "55 Natural Disaster Survival (30s).mp4",
+ "target": 30,
+ "accent": "#4fc3f7",
+ "bpm": 132,
+ "root": 57,
+ "pron": {
+  "Stickmasterluke": "Stick master Luke"
+ },
+ "lines": [
+  {
+   "t": "One of Roblox's oldest hit games is all about surviving disasters.",
+   "sc": {
+    "bg": "dark",
+    "ground": "grass",
+    "big": "SURVIVE THE\nDISASTER",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-tornado.jpg",
+     "label": "A REAL TORNADO, 1981",
+     "credit": "Photo: NOAA, public domain",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 104,
+    "vig": false
+   }
+  },
+  {
+   "t": "It's Natural Disaster Survival, made by Stickmasterluke around 2008.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "NATURAL\nDISASTER",
+    "sub": "BY STICKMASTERLUKE, 2008",
+    "bs": 130,
+    "props": [
+     [
+      "house",
+      -2.4,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.2
+      ],
+      "a": "bob",
+      "c": "c",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Earthquakes, tornadoes, tsunamis, fires and floods. Survive the round, and you win. Stand still, and you lose.",
+   "sc": {
+    "bg": "red",
+    "ground": "water",
+    "big": "SURVIVE",
+    "sub": "QUAKES, TORNADOES, FLOODS",
+    "bs": 180,
+    "av": [
+     {
+      "p": [
+       -2.4,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       2.4,
+       0.8
+      ]
+     },
+     {
+      "p": [
+       -3.0,
+       1.8
+      ],
+      "a": "run",
+      "c": "f",
+      "to": [
+       1.8,
+       1.8
+      ],
+      "d": 0.2
+     }
+    ],
+    "fx": [
+     "speed",
+     "waves"
+    ]
+   }
+  },
+  {
+   "t": "It has been played over 4 billion times, even though a disaster expert said some of its safety tips are wrong.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "VISITS (AND SOME BAD ADVICE)",
+    "ss": 52,
+    "count": {
+     "to": 4,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 14,
+     "appear": 0.7
+    },
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "What's the worst disaster? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "red",
+    "ground": "purple",
+    "big": "WORST\nDISASTER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

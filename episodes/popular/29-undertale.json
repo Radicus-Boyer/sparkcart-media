@@ -1,0 +1,81 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 29,
+ "theme": "ut",
+ "game": "Undertale",
+ "target": 30,
+ "lines": [
+  {
+   "t": "This game asked for 5,000 dollars on Kickstarter. Fans gave it over 51,000.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop5-undertale-cosplay.jpg",
+    "big": [
+     "ASKED FOR $5,000",
+     "*GOT $51,124"
+    ],
+    "label": "UNDERTALE COSPLAYERS, 2016",
+    "credit": "Photo: Maplestrip, CC0",
+    "size": 70
+   }
+  },
+  {
+   "t": "Undertale came out in 2015. Toby Fox made it almost entirely alone, including all the music.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TOBY FOX"
+    ],
+    "size": 110,
+    "icon": "music",
+    "sub": "design, story and music"
+   }
+  },
+  {
+   "t": "You can beat the whole game without killing anyone. Just spare the monsters.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SPARE",
+     "*EVERYONE"
+    ],
+    "size": 110,
+    "icon": "heart",
+    "sub": "no one has to die"
+   }
+  },
+  {
+   "t": "Sans and Papyrus are named after the fonts Comic Sans and Papyrus.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NAMED AFTER",
+     "*FONTS"
+    ],
+    "size": 96,
+    "icon": "font",
+    "sub": "Comic Sans and Papyrus"
+   }
+  },
+  {
+   "t": "It has sold over five million copies.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "5M+",
+    "label": "COPIES SOLD",
+    "sub": "a one-person game",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "Pacifist, or genocide? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "PACIFIST OR GENOCIDE?"
+   }
+  }
+ ],
+ "file": "29 - Undertale (30s).mp4"
+}

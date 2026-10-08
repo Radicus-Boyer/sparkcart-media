@@ -1,0 +1,190 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 28,
+ "theme": "subway",
+ "game": "Subway Surfers",
+ "target": 70,
+ "pron": {
+  "Kiloo": "Kee-loo",
+  "SYBO": "See-bo"
+ },
+ "lines": [
+  {
+   "t": "This was the first game ever to hit one billion downloads on Google Play.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop5-subway-1973.jpg",
+    "big": [
+     "1 BILLION DOWNLOADS",
+     "*THE FIRST EVER"
+    ],
+    "label": "REAL GRAFFITI TRAINS, NEW YORK",
+    "credit": "Photo: Erik Calonius, public domain"
+   }
+  },
+  {
+   "t": "Subway Surfers came out on May 24th, 2012, made by two Danish studios, Kiloo and SYBO.",
+   "sc": {
+    "kind": "stat",
+    "size": 130,
+    "val": "MAY 24, 2012",
+    "label": "RELEASE DAY",
+    "sub": "by Kiloo and SYBO, Denmark",
+    "icon": "calendar-days"
+   }
+  },
+  {
+   "t": "You play Jake, a kid caught spraying graffiti on the train tracks. Then you run.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "CAUGHT",
+     "*SPRAYING"
+    ],
+    "icon": "spray-can",
+    "sub": "you play Jake"
+   }
+  },
+  {
+   "t": "An inspector and his dog chase you, while you dodge trains, poles and barriers.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "dog",
+      "THE INSPECTOR'S DOG"
+     ],
+     [
+      "train-subway",
+      "TRAINS"
+     ],
+     [
+      "person-running",
+      "KEEP RUNNING"
+     ]
+    ],
+    "head": "DON'T GET CAUGHT"
+   }
+  },
+  {
+   "t": "Swipe to jump, roll and switch lanes, and grab coins, jetpacks and super sneakers along the way.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "coins",
+      "COINS"
+     ],
+     [
+      "rocket",
+      "JETPACKS"
+     ],
+     [
+      "shoe-prints",
+      "SUPER SNEAKERS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Crash once, and the run is over, unless you spend a key to keep going.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ONE CRASH",
+     "*= GAME OVER"
+    ],
+    "icon": "key",
+    "sub": "unless you spend a key"
+   }
+  },
+  {
+   "t": "Since 2013, the World Tour has moved the game to a new city every three weeks.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "WORLD TOUR"
+    ],
+    "icon": "city",
+    "sub": "a new city every 3 weeks, since 2013"
+   }
+  },
+  {
+   "t": "In March 2018, it became the first game on Google Play to reach one billion downloads.",
+   "sc": {
+    "kind": "stat",
+    "val": "1 BILLION",
+    "label": "GOOGLE PLAY DOWNLOADS",
+    "sub": "March 2018: the first game ever",
+    "icon": "download"
+   }
+  },
+  {
+   "t": "Two months later, it passed two billion.",
+   "sc": {
+    "kind": "stat",
+    "val": "2 BILLION",
+    "label": "DOWNLOADS",
+    "sub": "May 2018",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "It was the most downloaded mobile game every year from 2012 to 2019.",
+   "sc": {
+    "kind": "stat",
+    "size": 200,
+    "val": "#1",
+    "label": "MOST DOWNLOADED MOBILE GAME",
+    "sub": "every year, 2012 to 2019",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "It even got its own animated series on YouTube in 2018.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE CARTOON"
+    ],
+    "icon": "tv",
+    "sub": "on YouTube, June 2018"
+   }
+  },
+  {
+   "t": "And you've probably seen it under TikTok videos, where people play it to keep your attention.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "UNDER EVERY",
+     "*TIKTOK"
+    ],
+    "size": 124,
+    "icon": "mobile-screen",
+    "sub": "the gameplay that holds your attention"
+   }
+  },
+  {
+   "t": "In February 2026, a brand new game arrived: Subway Surfers City.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SUBWAY SURFERS",
+     "*CITY"
+    ],
+    "size": 118,
+    "icon": "city",
+    "sub": "February 26, 2026"
+   }
+  },
+  {
+   "t": "What's your high score? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "HIGH SCORE?"
+   }
+  }
+ ],
+ "file": "28 - Subway Surfers (70s).mp4"
+}

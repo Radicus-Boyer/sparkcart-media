@@ -1,0 +1,355 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 50,
+ "slug": "50-roblox-history",
+ "file": "50 Roblox Was Called DynaBlocks (70s).mp4",
+ "target": 70,
+ "accent": "#ef5350",
+ "bpm": 124,
+ "root": 60,
+ "pron": {
+  "DynaBlocks": "Dyna Blocks",
+  "Baszucki": "Buh-zoo-key",
+  "Robux": "Row-bucks"
+ },
+ "lines": [
+  {
+   "t": "Before it was called Roblox, this game had a completely different name: DynaBlocks.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "IT WAS CALLED\nDYNABLOCKS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-baszucki.jpg",
+     "label": "CO-FOUNDER DAVID BASZUCKI",
+     "credit": "Photo: TechCrunch, CC BY 2.0",
+     "y": 830,
+     "h": 420
+    },
+    "bs": 96
+   }
+  },
+  {
+   "t": "In 2004, David Baszucki and Erik Cassel started building it, just the two of them.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "2004",
+    "sub": "TWO FOUNDERS",
+    "bs": 200,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "They had worked together before, making physics software for schools.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "big": "PHYSICS\nSOFTWARE",
+    "sub": "THEIR JOB BEFORE ROBLOX",
+    "bs": 120,
+    "ic": [
+     {
+      "n": "planet",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "spin"
+     }
+    ],
+    "props": [
+     [
+      "block",
+      -1.2,
+      -1.2
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The first versions were very basic, and only a few dozen people tested them.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "A FEW DOZEN",
+    "sub": "EARLY TESTERS",
+    "bs": 140,
+    "crowd": {
+     "n": 8,
+     "appear": 0.6
+    }
+   }
+  },
+  {
+   "t": "Roblox officially launched on September 1st, 2006.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "SEPT 1, 2006",
+    "sub": "LAUNCH DAY",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Back then, there were two currencies, Robux and Tix. Tix were removed in April 2016.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "TIX",
+    "sub": "REMOVED IN APRIL 2016",
+    "bs": 200,
+    "ic": [
+     {
+      "n": "coin",
+      "x": 300,
+      "y": 850,
+      "s": 150,
+      "a": "spin"
+     },
+     {
+      "n": "money",
+      "x": 820,
+      "y": 850,
+      "s": 150,
+      "a": "fall"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You could also play as a guest, without an account, until October 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "GUESTS",
+    "sub": "GONE SINCE OCT 2017",
+    "bs": 180,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "w"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2008, Roblox stopped making its own games. Since then, every game has been made by players.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "MADE BY\nPLAYERS",
+    "sub": "SINCE 2008",
+    "rays": "#ffffff",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "bob",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "b"
+     }
+    ],
+    "props": [
+     [
+      "block",
+      -2.8,
+      -1.0
+     ]
+    ]
+   }
+  },
+  {
+   "t": "In 2011, the first Roblox convention brought over a thousand fans to San Francisco.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "1,000+ FANS",
+    "sub": "FIRST CONVENTION, 2011",
+    "bs": 124,
+    "crowd": {
+     "n": 22,
+     "appear": 0.8
+    }
+   }
+  },
+  {
+   "t": "In 2020, Roblox made 2.29 billion dollars.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "$2.29 BILLION",
+    "sub": "EARNED IN 2020",
+    "rays": "#ffffff",
+    "bs": 124,
+    "fx": [
+     "coins"
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then in March 2021, the company went public, valued at 45 billion dollars.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "$45 BILLION",
+    "sub": "VALUE WHEN IT WENT PUBLIC",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ss": 50,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 850,
+      "s": 170,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In early 2025, about 85 million people played every single day.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "sub": "DAILY PLAYERS (2025)",
+    "count": {
+     "to": 85,
+     "fmt": "{:.0f} MILLION"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 0.6
+    }
+   }
+  },
+  {
+   "t": "What year did you join Roblox? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WHAT YEAR DID\nYOU JOIN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

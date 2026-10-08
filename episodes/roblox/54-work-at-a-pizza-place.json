@@ -1,0 +1,151 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 54,
+ "slug": "54-work-at-a-pizza-place",
+ "file": "54 Work at a Pizza Place (30s).mp4",
+ "target": 30,
+ "accent": "#ff7043",
+ "bpm": 124,
+ "root": 60,
+ "lines": [
+  {
+   "t": "This Roblox game came out in 2007, and people still play it today.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "wood",
+    "big": "FROM 2007",
+    "sub": "STILL PLAYED TODAY",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-pizza.jpg",
+     "label": "A REAL PIZZA",
+     "credit": "Photo: jeffreyw, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 130
+   }
+  },
+  {
+   "t": "It's Work at a Pizza Place. Players team up to take orders, cook, and deliver pizzas.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "PIZZA\nPLACE",
+    "sub": "TAKE ORDERS. COOK. DELIVER.",
+    "bs": 150,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6,
+      {
+       "c": "#ff7043"
+      }
+     ],
+     [
+      "car",
+      1.4,
+      -1.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       1.4
+      ],
+      "a": "walk",
+      "c": "c",
+      "to": [
+       2.2,
+       1.4
+      ],
+      "hat": "#ffffff"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was the first Roblox game ever played 100 million times, and it's still a classic.",
+   "sc": {
+    "bg": "gold",
+    "ground": "wood",
+    "big": "100 MILLION",
+    "sub": "THE FIRST GAME TO GET THERE",
+    "rays": "#ffffff",
+    "bs": 130,
+    "props": [
+     [
+      "trophy",
+      -1.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Its creator says it works because it gets people talking. It has now been played over 5 billion times.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "VISITS, AND COUNTING",
+    "count": {
+     "to": 5,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 16,
+     "appear": 0.7
+    }
+   }
+  },
+  {
+   "t": "What's your favorite job? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "FAVORITE\nJOB?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

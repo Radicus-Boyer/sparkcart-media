@@ -1,0 +1,174 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 53,
+ "slug": "53-piggy",
+ "file": "53 Piggy (30s).mp4",
+ "target": 30,
+ "accent": "#ff80ab",
+ "bpm": 112,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "MiniToon": "Mini Toon"
+ },
+ "lines": [
+  {
+   "t": "This Roblox horror game mixed Peppa Pig with a scary game called Granny.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "PEPPA PIG\n+ GRANNY",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-pig.jpg",
+     "label": "REAL PIGS JUST NAP",
+     "credit": "Photo: simon berger, CC0",
+     "y": 840,
+     "h": 430,
+     "crop": [
+      0.0,
+      0.25,
+      1.0,
+      0.95
+     ]
+    },
+    "bs": 110,
+    "vig": false
+   }
+  },
+  {
+   "t": "It's Piggy, made by MiniToon in January 2020. You escape while Piggy hunts you, chapter by chapter.",
+   "sc": {
+    "bg": "dark",
+    "ground": "wood",
+    "big": "PIGGY",
+    "sub": "ESCAPE, CHAPTER BY CHAPTER",
+    "bs": 180,
+    "vig": true,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -2.0,
+       0.4
+      ],
+      "a": "walk",
+      "c": [
+       "#f8bbd0",
+       "#e91e63",
+       "#880e4f"
+      ],
+      "to": [
+       -0.4,
+       0.4
+      ],
+      "face": "mean"
+     },
+     {
+      "p": [
+       1.2,
+       1.4
+      ],
+      "a": "run",
+      "c": "c",
+      "to": [
+       3.0,
+       1.4
+      ],
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "It has been played over 12 billion times, making it one of Roblox's biggest horror games.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "TIMES PLAYED",
+    "count": {
+     "to": 12,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 18,
+     "appear": 0.7
+    }
+   }
+  },
+  {
+   "t": "Book 2 came out in September 2020. In November 2022, MiniToon said the main game was finished.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "THE END",
+    "sub": "BOOK 2: 2020. FINISHED: 2022",
+    "bs": 160,
+    "ss": 50,
+    "vig": true,
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Did you ever escape Piggy? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "DID YOU\nESCAPE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

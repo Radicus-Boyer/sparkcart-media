@@ -1,0 +1,471 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 51,
+ "slug": "51-pet-simulator-99",
+ "file": "51 Pet Simulator 99 (70s).mp4",
+ "target": 70,
+ "accent": "#ffb300",
+ "bpm": 128,
+ "root": 62,
+ "pron": {
+  "Preston": "Preston"
+ },
+ "lines": [
+  {
+   "t": "Post Malone accepted an award for this Roblox series, and its newest game has over 2,000 pets.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "2,000+ PETS",
+    "sub": "AND A POST MALONE AWARD",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-puppy.jpg",
+     "label": "REAL PETS DON'T BREAK BLOCKS",
+     "credit": "Photo: lisaschaos, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 116,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Pet Simulator 99 came out on December 1st, 2023, made by BIG Games.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "PET SIM 99",
+    "sub": "DECEMBER 1, 2023",
+    "bs": 140,
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#ffb74d",
+      "s": 0.7
+     },
+     {
+      "k": "cat",
+      "p": [
+       1.0,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#90caf9",
+      "s": 0.7
+     }
+    ]
+   }
+  },
+  {
+   "t": "You hatch eggs, collect pets, and your pets break blocks and chests for you.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "HATCH.\nCOLLECT.",
+    "sub": "YOUR PETS DO THE WORK",
+    "bs": 120,
+    "props": [
+     [
+      "crate",
+      -1.6,
+      -1.6
+     ]
+    ],
+    "ic": [
+     {
+      "n": "egg_gold",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "shake"
+     }
+    ],
+    "pets": [
+     {
+      "k": "dragon",
+      "p": [
+       0.6,
+       0.0
+      ],
+      "a": "hop",
+      "c": "#ab47bc",
+      "s": 0.8
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Today there are over 2,000 different pets to collect.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "PETS TO COLLECT",
+    "rays": "#ffffff",
+    "count": {
+     "to": 2000,
+     "fmt": "{:,.0f}+"
+    },
+    "bs": 150,
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -2.0,
+       0.8
+      ],
+      "a": "hop",
+      "c": "#ffb74d",
+      "s": 0.6
+     },
+     {
+      "k": "cat",
+      "p": [
+       -0.7,
+       0.8
+      ],
+      "a": "hop",
+      "c": "#f48fb1",
+      "s": 0.6
+     },
+     {
+      "k": "fox",
+      "p": [
+       0.6,
+       0.8
+      ],
+      "a": "hop",
+      "c": "#ff7043",
+      "s": 0.6
+     },
+     {
+      "k": "deer",
+      "p": [
+       1.9,
+       0.8
+      ],
+      "a": "hop",
+      "c": "#a1887f",
+      "s": 0.6
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's the sequel to Pet Simulator X, from 2021.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "SEQUEL TO\nPET SIM X",
+    "sub": "2021",
+    "bs": 120,
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#ffd54f",
+      "s": 0.8
+     }
+    ]
+   }
+  },
+  {
+   "t": "Some Pet Simulator X pets could even be carried over to the new game.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "CARRY OVER",
+    "sub": "OLD PETS, NEW GAME",
+    "bs": 140,
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#90caf9",
+      "s": 0.7,
+      "to": [
+       1.6,
+       0.6
+      ]
+     }
+    ],
+    "ic": [
+     {
+      "n": "trade",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Pet Simulator X once had 1.48 million people playing at the same time.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYING PET SIM X AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.48,
+     "fmt": "{:.2f} MILLION"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "That won it the 2023 award for most players at once, and rapper Post Malone accepted it for the creator, Preston.",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "POST MALONE",
+    "sub": "ACCEPTED THE 2023 AWARD",
+    "bs": 130,
+    "props": [
+     [
+      "trophy",
+      -1.8,
+      -0.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "k"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It was also the first Roblox game to use NFTs, which caused a huge controversy.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "NFT DRAMA",
+    "sub": "A ROBLOX FIRST",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Pet Simulator X was played over 5 billion times.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "PET SIM X VISITS",
+    "count": {
+     "to": 5,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 16,
+     "appear": 0.8
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Pet Simulator 99 gets a new update every two weeks.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "EVERY\n2 WEEKS",
+    "sub": "A NEW UPDATE",
+    "bs": 124,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "float"
+     }
+    ],
+    "pets": [
+     {
+      "k": "fox",
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#ff7043",
+      "s": 0.7
+     }
+    ]
+   }
+  },
+  {
+   "t": "In November 2024, the series even got McDonald's Happy Meal toys.",
+   "sc": {
+    "bg": "red",
+    "ground": "grass",
+    "big": "HAPPY MEAL\nTOYS",
+    "sub": "NOVEMBER 2024",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ],
+    "pets": [
+     {
+      "k": "dog",
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "a": "hop",
+      "c": "#ffd54f",
+      "s": 0.6
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trackers say about 250,000 people played at once in December 2024.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYING AT ONCE, DEC 2024",
+    "rays": "#ffffff",
+    "count": {
+     "to": 250000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 22,
+     "appear": 0.7
+    }
+   }
+  },
+  {
+   "t": "And around 50,000 people are still hatching eggs right now.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "sub": "HATCHING NOW (OCT 2026)",
+    "count": {
+     "to": 50000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 12,
+     "appear": 0.7
+    },
+    "ic": [
+     {
+      "n": "egg",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "What's your rarest pet? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "RAREST PET?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

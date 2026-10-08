@@ -1,0 +1,404 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 52,
+ "slug": "52-bee-swarm-simulator",
+ "file": "52 Bee Swarm Simulator (70s).mp4",
+ "target": 70,
+ "accent": "#ffca28",
+ "bpm": 126,
+ "root": 64,
+ "pron": {
+  "Onett": "Oh-net",
+  "Bloxy": "Blocks-ee"
+ },
+ "lines": [
+  {
+   "t": "This Roblox game is about collecting bees, and it has been played over 3.6 billion times.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "3.6 BILLION\nVISITS",
+    "sub": "A GAME ABOUT BEES",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-bee.jpg",
+     "label": "A REAL HONEY BEE",
+     "credit": "Photo: Ivan Radic, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 110
+   }
+  },
+  {
+   "t": "It's Bee Swarm Simulator. Your bees follow you around, collect pollen, and turn it into honey.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BEE SWARM\nSIMULATOR",
+    "sub": "POLLEN INTO HONEY",
+    "bs": 116,
+    "av": [
+     {
+      "p": [
+       2.4,
+       1.0
+      ],
+      "a": "walk",
+      "c": "c",
+      "to": [
+       -0.4,
+       1.0
+      ]
+     }
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 300,
+      "y": 820,
+      "s": 70,
+      "a": "fly"
+     },
+     {
+      "n": "star",
+      "x": 760,
+      "y": 860,
+      "s": 70,
+      "a": "fly",
+      "d": 0.2
+     },
+     {
+      "n": "fruit",
+      "x": 880,
+      "y": 900,
+      "s": 120,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You spend that honey on more bees and better gear, and your swarm keeps growing.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "MORE BEES",
+    "sub": "BETTER GEAR",
+    "rays": "#ffffff",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c",
+      "hat": "#ffca28"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Every bee type has its own ability, so building the perfect hive takes a long time.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "THE PERFECT\nHIVE",
+    "sub": "EVERY BEE IS DIFFERENT",
+    "bs": 120,
+    "props": [
+     [
+      "tower",
+      -1.6,
+      -1.6,
+      {
+       "c": "#ffca28"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.2
+      ],
+      "a": "bob",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Your bees also fight monsters, like spiders and ladybugs.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "BEES FIGHT",
+    "sub": "SPIDERS AND LADYBUGS",
+    "bs": 150,
+    "vig": true,
+    "ic": [
+     {
+      "n": "sword",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by a developer called Onett, after more than three months of work.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "ONETT",
+    "sub": "3+ MONTHS TO BUILD IT",
+    "bs": 180,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It went public on March 23rd, 2018.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "MARCH 23, 2018",
+    "sub": "RELEASE DAY",
+    "bs": 116,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It hit 100 million visits in just over two months.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "100 MILLION",
+    "sub": "VISITS BY JUNE 2018",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 850,
+      "s": 170,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "In February 2019, it won three Bloxy Awards, including Game of the Year.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "GAME OF\nTHE YEAR",
+    "sub": "BLOXY AWARDS 2019",
+    "rays": "#ffffff",
+    "bs": 124,
+    "props": [
+     [
+      "trophy",
+      -2.4,
+      -0.4
+     ],
+     [
+      "trophy",
+      -1.0,
+      -1.6
+     ],
+     [
+      "trophy",
+      0.4,
+      -2.6
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In August 2020, it passed a billion visits. Only 18 Roblox games had done that before.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "1 BILLION",
+    "sub": "THE 19TH GAME TO DO IT",
+    "bs": 140,
+    "crowd": {
+     "n": 16,
+     "appear": 0.8
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Its fan club group grew to over 10 million members.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "10 MILLION",
+    "sub": "FAN CLUB MEMBERS",
+    "rays": "#ffffff",
+    "bs": 140,
+    "crowd": {
+     "n": 22,
+     "appear": 0.7
+    }
+   }
+  },
+  {
+   "t": "Players love it, with a 95 percent like rating.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "95%",
+    "sub": "LIKE RATING",
+    "bs": 230,
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And after seven years, it's still one of Roblox's most visited simulators.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "7 YEARS\nLATER",
+    "sub": "STILL BUZZING",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "c"
+     },
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "f"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "How many bees do you have? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "HOW MANY\nBEES?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}
