@@ -1,0 +1,186 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 31,
+ "theme": "terra",
+ "game": "Terraria",
+ "target": 70,
+ "pron": {
+  "Spinks": "Spinks"
+ },
+ "lines": [
+  {
+   "t": "Terraria has sold over 70 million copies, and its final update has happened more than once.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop6-cave.jpg",
+    "big": [
+     "TERRARIA",
+     "*70 MILLION SOLD"
+    ],
+    "label": "A REAL CAVE",
+    "credit": "Photo: Jtknowles, public domain"
+   }
+  },
+  {
+   "t": "Terraria is a 2D sandbox game. You dig, build, craft gear, and fight huge bosses.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "hammer",
+      "DIG AND BUILD"
+     ],
+     [
+      "toolbox",
+      "CRAFT GEAR"
+     ],
+     [
+      "dragon",
+      "FIGHT BOSSES"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Every world is randomly generated, and there's no set goal. You can play as a melee fighter, a ranger, a mage, or a summoner.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NO SET",
+     "*GOAL"
+    ],
+    "icon": "mountain",
+    "sub": "every world is random"
+   }
+  },
+  {
+   "t": "It was created by Andrew Spinks, who used to work on a Super Mario fan game.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ANDREW",
+     "*SPINKS"
+    ],
+    "size": 130,
+    "icon": "user",
+    "sub": "worked on Super Mario Bros. X"
+   }
+  },
+  {
+   "t": "A tweet from Minecraft's creator, Notch, helped people discover it.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ONE TWEET"
+    ],
+    "icon": "comment",
+    "sub": "from Notch"
+   }
+  },
+  {
+   "t": "It sold 50,000 copies on day one.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     50000,
+     "{:,.0f}"
+    ],
+    "label": "COPIES ON DAY ONE",
+    "icon": "cart-shopping"
+   }
+  },
+  {
+   "t": "Over 70 million copies have now been sold, making it one of the best selling games ever.",
+   "sc": {
+    "kind": "stat",
+    "size": 180,
+    "val": "70M+",
+    "label": "COPIES SOLD",
+    "sub": "May 2026",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "In 2012, the developer said there would be no more updates. A year later, he came back.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NO MORE",
+     "*UPDATES?"
+    ],
+    "icon": "ban",
+    "sub": "2012... then he came back"
+   }
+  },
+  {
+   "t": "In 2020, Journey's End was announced as the final update.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE FINAL",
+     "*UPDATE"
+    ],
+    "icon": "flag-checkered",
+    "sub": "Journey's End, 2020"
+   }
+  },
+  {
+   "t": "Then came Labor of Love. Then 1.4.5, with Palworld and Dead Cells content.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "heart",
+      "LABOR OF LOVE"
+     ],
+     [
+      "gift",
+      "1.4.5: CROSSOVERS"
+     ]
+    ],
+    "head": "NOT SO FINAL"
+   },
+   "say": "Then came Labor of Love. Then one point four point five, with Palworld and Dead Cells content."
+  },
+  {
+   "t": "And this May, they confirmed even more. The final update just keeps not being final.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NEVER",
+     "*FINAL"
+    ],
+    "icon": "rotate",
+    "sub": "more updates confirmed, May 2026"
+   }
+  },
+  {
+   "t": "Every update has been free, and there are no microtransactions.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ALL FREE"
+    ],
+    "icon": "gift",
+    "sub": "no microtransactions, ever"
+   }
+  },
+  {
+   "t": "Its creator once said Minecraft isn't a game anymore, it's a genre.",
+   "sc": {
+    "kind": "quote",
+    "quote": "MINECRAFT ISN'T A GAME ANYMORE, IT'S A GENRE.",
+    "by": "ANDREW SPINKS"
+   }
+  },
+  {
+   "t": "What's your favorite boss? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "FAVORITE BOSS?"
+   }
+  }
+ ],
+ "file": "31 - Terraria (70s).mp4"
+}

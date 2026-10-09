@@ -1,0 +1,70 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 34,
+ "theme": "poppy",
+ "game": "Poppy Playtime",
+ "target": 30,
+ "pron": {
+  "Huggy Wuggy": "Huggy Wuggy"
+ },
+ "lines": [
+  {
+   "t": "Poppy Playtime is set in an abandoned toy factory where the toys are alive, and they're not friendly.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop6-toy-shop.jpg",
+    "big": [
+     "POPPY PLAYTIME",
+     "*THE TOYS ARE ALIVE"
+    ],
+    "label": "A REAL OLD TOY SHOP",
+    "credit": "Photo: Bain Collection, public domain",
+    "size": 84
+   }
+  },
+  {
+   "t": "You're a former worker at Playtime Co., coming back ten years after it shut down.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "PLAYTIME",
+     "*CO."
+    ],
+    "icon": "robot",
+    "sub": "closed for ten years"
+   }
+  },
+  {
+   "t": "The most famous monster is Huggy Wuggy, a big blue toy with a lot of teeth. Chapter two added a spider-like toy called Mommy Long Legs.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "HUGGY",
+     "*WUGGY"
+    ],
+    "icon": "ghost",
+    "sub": "the big blue one"
+   }
+  },
+  {
+   "t": "Chapter one is free, and a movie is in the works with Legendary Entertainment.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE MOVIE"
+    ],
+    "icon": "film",
+    "sub": "with Legendary Entertainment"
+   }
+  },
+  {
+   "t": "Who's the scariest toy? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "SCARIEST TOY?"
+   }
+  }
+ ],
+ "file": "34 - Poppy Playtime (30s).mp4"
+}

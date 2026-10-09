@@ -1264,6 +1264,168 @@ def panel_subway(w, h, kind="main"):
     return im
 
 
+# ================================================================ SILKSONG: misty grey-blue kingdom with drifting silk
+def static_hk():
+    img = radial("#3a4660", "#0b0f1a", CX, 700, 1300)
+    lay, d = layer()
+    rnd = random.Random(9)
+    for k in range(9):
+        x = rnd.uniform(0, W)
+        d.line([(x, 0), (x + rnd.uniform(-80, 80), H)], fill=(220, 225, 240, 22), width=3)
+    for x0 in range(-100, W, 140):
+        h = rnd.uniform(160, 420)
+        d.polygon([(x0, H), (x0 + 70, H - h), (x0 + 140, H)], fill=(8, 10, 18, 230))
+    over(img, lay)
+    return vignette(grain(img, 6, 2), 0.8)
+
+
+def dyn_hk(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(26, 41):
+        x = (a * W + math.sin(now * 0.7 + b * 6) * 40) % W
+        y = ((b - now * (0.02 + c * 0.03)) % 1.0) * H
+        r = 2 + e * 4
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(235, 240, 255))
+    paste(img, text_img(f"ROSARIES {int(prog * 999):03d}", "Cinzel[wght].ttf", 34, "#f1ece0", 4, "#0b0f1a", 800), 880, 198)
+
+
+def panel_hk(w, h, kind="main"):
+    im, d = _panel(w, h, (12, 16, 28, 238), (232, 228, 214, 255), 4, 10, (10, 12, (0, 0, 0, 140)))
+    if kind == "main":
+        d.line([(PM + 30, PM + 14), (PM + w - 30, PM + 14)], fill=(196, 40, 52, 255), width=4)
+    return im
+
+
+# ================================================================ TERRARIA: sky, grass, dirt and ore layers
+def static_terra():
+    img = vgrad("#5fa8ff", "#c9e6ff")
+    lay, d = layer()
+    rnd = random.Random(5)
+    B = 36
+    top = 1500
+    for x in range(0, W, B):
+        g = top + int(math.sin(x / 140) * 30) // B * B
+        d.rectangle([x, g, x + B, g + B], fill=(76, 175, 80, 255))
+        for y in range(g + B, H, B):
+            c = (121, 85, 61, 255) if y < g + 6 * B else (90, 90, 96, 255)
+            if rnd.random() < 0.06:
+                c = rnd.choice([(255, 196, 0, 255), (64, 196, 255, 255), (180, 90, 255, 255)])
+            d.rectangle([x, y, x + B - 2, y + B - 2], fill=c)
+    over(img, lay)
+    return img
+
+
+def dyn_terra(img, d, now, prog, end, S):
+    sx = 120 + prog * 840
+    d.ellipse([sx - 50, 360 - 50, sx + 50, 360 + 50], fill=(255, 236, 120))
+    for (a, b, c, e) in particles(5, 3):
+        x = ((a + now * (0.02 + c * 0.02)) % 1.2) * W - 100
+        y = 300 + b * 300
+        d.ellipse([x, y, x + 160, y + 50], fill=(255, 255, 255))
+        d.ellipse([x + 40, y - 30, x + 120, y + 40], fill=(255, 255, 255))
+    paste(img, text_img(f"DEPTH {int(prog * 300)} FT", "ArchivoBlack-Regular.ttf", 34, "#ffffff", 5, "#1b2a10"), 880, 198)
+
+
+def panel_terra(w, h, kind="main"):
+    im, d = _panel(w, h, (34, 46, 92, 235), (14, 18, 40, 255), 6, 8, (10, 12, (0, 0, 0, 110)))
+    if kind == "main":
+        d.rectangle([PM + 8, PM + 8, PM + w - 8, PM + h - 8], outline=(110, 140, 220, 255), width=3)
+    return im
+
+
+# ================================================================ CUPHEAD: 1930s cartoon film, sepia, grain and flicker
+def static_cup():
+    img = radial("#f3dfb0", "#9c7a4a", CX, 900, 1200)
+    lay, d = layer()
+    for k in range(18):
+        a = k / 18 * math.tau
+        d.polygon([(CX, 900), (CX + math.cos(a) * 1600, 900 + math.sin(a) * 1600), (CX + math.cos(a + 0.17) * 1600, 900 + math.sin(a + 0.17) * 1600)], fill=(255, 240, 200, 40))
+    over(img, lay)
+    return vignette(grain(img, 14, 5), 1.0)
+
+
+def dyn_cup(img, d, now, prog, end, S):
+    rnd = random.Random(int(now * 12))
+    for _ in range(3):
+        x = rnd.randrange(0, W)
+        d.line([(x, 0), (x + rnd.randrange(-6, 6), H)], fill=(70, 50, 30), width=rnd.choice([1, 2]))
+    for _ in range(4):
+        x, y, r = rnd.randrange(0, W), rnd.randrange(0, H), rnd.randrange(2, 6)
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(40, 28, 16))
+    paste(img, text_img(f"REEL {1 + int(prog * 9)}", "Limelight-Regular.ttf", 40, "#2a1a0c", 0, "#000000"), 900, 198)
+
+
+def panel_cup(w, h, kind="main"):
+    im, d = _panel(w, h, (250, 238, 210, 245), (42, 26, 12, 255), 7, 26, (10, 12, (60, 36, 10, 120)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 14, PM + 14, PM + w - 14, PM + h - 14], 18, outline=(190, 40, 30, 255), width=3)
+    return im
+
+
+# ================================================================ STARDEW VALLEY: warm farm, fences and crops
+def static_stardew():
+    img = vgrad("#8fd3ff", "#ffe8b0")
+    lay, d = layer()
+    d.ellipse([-300, 1380, 700, 1800], fill=(120, 190, 80, 255))
+    d.ellipse([400, 1360, 1500, 1820], fill=(104, 176, 70, 255))
+    d.rectangle([0, 1600, W, H], fill=(150, 108, 64, 255))
+    for y in range(1640, H, 70):
+        for x in range(40, W, 90):
+            d.rectangle([x, y, x + 50, y + 40], fill=(120, 84, 48, 255))
+            d.polygon([(x + 25, y - 30), (x + 10, y + 5), (x + 40, y + 5)], fill=(92, 184, 74, 255))
+    for x in range(0, W, 120):
+        d.rectangle([x + 50, 1520, x + 66, 1610], fill=(196, 150, 96, 255))
+    d.rectangle([0, 1540, W, 1556], fill=(196, 150, 96, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_stardew(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(10, 17):
+        x = ((a + now * (0.03 + c * 0.03)) % 1.1) * W - 50
+        y = 300 + b * 1000 + math.sin(now * 3 + a * 9) * 20
+        d.ellipse([x - 8, y - 5, x + 8, y + 5], fill=(255, 214, 120))
+    day = ["SPRING", "SUMMER", "FALL", "WINTER"][min(3, int(prog * 3.999))]
+    paste(img, text_img(f"{day} {1 + int(prog * 27) % 28}", "Chewy-Regular.ttf", 44, "#ffffff", 5, "#5a3a1a"), 880, 198)
+
+
+def panel_stardew(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 226, 160, 248), (110, 60, 24, 255), 8, 14, (10, 12, (60, 30, 10, 110)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 12, PM + 12, PM + w - 12, PM + h - 12], 10, outline=(200, 130, 60, 255), width=4)
+    return im
+
+
+# ================================================================ POPPY PLAYTIME: dark toy factory, conveyor and grabpack colors
+def static_poppy():
+    img = radial("#1d2a3c", "#05070c", CX, 900, 1250)
+    lay, d = layer()
+    for x in range(0, W, 180):
+        d.rectangle([x + 20, 240, x + 40, H], fill=(30, 40, 56, 200))
+    d.rectangle([0, 1640, W, 1700], fill=(40, 46, 60, 255))
+    for x in range(0, W, 60):
+        d.line([(x, 1640), (x + 30, 1700)], fill=(255, 196, 0, 120), width=8)
+    over(img, lay)
+    return vignette(grain(img, 10, 4), 0.95)
+
+
+def dyn_poppy(img, d, now, prog, end, S):
+    off = (now * 160) % 220
+    for k in range(7):
+        x = -120 + off + k * 220
+        col = [(40, 120, 255), (230, 40, 50), (255, 196, 0)][k % 3]
+        d.rounded_rectangle([x, 1560, x + 90, 1640], 14, fill=col, outline=(10, 10, 14), width=5)
+    if int(now * 1.3) % 3:
+        d.ellipse([90, 300, 110, 320], fill=(255, 60, 60))
+    paste(img, text_img(f"TOYS {int(prog * 100)}%", "SairaStencilOne-Regular.ttf", 38, "#ffffff", 4, "#05070c"), 900, 198)
+
+
+def panel_poppy(w, h, kind="main"):
+    im, d = _panel(w, h, (14, 20, 32, 240), (60, 130, 255, 255), 6, 16, (10, 12, (0, 0, 0, 140)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 10, PM + h - 20, PM + w - 10, PM + h - 10], 4, fill=(230, 40, 50, 255))
+    return im
+
+
 # control: floating black blocks drift behind the content, so small text sits on its own black plate
 _t = THEMES["control"]["text"]["small"]
 THEMES["control"]["text"]["small"] = (_t[0], _t[1], "#ffffff", 0, _t[4], None, "#000000")
@@ -1299,4 +1461,22 @@ THEMES.update({
     "subway": dict(case="upper", static=static_subway, dyn=dyn_subway, panel=panel_subway, flash="#ff8c00", tag_col="#ffd23f", frame=("#1a1a2e", 8),
                    text=roles("Bangers-Regular.ttf", "BarlowCondensed-ExtraBold.ttf", "#ffffff", "#ffd23f", "#ffffff", "#1a1a2e", "#ff6a00", "#4a4a5e", stroke=0.08, sfill="#1a1a2e"),
                    cap=dict(font="Bangers-Regular.ttf", size=100, fill="#ffffff", hi="#ffd23f", stroke="#1a1a2e")),
+})
+
+THEMES.update({
+    "hk": dict(case="upper", static=static_hk, dyn=dyn_hk, panel=panel_hk, flash="#ffffff", tag_col="#e05060", frame=("#e8e4d6", 6),
+               text=roles("Cinzel[wght].ttf", "Marcellus-Regular.ttf", "#f1ece0", "#e05060", "#cfd6e6", "#f1ece0", "#e05060", "#a9b2c6", stroke=0.04, sfill="#05070c", wb=800),
+               cap=dict(font="Cinzel[wght].ttf", size=84, wght=800, fill="#ffffff", hi="#ff6b7a", stroke="#05070c")),
+    "terra": dict(case="upper", static=static_terra, dyn=dyn_terra, panel=panel_terra, flash="#ffd23f", tag_col="#7dff5c", frame=("#0e1228", 8),
+                  text=roles("ArchivoBlack-Regular.ttf", "Nunito[wght].ttf", "#ffffff", "#ffd23f", "#ffffff", "#ffffff", "#7dff5c", "#c4cdf0", stroke=0.08, sfill="#14182c", ws=900),
+                  cap=dict(font="ArchivoBlack-Regular.ttf", size=86, fill="#ffffff", hi="#ffd23f", stroke="#14182c")),
+    "cup": dict(case="upper", static=static_cup, dyn=dyn_cup, panel=panel_cup, flash="#fff4d6", tag_col="#ffd27a", frame=("#2a1a0c", 8),
+                text=roles("Limelight-Regular.ttf", "CrimsonText-Bold.ttf", "#2a1a0c", "#c0281e", "#4a3420", "#2a1a0c", "#c0281e", "#6a5038", stroke=0.0),
+                cap=dict(font="Limelight-Regular.ttf", size=88, fill="#2a1a0c", hi="#c0281e", stroke="#fff4d6")),
+    "stardew": dict(case="upper", static=static_stardew, dyn=dyn_stardew, panel=panel_stardew, flash="#fff6d0", tag_col="#ffd27a", frame=("#6e3c18", 8),
+                    text=roles("Chewy-Regular.ttf", "Baloo2[wght].ttf", "#ffffff", "#ffe066", "#fff6e0", "#5a3a1a", "#2e8b3a", "#7a5a3a", stroke=0.08, sfill="#5a3a1a", ws=800),
+                    cap=dict(font="Chewy-Regular.ttf", size=96, fill="#ffffff", hi="#ffe066", stroke="#5a3a1a")),
+    "poppy": dict(case="upper", static=static_poppy, dyn=dyn_poppy, panel=panel_poppy, flash="#3c82ff", tag_col="#ffc400", frame=("#3c82ff", 7),
+                  text=roles("SairaStencilOne-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#ffc400", "#c8d4ec", "#ffffff", "#ff4a50", "#9aa8c4", stroke=0.05, sfill="#05070c"),
+                  cap=dict(font="SairaStencilOne-Regular.ttf", size=88, fill="#ffffff", hi="#ffc400", stroke="#05070c")),
 })

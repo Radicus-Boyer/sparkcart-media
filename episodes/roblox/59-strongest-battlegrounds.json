@@ -1,0 +1,172 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 59,
+ "slug": "59-strongest-battlegrounds",
+ "file": "59 The Strongest Battlegrounds (30s).mp4",
+ "target": 30,
+ "accent": "#ffca28",
+ "bpm": 140,
+ "root": 55,
+ "lines": [
+  {
+   "t": "The Strongest Battlegrounds is a Roblox fighting game, inspired by One Punch Man.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "STRONGEST\nBATTLEGROUNDS",
+    "sub": "INSPIRED BY ONE PUNCH MAN",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-sparring.jpg",
+     "label": "REAL-LIFE SPARRING",
+     "credit": "Photo: Carlos Saavedra, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 100,
+    "ss": 48
+   }
+  },
+  {
+   "t": "You pick a hero and battle everyone else in an open arena. No teams. Combos and counters decide who wins.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "ONE ARENA",
+    "sub": "COMBOS AND COUNTERS",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "run",
+      "c": "b",
+      "to": [
+       -0.4,
+       0.8
+      ]
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "run",
+      "c": "k",
+      "to": [
+       0.4,
+       0.8
+      ]
+     }
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 540,
+      "y": 780,
+      "s": 140,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "It was made by a studio called Yielding Arts, and launched in August 2022.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "YIELDING ARTS",
+    "sub": "AUGUST 2022",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trackers say it has passed 19 billion visits, and hit about a million players at once this May.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 19,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Who's your main? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "WHO'S YOUR\nMAIN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -84,6 +84,11 @@ STYLES.update({
     # driving electro
     "ut": dict(STYLES["swr"], bpm=120, root=50, scale="minor", prog=[0, 5, 3, 4]),
     "subway": dict(STYLES["swr"], bpm=128, root=55, scale="major", prog=[0, 4, 5, 3]),
+    "hk": dict(STYLES["dandy"], bpm=84, root=45, scale="minor", prog=[0, 5, 3, 4]),
+    "terra": dict(STYLES["swr"], bpm=124, root=52, scale="major", prog=[0, 5, 3, 4]),
+    "cup": dict(STYLES["swr"], bpm=150, root=55, scale="major", prog=[0, 3, 4, 0]),
+    "stardew": dict(STYLES["swr"], bpm=100, root=57, scale="major", prog=[0, 3, 5, 4]),
+    "poppy": dict(STYLES["dandy"], bpm=100, root=40, scale="minor", prog=[0, 6, 5, 3]),
     "fnaf": dict(STYLES["dandy"], bpm=88, root=36, scale="minor", prog=[0, 3, 5, 6]),
     "gdash": dict(STYLES["swr"], bpm=140, root=40, scale="minor", prog=[0, 5, 2, 6]),
     # sneaky

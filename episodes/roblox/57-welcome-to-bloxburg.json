@@ -1,0 +1,416 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 57,
+ "slug": "57-welcome-to-bloxburg",
+ "file": "57 Welcome to Bloxburg (70s).mp4",
+ "target": 70,
+ "accent": "#66bb6a",
+ "bpm": 122,
+ "root": 60,
+ "pron": {
+  "Coeptus": "Co-ep-tus",
+  "Bloxburg": "Blocks burg",
+  "Robux": "Row-bucks"
+ },
+ "lines": [
+  {
+   "t": "Welcome to Bloxburg started with just 20 players, and its creator was a university student.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "WELCOME TO\nBLOXBURG",
+    "sub": "IT STARTED WITH 20 PLAYERS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-house.jpg",
+     "label": "A REAL SUBURBAN HOUSE",
+     "credit": "Photo: T. W. Collins, CC BY 4.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 104,
+    "ss": 48
+   }
+  },
+  {
+   "t": "It's a life game inspired by The Sims. You build a house, get a job, and live your Roblox life.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "LIKE THE SIMS",
+    "sub": "BUILD. WORK. LIVE.",
+    "bs": 120,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.0
+      ],
+      "a": "walk",
+      "c": "a",
+      "to": [
+       0.2,
+       0.4
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "Jobs like pizza delivery and hairdresser pay you in-game money for your next upgrade.",
+   "sc": {
+    "bg": "mint",
+    "ground": "road",
+    "big": "GET A JOB",
+    "sub": "PIZZA DELIVERY, HAIRDRESSER",
+    "bs": 150,
+    "ss": 48,
+    "props": [
+     [
+      "car",
+      -1.6,
+      -0.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.2
+      ],
+      "a": "bob",
+      "c": "c",
+      "hat": "#ff7043"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Its creator goes by Coeptus. He had no game making experience before Roblox.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "COEPTUS",
+    "sub": "NO EXPERIENCE BEFORE ROBLOX",
+    "bs": 160,
+    "ss": 48,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "He published it under a completely unknown name, with no ads, and waited.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "NO ADS",
+    "sub": "JUST WAITING",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Day one had about 20 players. Then 50, then 100, then 200.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "sub": "PLAYERS, EARLY DAYS",
+    "count": {
+     "from": 20,
+     "to": 200,
+     "fmt": "{:.0f}"
+    },
+    "bs": 200,
+    "crowd": {
+     "n": 10,
+     "appear": 1.0
+    }
+   }
+  },
+  {
+   "t": "A few weeks later, thousands were playing, thanks to YouTube videos.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "THOUSANDS",
+    "sub": "THANKS TO YOUTUBE",
+    "rays": "#ffffff",
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "For years, it cost 25 Robux to get in.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "25 ROBUX",
+    "sub": "THE PRICE TO PLAY",
+    "rays": "#ffffff",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Coeptus said the money helped pay for his university studies.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "COLLEGE\nFUND",
+    "sub": "PAID BY BLOXBURG",
+    "bs": 130,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6,
+      {
+       "c": "#90caf9"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.2
+      ],
+      "a": "cheer",
+      "c": "b",
+      "hat": "#212121"
+     }
+    ]
+   }
+  },
+  {
+   "t": "At one point, about 300,000 different people played it every day.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYERS EVERY DAY",
+    "rays": "#ffffff",
+    "count": {
+     "to": 300000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 0.7
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In 2023, the game was bought by Embracer Group, a huge video game company.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "SOLD",
+    "sub": "TO EMBRACER GROUP, 2023",
+    "bs": 200,
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 850,
+      "s": 160,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then on June 15th, 2024, Bloxburg finally became free to play.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "FREE!",
+    "sub": "SINCE JUNE 15, 2024",
+    "rays": "#ffffff",
+    "bs": 230,
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It was even used at a summer camp to teach kids how houses are built.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "SUMMER CAMP",
+    "sub": "LEARNING TO BUILD HOUSES",
+    "bs": 124,
+    "ss": 48,
+    "props": [
+     [
+      "house",
+      -2.4,
+      -2.4,
+      {
+       "c": "#ffcc80"
+      }
+     ],
+     [
+      "crate",
+      1.2,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.2
+      ],
+      "a": "bob",
+      "c": "f",
+      "s": 0.4
+     }
+    ]
+   }
+  },
+  {
+   "t": "What's the best house you ever built? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "BEST HOUSE\nYOU BUILT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

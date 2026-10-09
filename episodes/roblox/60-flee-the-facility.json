@@ -1,0 +1,190 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 60,
+ "slug": "60-flee-the-facility",
+ "file": "60 Flee the Facility (30s).mp4",
+ "target": 30,
+ "accent": "#4dd0e1",
+ "bpm": 118,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "A.W.": "A W"
+ },
+ "lines": [
+  {
+   "t": "In Flee the Facility, one player is the Beast, and everyone else has to hack their way out.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "FLEE THE\nFACILITY",
+    "sub": "HACK. RUN. ESCAPE.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-computer-lab.jpg",
+     "label": "REAL COMPUTERS, LESS SCARY",
+     "credit": "Photo: Todd Huffman, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 116,
+    "ss": 48,
+    "vig": false
+   }
+  },
+  {
+   "t": "Up to four survivors hack computers, then escape through one of two exits. Hacking takes time, so the team has to split up.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "HACK 'EM ALL",
+    "sub": "THEN FIND AN EXIT",
+    "bs": 130,
+    "vig": true,
+    "ic": [
+     {
+      "n": "code",
+      "x": 300,
+      "y": 840,
+      "s": 140,
+      "a": "flicker"
+     },
+     {
+      "n": "tv",
+      "x": 820,
+      "y": 840,
+      "s": 140,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "bob",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The Beast knocks players out and freezes them in pods. Teammates can free you, if they're brave enough.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "THE BEAST",
+    "sub": "KNOCKS YOU OUT. FREEZES YOU.",
+    "bc": "#ffffff",
+    "bs": 170,
+    "ss": 48,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -3.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "k",
+      "to": [
+       -0.4,
+       0.8
+      ],
+      "face": "mean",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.0,
+       0.9
+      ],
+      "a": "run",
+      "c": "c",
+      "to": [
+       3.4,
+       0.9
+      ],
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "red",
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "It was made by A.W. Apps, and passed 3 billion visits in April 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "VISITS BY APRIL 2022",
+    "count": {
+     "to": 3,
+     "fmt": "{:.0f} BILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 16,
+     "appear": 0.7
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Beast, or survivor? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "BEAST OR\nSURVIVOR?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

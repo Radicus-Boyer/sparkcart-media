@@ -1,0 +1,527 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 58,
+ "slug": "58-rainbow-friends",
+ "file": "58 Rainbow Friends (70s).mp4",
+ "target": 70,
+ "accent": "#42a5f5",
+ "bpm": 110,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "Charcle": "Char-kul",
+  "Frizzle": "Frizzle"
+ },
+ "lines": [
+  {
+   "t": "In Rainbow Friends, your only hiding spot is a cardboard box.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "RAINBOW\nFRIENDS",
+    "sub": "HIDE IN A BOX. DON'T MOVE.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-boxes.jpg",
+     "label": "YOUR ONLY HIDING SPOT",
+     "credit": "Photo: Lordcolus, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 116,
+    "ss": 48,
+    "vig": false
+   }
+  },
+  {
+   "t": "It's a Roblox horror game that starts as a school field trip, then goes very wrong. You collect items while colorful monsters hunt you.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "FIELD TRIP\nGONE WRONG",
+    "sub": "COLLECT ITEMS. SURVIVE.",
+    "bs": 110,
+    "props": [
+     [
+      "crate",
+      -1.8,
+      -1.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -2.6,
+       0.6
+      ],
+      "a": "walk",
+      "c": [
+       "#90caf9",
+       "#1e88e5",
+       "#0d47a1"
+      ],
+      "to": [
+       -0.6,
+       0.6
+      ],
+      "s": 0.62,
+      "face": "mean"
+     },
+     {
+      "p": [
+       1.8,
+       1.4
+      ],
+      "a": "run",
+      "c": "c",
+      "to": [
+       3.4,
+       1.4
+      ],
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "One critic called it a horror themed Miss Frizzle field trip.",
+   "sc": {
+    "bg": "dark",
+    "ground": "purple",
+    "big": "MAGIC SCHOOL\nBUS... HORROR?",
+    "sub": "WHAT ONE CRITIC SAID",
+    "bs": 100,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Each night, you have to find a set of items before the monsters find you. If one spots you, break its line of sight and hide in your box.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "FIND THE\nITEMS",
+    "sub": "THEN HIDE IN YOUR BOX",
+    "bs": 120,
+    "props": [
+     [
+      "crate",
+      -1.6,
+      -1.4
+     ],
+     [
+      "crate",
+      0.6,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       2.4,
+       1.2
+      ],
+      "a": "sneak",
+      "c": "c",
+      "to": [
+       0.4,
+       1.2
+      ],
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 840,
+      "s": 120,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Blue is slow, until he spots you. Then he speeds up.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "BLUE",
+    "sub": "SLOW... UNTIL HE SEES YOU",
+    "bc": "#42a5f5",
+    "bs": 200,
+    "ss": 48,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -3.0,
+       0.8
+      ],
+      "a": "run",
+      "c": [
+       "#90caf9",
+       "#1e88e5",
+       "#0d47a1"
+      ],
+      "to": [
+       -0.6,
+       0.8
+      ],
+      "s": 0.62,
+      "face": "mean"
+     },
+     {
+      "p": [
+       0.8,
+       0.9
+      ],
+      "a": "run",
+      "c": "c",
+      "to": [
+       3.2,
+       0.9
+      ],
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Green was completely blind in chapter one. In chapter two, he can see a little.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "GREEN",
+    "sub": "BLIND, THEN NOT QUITE",
+    "bc": "#66bb6a",
+    "bs": 200,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       0.2,
+       0.4
+      ],
+      "a": "walk",
+      "c": [
+       "#a5d6a7",
+       "#43a047",
+       "#1b5e20"
+      ],
+      "to": [
+       1.2,
+       0.4
+      ],
+      "s": 0.62,
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 840,
+      "s": 150,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Purple lurks in a foggy maze. Stand on the mud mounds, and he can't catch you.",
+   "sc": {
+    "bg": "dark",
+    "ground": "purple",
+    "big": "PURPLE",
+    "sub": "STAND ON THE MUD MOUNDS",
+    "bc": "#ab47bc",
+    "bs": 200,
+    "ss": 48,
+    "vig": true,
+    "fx": [
+     "fireflies"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.4
+      ],
+      "a": "sneak",
+      "c": [
+       "#ce93d8",
+       "#8e24aa",
+       "#4a148c"
+      ],
+      "s": 0.6,
+      "face": "mean"
+     },
+     {
+      "p": [
+       1.6,
+       1.4
+      ],
+      "a": "idle",
+      "c": "c",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Yellow is the only one that flies. He grabs you and carries you into the sky.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "YELLOW",
+    "sub": "THE ONE THAT FLIES",
+    "bc": "#ffd54f",
+    "bs": 200,
+    "ic": [
+     {
+      "n": "star",
+      "x": 540,
+      "y": 760,
+      "s": 120,
+      "a": "float"
+     },
+     {
+      "n": "moon",
+      "x": 880,
+      "y": 700,
+      "s": 110,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "jump",
+      "c": "c",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Cyan is the fastest, and she can see your box move. So stay perfectly still.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "CYAN",
+    "sub": "STAY. PERFECTLY. STILL.",
+    "bc": "#4dd0e1",
+    "bs": 200,
+    "ss": 48,
+    "vig": true,
+    "props": [
+     [
+      "crate",
+      -0.6,
+      -0.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -3.2,
+       1.6
+      ],
+      "a": "run",
+      "c": [
+       "#b2ebf2",
+       "#00acc1",
+       "#006064"
+      ],
+      "to": [
+       3.2,
+       1.6
+      ],
+      "s": 0.6,
+      "face": "mean"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Orange only shows up briefly near the end of chapter two, while you ride a train.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "ORANGE",
+    "sub": "A SHORT TRAIN RIDE CAMEO",
+    "bc": "#ffa726",
+    "bs": 200,
+    "ss": 48,
+    "props": [
+     [
+      "car",
+      -1.0,
+      -0.4,
+      {
+       "c": "#ffa726"
+      }
+     ]
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "And Red, the main villain, only appears in cutscenes.",
+   "sc": {
+    "bg": "red",
+    "ground": "red",
+    "big": "RED",
+    "sub": "ONLY IN CUTSCENES",
+    "bc": "#ffffff",
+    "bs": 220,
+    "vig": true,
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by a studio called Roy and Charcle.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "ROY &\nCHARCLE",
+    "sub": "THE STUDIO BEHIND IT",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       -0.9,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.9,
+       0.8
+      ],
+      "a": "wave",
+      "c": "d"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Chapter one came out in July 2022, and chapter two arrived in June 2023.",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "CHAPTER 2",
+    "sub": "JULY 2022, THEN JUNE 2023",
+    "bs": 170,
+    "ss": 48,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Which Rainbow Friend scares you most? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "SCARIEST\nFRIEND?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

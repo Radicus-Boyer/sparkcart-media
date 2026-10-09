@@ -1,0 +1,204 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 30,
+ "theme": "hk",
+ "game": "Hollow Knight: Silksong",
+ "target": 70,
+ "pron": {
+  "Silksong": "Silk song",
+  "Hallownest": "Hallow nest"
+ },
+ "lines": [
+  {
+   "t": "Hollow Knight Silksong took so long, a YouTube channel posted daily news about it for almost 1,700 days.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop6-hornet.jpg",
+    "big": [
+     "SILKSONG",
+     "*1,693 DAYS OF WAITING"
+    ],
+    "label": "A REAL HORNET",
+    "credit": "Photo: neil.dalphin, CC0",
+    "size": 92
+   }
+  },
+  {
+   "t": "Silksong started as extra content for Hollow Knight, where you'd play as Hornet.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "IT WAS",
+     "*JUST DLC"
+    ],
+    "icon": "puzzle-piece",
+    "sub": "a Kickstarter stretch goal: play as Hornet"
+   }
+  },
+  {
+   "t": "But it grew too big, so the tiny team at Team Cherry turned it into a whole new game.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TOO BIG",
+     "*FOR DLC"
+    ],
+    "size": 130,
+    "icon": "users",
+    "sub": "Team Cherry never grew the team"
+   }
+  },
+  {
+   "t": "You play as Hornet, a fan favorite from the first game, in a brand new land called Pharloom.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "HORNET",
+     "*IN PHARLOOM"
+    ],
+    "size": 124,
+    "icon": "bug",
+    "sub": "a new kingdom to explore"
+   },
+   "say": "You play as Hornet, a fan favorite from the first game, in a brand new land called Far-loom."
+  },
+  {
+   "t": "It was announced on Valentine's Day 2019.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "FEB 14, 2019"
+    ],
+    "size": 120,
+    "icon": "heart",
+    "sub": "the announcement"
+   }
+  },
+  {
+   "t": "Then fans waited. And waited. A delay in 2023 made it worse.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "DELAYED"
+    ],
+    "icon": "hourglass-half",
+    "sub": "May 2023"
+   }
+  },
+  {
+   "t": "Fans turned the wait into memes, with clown pictures and the Daily Silksong News channel.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "face-laugh-squint",
+      "CLOWN MEMES"
+     ],
+     [
+      "video",
+      "DAILY SILKSONG NEWS"
+     ],
+     [
+      "ban",
+      "BAN SACRIFICES"
+     ]
+    ],
+    "head": "THE WAIT, AS MEMES"
+   }
+  },
+  {
+   "t": "The release date was revealed just two weeks before launch: September 4th, 2025.",
+   "sc": {
+    "kind": "stat",
+    "val": "2 WEEKS",
+    "label": "OF WARNING",
+    "sub": "release: September 4, 2025",
+    "icon": "calendar-days"
+   }
+  },
+  {
+   "t": "On launch day, Steam and other stores crashed.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "STORES",
+     "*CRASHED"
+    ],
+    "icon": "server",
+    "sub": "launch day"
+   }
+  },
+  {
+   "t": "Over 500,000 people played it on Steam on day one.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     500000,
+     "{:,.0f}+"
+    ],
+    "label": "PLAYERS ON STEAM, DAY ONE",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Five million people played in the first three days.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "5 MILLION",
+    "label": "PLAYERS IN 3 DAYS",
+    "sub": "Steam, Xbox Game Pass and more",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "By December, it had sold over seven million copies.",
+   "sc": {
+    "kind": "stat",
+    "val": "7M+",
+    "label": "COPIES SOLD",
+    "sub": "by December 2025",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "It won Best Action Adventure at The Game Awards, and Game of the Year at the Steam Awards.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "trophy",
+      "THE GAME AWARDS"
+     ],
+     [
+      "award",
+      "STEAM GAME OF THE YEAR"
+     ]
+    ],
+    "head": "AWARDS"
+   }
+  },
+  {
+   "t": "It also won the Steam award for Best Game You Suck At.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BEST GAME",
+     "*YOU SUCK AT"
+    ],
+    "size": 124,
+    "icon": "face-dizzy",
+    "sub": "a real Steam Award"
+   }
+  },
+  {
+   "t": "Did you beat Silksong? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "DID YOU BEAT IT?"
+   }
+  }
+ ],
+ "file": "30 - Silksong (70s).mp4"
+}

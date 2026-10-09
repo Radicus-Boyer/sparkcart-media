@@ -1,0 +1,79 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 33,
+ "theme": "stardew",
+ "game": "Stardew Valley",
+ "target": 30,
+ "pron": {
+  "Barone": "Bar-own"
+ },
+ "lines": [
+  {
+   "t": "Stardew Valley was made by one person, and it has sold over 50 million copies.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop6-farm.jpg",
+    "big": [
+     "STARDEW VALLEY",
+     "*MADE BY ONE PERSON"
+    ],
+    "label": "A REAL FARM AT SUNRISE",
+    "credit": "Photo: Charles Knowles, CC BY 2.0",
+    "size": 84
+   }
+  },
+  {
+   "t": "Eric Barone did the code, art, music and sound alone, for five years. One ranking even named it the best game for reducing stress.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "5 YEARS",
+     "*ALONE"
+    ],
+    "icon": "user",
+    "sub": "code, art, music and sound"
+   }
+  },
+  {
+   "t": "It was almost called Sprout Valley, and it was inspired by Harvest Moon.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SPROUT",
+     "*VALLEY"
+    ],
+    "icon": "seedling",
+    "sub": "the original name"
+   }
+  },
+  {
+   "t": "It sold a million copies in two months. There are 12 villagers you can marry, and fans have made over 30,000 mods.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "chart-line",
+      "1M SOLD IN 2 MONTHS"
+     ],
+     [
+      "ring",
+      "12 MARRIAGE OPTIONS"
+     ],
+     [
+      "puzzle-piece",
+      "30,000+ MODS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Who did you marry? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "WHO DID YOU MARRY?"
+   }
+  }
+ ],
+ "file": "33 - Stardew Valley (30s).mp4"
+}

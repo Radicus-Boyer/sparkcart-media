@@ -1,0 +1,172 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 61,
+ "slug": "61-meepcity",
+ "file": "61 MeepCity (30s).mp4",
+ "target": 30,
+ "accent": "#4fc3f7",
+ "bpm": 124,
+ "root": 62,
+ "pron": {
+  "MeepCity": "Meep City",
+  "Meeps": "Meeps",
+  "Binello": "Bin-ello"
+ },
+ "lines": [
+  {
+   "t": "MeepCity was the first Roblox game ever to reach one billion visits.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "MEEPCITY",
+    "sub": "THE FIRST TO 1 BILLION",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-penguin.jpg",
+     "label": "CLUB PENGUIN VIBES",
+     "credit": "Photo: Mike Weston, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 140
+   }
+  },
+  {
+   "t": "It's a hangout game with pets called Meeps, often compared to Club Penguin.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "MEEPS",
+    "sub": "PETS + HANGOUTS",
+    "bs": 190,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6,
+      {
+       "c": "#4fc3f7"
+      }
+     ]
+    ],
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       0.6,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#4fc3f7",
+      "s": 0.8
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       1.8,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In July 2018, it averaged 100,000 players at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYERS AT ONCE, JULY 2018",
+    "rays": "#ffffff",
+    "count": {
+     "to": 100000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Its creator, Alex Binello, said it earned enough to pay two employees and support his family. He even tested updates on secret alt accounts.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "FAMILY\nBUSINESS",
+    "sub": "PAID 2 EMPLOYEES",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "bob",
+      "c": "w"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Did you ever have a Meep? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "DID YOU HAVE\nA MEEP?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

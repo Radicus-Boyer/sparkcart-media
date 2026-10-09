@@ -1,0 +1,187 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 32,
+ "theme": "cup",
+ "game": "Cuphead",
+ "target": 70,
+ "pron": {
+  "Moldenhauer": "Mold-en-hower",
+  "Fleischer": "Fly-sher"
+ },
+ "lines": [
+  {
+   "t": "Cuphead looks like a cartoon from the 1930s, and every frame was drawn by hand.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop6-teacup.jpg",
+    "big": [
+     "CUPHEAD",
+     "*EVERY FRAME BY HAND"
+    ],
+    "label": "A REAL CUP. NO HEAD.",
+    "credit": "Photo: The Met, CC0",
+    "size": 90
+   }
+  },
+  {
+   "t": "It was made by two Canadian brothers, Chad and Jared Moldenhauer.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TWO",
+     "*BROTHERS"
+    ],
+    "icon": "users",
+    "sub": "Chad and Jared Moldenhauer, Canada"
+   }
+  },
+  {
+   "t": "Chad hand drew the animation, and painted the backgrounds in watercolor.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "paintbrush",
+      "HAND-DRAWN ANIMATION"
+     ],
+     [
+      "palette",
+      "WATERCOLOR BACKGROUNDS"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "The style copies 1930s cartoons, especially Fleischer Studios, the makers of Betty Boop and Popeye.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "1930s",
+     "*CARTOONS"
+    ],
+    "icon": "film",
+    "sub": "inspired by Fleischer Studios"
+   }
+  },
+  {
+   "t": "The little mistakes were left in on purpose, to look like real old film.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MISTAKES",
+     "*ON PURPOSE"
+    ],
+    "size": 124,
+    "icon": "brush",
+    "sub": "to look like old film"
+   }
+  },
+  {
+   "t": "The game runs at 60 frames per second, but the animation runs at 24, just like old movies.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "GAME",
+     "60 FPS",
+     "smooth controls"
+    ],
+    "right": [
+     "ANIMATION",
+     "24 FPS",
+     "like old film"
+    ]
+   }
+  },
+  {
+   "t": "Development started in 2010, and took seven years.",
+   "sc": {
+    "kind": "stat",
+    "val": "7 YEARS",
+    "label": "TO MAKE",
+    "sub": "2010 to 2017",
+    "icon": "hourglass-half"
+   }
+  },
+  {
+   "t": "To pay for it, the brothers remortgaged their house.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THEY BET",
+     "*THE HOUSE"
+    ],
+    "size": 124,
+    "icon": "house-crack",
+    "sub": "they remortgaged it"
+   }
+  },
+  {
+   "t": "It's almost all boss fights, and it's famous for being hard. One critic called it tough but fair.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TOUGH",
+     "*BUT FAIR"
+    ],
+    "icon": "skull",
+    "sub": "nearly all boss fights"
+   }
+  },
+  {
+   "t": "It sold over a million copies in two weeks, and six million by 2020.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "6 MILLION",
+    "label": "COPIES BY JULY 2020",
+    "sub": "1 million in the first two weeks",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "It won three Game Awards, including Best Independent Game.",
+   "sc": {
+    "kind": "stat",
+    "size": 220,
+    "val": "3",
+    "label": "GAME AWARDS",
+    "sub": "including Best Independent Game",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "In 2022, it got a Netflix cartoon, The Cuphead Show.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE CUPHEAD",
+     "*SHOW"
+    ],
+    "size": 120,
+    "icon": "tv",
+    "sub": "Netflix, 2022"
+   }
+  },
+  {
+   "t": "That same year, the DLC The Delicious Last Course added a new hero, Ms. Chalice.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MS.",
+     "*CHALICE"
+    ],
+    "icon": "mug-hot",
+    "sub": "The Delicious Last Course, 2022"
+   }
+  },
+  {
+   "t": "Which boss beat you the most? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "TOUGHEST BOSS?"
+   }
+  }
+ ],
+ "file": "32 - Cuphead (70s).mp4"
+}
