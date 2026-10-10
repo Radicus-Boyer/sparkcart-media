@@ -1,0 +1,85 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 39,
+ "theme": "baldi",
+ "game": "Baldi's Basics",
+ "target": 30,
+ "pron": {
+  "McGonigal": "Mc-Gonna-gull",
+  "Markiplier": "Mark-iplier"
+ },
+ "lines": [
+  {
+   "t": "Baldi's Basics looks like a 90s learning game, but it's actually a horror game.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop7-school.jpg",
+    "big": [
+     "BALDI'S BASICS",
+     "*IT'S A HORROR GAME"
+    ],
+    "label": "A REAL OLD CLASSROOM",
+    "credit": "Photo: State Library of Queensland, public domain",
+    "size": 88
+   }
+  },
+  {
+   "t": "Collect seven notebooks and escape, while Baldi asks you math questions.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "7",
+     "*NOTEBOOKS"
+    ],
+    "size": 150,
+    "icon": "book",
+    "sub": "then escape"
+   }
+  },
+  {
+   "t": "Get one wrong, and he gets faster, smacking his ruler as he comes for you.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "WRONG",
+     "*ANSWER"
+    ],
+    "size": 140,
+    "icon": "ruler",
+    "sub": "he gets faster"
+   }
+  },
+  {
+   "t": "It was made by Micah McGonigal for a game jam, where it placed second.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "2ND PLACE"
+    ],
+    "size": 130,
+    "icon": "award",
+    "sub": "Meta Game Jam"
+   }
+  },
+  {
+   "t": "Markiplier's video of it got over a million views in a day.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "1.2M",
+    "label": "VIEWS IN 24 HOURS",
+    "sub": "Markiplier's video",
+    "icon": "video"
+   }
+  },
+  {
+   "t": "Did you ever beat Baldi? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "DID YOU BEAT BALDI?"
+   }
+  }
+ ],
+ "file": "39 - Baldi's Basics (30s).mp4"
+}

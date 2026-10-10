@@ -89,6 +89,11 @@ STYLES.update({
     "cup": dict(STYLES["swr"], bpm=150, root=55, scale="major", prog=[0, 3, 4, 0]),
     "stardew": dict(STYLES["swr"], bpm=100, root=57, scale="major", prog=[0, 3, 5, 4]),
     "poppy": dict(STYLES["dandy"], bpm=100, root=40, scale="minor", prog=[0, 6, 5, 3]),
+    "balatro": dict(STYLES["swr"], bpm=104, root=41, scale="dorian", prog=[0, 3, 4, 0]),
+    "peak": dict(STYLES["dandy"], bpm=120, root=45, scale="major", prog=[0, 4, 5, 3]),
+    "lethal": dict(STYLES["dandy"], bpm=84, root=35, scale="minor", prog=[0, 1, 5, 0]),
+    "repo": dict(STYLES["swr"], bpm=116, root=40, scale="minor", prog=[0, 5, 6, 4]),
+    "baldi": dict(STYLES["dandy"], bpm=96, root=48, scale="major", prog=[0, 3, 4, 1]),
     "fnaf": dict(STYLES["dandy"], bpm=88, root=36, scale="minor", prog=[0, 3, 5, 6]),
     "gdash": dict(STYLES["swr"], bpm=140, root=40, scale="minor", prog=[0, 5, 2, 6]),
     # sneaky

@@ -1,0 +1,160 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 66,
+ "slug": "66-royale-high",
+ "file": "66 Royale High (30s).mp4",
+ "target": 30,
+ "accent": "#f48fb1",
+ "bpm": 118,
+ "root": 64,
+ "pron": {
+  "Callmehbob": "Call me bob"
+ },
+ "lines": [
+  {
+   "t": "Royale High is a Roblox school where you dress up as royalty, or a magical creature.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "ROYALE HIGH",
+    "sub": "A SCHOOL FOR ROYALTY",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-castle.jpg",
+     "label": "A REAL CASTLE",
+     "credit": "Photo: Wilfredor, CC0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 130
+   }
+  },
+  {
+   "t": "It's a role play game set in a fantasy school, with classes, dances, and huge outfits.",
+   "sc": {
+    "bg": "mint",
+    "ground": "purple",
+    "big": "FANTASY\nSCHOOL",
+    "sub": "CLASSES, DANCES, OUTFITS",
+    "bs": 130,
+    "ss": 46,
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "wave",
+      "c": "d",
+      "hat": "#ffd54f"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e",
+      "hat": "#f48fb1"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It was made by Callmehbob, and launched in 2017.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "CALLMEHBOB",
+    "sub": "LAUNCHED 2017",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "By October 2022, it had over 8.2 billion visits. That makes it one of the biggest role play games on Roblox.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "sub": "VISITS BY OCTOBER 2022",
+    "rays": "#ffffff",
+    "count": {
+     "to": 8.2,
+     "fmt": "{:.1f} BILLION"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your dream outfit? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "DREAM\nOUTFIT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

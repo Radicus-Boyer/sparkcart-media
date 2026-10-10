@@ -1,0 +1,178 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 65,
+ "slug": "65-hide-and-seek-extreme",
+ "file": "65 Hide and Seek Extreme (30s).mp4",
+ "target": 30,
+ "accent": "#ffa726",
+ "bpm": 124,
+ "root": 60,
+ "pron": {
+  "Tim7775": "Tim seventy seven seventy five"
+ },
+ "lines": [
+  {
+   "t": "In Hide and Seek Extreme, you're the size of a toy, hiding in a giant house.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "HIDE AND SEEK\nEXTREME",
+    "sub": "YOU'RE THE SIZE OF A TOY",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-doll.jpg",
+     "label": "A REAL 1600s DOLL HOUSE",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 100,
+    "ss": 48
+   }
+  },
+  {
+   "t": "One random player is It, and gets a special power to find everyone else.",
+   "sc": {
+    "bg": "red",
+    "ground": "wood",
+    "big": "YOU'RE IT",
+    "sub": "WITH A SPECIAL POWER",
+    "bc": "#ffffff",
+    "bs": 190,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "k",
+      "to": [
+       1.4,
+       0.8
+      ],
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Hiders can even taunt It, which is brave, or a really bad idea.",
+   "sc": {
+    "bg": "party",
+    "ground": "wood",
+    "big": "TAUNT!",
+    "sub": "BRAVE OR DUMB?",
+    "bs": 200,
+    "props": [
+     [
+      "crate",
+      -1.8,
+      -1.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 830,
+      "s": 130,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by Tim7775, and critics praised the creative maps and how easy it is to jump in.",
+   "sc": {
+    "bg": "mint",
+    "ground": "wood",
+    "big": "TIM7775",
+    "sub": "CREATIVE MAPS. EASY TO PLAY.",
+    "bs": 150,
+    "ss": 46,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Hider, or seeker? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "HIDER OR\nSEEKER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

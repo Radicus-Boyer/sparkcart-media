@@ -1,0 +1,482 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 62,
+ "slug": "62-animal-hospital",
+ "file": "62 Animal Hospital (70s).mp4",
+ "target": 70,
+ "accent": "#4dd0e1",
+ "bpm": 108,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "Harlow": "Har-low",
+  "RDC": "R D C"
+ },
+ "lines": [
+  {
+   "t": "Animal Hospital is a Roblox horror game. You work the night shift at a vet, and some patients aren't animals.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "ANIMAL\nHOSPITAL",
+    "sub": "SOME PATIENTS AREN'T ANIMALS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-vet.jpg",
+     "label": "A REAL CAT AT A REAL VET",
+     "credit": "Photo: Kathy Eastwood, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 48,
+    "vig": false
+   }
+  },
+  {
+   "t": "Up to four players work together. You treat patients, and check every visitor at the front desk.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NIGHT SHIFT",
+    "sub": "UP TO 4 PLAYERS",
+    "bs": 140,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6,
+      {
+       "c": "#e0f7fa"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": "a",
+      "hat": "#ffffff"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g",
+      "hat": "#ffffff"
+     }
+    ],
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       0.0,
+       1.4
+      ],
+      "a": "hop",
+      "c": "#ffffff",
+      "s": 0.7
+     }
+    ]
+   }
+  },
+  {
+   "t": "If a visitor looks wrong, you reject them. Let an anomaly in, and things get bad fast.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "ADMIT OR\nREJECT?",
+    "sub": "SPOT THE ANOMALY",
+    "bs": 124,
+    "vig": true,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "c",
+      "face": "o"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "face": "mean"
+     }
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 540,
+      "y": 760,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You also have to drink coffee to keep your sanity up.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "wood",
+    "big": "COFFEE =\nSANITY",
+    "sub": "DON'T SKIP IT",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 850,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You can be a doctor, a nurse, a surgeon, or even a secret agent.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "PICK A CLASS",
+    "sub": "DOCTOR, NURSE, SURGEON, AGENT",
+    "bs": 130,
+    "ss": 44,
+    "av": [
+     {
+      "p": [
+       -2.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a",
+      "hat": "#ffffff"
+     },
+     {
+      "p": [
+       -0.6,
+       1.0
+      ],
+      "a": "bob",
+      "c": "d"
+     },
+     {
+      "p": [
+       0.8,
+       1.0
+      ],
+      "a": "bob",
+      "c": "g"
+     },
+     {
+      "p": [
+       2.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "hat": "#212121"
+     }
+    ]
+   }
+  },
+  {
+   "t": "One monster, the Stalker, disguises itself as a patient at check-in. Just looking at it drains your sanity.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "THE STALKER",
+    "sub": "DON'T LOOK AT IT",
+    "bc": "#ffffff",
+    "bs": 150,
+    "vig": true,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "k",
+      "face": "mean",
+      "s": 0.7
+     }
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "At the end of the night, Dr. Harlow grades your shift.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "big": "DR. HARLOW",
+    "sub": "GRADES YOUR SHIFT",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w",
+      "hat": "#ffffff"
+     }
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And fans love the Head Nurse, a white cat who's all over fan art.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "HEAD NURSE",
+    "sub": "A WHITE CAT. FAN FAVORITE.",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ss": 46,
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "hop",
+      "c": "#ffffff",
+      "s": 1.0
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 820,
+      "s": 130,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It came out in May 2026, from Animal Anomaly. Updates drop almost every two weeks.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "ANIMAL\nANOMALY",
+    "sub": "UPDATES EVERY ~2 WEEKS",
+    "bs": 124,
+    "ss": 46,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The July update added Liz, a fired journalist who knows the truth about the outbreak.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "LIZ",
+    "sub": "SHE KNOWS THE TRUTH",
+    "bs": 220,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "e"
+     }
+    ],
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "After that, over 1.2 million people played at the same time.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "PLAYERS AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.2,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "A TikTok of the characters dancing got 9.4 million views. Trackers count over 2.4 billion visits.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 2.4,
+     "fmt": "{:.1f} BILLION+"
+    },
+    "bs": 124,
+    "crowd": {
+     "n": 20,
+     "appear": 0.8
+    },
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 800,
+      "s": 130,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "At RDC 2026, it won four awards, more than any other game that night.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "4 AWARDS",
+    "sub": "MOST OF THE NIGHT, RDC 2026",
+    "rays": "#ffffff",
+    "bs": 170,
+    "ss": 46,
+    "props": [
+     [
+      "trophy",
+      0.0,
+      -1.0
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Would you let this patient in? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "WOULD YOU LET\nTHEM IN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

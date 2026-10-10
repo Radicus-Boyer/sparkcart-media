@@ -1,0 +1,193 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 37,
+ "theme": "lethal",
+ "game": "Lethal Company",
+ "target": 70,
+ "pron": {
+  "Zeekerss": "Zeekers"
+ },
+ "lines": [
+  {
+   "t": "Lethal Company is a horror game about the worst job in the universe.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop7-factory.jpg",
+    "big": [
+     "LETHAL COMPANY",
+     "*THE WORST JOB EVER"
+    ],
+    "label": "A REAL ABANDONED MILL",
+    "credit": "Photo: George A. Grant, NARA, public domain",
+    "size": 86
+   }
+  },
+  {
+   "t": "You and up to three coworkers fly to abandoned moons, collecting scrap for the Company.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "COLLECT",
+     "*SCRAP"
+    ],
+    "icon": "rocket",
+    "sub": "on abandoned moons"
+   }
+  },
+  {
+   "t": "Every three days, you have to hit a profit quota. Miss it, and you get ejected into space.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MAKE QUOTA",
+     "*OR ELSE"
+    ],
+    "size": 120,
+    "icon": "dollar-sign",
+    "sub": "every three days"
+   }
+  },
+  {
+   "t": "And get back to the ship before midnight, or autopilot leaves without you.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BACK BY",
+     "*MIDNIGHT"
+    ],
+    "icon": "clock",
+    "sub": "or the ship leaves"
+   }
+  },
+  {
+   "t": "Voice chat is proximity based, so if you wander off, nobody hears you scream.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NOBODY",
+     "*HEARS YOU"
+    ],
+    "icon": "headset",
+    "sub": "proximity voice chat"
+   }
+  },
+  {
+   "t": "The monsters include the Thumper, the Jester, and the Bracken, which snaps your neck, and runs if you spot it.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "ghost",
+      "THE THUMPER"
+     ],
+     [
+      "mask",
+      "THE JESTER"
+     ],
+     [
+      "eye",
+      "THE BRACKEN"
+     ]
+    ],
+    "head": "WATCH OUT FOR"
+   }
+  },
+  {
+   "t": "It was made by Zeekerss, who used to make Roblox games.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ZEEKERSS"
+    ],
+    "size": 140,
+    "icon": "user",
+    "sub": "a former Roblox developer"
+   }
+  },
+  {
+   "t": "Development was supposed to take six months.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "6 MONTHS",
+    "label": "THE ORIGINAL PLAN",
+    "sub": "it took a lot longer",
+    "icon": "hourglass-half"
+   }
+  },
+  {
+   "t": "It came out in early access in October 2023, and hit 100,000 players at once on Steam in November.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     100000,
+     "{:,.0f}"
+    ],
+    "label": "PLAYERS AT ONCE ON STEAM",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "By January, it had sold an estimated ten million copies.",
+   "sc": {
+    "kind": "stat",
+    "size": 200,
+    "val": "10M",
+    "label": "COPIES (ESTIMATED)",
+    "sub": "by January 2024",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "It won Steam's Better With Friends award, and Stream Game of the Year at The Streamer Awards.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "BETTER WITH FRIENDS"
+     ],
+     [
+      "video",
+      "STREAM GAME OF THE YEAR"
+     ]
+    ],
+    "head": "AWARDS"
+   }
+  },
+  {
+   "t": "It also won Best Early Access Game at the Golden Joysticks.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BEST EARLY",
+     "*ACCESS GAME"
+    ],
+    "size": 110,
+    "icon": "trophy",
+    "sub": "Golden Joystick Awards"
+   }
+  },
+  {
+   "t": "Then in 2024, the Employee from Lethal Company came to Fortnite.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE",
+     "*EMPLOYEE"
+    ],
+    "icon": "gamepad",
+    "sub": "in Fortnite, June 2024"
+   }
+  },
+  {
+   "t": "Have you ever made quota? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "MADE QUOTA?"
+   }
+  }
+ ],
+ "file": "37 - Lethal Company (70s).mp4"
+}

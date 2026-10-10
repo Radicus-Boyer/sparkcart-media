@@ -1480,3 +1480,174 @@ THEMES.update({
                   text=roles("SairaStencilOne-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#ffc400", "#c8d4ec", "#ffffff", "#ff4a50", "#9aa8c4", stroke=0.05, sfill="#05070c"),
                   cap=dict(font="SairaStencilOne-Regular.ttf", size=88, fill="#ffffff", hi="#ffc400", stroke="#05070c")),
 })
+
+
+# ================================================================ BALATRO: swirling dark felt, chips and mult
+def static_balatro():
+    img = radial("#2f5a4c", "#0c1a17", CX, 900, 1300)
+    lay, d = layer()
+    for k in range(9):
+        r = 260 + k * 150
+        d.ellipse([CX - r, 960 - r, CX + r, 960 + r], outline=(80, 150, 130, 40), width=24)
+    over(img, lay)
+    return vignette(grain(img, 8, 3), 0.9)
+
+
+def dyn_balatro(img, d, now, prog, end, S):
+    for k in range(5):
+        a = now * 0.7 + k * 1.256
+        x = CX + math.cos(a) * 470
+        y = 1560 + math.sin(a) * 90
+        d.rounded_rectangle([x - 46, y - 64, x + 46, y + 64], 10, fill=(245, 240, 228), outline=(20, 20, 20), width=4)
+        d.ellipse([x - 14, y - 14, x + 14, y + 14], fill=(254, 95, 85) if k % 2 else (0, 157, 255))
+    chips = 10 + int(prog * 290)
+    mult = 1 + int(prog * 19)
+    paste(img, text_img(f"{chips} X {mult}", "Audiowide-Regular.ttf", 40, "#ffffff", 4, "#0c1a17"), 900, 198)
+
+
+def panel_balatro(w, h, kind="main"):
+    im, d = _panel(w, h, (22, 36, 40, 244), (254, 95, 85, 255), 6, 18, (10, 12, (0, 0, 0, 150)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 12, PM + 12, PM + w // 2 - 6, PM + 22], 4, fill=(0, 157, 255, 255))
+        d.rounded_rectangle([PM + w // 2 + 6, PM + 12, PM + w - 12, PM + 22], 4, fill=(254, 95, 85, 255))
+    return im
+
+
+# ================================================================ PEAK: icy mountain, stamina bar
+def static_peak():
+    img = vgrad("#4f8fe0", "#d6ecff")
+    lay, d = layer()
+    d.polygon([(-200, H), (420, 900), (640, 1050), (900, 760), (1300, H)], fill=(236, 244, 255, 255))
+    d.polygon([(420, 900), (520, 1010), (470, 1000), (380, 960)], fill=(190, 210, 236, 255))
+    d.polygon([(900, 760), (1050, 980), (960, 940), (880, 820)], fill=(190, 210, 236, 255))
+    d.polygon([(-100, H), (300, 1450), (700, 1650), (1180, 1380), (1180, H)], fill=(120, 150, 190, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_peak(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(26, 41):
+        x = ((a - now * (0.05 + c * 0.06)) % 1.1) * W - 40
+        y = ((b + now * (0.05 + e * 0.05)) % 1.0) * H
+        d.ellipse([x - 4, y - 4, x + 4, y + 4], fill=(255, 255, 255))
+    st = 1 - (now * 0.13) % 1
+    d.rounded_rectangle([700, 180, 1020, 216], 10, fill=(20, 30, 50), outline=(255, 255, 255), width=3)
+    d.rounded_rectangle([704, 184, 704 + int(312 * st), 212], 8, fill=(255, 196, 60))
+    paste(img, text_img(f"{int(prog * 2000)} M", "BarlowCondensed-ExtraBold.ttf", 40, "#ffffff", 4, "#1a2a44"), 640, 198)
+
+
+def panel_peak(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 250, 238, 246), (226, 110, 40, 255), 7, 14, (10, 12, (20, 40, 80, 110)))
+    if kind == "main":
+        d.rectangle([PM + 14, PM + h - 24, PM + w - 14, PM + h - 16], fill=(80, 120, 60, 255))
+    return im
+
+
+# ================================================================ LETHAL COMPANY: dark facility, quota terminal
+def static_lethal():
+    img = radial("#2a2620", "#060505", CX, 800, 1250)
+    lay, d = layer()
+    for x in range(-200, W, 160):
+        d.line([(x, 1600), (x + 300, H)], fill=(255, 106, 26, 60), width=40)
+    d.rectangle([0, 1580, W, 1600], fill=(255, 106, 26, 160))
+    over(img, lay)
+    return vignette(grain(img, 14, 5), 1.0)
+
+
+def dyn_lethal(img, d, now, prog, end, S):
+    if (now * 2.2) % 1 < 0.5:
+        d.ellipse([86, 304, 112, 330], fill=(255, 50, 30))
+    x = CX + math.sin(now * 0.9) * 360
+    for r, c in ((150, (70, 52, 30)), (100, (120, 90, 50)), (55, (190, 150, 90))):
+        d.ellipse([x - r * 1.8, 1690 - r * 0.35, x + r * 1.8, 1690 + r * 0.35], fill=c)
+    q = int(prog * 130)
+    paste(img, text_img(f"QUOTA {q}/130", "ChakraPetch-Bold.ttf", 40, "#ff6a1a", 4, "#060505"), 880, 198)
+
+
+def panel_lethal(w, h, kind="main"):
+    im, d = _panel(w, h, (12, 12, 10, 240), (255, 106, 26, 255), 5, 6, (10, 12, (0, 0, 0, 170)))
+    if kind == "main":
+        for x in range(PM + 10, PM + w - 30, 40):
+            d.polygon([(x, PM + h - 22), (x + 20, PM + h - 22), (x + 40, PM + h - 10), (x + 20, PM + h - 10)], fill=(255, 196, 0, 255))
+    return im
+
+
+# ================================================================ R.E.P.O.: purple manor, fragile valuables, surplus counter
+def static_repo():
+    img = radial("#3a2450", "#0b0612", CX, 900, 1300)
+    lay, d = layer()
+    for x in range(0, W, 140):
+        d.rectangle([x, 300, x + 6, 1560], fill=(120, 80, 160, 70))
+    d.rectangle([0, 1560, W, H], fill=(40, 22, 30, 255))
+    for x in range(0, W, 120):
+        d.rectangle([x, 1560, x + 60, H], fill=(52, 30, 40, 255))
+    over(img, lay)
+    return vignette(grain(img, 10, 4), 0.95)
+
+
+def dyn_repo(img, d, now, prog, end, S):
+    y = 1500 + math.sin(now * 2.4) * 30
+    x = 160 + (now * 90) % 860
+    d.line([(x, y + 30), (x + 60, 1620)], fill=(80, 220, 255), width=6)
+    d.ellipse([x - 40, y - 40, x + 40, y + 40], fill=(255, 178, 46), outline=(20, 10, 20), width=5)
+    d.ellipse([x - 18, y - 12, x - 4, y + 2], fill=(20, 10, 20))
+    d.ellipse([x + 4, y - 12, x + 18, y + 2], fill=(20, 10, 20))
+    paste(img, text_img(f"${int(prog * 48000):,} SURPLUS", "Oxanium[wght].ttf", 38, "#3ad0ff", 4, "#0b0612", 800), 860, 198)
+
+
+def panel_repo(w, h, kind="main"):
+    im, d = _panel(w, h, (26, 16, 38, 242), (255, 178, 46, 255), 6, 20, (10, 12, (0, 0, 0, 150)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 14, PM + 14, PM + w - 14, PM + h - 14], 14, outline=(58, 208, 255, 140), width=3)
+    return im
+
+
+# ================================================================ BALDI'S BASICS: green school walls, notebook paper, counter
+def static_baldi():
+    img = vgrad("#7fc46a", "#5a9a4c")
+    lay, d = layer()
+    for y in range(260, H, 120):
+        d.line([(0, y), (W, y)], fill=(255, 255, 255, 30), width=3)
+    d.rectangle([0, 1560, W, H], fill=(196, 196, 196, 255))
+    for x in range(0, W, 120):
+        for y in range(1560, H, 120):
+            if (x // 120 + y // 120) % 2:
+                d.rectangle([x, y, x + 120, y + 120], fill=(160, 160, 160, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_baldi(img, d, now, prog, end, S):
+    a = math.sin(now * 9) * 0.6
+    cx, cy = 960, 1500
+    ex, ey = cx + math.cos(a - 1.57) * 140, cy + math.sin(a - 1.57) * 140
+    d.line([(cx, cy), (ex, ey)], fill=(232, 196, 90), width=26)
+    n = min(7, int(prog * 7.99))
+    paste(img, text_img(f"{n}/7 NOTEBOOKS", "PatrickHand-Regular.ttf", 46, "#000000", 4, "#ffffff"), 860, 198)
+
+
+def panel_baldi(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 255, 250, 248), (40, 40, 40, 255), 5, 4, (10, 12, (0, 0, 0, 90)))
+    for y in range(PM + 40, PM + h - 10, 36):
+        d.line([(PM + 10, y), (PM + w - 10, y)], fill=(150, 190, 240, 255), width=2)
+    d.line([(PM + 60, PM + 6), (PM + 60, PM + h - 6)], fill=(240, 110, 110, 255), width=3)
+    return im
+
+
+THEMES.update({
+    "balatro": dict(case="upper", static=static_balatro, dyn=dyn_balatro, panel=panel_balatro, flash="#fe5f55", tag_col="#009dff", frame=("#fe5f55", 7),
+                    text=roles("Audiowide-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#fe5f55", "#d8efe6", "#ffffff", "#009dff", "#a8c4bc", stroke=0.06, sfill="#0c1a17"),
+                    cap=dict(font="RussoOne-Regular.ttf", size=88, fill="#ffffff", hi="#fe5f55", stroke="#0c1a17")),
+    "peak": dict(case="upper", static=static_peak, dyn=dyn_peak, panel=panel_peak, flash="#ffffff", tag_col="#ff8a2a", frame=("#1a2a44", 7),
+                 text=roles("BarlowCondensed-ExtraBold.ttf", "Nunito[wght].ttf", "#ffffff", "#ffb02e", "#ffffff", "#1a2a44", "#e2602a", "#4a5a74", stroke=0.08, sfill="#1a2a44", ws=900),
+                 cap=dict(font="BarlowCondensed-ExtraBold.ttf", size=110, fill="#ffffff", hi="#ffb02e", stroke="#1a2a44")),
+    "lethal": dict(case="upper", static=static_lethal, dyn=dyn_lethal, panel=panel_lethal, flash="#ff6a1a", tag_col="#ff6a1a", frame=("#ff6a1a", 5),
+                   text=roles("BlackOpsOne-Regular.ttf", "ChakraPetch-Bold.ttf", "#f2ead8", "#ff6a1a", "#c8bfa8", "#f2ead8", "#ff6a1a", "#9a927e", stroke=0.05, sfill="#000000"),
+                   cap=dict(font="BlackOpsOne-Regular.ttf", size=86, fill="#ffffff", hi="#ff6a1a", stroke="#000000")),
+    "repo": dict(case="upper", static=static_repo, dyn=dyn_repo, panel=panel_repo, flash="#ffb22e", tag_col="#3ad0ff", frame=("#ffb22e", 7),
+                 text=roles("Oxanium[wght].ttf", "Rajdhani-Bold.ttf", "#ffffff", "#ffb22e", "#d8c8ec", "#ffffff", "#3ad0ff", "#b0a0c8", stroke=0.06, sfill="#0b0612", wb=800),
+                 cap=dict(font="Oxanium[wght].ttf", wght=800, size=90, fill="#ffffff", hi="#ffb22e", stroke="#0b0612")),
+    "baldi": dict(case="upper", static=static_baldi, dyn=dyn_baldi, panel=panel_baldi, flash="#ff2020", tag_col="#ffffff", frame=("#202020", 7),
+                  text=roles("PatrickHand-Regular.ttf", "PatrickHand-Regular.ttf", "#ffffff", "#ff2a2a", "#ffffff", "#202020", "#d01818", "#404040", stroke=0.09, sfill="#202020"),
+                  cap=dict(font="PatrickHand-Regular.ttf", size=104, fill="#ffffff", hi="#ff2a2a", stroke="#202020")),
+})

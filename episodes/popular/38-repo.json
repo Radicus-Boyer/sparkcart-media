@@ -1,0 +1,97 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 38,
+ "theme": "repo",
+ "game": "R.E.P.O.",
+ "target": 30,
+ "pron": {
+  "R.E.P.O.": "Repo",
+  "Semibots": "Semi bots",
+  "Semiwork": "Semi work"
+ },
+ "lines": [
+  {
+   "t": "In R.E.P.O., you're a little robot, carrying priceless valuables past monsters.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop7-vases.jpg",
+    "big": [
+     "R.E.P.O.",
+     "*DON'T BREAK IT"
+    ],
+    "label": "REAL ANTIQUE VASES",
+    "credit": "Photo: The Met, public domain",
+    "size": 100
+   },
+   "say": "In Repo, you're a little robot, carrying priceless valuables past monsters."
+  },
+  {
+   "t": "Up to six players are Semibots. Get valuables to the extraction point without breaking them, and earn surplus to spend on upgrades.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "DON'T",
+     "*BREAK IT"
+    ],
+    "icon": "robot",
+    "sub": "up to 6 Semibots"
+   }
+  },
+  {
+   "t": "R.E.P.O. stands for Retrieve, Extract, and Profit Operation.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "box",
+      "RETRIEVE"
+     ],
+     [
+      "truck",
+      "EXTRACT"
+     ],
+     [
+      "coins",
+      "PROFIT"
+     ]
+    ],
+    "head": "R.E.P.O. ="
+   },
+   "say": "Repo stands for Retrieve, Extract, and Profit Operation."
+  },
+  {
+   "t": "It was made by Semiwork, and hit 230,000 players at once on its first weekend.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     230000,
+     "{:,.0f}"
+    ],
+    "label": "PLAYERS AT ONCE",
+    "sub": "first weekend",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "It even topped Steam's sales charts for a week.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "#1 ON",
+     "*STEAM"
+    ],
+    "icon": "trophy",
+    "sub": "top-grossing paid game, March 2025"
+   }
+  },
+  {
+   "t": "What's the worst thing you broke? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "WORST THING YOU BROKE?"
+   }
+  }
+ ],
+ "file": "38 - R.E.P.O. (30s).mp4"
+}

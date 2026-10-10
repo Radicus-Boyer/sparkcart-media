@@ -1,0 +1,448 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 63,
+ "slug": "63-innovation-awards",
+ "file": "63 Roblox Innovation Awards 2026 (70s).mp4",
+ "target": 70,
+ "accent": "#ffca28",
+ "bpm": 126,
+ "root": 60,
+ "pron": {
+  "Nosniy": "Noz-nee",
+  "Valkenheim": "Valken-heim",
+  "RDC": "R D C",
+  "UGC": "U G C",
+  "TTK": "T T K"
+ },
+ "lines": [
+  {
+   "t": "The Roblox Innovation Awards just crowned this year's best games, and one brand new game swept the night.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "big": "INNOVATION\nAWARDS",
+    "sub": "WHO WON THIS YEAR?",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-trophy.jpg",
+     "label": "A REAL OLD TROPHY",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 48
+   }
+  },
+  {
+   "t": "The awards were handed out at RDC 2026, Roblox's big developer conference.",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "RDC 2026",
+    "sub": "ROBLOX DEVELOPERS CONFERENCE",
+    "bs": 170,
+    "ss": 44,
+    "crowd": {
+     "n": 16,
+     "appear": 0.8
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "The biggest winner was Animal Hospital, with four awards, including Best New Game and People's Choice.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "ANIMAL\nHOSPITAL",
+    "sub": "4 AWARDS. THE BIG WINNER.",
+    "rays": "#ffffff",
+    "bs": 124,
+    "ss": 46,
+    "props": [
+     [
+      "trophy",
+      0.0,
+      -1.2
+     ]
+    ],
+    "pets": [
+     {
+      "k": "cat",
+      "p": [
+       1.6,
+       1.2
+      ],
+      "a": "hop",
+      "c": "#ffffff",
+      "s": 0.6
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It also took Best Innovation in Creative Direction, and the Builderman Award.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "BUILDERMAN\nAWARD",
+    "sub": "+ CREATIVE DIRECTION",
+    "rays": "#ffffff",
+    "bs": 120,
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 840,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "RIVALS won Best Shooter, and its studio, Nosniy Games, won Best Studio.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "RIVALS",
+    "sub": "BEST SHOOTER + BEST STUDIO",
+    "bs": 190,
+    "ss": 46,
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "b",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "hold": "gun"
+     }
+    ],
+    "ic": [
+     {
+      "n": "crosshair",
+      "x": 540,
+      "y": 780,
+      "s": 120,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "DOORS won Best Use of Audio.",
+   "sc": {
+    "bg": "dark",
+    "ground": "wood",
+    "big": "DOORS",
+    "sub": "BEST USE OF AUDIO",
+    "bs": 200,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "c",
+      "face": "o"
+     }
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "99 Nights in the Forest won Best Survival, and Jujutsu Shenanigans won Best Action.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "99 NIGHTS",
+    "sub": "BEST SURVIVAL",
+    "bs": 170,
+    "fx": [
+     "fireflies"
+    ],
+    "props": [
+     [
+      "tree",
+      -2.4,
+      -2.0
+     ],
+     [
+      "tree",
+      2.2,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Mini War won Best Strategy, and Piggy Intercity won Best RPG.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "MINI WAR\n+ PIGGY",
+    "sub": "STRATEGY + RPG",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "b",
+      "to": [
+       0.0,
+       0.8
+      ],
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w"
+     }
+    ]
+   }
+  },
+  {
+   "t": "FIFA Super Soccer won Best Sports, and TTK won Best Innovation in Tech.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BEST SPORTS",
+    "sub": "FIFA SUPER SOCCER",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "globe",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -0.6,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.6,
+       0.8
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "Finish the Word won Best Puzzle, and plus one Speed Keyboard Escape won Best Party and Casual.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "+1 SPEED\nKEYBOARD ESCAPE",
+    "sub": "BEST PARTY & CASUAL",
+    "bs": 100,
+    "ss": 46,
+    "fx": [
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "a": "run",
+      "c": "g",
+      "to": [
+       1.6,
+       0.8
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "Steal a Brainrot's GOAT collab won Best Innovation in a Branded Game.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "big": "STEAL A\nBRAINROT",
+    "sub": "BEST BRANDED GAME",
+    "rays": "#ffffff",
+    "bs": 124,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "k"
+     }
+    ],
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And Natural Disaster Survival, one of the oldest games on the list, won Best Classic.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "BEST CLASSIC",
+    "sub": "NATURAL DISASTER SURVIVAL",
+    "bs": 150,
+    "ss": 44,
+    "props": [
+     [
+      "house",
+      -2.4,
+      -2.4
+     ]
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Creators won too. Valkenheim won Best UGC Creator, and Laughability won Best Video Star.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "CREATORS\nWON TOO",
+    "sub": "VALKENHEIM + LAUGHABILITY",
+    "bs": 124,
+    "ss": 44,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "d"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e"
+     }
+    ],
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 820,
+      "s": 130,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Which game got robbed? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "WHICH GAME\nGOT ROBBED?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

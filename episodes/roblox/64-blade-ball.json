@@ -1,0 +1,166 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 64,
+ "slug": "64-blade-ball",
+ "file": "64 Blade Ball (30s).mp4",
+ "target": 30,
+ "accent": "#ef5350",
+ "bpm": 140,
+ "root": 55,
+ "pron": {
+  "Wiggity": "Wig-it-ee"
+ },
+ "lines": [
+  {
+   "t": "Blade Ball is dodgeball, but the ball is trying to kill you.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "BLADE BALL",
+    "sub": "DODGEBALL, BUT DEADLY",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-dodge.jpg",
+     "label": "REAL-LIFE DODGEBALL",
+     "credit": "Photo: U.S. Navy, public domain",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 130
+   }
+  },
+  {
+   "t": "The ball targets one player at a time. Parry at the right moment to send it at someone else, and it gets faster every hit.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "PARRY!",
+    "sub": "IT GETS FASTER EVERY HIT",
+    "bs": 200,
+    "fx": [
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "b",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "hold": "sword"
+     }
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 540,
+      "y": 780,
+      "s": 130,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by Wiggity, and hit one billion visits in just 62 days, beating Piggy's record.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "DAYS TO 1 BILLION VISITS",
+    "rays": "#ffffff",
+    "count": {
+     "to": 62,
+     "fmt": "{:.0f} DAYS"
+    },
+    "bs": 170,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In October 2023, only Blox Fruits and Brookhaven were bigger.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "#3 ON\nROBLOX",
+    "sub": "OCTOBER 2023",
+    "rays": "#ffffff",
+    "bs": 150,
+    "props": [
+     [
+      "pedestal",
+      0.0,
+      -0.6
+     ]
+    ],
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Have you ever won a round? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "EVER WON\nA ROUND?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

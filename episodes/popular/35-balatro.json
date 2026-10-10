@@ -1,0 +1,191 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 35,
+ "theme": "balatro",
+ "game": "Balatro",
+ "target": 70,
+ "pron": {
+  "Balatro": "Bal-a-tro",
+  "LocalThunk": "Local Thunk",
+  "Saskatchewan": "Saskatchewan",
+  "Northernlion": "Northern Lion",
+  "Fiverr": "Fiver"
+ },
+ "lines": [
+  {
+   "t": "Balatro was made by one anonymous developer, and it got nominated for Game of the Year.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop7-joker.jpg",
+    "big": [
+     "BALATRO",
+     "*ONE ANONYMOUS DEV"
+    ],
+    "label": "REAL JOKER CARDS",
+    "credit": "Photo: Czlowiek Oddzielany Mechanicznie, CC0",
+    "size": 96
+   }
+  },
+  {
+   "t": "He goes by LocalThunk, and he's from Saskatchewan, Canada.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "LOCAL",
+     "*THUNK"
+    ],
+    "icon": "user-secret",
+    "sub": "Saskatchewan, Canada"
+   }
+  },
+  {
+   "t": "It started in 2021 as an online version of a card game called Big Two.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "BIG TWO"
+    ],
+    "size": 150,
+    "icon": "dice",
+    "sub": "a Cantonese card game"
+   }
+  },
+  {
+   "t": "Then he watched Northernlion stream Luck Be a Landlord, and turned it into a roguelike deckbuilder.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ROGUELIKE",
+     "*DECKBUILDER"
+    ],
+    "size": 110,
+    "icon": "video",
+    "sub": "inspired by a Northernlion stream"
+   }
+  },
+  {
+   "t": "You play poker hands to score chips times mult, and collect Jokers that break the rules.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "CHIPS",
+     "BLUE",
+     "from your poker hand"
+    ],
+    "right": [
+     "MULT",
+     "RED",
+     "boosted by Jokers"
+    ]
+   }
+  },
+  {
+   "t": "It was almost called Joker Poker. Balatro is Latin for jester.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "JOKER",
+     "*POKER?"
+    ],
+    "icon": "face-laugh-squint",
+    "sub": "balatro = Latin for jester"
+   }
+  },
+  {
+   "t": "He quit his job about a year before release, and found the composer on Fiverr.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "briefcase",
+      "QUIT HIS JOB"
+     ],
+     [
+      "music",
+      "COMPOSER FROM FIVERR"
+     ]
+    ],
+    "head": "ALL IN"
+   }
+  },
+  {
+   "t": "It made over a million dollars in its first eight hours.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "$1M+",
+    "label": "IN 8 HOURS",
+    "sub": "launch day, February 2024",
+    "icon": "coins"
+   }
+  },
+  {
+   "t": "It sold a million copies in a month, and over five million by January 2025.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     5000000,
+     "{:,.0f}+"
+    ],
+    "label": "COPIES BY JANUARY 2025",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "At The Game Awards, it won three awards, and was the first solo project ever nominated for Game of the Year.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "trophy",
+      "BEST INDEPENDENT GAME"
+     ],
+     [
+      "star",
+      "BEST DEBUT INDIE"
+     ],
+     [
+      "gamepad",
+      "BEST MOBILE GAME"
+     ]
+    ],
+    "head": "3 GAME AWARDS"
+   }
+  },
+  {
+   "t": "One ratings board once gave it an 18 plus rating for gambling imagery. It was lowered after an appeal.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "RATED 18+",
+     "*FOR CARDS"
+    ],
+    "size": 124,
+    "icon": "ban",
+    "sub": "PEGI, later lowered to 12"
+   }
+  },
+  {
+   "t": "And in endless mode, around ante 39, the score you need gets so big the game just shows NaN. Not a number.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "NaN"
+    ],
+    "size": 220,
+    "icon": "infinity",
+    "sub": "ante 39: the numbers break"
+   },
+   "say": "And in endless mode, around ante thirty nine, the score you need gets so big the game just shows N, A, N. Not a number."
+  },
+  {
+   "t": "What's your best Joker? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "BEST JOKER?"
+   }
+  }
+ ],
+ "file": "35 - Balatro (70s).mp4"
+}

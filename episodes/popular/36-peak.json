@@ -1,0 +1,213 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 36,
+ "theme": "peak",
+ "game": "Peak",
+ "target": 70,
+ "pron": {
+  "Landfall": "Land fall",
+  "bbno$": "baby no money"
+ },
+ "lines": [
+  {
+   "t": "Peak started as a one month game jam, and sold over ten million copies.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop7-climb.jpg",
+    "big": [
+     "PEAK",
+     "*10 MILLION CLIMBERS"
+    ],
+    "label": "A REAL SUMMIT RIDGE",
+    "credit": "Photo: Apoutsiak, CC BY 3.0",
+    "size": 96
+   }
+  },
+  {
+   "t": "You and up to three friends are Scouts, stranded after a plane crash. The only way out is up.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE ONLY",
+     "*WAY IS UP"
+    ],
+    "icon": "person-hiking",
+    "sub": "stranded after a plane crash"
+   }
+  },
+  {
+   "t": "You climb a huge mountain, while managing a stamina bar.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "STAMINA"
+    ],
+    "size": 150,
+    "icon": "bolt",
+    "sub": "your most important resource"
+   }
+  },
+  {
+   "t": "Hunger, injuries, weight, poison and cold all shrink your stamina.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "utensils",
+      "HUNGER"
+     ],
+     [
+      "heart-crack",
+      "INJURIES"
+     ],
+     [
+      "skull",
+      "POISON"
+     ],
+     [
+      "snowflake",
+      "COLD"
+     ]
+    ],
+    "head": "WHAT DRAINS IT"
+   }
+  },
+  {
+   "t": "There are six biomes, and the mountain changes every 24 hours.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "24 HRS",
+    "label": "NEW MOUNTAIN",
+    "sub": "six biomes to climb",
+    "icon": "mountain"
+   }
+  },
+  {
+   "t": "Climb too far ahead of your group, and the Scoutmaster shows up.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE",
+     "*SCOUTMASTER"
+    ],
+    "size": 120,
+    "icon": "eye",
+    "sub": "don't leave your friends behind"
+   }
+  },
+  {
+   "t": "It was made by two studios, Aggro Crab and Landfall, during a game jam in South Korea.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "2 STUDIOS",
+     "*1 GAME JAM"
+    ],
+    "size": 120,
+    "icon": "users",
+    "sub": "Aggro Crab + Landfall, in South Korea"
+   }
+  },
+  {
+   "t": "It launched in June 2025, and sold 100,000 copies in 24 hours.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     100000,
+     "{:,.0f}"
+    ],
+    "label": "COPIES IN 24 HOURS",
+    "icon": "cart-shopping"
+   }
+  },
+  {
+   "t": "A million in the first week. Five million in the first month.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "chart-line",
+      "1M: FIRST WEEK"
+     ],
+     [
+      "chart-line",
+      "5M: FIRST MONTH"
+     ]
+    ],
+    "head": "THEN IT EXPLODED"
+   }
+  },
+  {
+   "t": "By mid August, it passed ten million.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "10M+",
+    "label": "COPIES SOLD",
+    "sub": "by mid-August 2025",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "It won Best Multiplayer Game at the Golden Joysticks, and Better With Friends at the Steam Awards.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "trophy",
+      "BEST MULTIPLAYER GAME"
+     ],
+     [
+      "users",
+      "BETTER WITH FRIENDS"
+     ]
+    ],
+    "head": "AWARDS"
+   }
+  },
+  {
+   "t": "Streamers loved it too. It won Stream Game of the Year at The Streamer Awards.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "STREAM GAME",
+     "*OF THE YEAR"
+    ],
+    "size": 110,
+    "icon": "video",
+    "sub": "The Streamer Awards"
+   }
+  },
+  {
+   "t": "It even had an in-game concert with bbno$, and a Fortnite bundle. Then this August, The Final Ascent update arrived.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "music",
+      "BBNO$ CONCERT"
+     ],
+     [
+      "gamepad",
+      "FORTNITE BUNDLE"
+     ],
+     [
+      "flag-checkered",
+      "THE FINAL ASCENT"
+     ]
+    ]
+   },
+   "say": "It even had an in-game concert with baby no money, and a Fortnite bundle. Then this August, The Final Ascent update arrived."
+  },
+  {
+   "t": "Did you ever reach the top? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "REACHED THE TOP?"
+   }
+  }
+ ],
+ "file": "36 - Peak (70s).mp4"
+}
