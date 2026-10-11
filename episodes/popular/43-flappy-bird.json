@@ -1,0 +1,98 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 43,
+ "theme": "flappy",
+ "game": "Flappy Bird",
+ "target": 42,
+ "voice": "af_heart",
+ "speed": 1.08,
+ "pron": {
+  "Nguyen": "Win",
+  "PewDiePie": "Pew Dee Pie"
+ },
+ "lines": [
+  {
+   "t": "Flappy Bird was made in about three days, and at its peak it earned around 50,000 dollars a day.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop9-pigeon.jpg",
+    "big": [
+     "FLAPPY BIRD",
+     "*$50,000 A DAY"
+    ],
+    "label": "A REAL BIRD, FLAPPING",
+    "credit": "Photo: Thomas Quine, CC BY 2.0",
+    "size": 96
+   }
+  },
+  {
+   "t": "Dong Nguyen, a developer in Vietnam, built it in two to three days. It was first called Flap Flap.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "FLAP",
+     "*FLAP"
+    ],
+    "size": 150,
+    "icon": "user",
+    "sub": "the original name"
+   }
+  },
+  {
+   "t": "It flopped at first, until PewDiePie played it.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THEN ONE",
+     "*VIDEO"
+    ],
+    "icon": "video",
+    "sub": "PewDiePie played it"
+   }
+  },
+  {
+   "t": "In January 2014, it was the most downloaded app on the App Store.",
+   "sc": {
+    "kind": "stat",
+    "size": 220,
+    "val": "#1",
+    "label": "MOST DOWNLOADED APP",
+    "sub": "January 2014",
+    "icon": "download"
+   }
+  },
+  {
+   "t": "Then he tweeted he'd take it down in 22 hours, and he did. He said it had become too addictive.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "22 HRS",
+    "label": "UNTIL IT WAS GONE",
+    "sub": "he called it too addictive",
+    "icon": "clock"
+   }
+  },
+  {
+   "t": "Phones with it still installed were listed on eBay for thousands of dollars.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "$1,499+",
+     "*PHONES"
+    ],
+    "size": 130,
+    "icon": "cart-shopping",
+    "sub": "eBay listings, 2014"
+   }
+  },
+  {
+   "t": "Did you ever beat your high score? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "BEAT YOUR HIGH SCORE?"
+   }
+  }
+ ],
+ "file": "43 - Flappy Bird (42s).mp4"
+}

@@ -1778,3 +1778,171 @@ THEMES.update({
                      text=roles("TitanOne-Regular.ttf", "Nunito[wght].ttf", "#ffffff", "#ffd23c", "#ffffff", "#3a1a5a", "#ff50b4", "#6a5a8a", stroke=0.08, sfill="#5a2a7a", ws=900),
                      cap=dict(font="TitanOne-Regular.ttf", size=94, fill="#ffffff", hi="#ffd23c", stroke="#5a2a7a")),
 })
+
+
+# ================================================================ FLAPPY BIRD: pixel sky, scrolling pipes, score
+def static_flappy():
+    img = vgrad("#4ec0ca", "#bdeff2")
+    lay, d = layer()
+    for k in range(7):
+        x = k * 170 - 20
+        d.ellipse([x, 1480, x + 260, 1620], fill=(255, 255, 255, 220))
+    d.rectangle([0, 1700, W, H], fill=(222, 216, 149, 255))
+    d.rectangle([0, 1680, W, 1712], fill=(110, 190, 60, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_flappy(img, d, now, prog, end, S):
+    off = (now * 220) % 420
+    for k in range(4):
+        x = 1100 - off + k * 420 - 420
+        gap_y = 700 + 260 * math.sin(k * 1.7 + 1)
+        for (y0, y1) in ((150, gap_y - 170), (gap_y + 170, 1680)):
+            d.rectangle([x, y0, x + 120, y1], fill=(115, 191, 46), outline=(40, 60, 20), width=6)
+        d.rectangle([x - 12, gap_y - 210, x + 132, gap_y - 170], fill=(115, 191, 46), outline=(40, 60, 20), width=6)
+        d.rectangle([x - 12, gap_y + 170, x + 132, gap_y + 210], fill=(115, 191, 46), outline=(40, 60, 20), width=6)
+    by = 900 + math.sin(now * 5) * 60
+    d.ellipse([250, by - 30, 320, by + 30], fill=(250, 200, 40), outline=(40, 30, 10), width=5)
+    d.ellipse([290, by - 18, 308, by], fill=(255, 255, 255))
+    d.polygon([(318, by), (345, by + 6), (318, by + 14)], fill=(240, 90, 40))
+    paste(img, text_img(str(int(now * 1.3)), "PressStart2P-Regular.ttf", 64, "#ffffff", 6, "#3a2a10"), 900, 205)
+
+
+def panel_flappy(w, h, kind="main"):
+    im, d = _panel(w, h, (222, 216, 149, 250), (84, 56, 30, 255), 8, 0, (8, 8, (60, 40, 10, 150)))
+    return im
+
+
+# ================================================================ WII SPORTS: clean white studio, soft blue, bowling lane
+def static_wiisports():
+    img = vgrad("#ffffff", "#d9ecfa")
+    lay, d = layer()
+    d.polygon([(380, 1520), (700, 1520), (1000, H), (80, H)], fill=(230, 196, 140, 255))
+    for k in range(1, 6):
+        d.line([(380 + k * 53, 1520), (80 + k * 153, H)], fill=(200, 160, 110, 255), width=3)
+    for i, x in enumerate([500, 540, 580, 520, 560, 540]):
+        y = 1450 if i < 3 else (1420 if i < 5 else 1395)
+        d.ellipse([x - 14, y - 46, x + 14, y + 10], fill=(255, 255, 255, 255), outline=(170, 170, 180, 255), width=3)
+        d.rectangle([x - 12, y - 30, x + 12, y - 24], fill=(220, 40, 40, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_wiisports(img, d, now, prog, end, S):
+    x = 540 + math.sin(now * 1.6) * 200
+    y = 1820 - ((now * 0.6) % 1) * 300
+    d.ellipse([x - 40, y - 40, x + 40, y + 40], fill=(40, 120, 220), outline=(20, 60, 120), width=4)
+    paste(img, text_img(f"SCORE {int(prog * 300)}", "Nunito[wght].ttf", 40, "#2b7bd6", 0, "#ffffff", 900), 880, 198)
+
+
+def panel_wiisports(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 255, 255, 250), (64, 160, 235, 255), 4, 36, (6, 10, (60, 120, 180, 60)))
+    return im
+
+
+# ================================================================ ANGRY BIRDS: sunset sky, wooden tower, slingshot arc
+def static_angry():
+    img = vgrad("#7fd3f5", "#f6e7b4")
+    lay, d = layer()
+    d.ellipse([-300, 1500, 700, 1900], fill=(120, 190, 70, 255))
+    d.ellipse([500, 1480, 1500, 1920], fill=(100, 170, 60, 255))
+    d.rectangle([0, 1720, W, H], fill=(140, 96, 50, 255))
+    for (x0, y0, x1, y1) in ((760, 1360, 790, 1720), (930, 1360, 960, 1720), (740, 1330, 980, 1360), (800, 1170, 830, 1330), (890, 1170, 920, 1330), (780, 1140, 940, 1170)):
+        d.rectangle([x0, y0, x1, y1], fill=(196, 140, 70, 255), outline=(110, 70, 30, 255), width=4)
+    d.line([(200, 1720), (230, 1500)], fill=(100, 60, 25, 255), width=26)
+    d.line([(260, 1720), (230, 1500)], fill=(100, 60, 25, 255), width=26)
+    over(img, lay)
+    return img
+
+
+def dyn_angry(img, d, now, prog, end, S):
+    t = (now * 0.5) % 1
+    x = 230 + t * 700
+    y = 1500 - math.sin(t * math.pi) * 520
+    d.ellipse([x - 34, y - 34, x + 34, y + 34], fill=(214, 40, 40), outline=(90, 10, 10), width=5)
+    d.polygon([(x + 30, y - 4), (x + 52, y + 4), (x + 30, y + 12)], fill=(250, 190, 40))
+    paste(img, text_img(f"{int(prog * 98000):,}", "Bangers-Regular.ttf", 60, "#ffffff", 6, "#5a2a00"), 900, 205)
+
+
+def panel_angry(w, h, kind="main"):
+    im, d = _panel(w, h, (250, 236, 200, 248), (150, 90, 30, 255), 9, 18, (10, 12, (80, 40, 10, 130)))
+    if kind == "main":
+        for y in range(PM + 30, PM + h - 20, 46):
+            d.line([(PM + 14, y), (PM + w - 14, y)], fill=(230, 205, 160, 255), width=3)
+    return im
+
+
+# ================================================================ CLUB PENGUIN: icy town, falling snow, igloo, coins
+def static_cpenguin():
+    img = vgrad("#2a7fd4", "#bfe6ff")
+    lay, d = layer()
+    d.ellipse([-200, 1480, 1280, 2200], fill=(240, 248, 255, 255))
+    d.pieslice([140, 1440, 520, 1820], 180, 360, fill=(250, 252, 255, 255), outline=(170, 200, 230, 255), width=5)
+    for k in range(4):
+        d.arc([140 + k * 6, 1440 + k * 50, 520 - k * 6, 1820], 180, 360, fill=(190, 215, 240, 255), width=3)
+    d.rectangle([290, 1560, 370, 1630], fill=(60, 90, 130, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_cpenguin(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(40, 77):
+        x = ((a + math.sin(now * 0.8 + b * 6) * 0.03) % 1) * W
+        y = ((b + now * (0.04 + c * 0.05)) % 1) * H
+        r = 3 + e * 5
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(255, 255, 255))
+    paste(img, text_img(f"COINS {int(prog * 5000)}", "Baloo2[wght].ttf", 42, "#ffd23c", 5, "#0b3d7a", 800), 880, 198)
+
+
+def panel_cpenguin(w, h, kind="main"):
+    im, d = _panel(w, h, (235, 246, 255, 248), (18, 92, 180, 255), 7, 26, (8, 12, (10, 50, 110, 120)))
+    return im
+
+
+# ================================================================ GOAT SIMULATOR: chaotic tilt, ragdoll physics, points
+def static_goat():
+    img = vgrad("#ffcf5a", "#ff8a3c")
+    lay, d = layer()
+    for k in range(10):
+        a = k * 0.62
+        d.polygon([(CX, 900), (CX + math.cos(a) * 1600, 900 + math.sin(a) * 1600), (CX + math.cos(a + 0.3) * 1600, 900 + math.sin(a + 0.3) * 1600)], fill=(255, 255, 255, 40))
+    d.rectangle([0, 1700, W, H], fill=(80, 140, 60, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_goat(img, d, now, prog, end, S):
+    for k in range(3):
+        a = now * (2 + k) + k
+        x = 200 + k * 340 + math.sin(a) * 40
+        y = 1560 - abs(math.sin(a * 1.3)) * 260
+        d.rounded_rectangle([x - 70, y - 40, x + 70, y + 30], 20, fill=(245, 245, 240), outline=(60, 40, 30), width=5)
+        d.rectangle([x + 50, y - 80, x + 90, y - 30], fill=(245, 245, 240), outline=(60, 40, 30), width=5)
+        for lx in (-50, -20, 20, 50):
+            d.line([(x + lx, y + 30), (x + lx + 12 * math.sin(a * 3), y + 80)], fill=(60, 40, 30), width=8)
+    paste(img, text_img(f"+{int(prog * 1337)} PTS", "KaushanScript-Regular.ttf", 54, "#ffffff", 6, "#5a2000"), 880, 205)
+
+
+def panel_goat(w, h, kind="main"):
+    im, d = _panel(w, h, (40, 20, 10, 236), (255, 220, 70, 255), 6, 10, (14, 16, (0, 0, 0, 150)))
+    return im
+
+
+THEMES.update({
+    "flappy": dict(case="upper", static=static_flappy, dyn=dyn_flappy, panel=panel_flappy, flash="#ffffff", tag_col="#f8c020", frame=("#54381e", 8),
+                   text=roles("PressStart2P-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#f8c020", "#ffffff", "#54381e", "#e0602a", "#6a5a3a", stroke=0.09, sfill="#3a2a10"),
+                   cap=dict(font="PressStart2P-Regular.ttf", size=86, fill="#ffffff", hi="#f8c020", stroke="#3a2a10", mode="word", y=1300)),
+    "wiisports": dict(case="none", static=static_wiisports, dyn=dyn_wiisports, panel=panel_wiisports, flash="#ffffff", tag_col="#2b7bd6", frame=("#40a0eb", 5),
+                      text=roles("Nunito[wght].ttf", "Nunito[wght].ttf", "#1f3b5a", "#2b7bd6", "#4a6a8a", "#1f3b5a", "#2b7bd6", "#5a7a9a", wb=900, ws=700),
+                      cap=dict(font="Nunito[wght].ttf", wght=900, size=78, fill="#1f3b5a", hi="#2b7bd6", stroke="#ffffff", box="#ffffff", radius=40, upper=False, y=1390)),
+    "angry": dict(case="upper", static=static_angry, dyn=dyn_angry, panel=panel_angry, flash="#ffdd55", tag_col="#d62828", frame=("#6e4214", 8),
+                  text=roles("Bangers-Regular.ttf", "BarlowCondensed-ExtraBold.ttf", "#ffffff", "#ffd23c", "#ffffff", "#5a2a00", "#d62828", "#7a5a3a", stroke=0.09, sfill="#5a2a00"),
+                  cap=dict(font="Bangers-Regular.ttf", size=110, fill="#ffffff", hi="#d62828", stroke="#3a1a00", y=1250)),
+    "cpenguin": dict(case="none", static=static_cpenguin, dyn=dyn_cpenguin, panel=panel_cpenguin, flash="#ffffff", tag_col="#ffd23c", frame=("#125cb4", 7),
+                     text=roles("Baloo2[wght].ttf", "Baloo2[wght].ttf", "#ffffff", "#ffd23c", "#ffffff", "#0b3d7a", "#125cb4", "#4a6a8a", stroke=0.07, sfill="#0b3d7a", wb=800, ws=700),
+                     cap=dict(font="Baloo2[wght].ttf", wght=800, size=84, fill="#ffffff", hi="#ffd23c", stroke="#0b3d7a", box="#125cb4", radius=22, upper=False, y=1330)),
+    "goat": dict(case="none", static=static_goat, dyn=dyn_goat, panel=panel_goat, flash="#ffffff", tag_col="#ffdc46", frame=("#2a1408", 8),
+                 text=roles("KaushanScript-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#ffdc46", "#fff0d0", "#ffffff", "#ffdc46", "#d8c0a0", stroke=0.07, sfill="#3a1400"),
+                 cap=dict(font="PermanentMarker-Regular.ttf", size=96, fill="#ffffff", hi="#ffdc46", stroke="#2a1000", mode="word", upper=False, y=1280)),
+})

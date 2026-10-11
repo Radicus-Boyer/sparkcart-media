@@ -1,0 +1,155 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 45,
+ "theme": "angry",
+ "game": "Angry Birds",
+ "target": 86,
+ "voice": "af_nicole",
+ "speed": 1.12,
+ "pron": {
+  "Rovio": "Ro-vee-oh",
+  "Jaakko": "Yak-ko",
+  "Iisalo": "Ee-salo"
+ },
+ "lines": [
+  {
+   "t": "Before Angry Birds, Rovio had already made 51 games for other companies.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop9-slingshot.jpg",
+    "big": [
+     "ANGRY BIRDS",
+     "*GAME NUMBER 52"
+    ],
+    "label": "A REAL GIANT SLINGSHOT",
+    "credit": "Photo: SSG B. Lashleyleidner, U.S. Army, PD",
+    "size": 92
+   }
+  },
+  {
+   "t": "By 2009, the studio could only afford to make one more game of its own.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ONE LAST",
+     "*SHOT"
+    ],
+    "icon": "coins",
+    "sub": "money for one game"
+   }
+  },
+  {
+   "t": "Designer Jaakko Iisalo drew some grumpy birds with angry eyebrows, and the team picked it before they even had the gameplay.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "ANGRY",
+     "*EYEBROWS"
+    ],
+    "icon": "pencil",
+    "sub": "picked before the gameplay existed"
+   }
+  },
+  {
+   "t": "The slingshot idea was first rejected for being too obvious.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TOO",
+     "*OBVIOUS"
+    ],
+    "icon": "ban",
+    "sub": "the slingshot, at first"
+   }
+  },
+  {
+   "t": "And the pigs? People say they came from swine flu, but Iisalo says he drew them when he was ten.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "MYTH",
+     "FLU",
+     "swine flu"
+    ],
+    "right": [
+     "TRUTH",
+     "AGE 10",
+     "his childhood drawings"
+    ]
+   }
+  },
+  {
+   "t": "It launched on iPhone in December 2009, with 63 levels.",
+   "sc": {
+    "kind": "stat",
+    "size": 230,
+    "val": "63",
+    "label": "LEVELS AT LAUNCH",
+    "sub": "December 2009",
+    "icon": "mobile-screen"
+   }
+  },
+  {
+   "t": "It stayed number one on the paid App Store chart for 275 days, a record.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     275,
+     "{:.0f} DAYS"
+    ],
+    "label": "AT #1 (RECORD)",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "By the end of 2010, it had 50 million downloads. On Android, the free version made about a million dollars a month from ads.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "DOWNLOADS",
+     "50M",
+     "by end of 2010"
+    ],
+    "right": [
+     "ADS",
+     "$1M",
+     "per month, Android"
+    ]
+   }
+  },
+  {
+   "t": "In 2019, the original was pulled from app stores, and fans started the hashtag Bring Back 2012.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "#BRING",
+     "*BACK2012"
+    ],
+    "size": 120,
+    "icon": "hashtag",
+    "sub": "after it vanished in 2019"
+   }
+  },
+  {
+   "t": "And this May, it entered the World Video Game Hall of Fame.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "HALL OF",
+     "*FAME"
+    ],
+    "icon": "award",
+    "sub": "May 2026"
+   }
+  },
+  {
+   "t": "Which bird was your favorite? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "FAVORITE BIRD?"
+   }
+  }
+ ],
+ "file": "45 - Angry Birds (86s).mp4"
+}

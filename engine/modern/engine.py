@@ -476,28 +476,34 @@ def word_times(text, t0, t1):
 
 def draw_caption(th, img, line, t0, t1, now):
     cs = th["cap"]
+    cy = cs.get("y", CAP_Y)                      # caption height (kept above the platform UI)
+    up = (lambda w: w.upper()) if cs.get("upper", True) else (lambda w: w)
     wt, chs, idx = word_times(line, t0, t1), chunks_for(line), 0
     for ch in chs:
         seg = wt[idx: idx + len(ch)]
         start, end = seg[0][1], seg[-1][2]
         if start - 0.02 <= now < end + 0.25 or (ch is chs[-1] and now >= start):
+            if cs.get("mode") == "word":         # one big word at a time
+                cur = [x for x in seg if x[1] <= now < x[2] + 0.12] or [seg[-1] if now >= seg[-1][1] else seg[0]]
+                seg = cur[:1]
             box = cs.get("box")
             sw = 0 if box else int(cs["size"] * 0.09)
             ims, curs = [], []
             for (w, a, b) in seg:
                 cur = a <= now < b + (0.25 if (w, a, b) == seg[-1] else 0)
-                ims.append(text_img(w.upper(), cs["font"], cs["size"], cs["hi"] if cur else cs["fill"], sw, cs["stroke"], cs.get("wght"), line=True))
+                ims.append(text_img(up(w), cs["font"], cs["size"], cs["hi"] if cur else cs["fill"], sw, cs["stroke"], cs.get("wght"), line=True))
                 curs.append(cur)
             sp = int(cs["size"] * cs.get("gap", 0.24))
             tw = sum(i.width - 12 for i in ims) + sp * (len(ims) - 1)
             sc = min(1.0, 980 / max(1, tw))
             k = back(min(1.0, (now - start) / 0.16)) if now - start < 0.16 else 1.0
-            if box:
-                hh = ims[0].height * sc
-                ImageDraw.Draw(img).rectangle([540 - tw * sc / 2 - 30, CAP_Y - hh / 2 - 6, 540 + tw * sc / 2 + 30, CAP_Y + hh / 2 + 6], fill=rgb(box))
+            if box and k > 0.35:
+                hh = ims[0].height * sc * k
+                r = cs.get("radius", 0)
+                ImageDraw.Draw(img).rounded_rectangle([540 - tw * sc * k / 2 - 30, cy - hh / 2 - 6, 540 + tw * sc * k / 2 + 30, cy + hh / 2 + 6], r, fill=rgb(box))
             x = 540 - tw * sc / 2
             for im, cur in zip(ims, curs):
-                paste(img, im, x + (im.width - 12) * sc / 2, CAP_Y, sc * (1.07 if cur else 1.0) * k)
+                paste(img, im, x + (im.width - 12) * sc / 2, cy, sc * (1.07 if cur else 1.0) * k)
                 x += (im.width - 12 + sp) * sc
             return
         idx += len(ch)

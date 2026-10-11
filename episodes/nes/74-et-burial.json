@@ -1,0 +1,183 @@
+{
+ "preset": "nes",
+ "num": 74,
+ "name": "E.T. Burial",
+ "slug": "etburial",
+ "theme": "dark",
+ "voice": "af_sky",
+ "speed": 1.08,
+ "title_lines": [
+  "E.T.",
+  "BURIED"
+ ],
+ "year_tag": "ATARI 2600",
+ "music": {
+  "bpm": 120,
+  "tr": -3,
+  "seed": 74
+ },
+ "pron": {
+  "Alamogordo": "Ala-mo-gordo",
+  "Warshaw": "War-shaw"
+ },
+ "lines": [
+  {
+   "say": "Atari once buried truckloads of video games in the New Mexico desert.",
+   "scene": {
+    "kind": "title",
+    "prop": "photo",
+    "args": {
+     "file": "pop9-landfill.jpg",
+     "rect": [
+      14,
+      96,
+      166,
+      196
+     ],
+     "label": "PHOTO: TAYLORHATMAKER CC BY"
+    }
+   }
+  },
+  {
+   "say": "The most famous one was E.T., for the Atari 2600.",
+   "scene": {
+    "bg": "space",
+    "head": "E.T.",
+    "headsc": 5,
+    "prop": "crt",
+    "subs": [
+     "ATARI 2600"
+    ]
+   },
+   "cap": "The most famous one was E.T., for the Atari 2600."
+  },
+  {
+   "say": "Its programmer, Howard Scott Warshaw, had only five weeks to make the whole game.",
+   "scene": {
+    "bg": "desk",
+    "head": "5 WEEKS",
+    "headsc": 4,
+    "prop": "computer",
+    "args": {
+     "text": "E.T."
+    },
+    "subs": [
+     "TO MAKE IT ALL"
+    ]
+   }
+  },
+  {
+   "say": "Atari made five million cartridges, but only about one and a half million sold at first.",
+   "scene": {
+    "bg": "dark",
+    "head": "5 MILLION MADE",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 1.5,
+     "fmt": "{:.1f}M",
+     "unit": "SOLD AT FIRST"
+    }
+   },
+   "cap": "Atari made 5 million cartridges, but only about 1.5 million sold at first."
+  },
+  {
+   "say": "Then in September 1983, trucks dumped Atari games at a landfill in Alamogordo, and covered them in concrete.",
+   "scene": {
+    "bg": "graveyard",
+    "head": "BURIED",
+    "headsc": 4,
+    "prop": "none",
+    "subs": [
+     "ALAMOGORDO, NEW MEXICO",
+     "UNDER CONCRETE"
+    ]
+   }
+  },
+  {
+   "say": "For years, people called it an urban legend.",
+   "scene": {
+    "bg": "dark",
+    "head": "A LEGEND?",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "MILLIONS OF E.T. GAMES UNDER THE DESERT?"
+    }
+   }
+  },
+  {
+   "say": "In April 2014, a film crew dug it up, in front of a crowd.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE 2014 DIG",
+    "headsc": 2,
+    "prop": "photo",
+    "args": {
+     "file": "pop9-landfill.jpg",
+     "rect": [
+      10,
+      70,
+      170,
+      190
+     ],
+     "label": "TAYLORHATMAKER CC BY 2.0"
+    }
+   }
+  },
+  {
+   "say": "They found about 1,300 cartridges, from 59 different games. Not millions of E.T.s.",
+   "scene": {
+    "bg": "dark",
+    "head": "FOUND",
+    "headsc": 3,
+    "prop": "bignum",
+    "args": {
+     "n": 1300,
+     "fmt": "{:,.0f}",
+     "unit": "CARTRIDGES"
+    }
+   }
+  },
+  {
+   "say": "Atari's own records said about 700,000 cartridges were buried in total.",
+   "scene": {
+    "bg": "dark",
+    "head": "THE REAL NUMBER",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 700,
+     "fmt": "{:.0f}K",
+     "unit": "BURIED"
+    }
+   },
+   "cap": "Atari's own records said about 700,000 cartridges were buried in total."
+  },
+  {
+   "say": "The city sold them online, and one E.T. cartridge went for over fifteen hundred dollars. Another went to the Smithsonian.",
+   "scene": {
+    "bg": "space",
+    "head": "SOLD!",
+    "headsc": 3,
+    "prop": "award",
+    "args": {
+     "n": "$1500",
+     "text": "ONE E.T. CARTRIDGE"
+    }
+   },
+   "cap": "The city sold them online, and one E.T. cartridge went for over $1,500. Another went to the Smithsonian."
+  },
+  {
+   "say": "Would you have dug for it? Comment for which game we should review next! Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "WOULD YOU DIG FOR IT?",
+    "ask": "COMMENT WHICH GAME TO REVIEW NEXT!",
+    "prop": "none",
+    "bg": "dark"
+   }
+  }
+ ],
+ "file": "74 ET Burial.mp4"
+}

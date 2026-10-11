@@ -582,6 +582,9 @@ def scene(img, t, lt, sc, i):
         prop(img, t, lt, sc.get("prop", "none"), sc.get("args", {}))
         box(img, 8, 30, 172, 110, P['blk'], P['yel'])
         block(img, sc["question"], 44, P['wht'], 2, 3, None)
+        if sc.get("ask"):
+            box(img, 8, 126, 172, 190, P["navy"], P["wht"])
+            block(img, sc["ask"], 134, P["yel"], 2, 3, None)
         if int(lt * 3) % 2 == 0 or lt > 1.0:
             box(img, 14, 208, 166, 250, P['red'], P['yel'])
             ptext(img, "FOLLOW FOR MORE", W // 2, 216, P['wht'], 1, None, True)

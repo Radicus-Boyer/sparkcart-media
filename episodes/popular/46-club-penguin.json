@@ -1,0 +1,139 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 46,
+ "theme": "cpenguin",
+ "game": "Club Penguin",
+ "target": 66,
+ "voice": "af_bella",
+ "speed": 1.1,
+ "pron": {
+  "Priebe": "Pree-bee",
+  "Merrifield": "Merry-field",
+  "Krysko": "Kris-ko",
+  "Puffle": "Puffle"
+ },
+ "lines": [
+  {
+   "t": "Club Penguin started because three dads couldn't find a safe website for their kids.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop9-penguin.jpg",
+    "big": [
+     "Club Penguin",
+     "*Built by 3 dads"
+    ],
+    "label": "A REAL PENGUIN, MID-JUMP",
+    "credit": "Photo: Christopher Michel, CC BY 2.0",
+    "size": 100
+   }
+  },
+  {
+   "t": "Lance Priebe, Lane Merrifield and Dave Krysko launched it in October 2005, with 15,000 users.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     15000,
+     "{:,.0f}"
+    ],
+    "label": "Players on day one",
+    "sub": "October 2005",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "They paid for it with their own credit, and kept 100 percent of the company.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "100%",
+     "*theirs"
+    ],
+    "icon": "piggy-bank",
+    "sub": "no investors"
+   }
+  },
+  {
+   "t": "Less than two years later, Disney bought it for about 350 million dollars.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "$350M",
+    "label": "Disney buys it",
+    "sub": "August 2007",
+    "icon": "handshake"
+   }
+  },
+  {
+   "t": "About 70 of its 100 staff worked on keeping the game safe, and swearing could get you banned for 24 hours.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "Staff",
+     "70/100",
+     "kept it safe"
+    ],
+    "right": [
+     "Swearing",
+     "24h",
+     "auto ban"
+    ]
+   }
+  },
+  {
+   "t": "By 2013, it had over 200 million accounts. About 90 percent of players never paid, and there were no ads.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "200M+",
+    "label": "accounts",
+    "sub": "by July 2013",
+    "icon": "snowflake"
+   }
+  },
+  {
+   "t": "It shut down on March 30, 2017.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Waddle",
+     "*on"
+    ],
+    "icon": "igloo",
+    "sub": "March 30, 2017"
+   }
+  },
+  {
+   "t": "In the final hours, players raced to get banned as fast as possible. The record was under 40 seconds.",
+   "sc": {
+    "kind": "stat",
+    "size": 170,
+    "val": "<40 SEC",
+    "label": "fastest ban",
+    "sub": "the last day",
+    "icon": "stopwatch"
+   }
+  },
+  {
+   "t": "A fan-made copy, Club Penguin Rewritten, grew to over 11 million users, until police shut it down in 2022 after a request from Disney.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Rewritten",
+     "*11M users"
+    ],
+    "size": 120,
+    "icon": "shield",
+    "sub": "shut down in 2022"
+   }
+  },
+  {
+   "t": "What was your favorite Puffle? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Favorite Puffle?"
+   }
+  }
+ ],
+ "file": "46 - Club Penguin (66s).mp4"
+}

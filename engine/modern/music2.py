@@ -97,6 +97,11 @@ STYLES.update({
     "pvz": dict(STYLES["swr"], bpm=112, root=50, scale="major", prog=[0, 3, 4, 0]),
     "tetris": dict(STYLES["swr"], bpm=144, root=45, scale="minor", prog=[0, 4, 5, 3]),
     "fallguys": dict(STYLES["dandy"], bpm=130, root=53, scale="major", prog=[0, 5, 3, 4]),
+    "flappy": dict(STYLES["swr"], bpm=150, root=57, scale="major", prog=[0, 4, 0, 5]),
+    "wiisports": dict(STYLES["dandy"], bpm=116, root=55, scale="major", prog=[0, 3, 4, 3]),
+    "angry": dict(STYLES["swr"], bpm=132, root=50, scale="minor", prog=[0, 3, 4, 4]),
+    "cpenguin": dict(STYLES["dandy"], bpm=124, root=60, scale="major", prog=[0, 5, 3, 4]),
+    "goat": dict(STYLES["swr"], bpm=140, root=46, scale="dorian", prog=[0, 6, 3, 4]),
     "fnaf": dict(STYLES["dandy"], bpm=88, root=36, scale="minor", prog=[0, 3, 5, 6]),
     "gdash": dict(STYLES["swr"], bpm=140, root=40, scale="minor", prog=[0, 5, 2, 6]),
     # sneaky

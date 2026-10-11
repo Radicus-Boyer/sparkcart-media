@@ -1,0 +1,108 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 47,
+ "theme": "goat",
+ "game": "Goat Simulator",
+ "target": 46,
+ "voice": "bm_lewis",
+ "speed": 1.05,
+ "pron": {},
+ "lines": [
+  {
+   "t": "Goat Simulator started as a joke, at a one-month game jam.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop9-goatroof.jpg",
+    "big": [
+     "Goat Simulator",
+     "*It was a joke"
+    ],
+    "label": "A REAL GOAT, ON A ROOF",
+    "credit": "Photo: Tim Green, CC BY 2.0",
+    "size": 96
+   }
+  },
+  {
+   "t": "The goat model cost the team less than 20 dollars.",
+   "sc": {
+    "kind": "stat",
+    "size": 220,
+    "val": "<$20",
+    "label": "for the goat",
+    "sub": "bought from a model store",
+    "icon": "tag"
+   }
+  },
+  {
+   "t": "They only fixed bugs that crashed the game. Every other glitch stayed in, because it was hilarious.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Bugs",
+     "*stayed in"
+    ],
+    "icon": "bug",
+    "sub": "on purpose"
+   }
+  },
+  {
+   "t": "The alpha trailer passed a million YouTube views in two days.",
+   "sc": {
+    "kind": "stat",
+    "size": 240,
+    "val": "1M",
+    "label": "views in 2 days",
+    "sub": "the alpha trailer",
+    "icon": "video"
+   }
+  },
+  {
+   "t": "It launched on April Fools' Day 2014, and made back its budget within minutes.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Paid off",
+     "*in minutes"
+    ],
+    "icon": "coins",
+    "sub": "launched April 1st"
+   }
+  },
+  {
+   "t": "By 2016, it had made over 12 million dollars.",
+   "sc": {
+    "kind": "stat",
+    "size": 210,
+    "val": "$12M+",
+    "label": "earned",
+    "sub": "by 2016",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "The sequel is called Goat Simulator 3. There is no Goat Simulator 2.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "Goat Sim 2",
+     "?",
+     "doesn't exist"
+    ],
+    "right": [
+     "Goat Sim 3",
+     "3",
+     "2022"
+    ]
+   }
+  },
+  {
+   "t": "What's the dumbest thing you did as the goat? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Dumbest goat moment?"
+   }
+  }
+ ],
+ "file": "47 - Goat Simulator (46s).mp4"
+}

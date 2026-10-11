@@ -1,0 +1,174 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 75,
+ "slug": "75-ikea-on-roblox",
+ "file": "75 IKEA on Roblox (30s).mp4",
+ "target": 30,
+ "accent": "#ffd23c",
+ "bpm": 112,
+ "root": 62,
+ "voice": "af_sarah",
+ "speed": 1.08,
+ "pron": {
+  "IKEA": "eye-kee-ah"
+ },
+ "lines": [
+  {
+   "t": "IKEA once paid real people real money to work in a Roblox store.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "IKEA ON\nROBLOX",
+    "sub": "A REAL JOB. IN ROBLOX.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop9-meatballs.jpg",
+     "label": "REAL SWEDISH MEATBALLS",
+     "credit": "Photo: Hakan Dahlstrom, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 48
+   }
+  },
+  {
+   "t": "It was called The Co-Worker Game, and it opened in June 2024.",
+   "sc": {
+    "bg": "mint",
+    "ground": "wood",
+    "big": "THE CO-WORKER\nGAME",
+    "sub": "OPENED JUNE 2024",
+    "bs": 104,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6,
+      {
+       "c": "#1e5fb4"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.4,
+       1.0
+      ],
+      "a": "wave",
+      "c": "g",
+      "hat": "#ffd23c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "IKEA hired 10 players from the UK and Ireland, at 13 pounds 15 an hour. Applicants had to say which pixel IKEA furniture they'd be.",
+   "sc": {
+    "bg": "gold",
+    "ground": "wood",
+    "big": "£13.15\nAN HOUR",
+    "sub": "10 PLAYERS HIRED",
+    "rays": "#ffffff",
+    "bs": 130,
+    "fx": [
+     "coins"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e"
+     }
+    ]
+   }
+  },
+  {
+   "t": "They served virtual meatballs, helped customers, and could even get promoted.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "PROMOTED!",
+    "sub": "IN A ROBLOX STORE",
+    "rays": "#ffffff",
+    "bs": 170,
+    "props": [
+     [
+      "crate",
+      -1.8,
+      -1.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.8
+      ],
+      "a": "jump",
+      "c": "b",
+      "hat": "#ffd23c"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Would you take that job? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WOULD YOU\nTAKE IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

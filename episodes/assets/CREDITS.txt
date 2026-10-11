@@ -114,3 +114,12 @@ pop8-vault.jpg        "Bank of Gage (Oklahoma) vault door 1" by Ammodramus, CC0 
 pop8-field.jpg        "Sunflower field at sunset" by Summer Stock, CC0 (Plants vs. Zombies)
 pop8-pajitnov.jpg     "Alexey Pajitnov GDC 2024 (cropped)" by Official GDC, CC BY 2.0 (Tetris)
 pop8-inflatable.jpg   "Inflatable course", public domain (Fall Guys)
+
+Batch 9 (2026-10-12)
+pop9-pigeon.jpg     "Pigeon in Flight" by Thomas Quine, CC BY 2.0 (Flappy Bird)
+pop9-wiistrap.jpg   "57 365 - June 30, 2008" by Morgan from Montreal, CC BY 2.0 (Wii Sports)
+pop9-slingshot.jpg  "'Devil' brigade celebrates Independence Day in Kuwait" by Staff Sgt. Bernhard Lashleyleidner, U.S. Army, public domain (Angry Birds)
+pop9-landfill.jpg   "Atari E.T. Dig - Alamogordo, New Mexico" by taylorhatmaker, CC BY 2.0 (E.T. burial)
+pop9-penguin.jpg    "Penguin in Antarctica jumping out of the water" by Christopher Michel, CC BY 2.0 (Club Penguin)
+pop9-meatballs.jpg  "Swedish Meatballs" by Hakan Dahlstrom, CC BY 2.0 (IKEA on Roblox)
+pop9-goatroof.jpg   "Goat on the roof" by Tim Green, CC BY 2.0 (Goat Simulator)

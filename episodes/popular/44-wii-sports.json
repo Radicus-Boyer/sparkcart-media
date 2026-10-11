@@ -1,0 +1,160 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 44,
+ "theme": "wiisports",
+ "game": "Wii Sports",
+ "target": 60,
+ "voice": "bf_emma",
+ "speed": 1.1,
+ "pron": {
+  "Fils-Aime": "Fills Ah-may",
+  "Iwata": "Ee-wata",
+  "Miyamoto": "Mee-ya-moto",
+  "Miis": "Mees"
+ },
+ "lines": [
+  {
+   "t": "Wii Sports is Nintendo's best-selling game ever, with over 82 million copies.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop9-wiistrap.jpg",
+    "big": [
+     "Wii Sports",
+     "*82 million copies"
+    ],
+    "label": "A REAL WII REMOTE STRAP",
+    "credit": "Photo: Morgan from Montreal, CC BY 2.0",
+    "size": 100
+   }
+  },
+  {
+   "t": "It launched with the Wii in November 2006, and came free in the box almost everywhere except Japan and Korea.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Free in",
+     "*the box"
+    ],
+    "icon": "gift",
+    "sub": "everywhere but Japan and Korea"
+   }
+  },
+  {
+   "t": "There were five sports: tennis, baseball, bowling, golf, and boxing.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "table-tennis-paddle-ball",
+      "Tennis"
+     ],
+     [
+      "baseball",
+      "Baseball"
+     ],
+     [
+      "bowling-ball",
+      "Bowling"
+     ],
+     [
+      "golf-ball-tee",
+      "Golf"
+     ],
+     [
+      "hand-fist",
+      "Boxing"
+     ]
+    ],
+    "head": "5 sports"
+   }
+  },
+  {
+   "t": "Early on, it starred Mario characters, but players liked their own Miis better.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "Before",
+     "Mario",
+     "early builds"
+    ],
+    "right": [
+     "After",
+     "Miis",
+     "players' choice"
+    ]
+   }
+  },
+  {
+   "t": "Nintendo almost didn't bundle it. Reggie Fils-Aime convinced Miyamoto and Iwata.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Almost",
+     "*not bundled"
+    ],
+    "icon": "handshake",
+    "sub": "Reggie made the case"
+   }
+  },
+  {
+   "t": "Players swung so hard that remotes flew out of their hands, so Nintendo made the wrist straps almost twice as thick.",
+   "sc": {
+    "kind": "stat",
+    "size": 220,
+    "val": "2x",
+    "label": "thicker wrist straps",
+    "sub": "after flying remotes",
+    "icon": "hand"
+   }
+  },
+  {
+   "t": "Senior centers even started their own Wii bowling leagues. And it won six BAFTA awards in 2007.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "Senior bowling leagues"
+     ],
+     [
+      "trophy",
+      "6 BAFTAs, 2007"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "A tough opponent named Matt became a meme, and he came back as a secret boss in Switch Sports.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Matt"
+    ],
+    "size": 200,
+    "icon": "user-ninja",
+    "sub": "the meme, now a secret boss"
+   }
+  },
+  {
+   "t": "In 2023, it joined the World Video Game Hall of Fame.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "Hall of",
+     "*Fame"
+    ],
+    "icon": "award",
+    "sub": "World Video Game Hall of Fame, 2023"
+   }
+  },
+  {
+   "t": "What was your best sport? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "Your best sport?"
+   }
+  }
+ ],
+ "file": "44 - Wii Sports (60s).mp4"
+}
