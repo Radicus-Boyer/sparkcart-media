@@ -1651,3 +1651,130 @@ THEMES.update({
                   text=roles("PatrickHand-Regular.ttf", "PatrickHand-Regular.ttf", "#ffffff", "#ff2a2a", "#ffffff", "#202020", "#d01818", "#404040", stroke=0.09, sfill="#202020"),
                   cap=dict(font="PatrickHand-Regular.ttf", size=104, fill="#ffffff", hi="#ff2a2a", stroke="#202020")),
 })
+
+
+# ================================================================ PLANTS VS. ZOMBIES: lawn rows, falling sun, seed packets
+def static_pvz():
+    img = vgrad("#8fd3ff", "#d8f3ff")
+    lay, d = layer()
+    d.rectangle([0, 1280, W, H], fill=(96, 168, 60, 255))
+    for r in range(5):
+        y = 1300 + r * 125
+        for c in range(9):
+            x = c * 120
+            col = (110, 186, 70, 255) if (r + c) % 2 else (92, 160, 56, 255)
+            d.rectangle([x, y, x + 120, y + 125], fill=col)
+    d.rectangle([0, 1240, W, 1290], fill=(150, 110, 70, 255))
+    for x in range(0, W, 60):
+        d.rectangle([x + 10, 1180, x + 40, 1260], fill=(240, 236, 220, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_pvz(img, d, now, prog, end, S):
+    for (a, b, c, e) in particles(5, 23):
+        x = 120 + a * 840
+        y = ((b + now * (0.05 + c * 0.04)) % 1.0) * 1100 + 260
+        r = 30 + 6 * math.sin(now * 4 + a * 7)
+        d.ellipse([x - r, y - r, x + r, y + r], fill=(255, 214, 40))
+        d.ellipse([x - r * 0.55, y - r * 0.55, x + r * 0.55, y + r * 0.55], fill=(255, 240, 140))
+    paste(img, text_img(f"SUN {25 * (1 + int(prog * 40))}", "Chewy-Regular.ttf", 46, "#ffe14d", 5, "#5a3a10"), 900, 198)
+
+
+def panel_pvz(w, h, kind="main"):
+    im, d = _panel(w, h, (250, 236, 196, 248), (90, 140, 40, 255), 8, 16, (10, 12, (40, 60, 20, 120)))
+    if kind == "main":
+        d.rectangle([PM + 14, PM + 14, PM + w - 14, PM + 24], fill=(150, 200, 80, 255))
+    return im
+
+
+# ================================================================ TETRIS: dark well, falling tetrominoes, line counter
+_TET = [((0, 0), (1, 0), (2, 0), (3, 0)), ((0, 0), (1, 0), (0, 1), (1, 1)), ((0, 0), (1, 0), (2, 0), (1, 1)),
+        ((1, 0), (2, 0), (0, 1), (1, 1)), ((0, 0), (1, 0), (1, 1), (2, 1)), ((0, 0), (0, 1), (1, 1), (2, 1)), ((2, 0), (0, 1), (1, 1), (2, 1))]
+_TETC = [(0, 240, 240), (240, 240, 0), (160, 0, 240), (0, 240, 0), (240, 0, 0), (0, 80, 240), (240, 160, 0)]
+
+
+def static_tetris():
+    img = radial("#151a3a", "#04050f", CX, 900, 1300)
+    lay, d = layer()
+    for x in range(0, W, 60):
+        d.line([(x, 0), (x, H)], fill=(40, 50, 110, 70), width=2)
+    for y in range(0, H, 60):
+        d.line([(0, y), (W, y)], fill=(40, 50, 110, 70), width=2)
+    rows = [(1680, 16), (1740, 17), (1800, 17), (1860, 18)]
+    for (y, n) in rows:
+        for c in range(n):
+            if (c * 7 + y) % 11 == 3:
+                continue
+            col = _TETC[(c + y // 60) % 7]
+            d.rectangle([c * 60 + 2, y + 2, c * 60 + 58, y + 58], fill=col + (200,))
+    over(img, lay)
+    return vignette(img, 0.8)
+
+
+def dyn_tetris(img, d, now, prog, end, S):
+    for k in range(4):
+        sh = _TET[(k * 3 + int(now / 3)) % 7]
+        col = _TETC[(k * 2 + int(now / 3)) % 7]
+        x0 = 60 + k * 270
+        y0 = ((now * 140 + k * 400) % 1500) + 200
+        for (cx, cy) in sh:
+            x, y = x0 + cx * 50, y0 + cy * 50
+            d.rectangle([x, y, x + 46, y + 46], fill=col, outline=(255, 255, 255), width=3)
+    paste(img, text_img(f"LINES {int(prog * 150):03d}", "PressStart2P-Regular.ttf", 32, "#ffffff", 4, "#04050f"), 880, 198)
+
+
+def panel_tetris(w, h, kind="main"):
+    im, d = _panel(w, h, (10, 12, 34, 244), (0, 240, 240, 255), 6, 6, (10, 12, (0, 0, 0, 150)))
+    if kind == "main":
+        for i, c in enumerate(_TETC):
+            d.rectangle([PM + 14 + i * 26, PM + h - 26, PM + 34 + i * 26, PM + h - 14], fill=c + (255,))
+    return im
+
+
+# ================================================================ FALL GUYS: candy sky, bouncing beans, crown
+def static_fallguys():
+    img = vgrad("#7ad7ff", "#ffd1f0")
+    lay, d = layer()
+    for k in range(9):
+        x = (k * 173) % W
+        d.ellipse([x - 120, 1500 + (k % 3) * 40, x + 160, 1640 + (k % 3) * 40], fill=(255, 255, 255, 170))
+    d.rectangle([0, 1640, W, H], fill=(255, 120, 200, 255))
+    for x in range(0, W, 120):
+        d.rectangle([x, 1640, x + 60, H], fill=(255, 170, 225, 255))
+    over(img, lay)
+    return img
+
+
+def dyn_fallguys(img, d, now, prog, end, S):
+    cols = [(255, 120, 200), (120, 200, 255), (255, 210, 60), (140, 230, 120), (190, 140, 255)]
+    for k in range(5):
+        x = 140 + k * 200
+        y = 1560 - abs(math.sin(now * 3 + k)) * 140
+        c = cols[k]
+        d.rounded_rectangle([x - 40, y - 80, x + 40, y + 40], 40, fill=c, outline=(40, 30, 60), width=5)
+        d.rounded_rectangle([x - 28, y - 60, x + 28, y - 30], 14, fill=(255, 255, 255))
+        d.ellipse([x - 16, y - 52, x - 4, y - 38], fill=(30, 20, 40))
+        d.ellipse([x + 4, y - 52, x + 16, y - 38], fill=(30, 20, 40))
+    left = max(1, 60 - int(prog * 59))
+    paste(img, text_img(f"{left}/60 LEFT", "TitanOne-Regular.ttf", 40, "#ffffff", 5, "#5a2a7a"), 880, 198)
+
+
+def panel_fallguys(w, h, kind="main"):
+    im, d = _panel(w, h, (255, 255, 255, 246), (255, 80, 180, 255), 8, 28, (10, 14, (90, 40, 120, 110)))
+    if kind == "main":
+        d.rounded_rectangle([PM + 14, PM + 14, PM + w - 14, PM + 26], 6, fill=(255, 210, 60, 255))
+    return im
+
+
+THEMES.update({
+    "pvz": dict(case="upper", static=static_pvz, dyn=dyn_pvz, panel=panel_pvz, flash="#fff6b0", tag_col="#ffe14d", frame=("#3c6a1a", 8),
+                text=roles("Chewy-Regular.ttf", "Baloo2[wght].ttf", "#ffffff", "#ffe14d", "#ffffff", "#3a2a10", "#3c8a1a", "#6a5a3a", stroke=0.08, sfill="#2a4a10", ws=800),
+                cap=dict(font="Chewy-Regular.ttf", size=98, fill="#ffffff", hi="#ffe14d", stroke="#2a4a10")),
+    "tetris": dict(case="upper", static=static_tetris, dyn=dyn_tetris, panel=panel_tetris, flash="#00f0f0", tag_col="#00f0f0", frame=("#00f0f0", 6),
+                   text=roles("RussoOne-Regular.ttf", "Rajdhani-Bold.ttf", "#ffffff", "#00f0f0", "#c8d0ff", "#ffffff", "#f0a000", "#9aa4d8", stroke=0.06, sfill="#04050f"),
+                   cap=dict(font="RussoOne-Regular.ttf", size=90, fill="#ffffff", hi="#00f0f0", stroke="#04050f")),
+    "fallguys": dict(case="upper", static=static_fallguys, dyn=dyn_fallguys, panel=panel_fallguys, flash="#ffffff", tag_col="#ff50b4", frame=("#5a2a7a", 8),
+                     text=roles("TitanOne-Regular.ttf", "Nunito[wght].ttf", "#ffffff", "#ffd23c", "#ffffff", "#3a1a5a", "#ff50b4", "#6a5a8a", stroke=0.08, sfill="#5a2a7a", ws=900),
+                     cap=dict(font="TitanOne-Regular.ttf", size=94, fill="#ffffff", hi="#ffd23c", stroke="#5a2a7a")),
+})

@@ -1,0 +1,177 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 41,
+ "theme": "tetris",
+ "game": "Tetris",
+ "target": 70,
+ "pron": {
+  "Pajitnov": "Pa-zhit-nov",
+  "Elektronika": "Elek-tronika",
+  "Henk": "Henk"
+ },
+ "lines": [
+  {
+   "t": "Tetris has sold over 520 million copies, and it started on a Soviet computer.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop8-pajitnov.jpg",
+    "big": [
+     "TETRIS",
+     "*520 MILLION SOLD"
+    ],
+    "label": "ALEXEY PAJITNOV, ITS CREATOR",
+    "credit": "Photo: Official GDC, CC BY 2.0",
+    "size": 100
+   }
+  },
+  {
+   "t": "Alexey Pajitnov made it on an Elektronika 60, reportedly in about three weeks.",
+   "sc": {
+    "kind": "stat",
+    "size": 150,
+    "val": "~3 WEEKS",
+    "label": "TO MAKE THE FIRST VERSION",
+    "sub": "on an Elektronika 60",
+    "icon": "hourglass-half"
+   }
+  },
+  {
+   "t": "The name mixes tetra, Greek for four, with tennis, his favorite sport.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "TETRA",
+     "4",
+     "four blocks"
+    ],
+    "right": [
+     "TENNIS",
+     "+",
+     "his favorite sport"
+    ]
+   }
+  },
+  {
+   "t": "Getting it out of the Soviet Union turned into a giant rights battle.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "RIGHTS",
+     "*BATTLE"
+    ],
+    "icon": "scale-balanced",
+    "sub": "who owned Tetris?"
+   }
+  },
+  {
+   "t": "One businessman sold the Western rights before he even owned them.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "SOLD IT",
+     "*FIRST"
+    ],
+    "icon": "handshake",
+    "sub": "before owning the rights"
+   }
+  },
+  {
+   "t": "In 1989, Henk Rogers showed up uninvited at the Soviet office, and won the Game Boy rights for Nintendo.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "UNINVITED"
+    ],
+    "size": 130,
+    "icon": "door-open",
+    "sub": "Henk Rogers, Moscow, 1989"
+   }
+  },
+  {
+   "t": "That Game Boy version has sold 35 million copies.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     35000000,
+     "{:,.0f}"
+    ],
+    "label": "GAME BOY COPIES",
+    "icon": "gamepad"
+   }
+  },
+  {
+   "t": "Pajitnov didn't get his rights back until 1995, and The Tetris Company was formed in 1996.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "user",
+      "1995: RIGHTS RETURN"
+     ],
+     [
+      "building",
+      "1996: THE TETRIS COMPANY"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Guinness calls it the most ported game ever, on at least 70 platforms.",
+   "sc": {
+    "kind": "stat",
+    "size": 200,
+    "val": "70+",
+    "label": "PLATFORMS",
+    "sub": "Guinness: most ported game",
+    "icon": "trophy"
+   }
+  },
+  {
+   "t": "The Tetris effect, seeing falling blocks when you close your eyes, got its name from a 1994 Wired article.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "THE TETRIS",
+     "*EFFECT"
+    ],
+    "size": 120,
+    "icon": "eye",
+    "sub": "named in Wired, 1994"
+   }
+  },
+  {
+   "t": "In 2019, Tetris 99 turned it into a 99 player battle royale.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "TETRIS",
+     "*99"
+    ],
+    "size": 140,
+    "icon": "users",
+    "sub": "a 99-player battle royale, 2019"
+   }
+  },
+  {
+   "t": "And in January 2024, a teenager became the first person to beat NES Tetris, by making the game crash.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "GAME",
+     "*CRASHED"
+    ],
+    "icon": "bomb",
+    "sub": "NES Tetris, January 2024"
+   }
+  },
+  {
+   "t": "What's your highest Tetris score? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "HIGHEST SCORE?"
+   }
+  }
+ ],
+ "file": "41 - Tetris (70s).mp4"
+}

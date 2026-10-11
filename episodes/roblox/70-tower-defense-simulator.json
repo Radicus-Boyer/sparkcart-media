@@ -1,0 +1,157 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 70,
+ "slug": "70-tower-defense-simulator",
+ "file": "70 Tower Defense Simulator (30s).mp4",
+ "target": 30,
+ "accent": "#ffca28",
+ "bpm": 126,
+ "root": 55,
+ "pron": {
+  "Paradoxum": "Para-dox-um"
+ },
+ "lines": [
+  {
+   "t": "Tower Defense Simulator just hit its biggest crowd ever, almost seven years after it launched.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "TOWER DEFENSE\nSIMULATOR",
+    "sub": "RECORD CROWD, 7 YEARS LATER",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-toysoldiers.jpg",
+     "label": "REAL TOY SOLDIERS",
+     "credit": "Photo: Jcbutler, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 100,
+    "ss": 48
+   }
+  },
+  {
+   "t": "You and your team place towers along the path, earn cash every wave, and upgrade until you can take down the boss.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "PLACE.\nUPGRADE. HOLD.",
+    "sub": "TAKE DOWN THE BOSS",
+    "bs": 110,
+    "props": [
+     [
+      "tower",
+      -2.0,
+      -1.6
+     ],
+     [
+      "tower",
+      1.6,
+      -2.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.2
+      ],
+      "a": "run",
+      "c": "k",
+      "to": [
+       1.4,
+       1.2
+      ],
+      "face": "mean",
+      "s": 0.6
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "It's made by Paradoxum Games, and trackers count over 4.6 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 4.6,
+     "fmt": "{:.1f} BILLION+"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "This September, trackers say about 104,000 people played at once.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "PLAYERS AT ONCE, SEPT 2026",
+    "rays": "#ffffff",
+    "count": {
+     "to": 104000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 20,
+     "appear": 0.8
+    }
+   }
+  },
+  {
+   "t": "What's your favorite tower? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "FAVORITE\nTOWER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

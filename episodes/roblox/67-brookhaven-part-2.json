@@ -1,0 +1,154 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 67,
+ "slug": "67-brookhaven-part-2",
+ "file": "67 Brookhaven Part 2 (30s).mp4",
+ "target": 30,
+ "accent": "#66bb6a",
+ "bpm": 122,
+ "root": 60,
+ "pron": {
+  "Voldex": "Vol-dex"
+ },
+ "lines": [
+  {
+   "t": "Brookhaven is still the number one game on Roblox, and it's not even close.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BROOKHAVEN\nPART 2",
+    "sub": "STILL #1 ON ROBLOX",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-town.jpg",
+     "label": "A REAL TOWN FROM ABOVE",
+     "credit": "Photo: Serg Bataiev, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 48
+   }
+  },
+  {
+   "t": "Trackers count over 80 billion visits. Its biggest day came in July 2025, with about 1.2 million people playing at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 80,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "When Voldex bought it in February 2025, it had over 120 million players every month.",
+   "sc": {
+    "bg": "mint",
+    "ground": "road",
+    "big": "120 MILLION",
+    "sub": "PLAYERS EVERY MONTH",
+    "bs": 124,
+    "props": [
+     [
+      "house",
+      -2.6,
+      -2.6
+     ],
+     [
+      "car",
+      1.2,
+      -0.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       1.4
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "That's more people than live in most countries.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "BIGGER THAN\nMOST COUNTRIES",
+    "sub": "120M MONTHLY PLAYERS",
+    "bs": 104,
+    "ss": 46,
+    "ic": [
+     {
+      "n": "globe",
+      "x": 860,
+      "y": 830,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "crowd": {
+     "n": 14,
+     "appear": 0.6
+    }
+   }
+  },
+  {
+   "t": "What's your Brookhaven house like? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "YOUR DREAM\nHOUSE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

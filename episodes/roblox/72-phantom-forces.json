@@ -1,0 +1,469 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 72,
+ "slug": "72-phantom-forces",
+ "file": "72 Phantom Forces (70s).mp4",
+ "target": 70,
+ "accent": "#90a4ae",
+ "bpm": 128,
+ "root": 52,
+ "pron": {
+  "litozinnamon": "lito zinnamon",
+  "StyLiS": "Stylis",
+  "Robloxia": "Roblox-ia"
+ },
+ "lines": [
+  {
+   "t": "Phantom Forces is a Roblox shooter so detailed, it was built to feel like Battlefield.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "PHANTOM\nFORCES",
+    "sub": "BATTLEFIELD, ON ROBLOX",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-range.jpg",
+     "label": "REAL RIFLE TRAINING",
+     "credit": "Photo: Spc. Ashley Webster, U.S. Army, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 48
+   }
+  },
+  {
+   "t": "It's made by StyLiS Studios, led by a developer called litozinnamon, who also made Call of Robloxia 5.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "STYLIS\nSTUDIOS",
+    "sub": "ALSO MADE CALL OF ROBLOXIA 5",
+    "bs": 124,
+    "ss": 44,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 850,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The game started with a team of just three developers.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "3 DEVS",
+    "sub": "THAT'S THE WHOLE TEAM",
+    "bs": 190,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "bob",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Its game page dates back to August 2015, and it's still being updated today.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "big": "SINCE 2015",
+    "sub": "STILL GETTING UPDATES",
+    "bs": 170,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w",
+      "hold": "gun"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Two teams, the Phantoms and the Ghosts, fight across modes like Team Deathmatch and Capture the Flag.",
+   "sc": {
+    "bg": "arena",
+    "ground": "stone",
+    "big": "PHANTOMS\nVS GHOSTS",
+    "sub": "TDM, CAPTURE THE FLAG & MORE",
+    "bs": 124,
+    "ss": 44,
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.8
+      ],
+      "a": "run",
+      "c": "b",
+      "to": [
+       -0.6,
+       0.8
+      ],
+      "hold": "gun"
+     },
+     {
+      "p": [
+       1.6,
+       0.8
+      ],
+      "a": "run",
+      "c": "k",
+      "to": [
+       0.6,
+       0.8
+      ],
+      "hold": "gun",
+      "f": "y"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "In Team Deathmatch, the first team to 200 kills wins.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "sub": "KILLS TO WIN",
+    "bc": "#ffffff",
+    "count": {
+     "to": 200,
+     "fmt": "{:.0f}"
+    },
+    "bs": 230,
+    "ic": [
+     {
+      "n": "crosshair",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You pick one of four classes: Assault, Scout, Support, or Recon.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "4 CLASSES",
+    "sub": "ASSAULT, SCOUT, SUPPORT, RECON",
+    "bs": 150,
+    "ss": 42,
+    "av": [
+     {
+      "p": [
+       -2.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       -0.7,
+       1.0
+      ],
+      "a": "idle",
+      "c": "b",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       0.7,
+       1.0
+      ],
+      "a": "idle",
+      "c": "g",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       2.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "k",
+      "hold": "gun"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And the armory is huge. There are over 200 guns, plus 48 melee weapons.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "200+ GUNS",
+    "sub": "+ 48 MELEE WEAPONS",
+    "rays": "#ffffff",
+    "bs": 170,
+    "props": [
+     [
+      "crate",
+      -1.8,
+      -1.2
+     ],
+     [
+      "crate",
+      1.0,
+      -2.0
+     ]
+    ],
+    "ic": [
+     {
+      "n": "gun",
+      "x": 300,
+      "y": 830,
+      "s": 140,
+      "a": "float"
+     },
+     {
+      "n": "sword",
+      "x": 820,
+      "y": 830,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Its maps include Desert Storm, Metro, and Crane Site, the very first map.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "CRANE SITE",
+    "sub": "THE VERY FIRST MAP",
+    "bs": 160,
+    "props": [
+     [
+      "tower",
+      -2.2,
+      -2.0
+     ],
+     [
+      "block",
+      1.2,
+      -1.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       1.0
+      ],
+      "a": "sneak",
+      "c": "b",
+      "hold": "gun"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Some maps were made for events, like Ruins, built for the Ready Player One event in 2018.",
+   "sc": {
+    "bg": "forest",
+    "ground": "stone",
+    "big": "RUINS",
+    "sub": "READY PLAYER ONE EVENT, 2018",
+    "bs": 200,
+    "ss": 44,
+    "props": [
+     [
+      "block",
+      -1.8,
+      -1.4
+     ],
+     [
+      "block",
+      1.4,
+      -2.2
+     ]
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "For April Fools 2016, the game renamed itself Aimbot Forces, and sold aimbot for 100 Robux.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "AIMBOT\nFORCES",
+    "sub": "APRIL FOOLS, 2016",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "crosshair",
+      "x": 860,
+      "y": 830,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Another year, every map was turned upside down.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "UPSIDE\nDOWN",
+    "sub": "APRIL FOOLS, 2017",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "jump",
+      "c": "c",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It won three Bloxy Awards, has around 6 million favorites, and trackers count about 1.8 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.8,
+     "fmt": "{:.1f} BILLION"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "props": [
+     [
+      "trophy",
+      2.0,
+      -1.8
+     ]
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your main class? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "YOUR MAIN\nCLASS?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

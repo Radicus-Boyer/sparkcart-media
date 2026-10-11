@@ -1,0 +1,159 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 69,
+ "slug": "69-fish-it",
+ "file": "69 Fish It (30s).mp4",
+ "target": 30,
+ "accent": "#4fc3f7",
+ "bpm": 118,
+ "root": 62,
+ "pron": {
+  "Atelier": "Atel-yay"
+ },
+ "lines": [
+  {
+   "t": "Fish It! turned fishing into one of the biggest games on Roblox.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "FISH IT!",
+    "sub": "FISHING, BUT HUGE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-fishing.jpg",
+     "label": "A REAL FISHERMAN",
+     "credit": "Photo: Jeff Attaway, CC BY 2.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 150
+   }
+  },
+  {
+   "t": "You cast, catch rare fish, upgrade your rod, and unlock new islands.",
+   "sc": {
+    "bg": "mint",
+    "ground": "wood",
+    "big": "CAST.\nCATCH. UPGRADE.",
+    "sub": "NEW ISLANDS TO UNLOCK",
+    "bs": 104,
+    "ss": 46,
+    "props": [
+     [
+      "island",
+      0.0,
+      -1.0
+     ],
+     [
+      "ship",
+      1.6,
+      -0.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       1.0
+      ],
+      "a": "bob",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by a group called Fish Atelier, and launched in October 2024.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "wood",
+    "big": "FISH ATELIER",
+    "sub": "OCTOBER 2024",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 4 billion visits, and more than a million people once played at the same time. It's still in the top 15 on Roblox right now.",
+   "sc": {
+    "bg": "gold",
+    "ground": "wood",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 4,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your rarest catch? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "RAREST\nCATCH?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

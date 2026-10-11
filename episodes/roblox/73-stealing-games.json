@@ -1,0 +1,386 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 73,
+ "slug": "73-stealing-games",
+ "file": "73 Roblox Stealing Games (70s).mp4",
+ "target": 70,
+ "accent": "#ffca28",
+ "bpm": 124,
+ "root": 57,
+ "pron": {
+  "Romonitor": "Ro-monitor"
+ },
+ "lines": [
+  {
+   "t": "Why is every big Roblox game about stealing now?",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "STEALING\nGAMES",
+    "sub": "WHY IS EVERY HIT ABOUT STEALING?",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-vault.jpg",
+     "label": "A REAL BANK VAULT DOOR",
+     "credit": "Photo: Ammodramus, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 44
+   }
+  },
+  {
+   "t": "It started with Steal a Brainrot. You buy meme characters, they make money, and anyone can sneak in and steal them.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "STEAL A\nBRAINROT",
+    "sub": "WHERE IT STARTED",
+    "rays": "#ffffff",
+    "bs": 124,
+    "props": [
+     [
+      "base",
+      0.0,
+      -1.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -2.4,
+       1.2
+      ],
+      "a": "sneak",
+      "c": "k",
+      "to": [
+       -0.6,
+       1.0
+      ],
+      "face": "mean"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Its creator bought the rights to an older game called Steal a Character, then improved it.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "STEAL A\nCHARACTER",
+    "sub": "THE GAME THAT INSPIRED IT",
+    "bs": 124,
+    "ss": 44,
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 850,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "As many as 24 million people played at once, and it's earned an estimated 64 million dollars.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "$64 MILLION",
+    "sub": "ESTIMATED EARNINGS (ROMONITOR)",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ss": 42,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "So everyone copied it. Bloomberg reported hundreds of brainrot games flooding Roblox.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "HUNDREDS\nOF COPIES",
+    "sub": "PER BLOOMBERG",
+    "bc": "#ffffff",
+    "bs": 124,
+    "crowd": {
+     "n": 20,
+     "appear": 0.5
+    },
+    "ic": [
+     {
+      "n": "trade",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Like Cut Grass for Brainrots, Survive Lava for Brainrots, and Sail for Brainrots.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "___ FOR\nBRAINROTS",
+    "sub": "GRASS, LAVA, SAILING...",
+    "bs": 124,
+    "props": [
+     [
+      "ship",
+      1.6,
+      -0.6
+     ],
+     [
+      "tree",
+      -2.4,
+      -2.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -0.4,
+       1.0
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.8,
+       1.0
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "The developers fought back, with at least four lawsuits against copycat versions.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "4+ LAWSUITS",
+    "sub": "AGAINST COPYCATS",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 830,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "idle",
+      "c": "w",
+      "face": "mean"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Fortnite even removed its brainrot copies. Epic said popular genres are fine, but direct copying is not.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "REMOVED\nFROM FORTNITE",
+    "sub": "COPYING IS NOT ALLOWED",
+    "bs": 110,
+    "ss": 44,
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 830,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then this year came Steal an Egg. You train on treadmills, grab eggs, and run them home before someone steals them.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "STEAL AN\nEGG",
+    "sub": "TRAIN. GRAB. RUN.",
+    "bs": 124,
+    "props": [
+     [
+      "base",
+      -2.2,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -0.4,
+       1.0
+      ],
+      "a": "run",
+      "c": "c",
+      "to": [
+       1.4,
+       1.0
+      ]
+     }
+    ],
+    "ic": [
+     {
+      "n": "egg_gold",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Its treadmills had a giant screen called Reels, playing short videos while you ran.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "REELS",
+    "sub": "VIDEOS ON THE TREADMILL",
+    "bs": 210,
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 160,
+      "a": "flicker"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In August, Roblox made new rules for games that show endless video feeds to kids, and Steal an Egg removed Reels.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "NEW RULES",
+    "sub": "NO MORE ENDLESS FEEDS FOR KIDS",
+    "bc": "#ffffff",
+    "bs": 170,
+    "ss": 42,
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 830,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Even after that, it had nearly 800,000 players at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYERS AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 800000,
+     "fmt": "~{:,.0f}"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Stealer, or defender? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "STEALER OR\nDEFENDER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

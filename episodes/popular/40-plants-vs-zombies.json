@@ -1,0 +1,185 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 40,
+ "theme": "pvz",
+ "game": "Plants vs. Zombies",
+ "target": 70,
+ "pron": {
+  "Zomboss": "Zom-boss",
+  "Peggle": "Peggle",
+  "PopCap": "Pop Cap",
+  "Weedlings": "Weedlings"
+ },
+ "lines": [
+  {
+   "t": "Plants vs. Zombies was almost called Lawn of the Dead.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop8-field.jpg",
+    "big": [
+     "PLANTS VS. ZOMBIES",
+     "*LAWN OF THE DEAD?"
+    ],
+    "label": "REAL SUNFLOWERS IN A FIELD",
+    "credit": "Photo: Summer Stock, CC0",
+    "size": 84
+   }
+  },
+  {
+   "t": "But zombie movie legend George A. Romero said no, so the name had to change.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "PERMISSION",
+     "*DENIED"
+    ],
+    "size": 124,
+    "icon": "ban",
+    "sub": "George A. Romero said no"
+   }
+  },
+  {
+   "t": "Before that, the enemies weren't even zombies. They were aliens, and the game was called Weedlings.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "WEEDLINGS"
+    ],
+    "size": 140,
+    "icon": "seedling",
+    "sub": "the aliens version"
+   }
+  },
+  {
+   "t": "It was designed by George Fan, and took about three and a half years to make.",
+   "sc": {
+    "kind": "stat",
+    "size": 160,
+    "val": "3.5 YEARS",
+    "label": "TO MAKE",
+    "sub": "designed by George Fan",
+    "icon": "hourglass-half"
+   }
+  },
+  {
+   "t": "Crazy Dave is based on a real person Fan knew, and Fan does Dave's voice himself.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "CRAZY",
+     "*DAVE"
+    ],
+    "icon": "user",
+    "sub": "voiced by the designer"
+   }
+  },
+  {
+   "t": "The Dancing Zombie was first based on Michael Jackson, but it was changed after his estate objected.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "DANCING",
+     "*ZOMBIE"
+    ],
+    "icon": "music",
+    "sub": "redesigned after an objection"
+   }
+  },
+  {
+   "t": "Testers didn't understand why to collect sun, so the Sunflower's price was cut in half.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "BEFORE",
+     "FULL",
+     "too expensive"
+    ],
+    "right": [
+     "AFTER",
+     "HALF",
+     "sunflower price"
+    ]
+   }
+  },
+  {
+   "t": "It launched in May 2009, and became PopCap's fastest selling game ever, beating Bejeweled and Peggle.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "trophy",
+      "FASTEST-SELLING POPCAP GAME"
+     ],
+     [
+      "gem",
+      "BEAT BEJEWELED"
+     ],
+     [
+      "star",
+      "BEAT PEGGLE"
+     ]
+    ],
+    "head": "MAY 2009"
+   }
+  },
+  {
+   "t": "The iPhone version made over a million dollars in nine days.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "$1M+",
+    "label": "IN 9 DAYS",
+    "sub": "the iPhone version",
+    "icon": "coins"
+   }
+  },
+  {
+   "t": "In 2011, EA bought PopCap for 750 million dollars.",
+   "sc": {
+    "kind": "stat",
+    "size": 180,
+    "val": "$750M",
+    "label": "EA BUYS POPCAP",
+    "sub": "July 2011",
+    "icon": "briefcase"
+   }
+  },
+  {
+   "t": "The credits song, Zombies on Your Lawn, came out on April 1st, so lots of fans thought it was a joke.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "APRIL",
+     "*FOOLS?"
+    ],
+    "icon": "music",
+    "sub": "\"Zombies on Your Lawn\" was real"
+   }
+  },
+  {
+   "t": "There are 49 plants and 26 zombies, and the team spent a whole month on the Dr. Zomboss fight.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "PLANTS",
+     "49",
+     "types"
+    ],
+    "right": [
+     "ZOMBIES",
+     "26",
+     "types"
+    ]
+   }
+  },
+  {
+   "t": "What's your favorite plant? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "FAVORITE PLANT?"
+   }
+  }
+ ],
+ "file": "40 - Plants vs. Zombies (70s).mp4"
+}

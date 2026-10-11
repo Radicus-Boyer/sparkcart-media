@@ -1,0 +1,151 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 71,
+ "slug": "71-sols-rng",
+ "file": "71 Sol's RNG (30s).mp4",
+ "target": 30,
+ "accent": "#b388ff",
+ "bpm": 120,
+ "root": 64,
+ "pron": {
+  "RNG": "R N G",
+  "Sol's": "Sol's"
+ },
+ "lines": [
+  {
+   "t": "In Sol's RNG, the whole game is pressing roll, and hoping for luck.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "SOL'S RNG",
+    "sub": "ROLL. PRAY. REPEAT.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-dice.jpg",
+     "label": "REAL DICE",
+     "credit": "Photo: Schlurcher, CC BY 4.0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 140
+   }
+  },
+  {
+   "t": "Every roll gives you an aura, and there are over 200 of them, some so rare most players will never see them.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "200+ AURAS",
+    "sub": "SOME YOU'LL NEVER SEE",
+    "rays": "#ffffff",
+    "bs": 140,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 130,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's made by Sol's Studio, and trackers count over 1.7 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.7,
+     "fmt": "{:.1f} BILLION+"
+    },
+    "bs": 130,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In April 2026, it hit its biggest crowd yet, about 156,000 players at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "sub": "PLAYERS AT ONCE, APRIL 2026",
+    "count": {
+     "to": 156000,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 18,
+     "appear": 0.8
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "What's your rarest aura? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "RAREST\nAURA?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

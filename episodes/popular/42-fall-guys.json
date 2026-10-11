@@ -1,0 +1,182 @@
+{
+ "preset": "popular",
+ "hdr": "tag",
+ "num": 42,
+ "theme": "fallguys",
+ "game": "Fall Guys",
+ "target": 70,
+ "pron": {
+  "Mediatonic": "Media-tonic",
+  "Takeshi's": "Ta-keshi's"
+ },
+ "lines": [
+  {
+   "t": "Fall Guys was pitched as a 100 player game, but 100 beans was just too chaotic.",
+   "sc": {
+    "kind": "hook",
+    "img": "pop8-inflatable.jpg",
+    "big": [
+     "FALL GUYS",
+     "*100 BEANS WAS TOO MANY"
+    ],
+    "label": "A REAL INFLATABLE COURSE",
+    "credit": "Photo: public domain",
+    "size": 96
+   }
+  },
+  {
+   "t": "So the team cut it to 60.",
+   "sc": {
+    "kind": "stat",
+    "size": 240,
+    "val": "60",
+    "label": "PLAYERS PER SHOW",
+    "sub": "down from 100",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "It was made by Mediatonic, inspired by game shows like Takeshi's Castle and Total Wipeout, plus playground games like tag.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "tv",
+      "TAKESHI'S CASTLE"
+     ],
+     [
+      "water",
+      "TOTAL WIPEOUT"
+     ],
+     [
+      "person-running",
+      "PLAYGROUND TAG"
+     ]
+    ],
+    "head": "INSPIRED BY"
+   }
+  },
+  {
+   "t": "Before launch, it briefly became the most watched game on Twitch during its beta.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "#1 ON",
+     "*TWITCH"
+    ],
+    "icon": "video",
+    "sub": "during the beta"
+   }
+  },
+  {
+   "t": "It launched in August 2020, and over 1.5 million people played in the first 24 hours.",
+   "sc": {
+    "kind": "stat",
+    "num": [
+     1500000,
+     "{:,.0f}+"
+    ],
+    "label": "PLAYERS IN 24 HOURS",
+    "icon": "chart-line"
+   }
+  },
+  {
+   "t": "Two million copies sold on Steam in under a week.",
+   "sc": {
+    "kind": "stat",
+    "size": 220,
+    "val": "2M",
+    "label": "STEAM COPIES",
+    "sub": "in under a week",
+    "icon": "cart-shopping"
+   }
+  },
+  {
+   "t": "It became the most downloaded PlayStation Plus monthly game ever.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "MOST",
+     "*DOWNLOADED"
+    ],
+    "icon": "download",
+    "sub": "PlayStation Plus monthly game"
+   }
+  },
+  {
+   "t": "In its first month, it made an estimated 185 million dollars on PC. By December, it passed 11 million PC sales.",
+   "sc": {
+    "kind": "vs",
+    "left": [
+     "MONTH 1",
+     "$185M",
+     "estimated, PC"
+    ],
+    "right": [
+     "DECEMBER",
+     "11M",
+     "PC sales"
+    ]
+   }
+  },
+  {
+   "t": "In March 2021, Epic Games, the makers of Fortnite, bought the studio.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "EPIC",
+     "*BUYS IT"
+    ],
+    "icon": "handshake",
+    "sub": "March 2021"
+   }
+  },
+  {
+   "t": "Then in June 2022, Fall Guys went free to play, and came to Xbox and Switch.",
+   "sc": {
+    "kind": "text",
+    "big": [
+     "FREE TO",
+     "*PLAY"
+    ],
+    "icon": "gift",
+    "sub": "June 2022"
+   }
+  },
+  {
+   "t": "In just two weeks, over 50 million people played.",
+   "sc": {
+    "kind": "stat",
+    "size": 190,
+    "val": "50M+",
+    "label": "PLAYERS IN 2 WEEKS",
+    "sub": "after going free",
+    "icon": "users"
+   }
+  },
+  {
+   "t": "Later, lobbies shrank again, from 60 to 40. And this January, Fall Guys even came to Fortnite, with a mode called Crown Jam.",
+   "sc": {
+    "kind": "list",
+    "items": [
+     [
+      "users",
+      "60 TO 40 PLAYERS"
+     ],
+     [
+      "crown",
+      "CROWN JAM IN FORTNITE"
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Have you ever won a crown? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "kind": "outro",
+    "question": "EVER WON A CROWN?"
+   }
+  }
+ ],
+ "file": "42 - Fall Guys (70s).mp4"
+}

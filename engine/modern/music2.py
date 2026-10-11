@@ -94,6 +94,9 @@ STYLES.update({
     "lethal": dict(STYLES["dandy"], bpm=84, root=35, scale="minor", prog=[0, 1, 5, 0]),
     "repo": dict(STYLES["swr"], bpm=116, root=40, scale="minor", prog=[0, 5, 6, 4]),
     "baldi": dict(STYLES["dandy"], bpm=96, root=48, scale="major", prog=[0, 3, 4, 1]),
+    "pvz": dict(STYLES["swr"], bpm=112, root=50, scale="major", prog=[0, 3, 4, 0]),
+    "tetris": dict(STYLES["swr"], bpm=144, root=45, scale="minor", prog=[0, 4, 5, 3]),
+    "fallguys": dict(STYLES["dandy"], bpm=130, root=53, scale="major", prog=[0, 5, 3, 4]),
     "fnaf": dict(STYLES["dandy"], bpm=88, root=36, scale="minor", prog=[0, 3, 5, 6]),
     "gdash": dict(STYLES["swr"], bpm=140, root=40, scale="minor", prog=[0, 5, 2, 6]),
     # sneaky

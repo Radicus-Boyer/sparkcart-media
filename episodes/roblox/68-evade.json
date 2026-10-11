@@ -1,0 +1,163 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 68,
+ "slug": "68-evade",
+ "file": "68 Evade (30s).mp4",
+ "target": 30,
+ "accent": "#ef5350",
+ "bpm": 132,
+ "root": 57,
+ "mood": "spooky",
+ "pron": {
+  "nextbot": "next bot",
+  "Nextbot": "Next bot"
+ },
+ "lines": [
+  {
+   "t": "In Evade, giant flat memes chase you through the map, and they get louder as they get close.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "EVADE",
+    "sub": "RUN. DON'T LOOK BACK.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-parkour.jpg",
+     "label": "REAL-LIFE PARKOUR",
+     "credit": "Photo: Danhje, public domain",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 150,
+    "vig": false
+   }
+  },
+  {
+   "t": "It's based on the nextbot chase games from Garry's Mod. If a teammate goes down, you can run back and revive them.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "REVIVE\nTHEM!",
+    "sub": "IF YOU'RE BRAVE",
+    "bc": "#ffffff",
+    "bs": 130,
+    "vig": true,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.2,
+       0.8
+      ]
+     },
+     {
+      "p": [
+       1.2,
+       1.0
+      ],
+      "a": "idle",
+      "c": "g",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It launched in 2022, and one TikTok revive clip got over 8 million views in a week.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "8 MILLION\nVIEWS",
+    "sub": "ONE REVIVE CLIP, ONE WEEK",
+    "rays": "#ffffff",
+    "bs": 124,
+    "ss": 46,
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Trackers now count over 8 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 8,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Do you go back for your teammates? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "purple",
+    "big": "GO BACK FOR\nTEAMMATES?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}
