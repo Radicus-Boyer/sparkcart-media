@@ -1,0 +1,281 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 82,
+ "slug": "82-bedwars",
+ "file": "82 BedWars.mp4",
+ "target": 33,
+ "accent": "#ef5350",
+ "bpm": 134,
+ "root": 58,
+ "voice": "af_sarah",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/PermanentMarker-Regular.ttf",
+  "size": 92,
+  "upper": false,
+  "hi": "#ff8a80",
+  "stroke": 9
+ },
+ "pron": {
+  "BedWars": "Bed Wars",
+  "SkyWars": "Sky Wars"
+ },
+ "lines": [
+  {
+   "t": "In BedWars, your bed is everything. Lose it, and you can't respawn.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BEDWARS",
+    "sub": "PROTECT THE BED",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-castle.jpg",
+     "label": "A REAL CASTLE, BUILT TO DEFEND",
+     "credit": "Photo: Wilfredor, CC0",
+     "y": 800,
+     "h": 430
+    },
+    "bs": 150,
+    "ss": 46
+   }
+  },
+  {
+   "t": "Each team guards its bed on an island, while trying to break everyone else's.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "GUARD IT",
+    "sub": "BREAK THEIRS",
+    "bs": 150,
+    "props": [
+     [
+      "island",
+      -1.6,
+      -1.6
+     ],
+     [
+      "island",
+      1.6,
+      -2.2,
+      {
+       "c": "#e53935"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "idle",
+      "c": "a",
+      "hold": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's made by Easy.gg, and it came out in 2021.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "EASY.GG",
+    "sub": "THE DEVELOPER",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -0.6,
+       0.8
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Now there are over ten modes, like Lucky Block, SkyWars, and Infected.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "10+ MODES",
+    "sub": "LUCKY BLOCK, SKYWARS, INFECTED",
+    "rays": "#ffffff",
+    "bs": 150,
+    "ss": 40,
+    "props": [
+     [
+      "block",
+      -1.8,
+      -1.4,
+      {
+       "c": "#ffd54f"
+      }
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Once your bed breaks, your next death is your last.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "NO BED,\nNO RESPAWN",
+    "sub": "ONE LIFE LEFT",
+    "bc": "#ffffff",
+    "bs": 120,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "There's even a Creative mode, where you can build and script your own maps.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "CREATIVE\nMODE",
+    "sub": "BUILD AND SCRIPT",
+    "bs": 124,
+    "props": [
+     [
+      "block",
+      -1.6,
+      -1.2
+     ],
+     [
+      "block",
+      -0.6,
+      -1.2
+     ],
+     [
+      "tower",
+      1.6,
+      -2.0
+     ]
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 820,
+      "s": 130,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 11 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 11,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "And it still gets a new update every Friday.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "EVERY\nFRIDAY",
+    "sub": "A NEW UPDATE",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "Do you defend or rush? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "DEFEND OR\nRUSH?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

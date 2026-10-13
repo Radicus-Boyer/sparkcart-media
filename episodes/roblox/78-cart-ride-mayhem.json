@@ -1,0 +1,198 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 78,
+ "slug": "78-cart-ride-mayhem",
+ "file": "78 Cart Ride Mayhem.mp4",
+ "target": 31,
+ "accent": "#ff5252",
+ "bpm": 146,
+ "root": 55,
+ "voice": "af_sarah",
+ "speed": 1.0,
+ "cap": {
+  "font": "../modern/fonts/TitanOne-Regular.ttf",
+  "size": 84,
+  "stroke": 0,
+  "fill": "#ffffff",
+  "hi": "#ffeb3b",
+  "box": "#d32f2f",
+  "radius": 26
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Cart Ride Mayhem takes the classic Roblox cart ride, and adds giant miniguns.",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "CART RIDE\nMAYHEM",
+    "sub": "NOW WITH MINIGUNS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop4-obstacle-tower.jpg",
+     "label": "A REAL OBSTACLE COURSE",
+     "credit": "Photo: U.S. Air Force, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "You ride through explosions, bumpy tracks, and giant skulls.",
+   "sc": {
+    "bg": "dark",
+    "ground": "road",
+    "big": "EXPLOSIONS!",
+    "sub": "BUMPS. SKULLS. CHAOS.",
+    "bc": "#ff5252",
+    "bs": 120,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "props": [
+     [
+      "car",
+      -0.6,
+      -0.4
+     ]
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then you upgrade your cart with new wheels and panels for new powers.",
+   "sc": {
+    "bg": "mint",
+    "ground": "road",
+    "big": "UPGRADE\nYOUR CART",
+    "sub": "WHEELS, PANELS, POWERS",
+    "bs": 110,
+    "props": [
+     [
+      "car",
+      0.0,
+      -0.6,
+      {
+       "c": "#ffca28"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       1.6,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by Proggramer090, and it came out in July 2024. You can ride solo, or bring friends.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "PROGGRAMER090",
+    "sub": "JULY 2024",
+    "bs": 104,
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Private servers are free, and it updates every week.",
+   "sc": {
+    "bg": "party",
+    "ground": "road",
+    "big": "FREE\nSERVERS",
+    "sub": "UPDATES EVERY WEEK",
+    "rays": "#ffffff",
+    "bs": 130,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "How far did you make it? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "HOW FAR\nDID YOU GET?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

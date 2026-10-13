@@ -1,0 +1,173 @@
+{
+ "preset": "nes",
+ "num": 83,
+ "name": "Pac-Man",
+ "slug": "pacman",
+ "theme": "dark",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "title_lines": [
+  "PAC-MAN"
+ ],
+ "year_tag": "ARCADE",
+ "music": {
+  "bpm": 132,
+  "tr": 0,
+  "seed": 83
+ },
+ "pron": {
+  "Iwatani": "Ee-wa-tani",
+  "Namco": "Nam-co",
+  "paku": "pah-koo"
+ },
+ "lines": [
+  {
+   "say": "Pac-Man was partly inspired by a pizza, with one slice missing.",
+   "scene": {
+    "kind": "title",
+    "prop": "photo",
+    "args": {
+     "file": "pop5-pizza.jpg",
+     "rect": [
+      14,
+      96,
+      166,
+      196
+     ],
+     "label": "PHOTO: JEFFREYW CC BY 2.0"
+    }
+   }
+  },
+  {
+   "say": "It was designed by Toru Iwatani at Namco, in Japan.",
+   "scene": {
+    "bg": "arcade",
+    "head": "TORU IWATANI",
+    "headsc": 2,
+    "prop": "arcade",
+    "subs": [
+     "NAMCO, JAPAN"
+    ]
+   }
+  },
+  {
+   "say": "He wanted a game that wasn't about shooting, so he made it about eating.",
+   "scene": {
+    "bg": "dark",
+    "head": "NO GUNS",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "EATING, NOT SHOOTING."
+    }
+   }
+  },
+  {
+   "say": "In Japan, it was first called Puck Man, from paku paku, the sound of chomping.",
+   "scene": {
+    "bg": "arcade",
+    "head": "PUCK MAN",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "PAKU PAKU = CHOMP CHOMP"
+    }
+   }
+  },
+  {
+   "say": "In America, the name was changed, because people worried vandals would scratch the P into a different letter.",
+   "scene": {
+    "bg": "city",
+    "head": "NAME CHANGE",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "PUCK MAN -> PAC-MAN"
+    }
+   }
+  },
+  {
+   "say": "The four ghosts don't move the same way. One chases you, one tries to cut you off, and one just wanders.",
+   "scene": {
+    "bg": "dark",
+    "head": "4 GHOSTS",
+    "headsc": 3,
+    "prop": "list",
+    "args": {
+     "items": [
+      "CHASES YOU",
+      "CUTS YOU OFF",
+      "TEAMS UP",
+      "WANDERS"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Guinness calls it the most successful coin-operated arcade game ever, with over 290,000 machines.",
+   "scene": {
+    "bg": "arcade",
+    "head": "WORLD RECORD",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 293822,
+     "fmt": "{:,.0f}",
+     "unit": "ARCADE MACHINES"
+    }
+   },
+   "cap": "Guinness calls it the most successful coin-operated arcade game ever, with over 290,000 machines."
+  },
+  {
+   "say": "Level 256 can't be beaten. A bug fills half the screen with garbage.",
+   "scene": {
+    "bg": "grid",
+    "head": "LEVEL 256",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "HALF THE SCREEN IS GARBAGE."
+    }
+   }
+  },
+  {
+   "say": "So the highest possible score is 3,333,360. You have to eat every dot, fruit and ghost, without dying once.",
+   "scene": {
+    "bg": "dark",
+    "head": "PERFECT SCORE",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 3333360,
+     "fmt": "{:,.0f}",
+     "unit": "POINTS"
+    }
+   },
+   "cap": "So the highest possible score is 3,333,360. You have to eat every dot, fruit and ghost, without dying once."
+  },
+  {
+   "say": "For its 30th birthday, Google made it a playable logo, the first one ever.",
+   "scene": {
+    "bg": "space",
+    "head": "PLAYABLE LOGO",
+    "headsc": 2,
+    "prop": "award",
+    "args": {
+     "n": "30",
+     "text": "YEARS OLD"
+    }
+   }
+  },
+  {
+   "say": "What's your high score? Comment for which game we should review next! Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "YOUR HIGH SCORE?",
+    "ask": "COMMENT WHICH GAME TO REVIEW NEXT!",
+    "prop": "none",
+    "bg": "dark"
+   }
+  }
+ ],
+ "file": "83 Pac-Man.mp4"
+}

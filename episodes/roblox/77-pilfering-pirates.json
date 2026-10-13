@@ -1,0 +1,244 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 77,
+ "slug": "77-pilfering-pirates",
+ "file": "77 Pilfering Pirates.mp4",
+ "target": 37,
+ "accent": "#ffb74d",
+ "bpm": 124,
+ "root": 60,
+ "voice": "af_sarah",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/PirataOne-Regular.ttf",
+  "size": 112,
+  "upper": false,
+  "hi": "#ffcc66",
+  "stroke": 8
+ },
+ "pron": {
+  "Pseudosuper": "Sue-doe-super"
+ },
+ "lines": [
+  {
+   "t": "In Pilfering Pirates, four crews fight, and the last ship still floating wins.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "wood",
+    "big": "PILFERING\nPIRATES",
+    "sub": "LAST SHIP FLOATING WINS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-paintball.jpg",
+     "label": "A REAL PAINTBALL GUN",
+     "credit": "Photo: Ken Thomas, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "Each team crews its own pirate ship, and you can break the other team's cannons.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "4 CREWS",
+    "sub": "4 SHIPS",
+    "bs": 150,
+    "props": [
+     [
+      "ship",
+      -1.6,
+      -1.4
+     ],
+     [
+      "ship",
+      1.6,
+      -1.8,
+      {
+       "c": "#c62828"
+      }
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You get eight tools, like a sword, a flintlock, a rocket launcher, a bomb, a plank, and even a paintball gun.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "wood",
+    "big": "8 TOOLS",
+    "sub": "SWORD, BOMB, PLANK...",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "e",
+      "hold": "gun"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You can even fly a plane across to the enemy ship.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "FLY OVER",
+    "sub": "AND BOARD THEM",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 540,
+      "y": 760,
+      "s": 180,
+      "a": "float"
+     }
+    ],
+    "props": [
+     [
+      "ship",
+      1.8,
+      -2.0
+     ]
+    ]
+   }
+  },
+  {
+   "t": "There's Deathmatch, first to 20 kills, Mega Ships, where boats are twice as big, and Infection, where you join whoever beat you.",
+   "sc": {
+    "bg": "night",
+    "ground": "wood",
+    "big": "GAME MODES",
+    "sub": "DEATHMATCH, MEGA SHIPS, INFECTION",
+    "bs": 130,
+    "ss": 40,
+    "props": [
+     [
+      "ship",
+      0.0,
+      -2.2
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Wins earn gold, which buys new boats, planes and trails.",
+   "sc": {
+    "bg": "gold",
+    "ground": "wood",
+    "big": "GOLD",
+    "sub": "FOR BOATS, PLANES & TRAILS",
+    "rays": "#ffffff",
+    "bs": 170,
+    "ss": 44,
+    "fx": [
+     "coins"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made by Pseudosuper, and trackers count over a billion visits.",
+   "sc": {
+    "bg": "party",
+    "ground": "wood",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.2,
+     "fmt": "{:.1f} BILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Sword or rocket launcher? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "sunset",
+    "ground": "wood",
+    "big": "SWORD OR\nROCKET?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

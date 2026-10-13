@@ -1,0 +1,179 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 80,
+ "slug": "80-dead-rails",
+ "file": "80 Dead Rails.mp4",
+ "target": 30,
+ "accent": "#ffab40",
+ "bpm": 132,
+ "root": 55,
+ "mood": "spooky",
+ "voice": "af_sarah",
+ "speed": 1.1,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ffab40",
+  "stroke": 8
+ },
+ "pron": {
+  "RCM": "R C M"
+ },
+ "lines": [
+  {
+   "t": "Dead Rails puts you on a train, through a desert full of zombies.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "DEAD\nRAILS",
+    "sub": "ALL ABOARD. DON'T STOP.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-subway-1973.jpg",
+     "label": "A REAL OLD TRAIN",
+     "credit": "Photo: Erik Calonius, NARA, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46
+   }
+  },
+  {
+   "t": "The year is 1899, a zombie plague has spread, and the cure is somewhere in Mexico.",
+   "sc": {
+    "bg": "night",
+    "ground": "road",
+    "big": "FIND\nTHE CURE",
+    "sub": "1899, ZOMBIE PLAGUE",
+    "bs": 130,
+    "fx": [
+     "fireflies"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       1.4,
+       1.0
+      ],
+      "a": "sneak",
+      "c": "e",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You and your friends keep the train fueled, and fight off whatever climbs aboard.",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "KEEP IT\nMOVING",
+    "sub": "FUEL IT. DEFEND IT.",
+    "bc": "#ffffff",
+    "bs": 124,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "props": [
+     [
+      "car",
+      0.0,
+      -0.8,
+      {
+       "c": "#5d4037"
+      }
+     ]
+    ]
+   }
+  },
+  {
+   "t": "It's made by RCM Games, and in April 2025, about 1.4 million people were playing at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "road",
+    "sub": "PLAYING AT ONCE (APRIL 2025)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.4,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 140,
+    "ss": 40,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 6 billion visits.",
+   "sc": {
+    "bg": "dark",
+    "ground": "road",
+    "sub": "VISITS (PER TRACKERS)",
+    "count": {
+     "to": 6,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 150
+   }
+  },
+  {
+   "t": "Did you ever make it to Mexico? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "MADE IT TO\nMEXICO?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

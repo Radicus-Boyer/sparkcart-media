@@ -1,0 +1,357 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 76,
+ "slug": "76-jujutsu-shenanigans",
+ "file": "76 Jujutsu Shenanigans.mp4",
+ "target": 50,
+ "accent": "#b388ff",
+ "bpm": 138,
+ "root": 57,
+ "mood": "spooky",
+ "voice": "af_sarah",
+ "speed": 1.1,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 128,
+  "mode": "word",
+  "hi": "#d1b3ff",
+  "fill": "#d1b3ff",
+  "cy": 1480
+ },
+ "pron": {
+  "Jujutsu": "Joo-jit-soo",
+  "Kaisen": "Kai-sen",
+  "Tze's": "Zee's"
+ },
+ "lines": [
+  {
+   "t": "Jujutsu Shenanigans gives you 21 fighters, and every single one is free.",
+   "sc": {
+    "bg": "arena",
+    "ground": "dark",
+    "big": "JUJUTSU\nSHENANIGANS",
+    "sub": "21 FIGHTERS. ALL FREE.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-sparring.jpg",
+     "label": "REAL MARTIAL ARTS SPARRING",
+     "credit": "Photo: Carlos Saavedra, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 104,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's a battlegrounds game on Roblox, inspired by the anime Jujutsu Kaisen.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "BATTLEGROUNDS",
+    "sub": "INSPIRED BY JUJUTSU KAISEN",
+    "bs": 110,
+    "ss": 44,
+    "fx": [
+     "sparkle"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "e",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's made by a group called Tze's Shenanigans.",
+   "sc": {
+    "bg": "night",
+    "ground": "night",
+    "big": "TZE'S\nSHENANIGANS",
+    "sub": "THE DEVELOPER",
+    "bs": 116,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Most fighting games make you buy characters. Here, you just pick one and go.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "NO PAYWALL",
+    "sub": "PICK ANY FIGHTER",
+    "bs": 124,
+    "ic": [
+     {
+      "n": "money",
+      "x": 220,
+      "y": 840,
+      "s": 140,
+      "a": "shake"
+     }
+    ],
+    "crowd": {
+     "n": 10,
+     "appear": 0.4
+    }
+   }
+  },
+  {
+   "t": "The maps are destructible, so a big hit can smash right through the walls.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "SMASH\nTHE WALLS",
+    "sub": "DESTRUCTIBLE MAPS",
+    "bc": "#ffffff",
+    "bs": 124,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "props": [
+     [
+      "block",
+      -1.6,
+      -1.2
+     ],
+     [
+      "block",
+      1.4,
+      -1.6
+     ],
+     [
+      "tower",
+      2.4,
+      -2.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.0,
+       1.0
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.8,
+       0.6
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "In March 2026, the Disaster Plants update brought the roster to 21 characters, with 21 emotes too.",
+   "sc": {
+    "bg": "forest",
+    "ground": "forest",
+    "big": "DISASTER\nPLANTS",
+    "sub": "21 CHARACTERS, 21 EMOTES",
+    "bs": 116,
+    "ss": 44,
+    "props": [
+     [
+      "tree",
+      -2.4,
+      -2.4
+     ],
+     [
+      "tree",
+      2.2,
+      -2.2
+     ]
+    ],
+    "fx": [
+     "fireflies"
+    ],
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "jump",
+      "c": "b"
+     },
+     {
+      "p": [
+       0.8,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Two days later, around 338,000 people were playing at the same time.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 338,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers now count over 4 billion visits, and more than a million and a half favorites.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 4,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 140,
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It even won Best Action at this year's Roblox Innovation Awards.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "BEST\nACTION",
+    "sub": "ROBLOX INNOVATION AWARDS",
+    "rays": "#ffffff",
+    "bs": 130,
+    "props": [
+     [
+      "pedestal",
+      0.0,
+      -0.6
+     ]
+    ],
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 540,
+      "y": 760,
+      "s": 200,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "And it's still one of the top ten games on Roblox right now.",
+   "sc": {
+    "bg": "arena",
+    "ground": "dark",
+    "big": "TOP 10",
+    "sub": "ON ROBLOX RIGHT NOW",
+    "bs": 170,
+    "crowd": {
+     "n": 16,
+     "appear": 0.4
+    },
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Who's your main? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "arena",
+    "ground": "dark",
+    "big": "WHO'S YOUR\nMAIN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

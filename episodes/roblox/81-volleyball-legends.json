@@ -1,0 +1,190 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 81,
+ "slug": "81-volleyball-legends",
+ "file": "81 Volleyball Legends.mp4",
+ "target": 32,
+ "accent": "#29b6f6",
+ "bpm": 128,
+ "root": 64,
+ "voice": "af_sarah",
+ "speed": 1.0,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 86,
+  "hi": "#4fc3f7",
+  "stroke": 8,
+  "cy": 1440
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Volleyball Legends turned a school gym sport into a Roblox hit.",
+   "sc": {
+    "bg": "mint",
+    "ground": "wood",
+    "big": "VOLLEYBALL\nLEGENDS",
+    "sub": "SPIKE. BLOCK. DIVE.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-dodge.jpg",
+     "label": "A REAL GYM GAME",
+     "credit": "Photo: U.S. Navy, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 108,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's six against six. You bump, set, spike, block and dive.",
+   "sc": {
+    "bg": "day",
+    "ground": "wood",
+    "big": "6 VS 6",
+    "sub": "BUMP, SET, SPIKE",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "jump",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It came out in December 2024, and a year later, about 286,000 people played at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "wood",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 286,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "On PC, you click to bump or spike, press Q to set or block, and Control to dive.",
+   "sc": {
+    "bg": "night",
+    "ground": "wood",
+    "big": "CLICK. Q.\nCONTROL.",
+    "sub": "SPIKE, SET, DIVE",
+    "bs": 110,
+    "ic": [
+     {
+      "n": "controller",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -0.6,
+       0.8
+      ],
+      "a": "jump",
+      "c": "e"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It updates every Saturday, and trackers count over 3 billion visits.",
+   "sc": {
+    "bg": "party",
+    "ground": "wood",
+    "big": "3 BILLION+",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 840,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Spiker or setter? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "mint",
+    "ground": "wood",
+    "big": "SPIKER OR\nSETTER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

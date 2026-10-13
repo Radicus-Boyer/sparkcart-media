@@ -502,26 +502,35 @@ def word_times(text, t0, t1):
     return res
 
 
-def draw_caption(img, line, t0, t1, now, cy=1500):
+def draw_caption(img, line, t0, t1, now, cy=1500, cs=None):
+    # cs: optional per-episode caption style -> font, size, fill, hi, stroke, upper, mode ("word"), box, cy
+    cs = cs or {}
+    cy = cs.get("cy", cy)
+    fnt, size = cs.get("font", ST["cap_font"]), cs.get("size", ST["cap_size"])
+    fill, hi = rgb(cs.get("fill", "#ffffff")), rgb(cs.get("hi", "#ffe63c"))
+    strk, upper, box = cs.get("stroke", SW(9)), cs.get("upper", True), cs.get("box")
     wt = word_times(line, t0, t1)
-    chs = chunks_for(line)
+    chs = [[w] for w in line.split()] if cs.get("mode") == "word" else chunks_for(line)
     idx = 0
     for ch in chs:
         seg = wt[idx: idx + len(ch)]
         start, end = seg[0][1], seg[-1][2]
-        if start - 0.02 <= now < end + 0.25 or (ch is chs[-1] and now >= start):
+        if start - 0.02 <= now < end + (0.02 if cs.get("mode") == "word" else 0.25) or (ch is chs[-1] and now >= start):
             parts = []
             for (w, a, b) in seg:
                 cur = a <= now < b + (0.25 if (w, a, b) == seg[-1] else 0)
-                parts.append((w.upper(), cur))
+                parts.append((w.upper() if upper else w, cur))
             sp = 26
-            ims = [text_img(w, ST["cap_size"], (255, 230, 60) if cur else (255, 255, 255), ST["cap_font"], SW(9)) for w, cur in parts]
+            ims = [text_img(w, size, hi if cur else fill, fnt, strk) for w, cur in parts]
             tw = sum(i.width for i in ims) + sp * (len(ims) - 1) - 20 * len(ims)
             sc = min(1.0, 1000 / max(1, tw))
             x = 540 - tw * sc / 2
             k = pop(now - start, 0.18)
+            if box and k > 0.35:
+                hh = max(i.height for i in ims) * sc * k
+                ImageDraw.Draw(img).rounded_rectangle([540 - tw * sc * k / 2 - 34, cy - hh / 2 - 4, 540 + tw * sc * k / 2 + 34, cy + hh / 2 + 4], cs.get("radius", 24), fill=rgb(box))
             for im, (w, cur) in zip(ims, parts):
-                s = sc * (1.08 if cur else 1.0) * k
+                s = sc * (1.08 if cur and len(parts) > 1 else 1.0) * k
                 paste_center(img, im, x + (im.width - 20) * sc / 2, cy, s)
                 x += (im.width - 20 + sp) * sc
             return
@@ -638,7 +647,7 @@ def render(ep, sheet=False):
         ln = ep["lines"][i]
         t0, t1 = timing[i]
         if now >= t0 - 0.05:
-            draw_caption(img, ln["t"], t0, t1, now, 1455 if ep.get("hdr") == "tag" else 1500)
+            draw_caption(img, ln["t"], t0, t1, now, 1455 if ep.get("hdr") == "tag" else 1500, ep.get("cap"))
         if lt < 0.1 and i > 0:
             fl = Image.new("RGBA", (W, H), (255, 255, 255, int(150 * (1 - lt / 0.1))))
             img.alpha_composite(fl)
