@@ -1,0 +1,188 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 84,
+ "slug": "84-blue-lock-rivals",
+ "file": "84 Blue Lock Rivals.mp4",
+ "target": 33,
+ "accent": "#40c4ff",
+ "bpm": 136,
+ "root": 59,
+ "voice": "af_sarah",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "hi": "#40c4ff",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Blue Lock: Rivals turned an anime about soccer strikers into one of Roblox's biggest sports games.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BLUE LOCK:\nRIVALS",
+    "sub": "ANIME SOCCER ON ROBLOX",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-trophy.jpg",
+     "label": "A REAL SOCCER TEAM AND ITS CUP, 1931",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's five against five, and every character has their own special abilities.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "5 VS 5",
+    "sub": "SPECIAL ABILITIES",
+    "bs": 170,
+    "fx": [
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       -0.2,
+       0.6
+      ]
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "jump",
+      "c": "e"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's a fan-made game, inspired by the anime Blue Lock, and it came out in July 2024.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "FAN-MADE",
+    "sub": "INSPIRED BY BLUE LOCK",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In April 2025, about 713,000 people were playing at the same time.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 713,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers now count around 5 billion visits, and over 6 million favorites.",
+   "sc": {
+    "bg": "party",
+    "ground": "grass",
+    "big": "5 BILLION",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 830,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Who's your favorite player? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "FAVORITE\nPLAYER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

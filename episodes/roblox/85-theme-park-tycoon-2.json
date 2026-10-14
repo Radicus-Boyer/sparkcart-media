@@ -1,0 +1,186 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 85,
+ "slug": "85-theme-park-tycoon-2",
+ "file": "85 Theme Park Tycoon 2.mp4",
+ "target": 31,
+ "accent": "#ffca28",
+ "bpm": 120,
+ "root": 62,
+ "voice": "af_sarah",
+ "speed": 1.0,
+ "cap": {
+  "font": "../modern/fonts/TitanOne-Regular.ttf",
+  "size": 80,
+  "stroke": 0,
+  "fill": "#3e2723",
+  "hi": "#d84315",
+  "box": "#ffd54f",
+  "radius": 30
+ },
+ "pron": {
+  "Den_S": "Den S"
+ },
+ "lines": [
+  {
+   "t": "Theme Park Tycoon 2 lets you build a whole theme park, from the ground up.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "THEME PARK\nTYCOON 2",
+    "sub": "BUILD YOUR OWN PARK",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-inflatable.jpg",
+     "label": "A REAL INFLATABLE PARK",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "You get your own plot, and you can build alone, or with friends.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "YOUR OWN\nPLOT",
+    "sub": "SOLO OR WITH FRIENDS",
+    "bs": 120,
+    "props": [
+     [
+      "base",
+      0.0,
+      -1.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Build rides, design your own roller coasters, and decorate with hundreds of scenery pieces.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "DESIGN\nCOASTERS",
+    "sub": "HUNDREDS OF SCENERY PIECES",
+    "bs": 124,
+    "ss": 42,
+    "props": [
+     [
+      "tower",
+      -1.8,
+      -2.0
+     ],
+     [
+      "tree",
+      1.8,
+      -2.2
+     ],
+     [
+      "house",
+      0.2,
+      -2.8
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It's made by Den_S, and its biggest crowd ever came in July 2025, more than 13 years after it was published.",
+   "sc": {
+    "bg": "party",
+    "ground": "grass",
+    "big": "RECORD\nCROWD",
+    "sub": "JULY 2025, 13+ YEARS LATER",
+    "rays": "#ffffff",
+    "bs": 130,
+    "crowd": {
+     "n": 18,
+     "appear": 0.6
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 1.6 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.6,
+     "fmt": "{:.1f} BILLION"
+    },
+    "bs": 140
+   }
+  },
+  {
+   "t": "What's your best coaster called? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BEST COASTER\nNAME?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

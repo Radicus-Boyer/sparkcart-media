@@ -1,0 +1,114 @@
+{
+ "preset": "nes",
+ "num": 91,
+ "name": "Excitebike",
+ "slug": "excitebike",
+ "theme": "dark",
+ "voice": "af_sarah",
+ "speed": 1.08,
+ "title_lines": [
+  "EXCITEBIKE"
+ ],
+ "year_tag": "NES",
+ "music": {
+  "bpm": 150,
+  "tr": 2,
+  "seed": 91
+ },
+ "pron": {
+  "Miyamoto": "Mee-ya-moto",
+  "Famicom": "Fami-com"
+ },
+ "lines": [
+  {
+   "say": "Excitebike let you build your own tracks, but most players could never save them.",
+   "scene": {
+    "kind": "title",
+    "prop": "photo",
+    "args": {
+     "file": "pop8-parkour.jpg",
+     "rect": [
+      14,
+      96,
+      166,
+      196
+     ],
+     "label": "REAL JUMP - PD"
+    }
+   }
+  },
+  {
+   "say": "It was directed by Shigeru Miyamoto.",
+   "scene": {
+    "bg": "park",
+    "head": "MIYAMOTO",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "DIRECTED BY SHIGERU MIYAMOTO."
+    }
+   }
+  },
+  {
+   "say": "Hold B for turbo. But hold it too long, and your engine overheats.",
+   "scene": {
+    "bg": "city",
+    "head": "OVERHEAT!",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "B = TURBO. TOO MUCH = OVERHEAT."
+    }
+   }
+  },
+  {
+   "say": "Design mode let you build tracks from 19 kinds of hurdles.",
+   "scene": {
+    "bg": "grid",
+    "head": "DESIGN MODE",
+    "headsc": 2,
+    "prop": "bignum",
+    "args": {
+     "n": 19,
+     "fmt": "{:.0f}",
+     "unit": "HURDLE TYPES"
+    }
+   }
+  },
+  {
+   "say": "But saving them needed the Famicom Data Recorder, and that never came out outside Japan.",
+   "scene": {
+    "bg": "dark",
+    "head": "NO SAVING",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "DATA RECORDER: JAPAN ONLY."
+    }
+   }
+  },
+  {
+   "say": "Its smooth scrolling engine was reused for Super Mario Bros.",
+   "scene": {
+    "bg": "sky",
+    "head": "REUSED!",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "SAME ENGINE: SUPER MARIO BROS."
+    }
+   }
+  },
+  {
+   "say": "Did you ever overheat? Comment for which game we should review next! Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "EVER OVERHEAT?",
+    "ask": "COMMENT WHICH GAME TO REVIEW NEXT!",
+    "prop": "none",
+    "bg": "dark"
+   }
+  }
+ ],
+ "file": "91 Excitebike.mp4"
+}

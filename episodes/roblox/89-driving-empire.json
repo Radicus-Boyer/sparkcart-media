@@ -1,0 +1,212 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 89,
+ "slug": "89-driving-empire",
+ "file": "89 Driving Empire.mp4",
+ "target": 31,
+ "accent": "#00e5ff",
+ "bpm": 140,
+ "root": 57,
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Audiowide-Regular.ttf",
+  "size": 76,
+  "hi": "#00e5ff",
+  "stroke": 7
+ },
+ "pron": {
+  "Voldex": "Vol-dex",
+  "McLaren": "Mc-Laren"
+ },
+ "lines": [
+  {
+   "t": "Driving Empire lets you race real cars, from brands like Lamborghini and Porsche.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "DRIVING\nEMPIRE",
+    "sub": "REAL CARS. REAL BRANDS.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-town.jpg",
+     "label": "REAL ROADS FROM ABOVE",
+     "credit": "Photo: Serg Bataiev, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 124,
+    "ss": 46
+   }
+  },
+  {
+   "t": "There are over 200 cars and boats, and you can customize them.",
+   "sc": {
+    "bg": "day",
+    "ground": "road",
+    "big": "200+",
+    "sub": "CARS AND BOATS",
+    "bs": 190,
+    "props": [
+     [
+      "car",
+      -1.4,
+      -0.8,
+      {
+       "c": "#ff1744"
+      }
+     ],
+     [
+      "car",
+      1.2,
+      -1.6,
+      {
+       "c": "#00b0ff"
+      }
+     ]
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "You can race, tune your ride, and join community events.",
+   "sc": {
+    "bg": "party",
+    "ground": "road",
+    "big": "RACE.\nTUNE. CRUISE.",
+    "sub": "COMMUNITY EVENTS TOO",
+    "rays": "#ffffff",
+    "bs": 110,
+    "props": [
+     [
+      "car",
+      0.0,
+      -0.8,
+      {
+       "c": "#76ff03"
+      }
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It came out in June 2019, and it's now made by Voldex, the same group that owns Brookhaven.",
+   "sc": {
+    "bg": "mint",
+    "ground": "road",
+    "big": "VOLDEX",
+    "sub": "THEY ALSO OWN BROOKHAVEN",
+    "bs": 160,
+    "props": [
+     [
+      "house",
+      1.8,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -0.8,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "This August, it hit its all-time record, about 90,000 players at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "road",
+    "sub": "PLAYING AT ONCE, AUG 2026",
+    "rays": "#ffffff",
+    "count": {
+     "to": 90,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 3 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "road",
+    "big": "3 BILLION+",
+    "sub": "VISITS (PER TRACKERS)",
+    "bs": 140,
+    "props": [
+     [
+      "car",
+      0.0,
+      -0.6,
+      {
+       "c": "#ffd600"
+      }
+     ]
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "What's your dream car? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "sunset",
+    "ground": "road",
+    "big": "DREAM\nCAR?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

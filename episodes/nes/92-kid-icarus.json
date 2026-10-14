@@ -1,0 +1,143 @@
+{
+ "preset": "nes",
+ "num": 92,
+ "name": "Kid Icarus",
+ "slug": "kidicarus",
+ "theme": "dark",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "title_lines": [
+  "KID ICARUS"
+ ],
+ "year_tag": "NES",
+ "music": {
+  "bpm": 128,
+  "tr": 1,
+  "seed": 92
+ },
+ "pron": {
+  "Palutena": "Pa-loo-tena",
+  "Sakamoto": "Sah-kah-moto"
+ },
+ "lines": [
+  {
+   "say": "Kid Icarus has a wizard who can turn you into an eggplant.",
+   "scene": {
+    "kind": "title",
+    "prop": "photo",
+    "args": {
+     "file": "pop7-climb.jpg",
+     "rect": [
+      14,
+      96,
+      166,
+      196
+     ],
+     "label": "APOUTSIAK CC BY 3.0"
+    }
+   }
+  },
+  {
+   "say": "You play as Pit, an angel climbing up out of the Underworld.",
+   "scene": {
+    "bg": "sky",
+    "head": "CLIMB UP",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "UP, UP, AND UP."
+    }
+   }
+  },
+  {
+   "say": "Medusa has stolen three sacred treasures, and locked up the goddess Palutena.",
+   "scene": {
+    "bg": "dark",
+    "head": "3 TREASURES",
+    "headsc": 2,
+    "prop": "list",
+    "args": {
+     "items": [
+      "MIRROR SHIELD",
+      "LIGHT ARROWS",
+      "WINGS OF PEGASUS"
+     ]
+    }
+   }
+  },
+  {
+   "say": "Monsters drop hearts, and hearts are the money you spend in shops.",
+   "scene": {
+    "bg": "dark",
+    "head": "HEARTS = MONEY",
+    "headsc": 2,
+    "prop": "shop",
+    "args": {
+     "sign": "HEART SHOP"
+    }
+   }
+  },
+  {
+   "say": "In Japan, it saved to a disk. On the NES cartridge, you got passwords instead.",
+   "scene": {
+    "bg": "desk",
+    "head": "PASSWORDS",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "WRITE IT DOWN!"
+    }
+   }
+  },
+  {
+   "say": "It was built by the same Nintendo team as Metroid, and Yoshio Sakamoto joined once Metroid was done.",
+   "scene": {
+    "bg": "space",
+    "head": "METROID TEAM",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "SAME TEAM. SAME YEAR."
+    }
+   }
+  },
+  {
+   "say": "It's famously hard, and there are five different endings.",
+   "scene": {
+    "bg": "dark",
+    "head": "5 ENDINGS",
+    "headsc": 3,
+    "prop": "bignum",
+    "args": {
+     "n": 5,
+     "fmt": "{:.0f}",
+     "unit": "ENDINGS"
+    }
+   }
+  },
+  {
+   "say": "Pit came back in Super Smash Bros. Brawl, and got a whole new game, Kid Icarus Uprising, in 2012.",
+   "scene": {
+    "bg": "space",
+    "head": "PIT RETURNS",
+    "headsc": 2,
+    "prop": "award",
+    "args": {
+     "n": "3DS",
+     "text": "UPRISING, 2012"
+    }
+   }
+  },
+  {
+   "say": "Did you ever get turned into an eggplant? Comment for which game we should review next! Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "EVER BEEN AN EGGPLANT?",
+    "ask": "COMMENT WHICH GAME TO REVIEW NEXT!",
+    "prop": "none",
+    "bg": "dark"
+   }
+  }
+ ],
+ "file": "92 Kid Icarus.mp4"
+}

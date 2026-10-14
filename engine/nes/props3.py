@@ -171,8 +171,9 @@ def photo(img, t, lt, a):
     else:
         OVERLAYS.append((frames[int(lt * 30) % len(frames)], (x0, y0, x1, y1)))
     if a.get("label"):
-        box(img, x0, y1 - 12, x1, y1, P['blk'], P['blk'])
-        ptext(img, a["label"], (x0 + x1) // 2, y1 - 9, P['yel'], 1, None, True)
+        # label sits under the frame so the supplied photo (pasted later, at full res) never covers it
+        box(img, x0, y1 + 5, x1, y1 + 17, P['blk'], P['blk'])
+        ptext(img, a["label"], (x0 + x1) // 2, y1 + 8, P['yel'], 1, None, True)
 
 
 def apply_overlays(frame):

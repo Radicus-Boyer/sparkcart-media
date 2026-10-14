@@ -1,0 +1,183 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 88,
+ "slug": "88-bubble-gum-simulator-infinity",
+ "file": "88 Bubble Gum Simulator Infinity.mp4",
+ "target": 32,
+ "accent": "#f48fb1",
+ "bpm": 126,
+ "root": 64,
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 92,
+  "upper": false,
+  "stroke": 0,
+  "fill": "#ffffff",
+  "hi": "#fff176",
+  "box": "#ec407a",
+  "radius": 40
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Bubble Gum Simulator Infinity is all about blowing the biggest bubble you can.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "BUBBLE GUM\nSIMULATOR ∞",
+    "sub": "BLOW. HATCH. REPEAT.",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-puppy.jpg",
+     "label": "A REAL PET, NO EGG NEEDED",
+     "credit": "Photo: lisaschaos, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 104,
+    "ss": 46
+   }
+  },
+  {
+   "t": "You blow gum, sell it for cash, then spend the cash on eggs that hatch pets.",
+   "sc": {
+    "bg": "party",
+    "ground": "grass",
+    "big": "HATCH\nPETS",
+    "sub": "GUM = CASH = EGGS",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "egg",
+      "x": 540,
+      "y": 780,
+      "s": 190,
+      "a": "shake"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Pets go from Common to Legendary, across worlds like Twilight, Zen, and The Void.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "COMMON TO\nLEGENDARY",
+    "sub": "TWILIGHT, ZEN, THE VOID",
+    "bs": 110,
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Some pets are Secret. In the Infinity Egg, the odds are one in forty million and one.",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "1 IN\n40,000,001",
+    "sub": "SECRET PET ODDS",
+    "bs": 120,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "egg_gold",
+      "x": 540,
+      "y": 790,
+      "s": 180,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's made by Rumble Studios, and trackers say about 380,000 people once played at the same time.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYING AT ONCE (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 380,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 140,
+    "ss": 40,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your rarest pet? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "RAREST\nPET?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

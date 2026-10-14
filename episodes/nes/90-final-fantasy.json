@@ -1,0 +1,169 @@
+{
+ "preset": "nes",
+ "num": 90,
+ "name": "Final Fantasy",
+ "slug": "finalfantasy",
+ "theme": "dark",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "title_lines": [
+  "FINAL",
+  "FANTASY"
+ ],
+ "year_tag": "NES",
+ "music": {
+  "bpm": 112,
+  "tr": -2,
+  "seed": 90
+ },
+ "pron": {
+  "Sakaguchi": "Sah-kah-goo-chee",
+  "Uematsu": "Oo-eh-mah-tsu",
+  "Gebelli": "Geh-belly",
+  "Nasir": "Nah-seer"
+ },
+ "lines": [
+  {
+   "say": "Final Fantasy was called Final for a reason. Or at least, that's the story.",
+   "scene": {
+    "kind": "title",
+    "prop": "photo",
+    "args": {
+     "file": "pop6-cave.jpg",
+     "rect": [
+      14,
+      96,
+      166,
+      196
+     ],
+     "label": "REAL CRYSTALS. PHOTO: PD"
+    }
+   }
+  },
+  {
+   "say": "It was made by Square, and directed by Hironobu Sakaguchi.",
+   "scene": {
+    "bg": "desk",
+    "head": "SQUARE",
+    "headsc": 4,
+    "prop": "computer",
+    "args": {
+     "text": "FF"
+    },
+    "subs": [
+     "DIR. SAKAGUCHI"
+    ]
+   }
+  },
+  {
+   "say": "Its working title was Fighting Fantasy, but that name already belonged to a series of gamebooks.",
+   "scene": {
+    "bg": "dark",
+    "head": "TAKEN!",
+    "headsc": 4,
+    "prop": "quote",
+    "args": {
+     "text": "FIGHTING FANTASY? ALREADY TAKEN."
+    }
+   }
+  },
+  {
+   "say": "Composer Nobuo Uematsu said Final meant Sakaguchi would quit if it flopped, and Square was facing possible bankruptcy.",
+   "scene": {
+    "bg": "city",
+    "head": "LAST CHANCE?",
+    "headsc": 2,
+    "prop": "quote",
+    "args": {
+     "text": "IF IT FLOPS, I QUIT."
+    }
+   }
+  },
+  {
+   "say": "Sakaguchi later said any word starting with F would have been fine.",
+   "scene": {
+    "bg": "dark",
+    "head": "JUST AN F?",
+    "headsc": 3,
+    "prop": "quote",
+    "args": {
+     "text": "ANY F WORD WAS FINE."
+    }
+   }
+  },
+  {
+   "say": "You pick four heroes at the start, from six classes, and you're stuck with them for the whole game.",
+   "scene": {
+    "bg": "dark",
+    "head": "6 CLASSES",
+    "headsc": 3,
+    "prop": "list",
+    "args": {
+     "items": [
+      "FIGHTER",
+      "THIEF",
+      "BLACK BELT",
+      "RED MAGE",
+      "WHITE MAGE",
+      "BLACK MAGE"
+     ],
+     "gap": 0.4
+    }
+   }
+  },
+  {
+   "say": "Its programmer, Nasir Gebelli, even added a hidden sliding puzzle that was never in the plan.",
+   "scene": {
+    "bg": "lab",
+    "head": "SECRET PUZZLE",
+    "headsc": 2,
+    "prop": "computer",
+    "args": {
+     "text": "15"
+    },
+    "subs": [
+     "NASIR GEBELLI"
+    ]
+   }
+  },
+  {
+   "say": "Square shipped 520,000 copies in Japan at first. By 1994, about 1.3 million had sold worldwide.",
+   "scene": {
+    "bg": "space",
+    "head": "SOLD",
+    "headsc": 3,
+    "prop": "bignum",
+    "args": {
+     "n": 1.3,
+     "fmt": "{:.1f}M",
+     "unit": "BY 1994"
+    }
+   },
+   "cap": "Square shipped 520,000 copies in Japan at first. By 1994, about 1.3 million had sold worldwide."
+  },
+  {
+   "say": "So it wasn't final at all. The series is still going today.",
+   "scene": {
+    "bg": "space",
+    "head": "NOT FINAL!",
+    "headsc": 3,
+    "prop": "award",
+    "args": {
+     "n": "FF",
+     "text": "STILL GOING"
+    }
+   }
+  },
+  {
+   "say": "Which Final Fantasy is your favorite? Comment for which game we should review next! Follow for more 8-Bit Backstory!",
+   "scene": {
+    "kind": "outro",
+    "question": "FAVORITE FINAL FANTASY?",
+    "ask": "COMMENT WHICH GAME TO REVIEW NEXT!",
+    "prop": "none",
+    "bg": "dark"
+   }
+  }
+ ],
+ "file": "90 Final Fantasy.mp4"
+}

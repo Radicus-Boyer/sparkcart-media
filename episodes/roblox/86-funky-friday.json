@@ -1,0 +1,232 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 86,
+ "slug": "86-funky-friday",
+ "file": "86 Funky Friday.mp4",
+ "target": 34,
+ "accent": "#ff4081",
+ "bpm": 150,
+ "root": 60,
+ "voice": "af_sarah",
+ "speed": 1.1,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 136,
+  "mode": "word",
+  "fill": "#ff80ab",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {
+  "Funkin'": "Funkin"
+ },
+ "lines": [
+  {
+   "t": "Funky Friday is a Roblox rhythm battle, where you hit arrows to the beat.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "FUNKY\nFRIDAY",
+    "sub": "HIT THE ARROWS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop2-52nd-street.jpg",
+     "label": "A REAL MUSIC STREET, NEW YORK",
+     "credit": "Photo: William P. Gottlieb, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's made by Lyte Interactive, and it's based on the indie game Friday Night Funkin'.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "LYTE\nINTERACTIVE",
+    "sub": "BASED ON FRIDAY NIGHT FUNKIN'",
+    "bs": 116,
+    "ss": 40,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": "e"
+     }
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 830,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Hit a note right on time, and you get a Sick. Miss the timing, and it's a Bad.",
+   "sc": {
+    "bg": "red",
+    "ground": "purple",
+    "big": "SICK!!",
+    "sub": "OR BAD...",
+    "bc": "#ffffff",
+    "bs": 190,
+    "fx": [
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Hit it at the exact millisecond, and you get a special Fresh rating, with its own sound.",
+   "sc": {
+    "bg": "mint",
+    "ground": "purple",
+    "big": "FRESH!",
+    "sub": "THE EXACT MILLISECOND",
+    "bs": 190,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "flicker"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Battle other players, or play solo. Points buy new animations and emotes.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "BATTLE!",
+    "sub": "POINTS = NEW EMOTES",
+    "rays": "#ffffff",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "One song mod was in the game for only about ten minutes before it got removed.",
+   "sc": {
+    "bg": "dark",
+    "ground": "purple",
+    "big": "10 MINUTES",
+    "sub": "SHORTEST-LIVED SONG MOD",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 2 billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "count": {
+     "to": 2,
+     "fmt": "{:.0f} BILLION+"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your hardest song? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "HARDEST\nSONG?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}
