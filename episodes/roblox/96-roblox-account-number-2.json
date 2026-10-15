@@ -1,0 +1,185 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 96,
+ "slug": "96-roblox-account-number-2",
+ "file": "96 Roblox Account Number 2.mp4",
+ "target": 38,
+ "accent": "#ef5350",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#f5f5f5",
+  "hi": "#ef9a9a",
+  "stroke": 6
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Roblox account number 2 was supposed to hack everyone. It never did.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "ACCOUNT #2:\nTHE 'HACKER'",
+    "sub": "JOHN DOE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop4-hotel-hallway.jpg",
+     "label": "A REAL EMPTY HALLWAY",
+     "credit": "Photo: cogdogblog, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46,
+    "vig": true
+   }
+  },
+  {
+   "t": "John Doe and Jane Doe are user IDs 2 and 3. Roblox's founders made them on June 25, 2005, as test accounts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "IDS 2 & 3",
+    "sub": "TEST ACCOUNTS, 2005",
+    "bs": 160,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "g"
+     }
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 800,
+      "s": 130,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2017, a rumor spread that they would hack Roblox on March 18th.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "MARCH 18",
+    "sub": "THE RUMOR",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "vig": true,
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Nothing happened. Roblox even posted on its blog to calm everyone down.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "NOTHING\nHAPPENED",
+    "sub": "ROBLOX POSTED ABOUT IT",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "A bug had let players add them as friends without permission. Roblox fixed it, and cleared their friend lists.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BUG FIXED",
+    "sub": "FRIEND LISTS CLEARED",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Did you believe the rumor? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "DID YOU\nBELIEVE IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

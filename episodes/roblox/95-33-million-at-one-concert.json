@@ -1,0 +1,173 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 95,
+ "slug": "95-33-million-at-one-concert",
+ "file": "95 33 Million at One Roblox Concert.mp4",
+ "target": 31,
+ "accent": "#ff4081",
+ "voice": "af_sarah",
+ "speed": 1.0,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 136,
+  "mode": "word",
+  "fill": "#ffe0f0",
+  "hi": "#ffe0f0",
+  "cy": 1470
+ },
+ "pron": {
+  "Nas": "Naz"
+ },
+ "lines": [
+  {
+   "t": "Over 33 million people showed up to one concert, and it happened inside Roblox.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "33 MILLION\nAT ONE SHOW",
+    "sub": "INSIDE ROBLOX",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-pokemon-go-crowd.jpg",
+     "label": "A REAL CROWD",
+     "credit": "Photo: Brian Miller, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 120,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It was Lil Nas X, in November 2020, performing as a giant avatar.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "LIL NAS X",
+    "sub": "NOVEMBER 2020",
+    "bs": 150,
+    "props": [
+     [
+      "tower",
+      0.0,
+      -2.6,
+      {
+       "c": "#ff4081"
+      }
+     ]
+    ],
+    "crowd": {
+     "n": 14,
+     "appear": 0.4
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It was announced only four days before it started.",
+   "sc": {
+    "bg": "red",
+    "ground": "purple",
+    "big": "4 DAYS",
+    "sub": "OF WARNING",
+    "bc": "#ffffff",
+    "bs": 190,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "He played a mix of his biggest songs, and he was there to promote a new one, Holiday.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "HOLIDAY",
+    "sub": "THE NEW SONG",
+    "rays": "#ffffff",
+    "bs": 170,
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "At its peak, nearly a million people were watching at the same time. It became Roblox's most popular concert.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "sub": "WATCHING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1,
+     "fmt": "~{:.0f} MILLION"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Who should play Roblox next? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WHO PLAYS\nNEXT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

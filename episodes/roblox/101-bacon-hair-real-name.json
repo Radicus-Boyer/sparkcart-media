@@ -1,0 +1,172 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 101,
+ "slug": "101-bacon-hair-real-name",
+ "file": "101 Bacon Hair's Real Name.mp4",
+ "target": 30,
+ "accent": "#ff8a65",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 100,
+  "upper": false,
+  "hi": "#ffab91",
+  "stroke": 9
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Bacon Hair isn't its real name.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "IT'S NOT\nBACON HAIR",
+    "sub": "ROBLOX'S DEFAULT LOOK",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-pig.jpg",
+     "label": "A REAL PIG. NO BACON HERE.",
+     "credit": "Photo: simon berger, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46
+   }
+  },
+  {
+   "t": "The real item is called Pal Hair. Players call it Bacon Hair, because it looks like strips of bacon.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "PAL HAIR",
+    "sub": "ITS REAL NAME",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a",
+      "hat": "#6d4c41"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It arrived with Roblox's 2014 avatar revamp. Before that, new players started as a blocky yellow figure.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "2014",
+    "sub": "THE AVATAR REVAMP",
+    "bs": 200,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "hat": "#6d4c41"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Now calling someone a bacon means they're new, and haven't customized their avatar yet.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "\"BACON\"",
+    "sub": "= A NEW PLAYER",
+    "rays": "#ffffff",
+    "bs": 170,
+    "crowd": {
+     "n": 10,
+     "appear": 0.4
+    }
+   }
+  },
+  {
+   "t": "And no, it was never removed. You can still equip Pal Hair today.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "STILL\nHERE",
+    "sub": "EQUIP IT ANYTIME",
+    "rays": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "sparkle"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a",
+      "hat": "#6d4c41"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Were you ever a bacon? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "EVER BEEN\nA BACON?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 94,
+ "slug": "94-grow-a-garden-beat-fortnite",
+ "file": "94 Grow a Garden Beat Fortnite.mp4",
+ "target": 30,
+ "accent": "#7cb342",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 92,
+  "upper": false,
+  "stroke": 0,
+  "fill": "#ffffff",
+  "hi": "#fff59d",
+  "box": "#2e7d32",
+  "radius": 34
+ },
+ "pron": {
+  "Fortnite": "Fort-nite"
+ },
+ "lines": [
+  {
+   "t": "A Roblox game about gardening beat Fortnite's all-time player record.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "IT BEAT\nFORTNITE",
+    "sub": "GROW A GARDEN",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-garden.jpg",
+     "label": "A REAL GARDEN",
+     "credit": "Photo: Alabama Extension, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46
+   }
+  },
+  {
+   "t": "In late June 2025, Grow a Garden had 21.6 million people playing at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 21.6,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Fortnite's record had been 15.2 million.",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "15.2 MILLION",
+    "sub": "FORTNITE'S OLD RECORD",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was made in just a few days, by a 16-year-old. Now it's run by a studio called Splitting Point.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "MADE BY\nA 16-YEAR-OLD",
+    "sub": "IN A FEW DAYS",
+    "bs": 116,
+    "props": [
+     [
+      "tree",
+      -2.2,
+      -2.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The seed shop restocks every five minutes, so players keep coming back.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "EVERY\n5 MINUTES",
+    "sub": "NEW SEEDS",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "pulse"
+     }
+    ],
+    "props": [
+     [
+      "crate",
+      -1.4,
+      -1.2
+     ]
+    ]
+   }
+  },
+  {
+   "t": "What's your best crop? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BEST\nCROP?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

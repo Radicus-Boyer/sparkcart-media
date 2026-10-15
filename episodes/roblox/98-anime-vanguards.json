@@ -1,0 +1,188 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 98,
+ "slug": "98-anime-vanguards",
+ "file": "98 Anime Vanguards.mp4",
+ "target": 32,
+ "accent": "#ab47bc",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/PermanentMarker-Regular.ttf",
+  "size": 90,
+  "upper": false,
+  "hi": "#ce93d8",
+  "stroke": 9
+ },
+ "pron": {
+  "Kitawari": "Kee-ta-wah-ree"
+ },
+ "lines": [
+  {
+   "t": "Anime Vanguards turns anime fighters into tower defense.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "ANIME HEROES\nAS TOWERS",
+    "sub": "ANIME VANGUARDS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-toysoldiers.jpg",
+     "label": "REAL TOY SOLDIERS",
+     "credit": "Photo: Jcbutler, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "You summon units from rotating banners, then place them to stop waves of enemies.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SUMMON.\nPLACE. DEFEND.",
+    "sub": "WAVE AFTER WAVE",
+    "bs": 110,
+    "props": [
+     [
+      "tower",
+      -1.8,
+      -1.8
+     ],
+     [
+      "tower",
+      1.8,
+      -1.8
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "e",
+      "hold": "sword"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It's made by a group called Kitawari, and it launched in January 2024.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "KITAWARI",
+    "sub": "JANUARY 2024",
+    "bs": 160,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Its biggest day came in October 2024, with about 171,000 players at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 171,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In March 2026, it even added a level editor. Trackers count about 2 billion visits.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "LEVEL\nEDITOR",
+    "sub": "ADDED MARCH 2026",
+    "rays": "#ffffff",
+    "bs": 140,
+    "props": [
+     [
+      "block",
+      -1.4,
+      -1.2
+     ],
+     [
+      "block",
+      0.0,
+      -1.2
+     ],
+     [
+      "block",
+      1.4,
+      -1.2
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Who's your best unit? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "BEST\nUNIT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

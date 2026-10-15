@@ -1,0 +1,226 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 93,
+ "slug": "93-roblox-deleted-its-own-money",
+ "file": "93 Roblox Deleted Its Own Money.mp4",
+ "target": 48,
+ "accent": "#ffd23c",
+ "voice": "am_michael",
+ "speed": 1.1,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 84,
+  "hi": "#ffd23c",
+  "stroke": 8
+ },
+ "pron": {
+  "Tix": "Ticks"
+ },
+ "lines": [
+  {
+   "t": "Roblox used to have two currencies. Then it deleted one.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "ROBLOX DELETED\nITS OWN MONEY",
+    "sub": "THINGS ROBLOX REMOVED",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop2-cat-keyboard.jpg",
+     "label": "A REAL CAT ON A KEYBOARD",
+     "credit": "Photo: dougwoods, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 96,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It was called Tix, short for tickets. It was removed in April 2016, because Roblox said two currencies confused new players.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "TIX",
+    "sub": "REMOVED APRIL 2016",
+    "rays": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "coins"
+    ],
+    "ic": [
+     {
+      "n": "coin",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2017, the official forums disappeared.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "FORUMS",
+    "sub": "GONE IN 2017",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "That October, you could no longer play without an account. Guest mode was gone.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "NO MORE\nGUESTS",
+    "sub": "OCTOBER 2017",
+    "bs": 140,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Builders Club, the paid membership from 2007, was replaced by Roblox Premium in 2019.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "BUILDERS\nCLUB",
+    "sub": "2007 TO 2019",
+    "bs": 140,
+    "props": [
+     [
+      "tower",
+      -1.6,
+      -2.0
+     ],
+     [
+      "block",
+      1.4,
+      -1.4
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.4,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b",
+      "hat": "#ffd23c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And in May 2026, Premium itself was replaced, by Roblox Plus.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "PREMIUM\nIS NOW PLUS",
+    "sub": "MAY 2026",
+    "rays": "#ffffff",
+    "bs": 124,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Even the oof sound was removed in 2022, after a copyright dispute. But in July 2025, it came back.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "OOF IS\nBACK!",
+    "sub": "REMOVED 2022, BACK JULY 2025",
+    "rays": "#ffffff",
+    "bs": 150,
+    "ss": 42,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "e"
+     }
+    ]
+   }
+  },
+  {
+   "t": "What do you miss most? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "WHAT DO YOU\nMISS MOST?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

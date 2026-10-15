@@ -1,0 +1,164 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 99,
+ "slug": "99-the-hunt",
+ "file": "99 Roblox's Egg Hunt Vanished.mp4",
+ "target": 32,
+ "accent": "#ffca28",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/TitanOne-Regular.ttf",
+  "size": 80,
+  "stroke": 0,
+  "fill": "#3e2723",
+  "hi": "#d84315",
+  "box": "#ffd54f",
+  "radius": 30
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Roblox held a giant egg hunt almost every year. Then it disappeared for four years.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "THE EGG HUNT\nVANISHED",
+    "sub": "THEN IT CAME BACK",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-vault.jpg",
+     "label": "A REAL VAULT DOOR",
+     "credit": "Photo: Ammodramus, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "The platform-wide egg hunts started in April 2008, and ended in April 2020.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "2008 TO\n2020",
+    "sub": "THE OLD EGG HUNTS",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "egg",
+      "x": 540,
+      "y": 780,
+      "s": 190,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In March 2024, Roblox came back with The Hunt: First Edition, across more than 80 games.",
+   "sc": {
+    "bg": "party",
+    "ground": "grass",
+    "big": "80+ GAMES",
+    "sub": "THE HUNT: FIRST EDITION",
+    "rays": "#ffffff",
+    "bs": 160,
+    "crowd": {
+     "n": 16,
+     "appear": 0.4
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Finish challenges, earn badges, and badges unlocked items in the Infinite Vault.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "INFINITE\nVAULT",
+    "sub": "BADGES UNLOCK ITEMS",
+    "bs": 140,
+    "props": [
+     [
+      "pedestal",
+      0.0,
+      -0.6
+     ]
+    ],
+    "ic": [
+     {
+      "n": "egg_gold",
+      "x": 540,
+      "y": 760,
+      "s": 170,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Some rare eggs traded for 1,000 Robux or more.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "1,000+\nROBUX",
+    "sub": "FOR ONE RARE EGG",
+    "rays": "#ffffff",
+    "bs": 140,
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Did you finish The Hunt? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "DID YOU\nFINISH IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

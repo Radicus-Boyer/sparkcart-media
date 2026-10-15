@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 97,
+ "slug": "97-pressure",
+ "file": "97 Pressure.mp4",
+ "target": 31,
+ "accent": "#26c6da",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 90,
+  "hi": "#4dd0e1",
+  "stroke": 8
+ },
+ "pron": {
+  "Urbanshade": "Urban-shade",
+  "Hadal": "Hay-dal",
+  "ULTRAKILL": "Ultra-kill",
+  "SCP": "S C P"
+ },
+ "lines": [
+  {
+   "t": "In Pressure, the game tells you right away: you're expendable.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "YOU ARE\nEXPENDABLE",
+    "sub": "PRESSURE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-factory.jpg",
+     "label": "A REAL ABANDONED FACILITY",
+     "credit": "Photo: George A. Grant, NARA, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46,
+    "vig": true
+   }
+  },
+  {
+   "t": "It's a Roblox horror game by Urbanshade: Hadal Division, and it came out in February 2023.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ROBLOX\nHORROR",
+    "sub": "FEBRUARY 2023",
+    "bs": 140,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "a",
+      "face": "o"
+     }
+    ],
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "It's inspired by games like Doors, Iron Lung, ULTRAKILL, and SCP: Containment Breach.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "INSPIRED BY",
+    "sub": "DOORS, IRON LUNG, ULTRAKILL, SCP",
+    "bc": "#ffffff",
+    "bs": 150,
+    "ss": 38,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "It's still in alpha, but in March 2026, about 111,000 people played at once. Trackers count nearly half a billion visits.",
+   "sc": {
+    "bg": "gold",
+    "ground": "dark",
+    "sub": "PLAYING AT ONCE, MARCH 2026",
+    "rays": "#ffffff",
+    "count": {
+     "to": 111,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Would you sign up? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "WOULD YOU\nSIGN UP?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

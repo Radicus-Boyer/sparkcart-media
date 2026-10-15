@@ -1,0 +1,171 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 102,
+ "slug": "102-ink-game",
+ "file": "102 Ink Game.mp4",
+ "target": 30,
+ "accent": "#ec407a",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#f06292",
+  "stroke": 8
+ },
+ "pron": {
+  "Dalgona": "Dal-go-na"
+ },
+ "lines": [
+  {
+   "t": "In Ink Game, you can play the deadly games, or start a rebellion.",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "SURVIVE.\nOR REBEL.",
+    "sub": "INK GAME",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-doll.jpg",
+     "label": "A REAL OLD DOLLHOUSE",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's inspired by Squid Game, with mini-games like Red Light Green Light and Dalgona.",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "RED LIGHT\nGREEN LIGHT",
+    "sub": "AND DALGONA",
+    "bc": "#ffffff",
+    "bs": 120,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.0,
+       0.6
+      ]
+     },
+     {
+      "p": [
+       1.2,
+       0.8
+      ],
+      "a": "idle",
+      "c": "e",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "There are three endings: Rebel, Final Fight, and Sky Squid Games.",
+   "sc": {
+    "bg": "night",
+    "ground": "road",
+    "big": "3 ENDINGS",
+    "sub": "REBEL, FINAL FIGHT, SKY",
+    "bs": 160,
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In September 2025, an update let you play as the guards. That month, about 514,000 people played at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "road",
+    "sub": "PLAYING AT ONCE, SEPT 2025",
+    "rays": "#ffffff",
+    "count": {
+     "to": 514,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers count over 3 billion visits.",
+   "sc": {
+    "bg": "party",
+    "ground": "road",
+    "big": "3 BILLION+",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "bs": 150
+   }
+  },
+  {
+   "t": "Which ending did you get? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "WHICH\nENDING?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}
