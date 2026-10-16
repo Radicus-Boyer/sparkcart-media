@@ -1,0 +1,178 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 109,
+ "slug": "109-plants-and-brainrots",
+ "file": "109 4 Billion Visits in 9 Months.mp4",
+ "target": 31,
+ "accent": "#9ccc65",
+ "voice": "af_sarah",
+ "speed": 1.0,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 88,
+  "hi": "#c5e1a5",
+  "stroke": 8
+ },
+ "pron": {
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots"
+ },
+ "lines": [
+  {
+   "t": "This Roblox game hit over 4 billion visits in under nine months.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "4 BILLION\nIN 9 MONTHS",
+    "sub": "PLANTS & BRAINROTS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-field.jpg",
+     "label": "A REAL SUNFLOWER FIELD",
+     "credit": "Photo: Summer Stock, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 46
+   }
+  },
+  {
+   "t": "In Plants and Brainrots, you plant seeds, and your plants fight brainrots for you while you earn cash.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "PLANTS VS\nBRAINROTS",
+    "sub": "THEY FIGHT FOR YOU",
+    "bs": 120,
+    "props": [
+     [
+      "tree",
+      -2.0,
+      -2.0
+     ],
+     [
+      "tree",
+      2.0,
+      -2.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "c"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "You can play it on phones, tablets, PC and console.",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "PLAY\nANYWHERE",
+    "sub": "PHONE, TABLET, PC, CONSOLE",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "controller",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's made by Splitting Point, the same studio that runs Grow a Garden.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "SPLITTING\nPOINT",
+    "sub": "ALSO RUNS GROW A GARDEN",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It came out in August 2025, and by October, about 8.7 million people played at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 8.7,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your best plant? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "BEST\nPLANT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

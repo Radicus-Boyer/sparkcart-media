@@ -1,0 +1,173 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 106,
+ "slug": "106-roblox-ceo-account-number-1",
+ "file": "106 The Roblox CEO Gave Away Account 1.mp4",
+ "target": 35,
+ "accent": "#64b5f6",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 84,
+  "hi": "#64b5f6",
+  "stroke": 8
+ },
+ "pron": {
+  "Baszucki": "Bah-zoo-key",
+  "builderman": "builder man"
+ },
+ "lines": [
+  {
+   "t": "Roblox's CEO used to own account number 1. Then he gave it away.",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "big": "HE GAVE AWAY\nACCOUNT #1",
+    "sub": "ROBLOX'S CEO",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-baszucki.jpg",
+     "label": "THE REAL DAVID BASZUCKI",
+     "credit": "Photo: TechCrunch, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "David Baszucki co-founded Roblox with Erik Cassel. His account was created in July 2004.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "JULY 2004",
+    "sub": "ACCOUNT CREATED",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It started as user ID 1. But in 2007, it was swapped with the newest account on the site.",
+   "sc": {
+    "bg": "party",
+    "ground": "stone",
+    "big": "ID 1\nSWAPPED",
+    "sub": "WITH A BRAND-NEW ACCOUNT",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "trade",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "He used to play as builderman, before switching to his real name.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "BUILDERMAN",
+    "sub": "HIS OLD ACCOUNT",
+    "bs": 140,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "hat": "#ff7043"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And his profile still shows the wrong join date, because of a display bug.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "WRONG\nJOIN DATE",
+    "sub": "A DISPLAY BUG",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Would you have wanted account 1? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "stone",
+    "big": "WANT\nACCOUNT #1?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

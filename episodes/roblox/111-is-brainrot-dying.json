@@ -1,0 +1,159 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 111,
+ "slug": "111-is-brainrot-dying",
+ "file": "111 Is Brainrot Dying on Roblox.mp4",
+ "target": 37,
+ "accent": "#26a69a",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Audiowide-Regular.ttf",
+  "size": 76,
+  "hi": "#80cbc4",
+  "stroke": 7
+ },
+ "pron": {
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots",
+  "Brainrot": "Brain rot",
+  "brainrot": "brain rot"
+ },
+ "lines": [
+  {
+   "t": "Steal a Brainrot lost about 99 percent of its peak players. So is brainrot dead?",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "IT LOST 99%\nOF ITS PLAYERS",
+    "sub": "IS BRAINROT DYING?",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop9-landfill.jpg",
+     "label": "A REAL LANDFILL DIG",
+     "credit": "Photo: taylorhatmaker, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 104,
+    "ss": 46
+   }
+  },
+  {
+   "t": "At its peak in October 2025, Steal a Brainrot had over 25 million players at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "AT ITS PEAK",
+    "rays": "#ffffff",
+    "count": {
+     "to": 25,
+     "fmt": "{:.0f} MILLION+"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Early this year, trackers had it at around 215,000.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "~215,000",
+    "sub": "EARLY 2026 (PER TRACKERS)",
+    "bs": 150,
+    "crowd": {
+     "n": 4,
+     "appear": 0.4
+    }
+   }
+  },
+  {
+   "t": "But new brainrot games keep coming. Escape Tsunami for Brainrots briefly became Roblox's most-played game in January 2026.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "NEW\nBRAINROTS",
+    "sub": "STILL TOPPING THE CHARTS",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.6,
+       0.6
+      ]
+     }
+    ],
+    "fx": [
+     "speed"
+    ]
+   }
+  },
+  {
+   "t": "Trackers say brainrot isn't dying. It's just turning into a normal Roblox genre.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "NOT DEAD",
+    "sub": "JUST NORMAL NOW",
+    "rays": "#ffffff",
+    "bs": 170
+   }
+  },
+  {
+   "t": "Is brainrot dead to you? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DEAD OR\nALIVE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

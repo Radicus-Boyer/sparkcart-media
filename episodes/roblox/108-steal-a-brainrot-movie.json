@@ -1,0 +1,214 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 108,
+ "slug": "108-steal-a-brainrot-movie",
+ "file": "108 Steal a Brainrot Is Getting a Movie.mp4",
+ "target": 38,
+ "accent": "#7e57c2",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 96,
+  "upper": false,
+  "stroke": 0,
+  "fill": "#ffffff",
+  "hi": "#ffe082",
+  "box": "#5e35b1",
+  "radius": 36
+ },
+ "pron": {
+  "SpyderSammy": "Spider Sammy",
+  "Sahur": "Sa-hoor",
+  "brainrots": "brain rots",
+  "Brainrot": "Brain rot",
+  "brainrot": "brain rot"
+ },
+ "lines": [
+  {
+   "t": "Steal a Brainrot is getting a movie. And Fortnite made its own version, with permission.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "IT'S GETTING\nA MOVIE",
+    "sub": "STEAL A BRAINROT",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop2-flip-the-frog.jpg",
+     "label": "A REAL 1930 CARTOON TITLE",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It was made by SpyderSammy, and came out on May 16th, 2025.",
+   "sc": {
+    "bg": "mint",
+    "ground": "purple",
+    "big": "SPYDERSAMMY",
+    "sub": "MAY 16, 2025",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You buy brainrots off a conveyor belt, earn cash from them, and steal them from other players.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "BUY. EARN.\nSTEAL.",
+    "sub": "THE WHOLE LOOP",
+    "bs": 120,
+    "props": [
+     [
+      "base",
+      0.0,
+      -1.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "e",
+      "to": [
+       -0.2,
+       0.4
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "In July 2025, Epic Games licensed it for Fortnite Creative, as Steal the Brainrot.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "IN FORTNITE",
+    "sub": "LICENSED, JULY 2025",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "trade",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Tung Tung Tung Sahur was pulled from the game in September 2025, after a licensing dispute. He came back on November 29th.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "TUNG TUNG\nTUNG SAHUR",
+    "sub": "REMOVED, THEN BACK",
+    "bc": "#ffffff",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And a movie is now in development.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "big": "A MOVIE",
+    "sub": "IN DEVELOPMENT",
+    "rays": "#ffffff",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "clapper",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Who should star in the movie? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WHO STARS\nIN IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

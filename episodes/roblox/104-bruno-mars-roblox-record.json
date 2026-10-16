@@ -1,0 +1,173 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 104,
+ "slug": "104-bruno-mars-roblox-record",
+ "file": "104 Bruno Mars Broke a Record in Roblox.mp4",
+ "target": 38,
+ "accent": "#ffd54f",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/TitanOne-Regular.ttf",
+  "size": 80,
+  "stroke": 0,
+  "fill": "#212121",
+  "hi": "#c62828",
+  "box": "#ffd54f",
+  "radius": 30
+ },
+ "pron": {
+  "Marsito": "Mar-see-toe",
+  "Brunito": "Broo-nee-toe"
+ },
+ "lines": [
+  {
+   "t": "A Roblox concert set a Guinness World Record, and it beat Fortnite's Travis Scott show.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "A GUINNESS\nRECORD",
+    "sub": "IN A ROBLOX GAME",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop3-bruno-mars.jpg",
+     "label": "THE REAL BRUNO MARS",
+     "credit": "Photo: Brothers Le, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 120,
+    "ss": 46
+   }
+  },
+  {
+   "t": "On January 17th, 2026, Bruno Mars played a concert inside Steal a Brainrot.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "BRUNO MARS",
+    "sub": "INSIDE STEAL A BRAINROT",
+    "bs": 140,
+    "props": [
+     [
+      "tower",
+      0.0,
+      -2.6,
+      {
+       "c": "#ffd54f"
+      }
+     ]
+    ],
+    "crowd": {
+     "n": 14,
+     "appear": 0.4
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Guinness counted 12,862,161 people watching at once, the largest concert in a video game by a single artist.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "sub": "WATCHING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 12862161,
+     "fmt": "{:,.0f}"
+    },
+    "bs": 110,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Travis Scott's Fortnite show had held the record, with 12.3 million.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "12.3 MILLION",
+    "sub": "THE OLD RECORD",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And his limited Brainrot, Brunito Marsito, was collected over 5 million times.",
+   "sc": {
+    "bg": "mint",
+    "ground": "purple",
+    "big": "BRUNITO\nMARSITO",
+    "sub": "5.4 MILLION COLLECTED",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Who should play Roblox next? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WHO PLAYS\nNEXT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

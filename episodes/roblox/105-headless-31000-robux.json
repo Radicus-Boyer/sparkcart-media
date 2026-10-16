@@ -1,0 +1,163 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 105,
+ "slug": "105-headless-31000-robux",
+ "file": "105 31,000 Robux for No Head.mp4",
+ "target": 30,
+ "accent": "#ff9100",
+ "voice": "am_michael",
+ "speed": 1.02,
+ "cap": {
+  "font": "../modern/fonts/PermanentMarker-Regular.ttf",
+  "size": 92,
+  "upper": false,
+  "hi": "#ffab40",
+  "stroke": 9
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "On Roblox, having no head costs 31,000 Robux.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "31,000 ROBUX\nFOR NO HEAD",
+    "sub": "THE HEADLESS HORSEMAN",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop-hunyad-castle.jpg",
+     "label": "A REAL OLD CASTLE",
+     "credit": "Photo: Luke.ender, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 104,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's the Headless Horseman bundle, and its main draw is an invisible head.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "NO HEAD",
+    "sub": "THAT'S THE WHOLE POINT",
+    "bs": 170,
+    "vig": true,
+    "fx": [
+     "fireflies"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The price has stayed at 31,000 Robux across Halloween after Halloween.",
+   "sc": {
+    "bg": "gold",
+    "ground": "dark",
+    "big": "31,000",
+    "sub": "ROBUX, EVERY YEAR",
+    "rays": "#ffffff",
+    "bs": 190,
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "That's why a headless avatar is one of the biggest flexes on Roblox.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "THE BIGGEST\nFLEX",
+    "sub": "ON ALL OF ROBLOX",
+    "rays": "#ffffff",
+    "bs": 124,
+    "crowd": {
+     "n": 10,
+     "appear": 0.4
+    },
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "But you can only buy it around Halloween. Once the event ends, it leaves the shop.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "HALLOWEEN\nONLY",
+    "sub": "THEN IT'S GONE",
+    "bc": "#ffffff",
+    "bs": 130,
+    "ic": [
+     {
+      "n": "moon",
+      "x": 860,
+      "y": 800,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "Would you pay for no head? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "WORTH\nIT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

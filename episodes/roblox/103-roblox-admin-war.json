@@ -1,0 +1,186 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 103,
+ "slug": "103-roblox-admin-war",
+ "file": "103 The Roblox Admin War.mp4",
+ "target": 33,
+ "accent": "#ff7043",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 128,
+  "mode": "word",
+  "fill": "#ffccbc",
+  "hi": "#ffccbc",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Two Roblox games went to war, and it broke Roblox's all-time record.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "TWO GAMES\nWENT TO WAR",
+    "sub": "STEAL A BRAINROT VS GROW A GARDEN",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-joker.jpg",
+     "label": "TWO REAL JOKER CARDS",
+     "credit": "Photo: Czlowiek Oddzielany Mechanicznie, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 40
+   }
+  },
+  {
+   "t": "On August 23rd, 2025, Steal a Brainrot and Grow a Garden held a mock admin war.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "ADMIN\nWAR",
+    "sub": "AUGUST 23, 2025",
+    "bc": "#ff7043",
+    "bs": 160,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.3,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.3,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e",
+      "hold": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Grow a Garden hit at least 22.3 million players at once.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "sub": "GROW A GARDEN",
+    "count": {
+     "to": 22.3,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 18,
+     "appear": 0.4
+    },
+    "props": [
+     [
+      "tree",
+      -2.4,
+      -2.4
+     ]
+    ]
+   }
+  },
+  {
+   "t": "And all of Roblox hit 47.4 million at the same time, a new platform record.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "ON ROBLOX AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 47.4,
+     "fmt": "{:.1f} MILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Later, Steal a Brainrot became the only Roblox game ever to pass 25 million players at once.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "25 MILLION+",
+    "sub": "STEAL A BRAINROT, OCT 2025",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Team Brainrot or team Garden? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "BRAINROT OR\nGARDEN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

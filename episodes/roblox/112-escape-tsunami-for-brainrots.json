@@ -1,0 +1,169 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 112,
+ "slug": "112-escape-tsunami-for-brainrots",
+ "file": "112 5 Billion Visits in 4 Months.mp4",
+ "target": 31,
+ "accent": "#29b6f6",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 84,
+  "hi": "#4fc3f7",
+  "stroke": 8,
+  "cy": 1440
+ },
+ "pron": {
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots"
+ },
+ "lines": [
+  {
+   "t": "This Roblox game passed 5 billion visits in about four months.",
+   "sc": {
+    "bg": "day",
+    "ground": "road",
+    "big": "5 BILLION\nIN 4 MONTHS",
+    "sub": "ESCAPE TSUNAMI FOR BRAINROTS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-tornado.jpg",
+     "label": "A REAL STORM ROLLING IN",
+     "credit": "Photo: NOAA, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 40
+   }
+  },
+  {
+   "t": "In Escape Tsunami for Brainrots, you outrun a giant wave while collecting brainrots for cash.",
+   "sc": {
+    "bg": "red",
+    "ground": "road",
+    "big": "RUN!",
+    "sub": "THE WAVE IS COMING",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       1.0,
+       0.6
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "You open Lucky Blocks, unlock new brainrots, and chase the legendary Infinity Brainrots.",
+   "sc": {
+    "bg": "party",
+    "ground": "road",
+    "big": "LUCKY\nBLOCKS",
+    "sub": "AND INFINITY BRAINROTS",
+    "rays": "#ffffff",
+    "bs": 140,
+    "props": [
+     [
+      "block",
+      0.0,
+      -1.0,
+      {
+       "c": "#ffd54f"
+      }
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It launched in December 2025, and in February 2026, over 4 million people played at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "road",
+    "sub": "PLAYING AT ONCE, FEB 2026",
+    "rays": "#ffffff",
+    "count": {
+     "to": 4,
+     "fmt": "{:.0f} MILLION+"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers now count over 5 billion visits.",
+   "sc": {
+    "bg": "party",
+    "ground": "road",
+    "big": "5 BILLION+",
+    "sub": "VISITS (PER TRACKERS)",
+    "rays": "#ffffff",
+    "bs": 150
+   }
+  },
+  {
+   "t": "How far did you make it? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "road",
+    "big": "HOW FAR\nDID YOU GET?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

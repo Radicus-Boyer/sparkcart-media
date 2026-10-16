@@ -1,0 +1,166 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 107,
+ "slug": "107-roblox-paid-15-billion",
+ "file": "107 Roblox Paid Game Makers $1.5 Billion.mp4",
+ "target": 33,
+ "accent": "#66bb6a",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#a5d6a7",
+  "stroke": 8
+ },
+ "pron": {
+  "DevEx": "Dev Ex"
+ },
+ "lines": [
+  {
+   "t": "In one year, Roblox paid its game creators over 1.5 billion dollars.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "$1.5 BILLION\nTO CREATORS",
+    "sub": "IN ONE YEAR",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop2-seamstress.jpg",
+     "label": "A REAL CREATOR AT WORK",
+     "credit": "Photo: Kris Atomic, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It happens through DevEx, where creators trade the Robux they earn for real money.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "DEVEX",
+    "sub": "ROBUX TO REAL MONEY",
+    "bs": 180,
+    "fx": [
+     "coins"
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "That 1.5 billion was for 2025 alone.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "sub": "PAID OUT IN 2025",
+    "rays": "#ffffff",
+    "count": {
+     "to": 1.5,
+     "fmt": "${:.1f} BILLION"
+    },
+    "bs": 140,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "In just the first three months of 2026, payouts hit 423 million dollars, up 50 percent.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "$423M",
+    "sub": "JAN TO MARCH 2026",
+    "bs": 190,
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And from June 2026, the rate went up 42 percent, for some spending by verified adult players in the US.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "+42%",
+    "sub": "FOR SOME ADULT SPENDING",
+    "rays": "#ffffff",
+    "bs": 200,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Would you make a Roblox game? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "WOULD YOU\nMAKE ONE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

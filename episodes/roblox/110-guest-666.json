@@ -1,0 +1,211 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 110,
+ "slug": "110-guest-666",
+ "file": "110 The Evil Guest 666.mp4",
+ "target": 58,
+ "accent": "#e53935",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#f5f5f5",
+  "hi": "#ef9a9a",
+  "stroke": 6
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "For years, Roblox kids whispered about Guest 666, a guest with admin powers in every game.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "THE EVIL\nGUEST",
+    "sub": "GUEST 666",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop5-alcatraz.jpg",
+     "label": "A REAL EMPTY CELL BLOCK",
+     "credit": "Photo: Nonie, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46,
+    "vig": true
+   }
+  },
+  {
+   "t": "Guests were a trial mode, added in September 2008. You could play without an account.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "GUESTS",
+    "sub": "ADDED SEPTEMBER 2008",
+    "bs": 170,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "But guests couldn't chat with friends, buy items, or save progress. And from 2016, they couldn't talk to anyone.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "NO CHAT",
+    "sub": "NO ITEMS, NO SAVES",
+    "bs": 170,
+    "vig": true,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The rumor said Guest 666 showed up as An Evil Guest, and could control any game.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "\"AN EVIL\nGUEST\"",
+    "sub": "THE RUMOR",
+    "bc": "#ffffff",
+    "bs": 130,
+    "fx": [
+     "red"
+    ],
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "idle",
+      "c": "g",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The truth? Guest numbers went from 0 to 9999, and players could edit their browser cookies to become 666.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "A HOAX",
+    "sub": "EDITED BROWSER COOKIES",
+    "bs": 170,
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Guests were also used to troll players and dodge bans. So in October 2017, Roblox removed them.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "REMOVED",
+    "sub": "OCTOBER 2017",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The last ways to play as a guest were gone by November 2018.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "GONE FOR\nGOOD",
+    "sub": "NOVEMBER 2018",
+    "bs": 140,
+    "vig": true,
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "Did you ever play as a guest? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "EVER BEEN\nA GUEST?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}
