@@ -1,0 +1,173 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 114,
+ "slug": "114-roblox-blocked-countries",
+ "file": "114 Countries That Blocked Roblox.mp4",
+ "target": 51,
+ "accent": "#ef5350",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 84,
+  "hi": "#ff8a80",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Roblox is blocked in some countries right now, and in others, it got blocked, then came back.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "BLOCKED IN\nWHOLE COUNTRIES",
+    "sub": "WHERE ROBLOX GOT BANNED",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-school.jpg",
+     "label": "A REAL OLD CLASSROOM",
+     "credit": "Photo: State Library of Queensland, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 104,
+    "ss": 44
+   }
+  },
+  {
+   "t": "Turkey blocked it on August 7th, 2024, and the ban was still in place as of June 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "TURKEY",
+    "sub": "BLOCKED AUGUST 2024",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "globe",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2025, Qatar, Kuwait, Algeria, Iraq, and others blocked it too. The main reason was child safety.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "QATAR, KUWAIT,\nIRAQ, ALGERIA",
+    "sub": "2025: CHILD SAFETY",
+    "bs": 110,
+    "vig": true,
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Kuwait lifted its ban a few months later, after Roblox agreed to turn off in-game chat there.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "BACK IN\nKUWAIT",
+    "sub": "CHAT TURNED OFF",
+    "bs": 140,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Russia blocked it in December 2025, then unblocked it on June 10th, 2026, after Roblox agreed to age-restricted access.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "stone",
+    "big": "RUSSIA",
+    "sub": "BLOCKED, THEN BACK",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And in 2026, Egypt blocked it, and Indonesia blocked it for players under 16.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "EGYPT +\nINDONESIA",
+    "sub": "2026",
+    "bs": 140,
+    "crowd": {
+     "n": 10,
+     "appear": 0.4
+    }
+   }
+  },
+  {
+   "t": "Is Roblox safe enough? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "SAFE\nENOUGH?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

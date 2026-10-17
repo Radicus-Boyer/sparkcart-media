@@ -1,0 +1,180 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 116,
+ "slug": "116-toilet-tower-defense",
+ "file": "116 6 Billion Visits for Toilets.mp4",
+ "target": 31,
+ "accent": "#90a4ae",
+ "voice": "af_sarah",
+ "speed": 1.0,
+ "cap": {
+  "font": "../modern/fonts/TitanOne-Regular.ttf",
+  "size": 80,
+  "stroke": 0,
+  "fill": "#263238",
+  "hi": "#c62828",
+  "box": "#eceff1",
+  "radius": 30
+ },
+ "pron": {
+  "Telanthric": "Tel-an-thric"
+ },
+ "lines": [
+  {
+   "t": "A Roblox game about fighting toilets got over 6 billion visits.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "6 BILLION\nVISITS. TOILETS.",
+    "sub": "TOILET TOWER DEFENSE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-teacup.jpg",
+     "label": "REAL FANCY PORCELAIN",
+     "credit": "Photo: The Met, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46
+   }
+  },
+  {
+   "t": "In Toilet Tower Defense, you place cameramen and other units to stop waves of invading toilets.",
+   "sc": {
+    "bg": "party",
+    "ground": "stone",
+    "big": "CAMERAMEN\nVS TOILETS",
+    "sub": "WAVE AFTER WAVE",
+    "rays": "#ffffff",
+    "bs": 120,
+    "props": [
+     [
+      "tower",
+      -1.8,
+      -1.8
+     ],
+     [
+      "tower",
+      1.8,
+      -1.8
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "a",
+      "hold": "gun"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It came out in June 2023, made by Telanthric, and it has an Endless Mode where you just try to survive.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ENDLESS\nMODE",
+    "sub": "SURVIVE AS LONG AS YOU CAN",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In October 2024, about 167,000 people played at once.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "sub": "PLAYING AT ONCE",
+    "rays": "#ffffff",
+    "count": {
+     "to": 167,
+     "fmt": "{:.0f},000"
+    },
+    "bs": 150,
+    "crowd": {
+     "n": 25,
+     "appear": 1.2
+    },
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Trackers count about 1.5 million favorites.",
+   "sc": {
+    "bg": "party",
+    "ground": "stone",
+    "big": "1.5 MILLION",
+    "sub": "FAVORITES (PER TRACKERS)",
+    "rays": "#ffffff",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Who's your best unit? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "BEST\nUNIT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

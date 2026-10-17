@@ -1,0 +1,173 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 121,
+ "slug": "121-grace-roblox",
+ "file": "121 Grace.mp4",
+ "target": 31,
+ "accent": "#ab47bc",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 88,
+  "hi": "#ce93d8",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In Grace, eight monsters hunt you, and the clock never stops.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "8 MONSTERS.\nONE TIMER.",
+    "sub": "GRACE",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-cave.jpg",
+     "label": "A REAL DARK CAVE",
+     "credit": "Photo: Jtknowles, public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 46,
+    "vig": true
+   }
+  },
+  {
+   "t": "It's a Roblox horror game inspired by DOORS and Rooms, but much faster. You slide, kick doors, and pull levers.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "SLIDE. KICK.\nPULL.",
+    "sub": "INSPIRED BY DOORS",
+    "bc": "#ffffff",
+    "bs": 124,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.8
+      ],
+      "a": "run",
+      "c": "a",
+      "to": [
+       0.8,
+       0.6
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "t": "The monsters include Carnation, Dozer, Elkman, Goatman, and Sorrow, and each one catches you a different way.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "8 MONSTERS",
+    "sub": "EACH HUNTS DIFFERENTLY",
+    "bs": 160,
+    "vig": true,
+    "fx": [
+     "fireflies"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 800,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's free to play, with no Robux purchases needed.",
+   "sc": {
+    "bg": "mint",
+    "ground": "dark",
+    "big": "FREE",
+    "sub": "NO ROBUX NEEDED",
+    "bs": 200,
+    "ic": [
+     {
+      "n": "coin",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "There's no difficulty setting. If the timer runs out, you start again.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "TIME'S UP",
+    "sub": "TRY AGAIN",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Which monster got you first? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "WHO GOT\nYOU FIRST?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

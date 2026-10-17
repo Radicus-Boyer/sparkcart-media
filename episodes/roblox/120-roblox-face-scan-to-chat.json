@@ -1,0 +1,134 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 120,
+ "slug": "120-roblox-face-scan-to-chat",
+ "file": "120 Roblox Scans Your Face to Chat.mp4",
+ "target": 31,
+ "accent": "#42a5f5",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Audiowide-Regular.ttf",
+  "size": 76,
+  "hi": "#90caf9",
+  "stroke": 7
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "To chat on Roblox now, you have to let it guess your age from your face.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "A FACE SCAN\nTO CHAT",
+    "sub": "ROBLOX AGE CHECKS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-computer-lab.jpg",
+     "label": "A REAL COMPUTER LAB",
+     "credit": "Photo: Todd Huffman, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It started rolling out worldwide in January 2026. Players 13 and up can use an ID instead.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "JANUARY\n2026",
+    "sub": "OR USE AN ID (13+)",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then you're put in an age group, from under 9 up to 21 plus, and you mostly chat with people your own age.",
+   "sc": {
+    "bg": "party",
+    "ground": "stone",
+    "big": "6 AGE\nGROUPS",
+    "sub": "UNDER 9 TO 21+",
+    "rays": "#ffffff",
+    "bs": 150,
+    "crowd": {
+     "n": 12,
+     "appear": 0.4
+    }
+   }
+  },
+  {
+   "t": "Roblox says the images are deleted right after the check. Kids under 9 have chat off, unless a parent says yes.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "DELETED",
+    "sub": "RIGHT AFTER THE CHECK",
+    "bs": 170,
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Good idea or too much? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "GOOD IDEA\nOR TOO MUCH?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

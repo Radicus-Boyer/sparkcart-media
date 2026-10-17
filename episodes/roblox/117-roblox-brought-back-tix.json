@@ -1,0 +1,153 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 117,
+ "slug": "117-roblox-brought-back-tix",
+ "file": "117 Roblox Brought Back Tix.mp4",
+ "target": 34,
+ "accent": "#ffd23c",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 96,
+  "upper": false,
+  "hi": "#ffe082",
+  "stroke": 9
+ },
+ "pron": {
+  "Tix": "Ticks"
+ },
+ "lines": [
+  {
+   "t": "Roblox deleted Tix in 2016. Then, for one event, it brought them back.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "TIX CAME\nBACK",
+    "sub": "THE CLASSIC",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop8-dice.jpg",
+     "label": "REAL GAME DICE",
+     "credit": "Photo: Schlurcher, CC BY 4.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 130,
+    "ss": 46
+   }
+  },
+  {
+   "t": "The event was called The Classic, in 2024, with 15 games and a hub full of old-school items.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "THE CLASSIC",
+    "sub": "15 GAMES",
+    "bs": 150,
+    "crowd": {
+     "n": 12,
+     "appear": 0.4
+    },
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You earned Tix and spent them in the hub. A Rocket Launcher was 6 Tix, a Timebomb was 20, and Mom's Dog was 32.",
+   "sc": {
+    "bg": "party",
+    "ground": "grass",
+    "big": "6 TIX",
+    "sub": "FOR A ROCKET LAUNCHER",
+    "rays": "#ffffff",
+    "bs": 190,
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Players around the world filled a giant Tix Tower together, to unlock a hidden reward.",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "TIX\nTOWER",
+    "sub": "FILLED BY EVERYONE",
+    "bs": 150,
+    "props": [
+     [
+      "tower",
+      0.0,
+      -1.8,
+      {
+       "c": "#ffd23c"
+      }
+     ]
+    ],
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Should Tix come back for good? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "BRING TIX\nBACK?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

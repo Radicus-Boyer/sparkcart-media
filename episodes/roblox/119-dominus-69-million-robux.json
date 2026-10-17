@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 119,
+ "slug": "119-dominus-69-million-robux",
+ "file": "119 A Hat Sold for 69 Million Robux.mp4",
+ "target": 35,
+ "accent": "#7e57c2",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#b39ddb",
+  "stroke": 8
+ },
+ "pron": {
+  "Dominus": "Dom-in-us",
+  "Empyreus": "Em-peer-ee-us"
+ },
+ "lines": [
+  {
+   "t": "One Roblox hat sold for 69 million Robux.",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "69 MILLION\nROBUX",
+    "sub": "FOR ONE HAT",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-trophy.jpg",
+     "label": "A REAL TROPHY CUP",
+     "credit": "Photo: public domain",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 120,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's the Dominus Empyreus, the very first Dominus. It came out on January 24th, 2010, for 13,337 Robux, and only 26 were made.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "ONLY 26",
+    "sub": "MADE IN 2010",
+    "rays": "#ffffff",
+    "bs": 190,
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "On June 24th, 2022, one sold for 69 million Robux, a record for a legal Roblox sale.",
+   "sc": {
+    "bg": "gold",
+    "ground": "purple",
+    "sub": "ROBUX, JUNE 2022",
+    "rays": "#ffffff",
+    "count": {
+     "to": 69,
+     "fmt": "{:.0f} MILLION"
+    },
+    "bs": 150,
+    "fx": [
+     "coins",
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Back in 2012, an April Fools glitch even showed its average price at over a billion Robux.",
+   "sc": {
+    "bg": "red",
+    "ground": "purple",
+    "big": "1 BILLION?",
+    "sub": "AN APRIL FOOLS GLITCH",
+    "bc": "#ffffff",
+    "bs": 160,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Would you buy a Dominus? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "night",
+    "ground": "purple",
+    "big": "WOULD YOU\nBUY ONE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

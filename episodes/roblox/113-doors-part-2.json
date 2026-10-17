@@ -1,0 +1,234 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 113,
+ "slug": "113-doors-part-2",
+ "file": "113 DOORS Has a Secret Level.mp4",
+ "target": 45,
+ "accent": "#ffb300",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#fff8e1",
+  "hi": "#ffca28",
+  "stroke": 6
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "DOORS has a secret level, hidden inside the game.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "DOORS HAS A\nSECRET LEVEL",
+    "sub": "DOORS PART 2",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop4-hotel-hallway.jpg",
+     "label": "A REAL HOTEL HALLWAY",
+     "credit": "Photo: cogdogblog, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 110,
+    "ss": 46,
+    "vig": true
+   }
+  },
+  {
+   "t": "It came with the Hotel Plus update, on January 29th, 2023. The secret level is a new version of Rooms, the game that inspired DOORS.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HOTEL+",
+    "sub": "JANUARY 29, 2023",
+    "bs": 180,
+    "fx": [
+     "fireflies"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 800,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You earn knobs as money, and a shopkeeper named Jeff opens his store at door 52.",
+   "sc": {
+    "bg": "gold",
+    "ground": "wood",
+    "big": "JEFF'S\nSHOP",
+    "sub": "DOOR 52",
+    "rays": "#ffffff",
+    "bs": 150,
+    "props": [
+     [
+      "crate",
+      -1.6,
+      -1.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.6,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b",
+      "hat": "#4e342e"
+     }
+    ],
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "You can even save one item in the Rift, and take it into a future run.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "THE RIFT",
+    "sub": "SAVE ONE ITEM",
+    "rays": "#ffffff",
+    "bs": 180,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "When you die, the Guiding Light shows up with hints, and points out important items.",
+   "sc": {
+    "bg": "mint",
+    "ground": "stone",
+    "big": "GUIDING\nLIGHT",
+    "sub": "HINTS AFTER YOU DIE",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "star",
+      "x": 540,
+      "y": 780,
+      "s": 180,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2024, The Backdoor added a prequel run with a strict time limit. Then on August 30th, Floor 2 opened: The Mines.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "THE MINES",
+    "sub": "FLOOR 2, AUG 30 2024",
+    "bs": 170,
+    "vig": true,
+    "props": [
+     [
+      "tower",
+      -1.8,
+      -2.0,
+      {
+       "c": "#5d4037"
+      }
+     ],
+     [
+      "crate",
+      1.4,
+      -1.2
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "a",
+      "face": "o"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And on April Fools, it turned into Super Hard Mode, and later a retro, Doom-style mode.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "APRIL\nFOOLS",
+    "sub": "SUPER HARD MODE + RETRO MODE",
+    "bc": "#ffffff",
+    "bs": 150,
+    "ss": 40,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "e"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Have you beaten The Mines? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "BEATEN\nTHE MINES?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

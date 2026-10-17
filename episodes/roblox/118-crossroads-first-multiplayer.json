@@ -1,0 +1,173 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 118,
+ "slug": "118-crossroads-first-multiplayer",
+ "file": "118 Roblox's First Multiplayer Game.mp4",
+ "target": 32,
+ "accent": "#8d6e63",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/PermanentMarker-Regular.ttf",
+  "size": 92,
+  "upper": false,
+  "hi": "#ffcc80",
+  "stroke": 9
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This is Roblox's very first multiplayer game, and you can still play it.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "ROBLOX'S\nFIRST GAME",
+    "sub": "CROSSROADS",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop7-castle.jpg",
+     "label": "A REAL CASTLE",
+     "credit": "Photo: Wilfredor, CC0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 120,
+    "ss": 46
+   }
+  },
+  {
+   "t": "It's called Crossroads. A Roblox developer remembered the team playing it with the first outside player, in December 2006.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "CROSSROADS",
+    "sub": "DECEMBER 2006",
+    "bs": 150,
+    "av": [
+     {
+      "p": [
+       -1.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The original map had a castle built by Erik Cassel, and a white house and playground built by Builderman.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "A CASTLE\n+ A HOUSE",
+    "sub": "BUILT BY THE FOUNDERS",
+    "bs": 130,
+    "props": [
+     [
+      "tower",
+      -1.8,
+      -2.2
+     ],
+     [
+      "house",
+      1.8,
+      -2.4,
+      {
+       "c": "#eeeeee"
+      }
+     ]
+    ]
+   }
+  },
+  {
+   "t": "You fought with a slingshot and a rocket launcher, and the whole map could be blown apart.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "BOOM!",
+    "sub": "THE MAP BREAKS",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red",
+     "speed"
+    ],
+    "props": [
+     [
+      "block",
+      -1.2,
+      -1.2
+     ],
+     [
+      "block",
+      1.2,
+      -1.6
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "e",
+      "hold": "gun"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Have you played Crossroads? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "EVER\nPLAYED IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 122,
+ "slug": "122-the-game-that-inspired-doors",
+ "file": "122 The Game That Inspired DOORS.mp4",
+ "target": 32,
+ "accent": "#78909c",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#cfd8dc",
+  "stroke": 8
+ },
+ "pron": {
+  "nicorocks5555": "nico rocks five five five five",
+  "A-60": "A sixty",
+  "A-200": "A two hundred"
+ },
+ "lines": [
+  {
+   "t": "Before DOORS, there was Rooms. And without it, DOORS wouldn't exist.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BEFORE DOORS,\nTHERE WAS ROOMS",
+    "sub": "THE GAME THAT STARTED IT",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop6-house.jpg",
+     "label": "A REAL OLD HOUSE",
+     "credit": "Photo: Tudor Washington Collins, Auckland Museum, CC BY 4.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 104,
+    "ss": 44,
+    "vig": true
+   }
+  },
+  {
+   "t": "Rooms was made by a creator called nicorocks5555, and it has monsters like A-60 and A-200.",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "A-60",
+    "sub": "AND A-200",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "DOORS was heavily inspired by it, and DOORS getting huge made Rooms huge too. It also inspired Pressure.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DOORS +\nPRESSURE",
+    "sub": "BOTH INSPIRED BY ROOMS",
+    "bs": 130,
+    "props": [
+     [
+      "house",
+      -1.8,
+      -2.2
+     ],
+     [
+      "tower",
+      1.8,
+      -2.0
+     ]
+    ]
+   }
+  },
+  {
+   "t": "DOORS even put a new version of Rooms inside its own game, as a secret level.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "A SECRET\nLEVEL",
+    "sub": "ROOMS, INSIDE DOORS",
+    "rays": "#ffffff",
+    "bs": 140,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Rooms or DOORS? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ROOMS OR\nDOORS?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

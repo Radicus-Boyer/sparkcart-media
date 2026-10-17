@@ -1,0 +1,164 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 115,
+ "slug": "115-where-brainrot-came-from",
+ "file": "115 Where Brainrot Came From.mp4",
+ "target": 46,
+ "accent": "#26c6da",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 128,
+  "mode": "word",
+  "fill": "#b2ebf2",
+  "hi": "#b2ebf2",
+  "cy": 1470
+ },
+ "pron": {
+  "Tralalero": "Tra-la-leh-ro",
+  "Tralala": "Tra-la-la",
+  "Sahur": "Sa-hoor",
+  "Bombardiro": "Bom-bar-dee-ro",
+  "Crocodilo": "Cro-co-dee-lo",
+  "Cappuccina": "Ca-poo-chee-na",
+  "brainrot": "brain rot",
+  "Brainrot": "Brain rot"
+ },
+ "lines": [
+  {
+   "t": "Brainrot started with a shark wearing sneakers.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "A SHARK IN\nSNEAKERS",
+    "sub": "WHERE BRAINROT CAME FROM",
+    "instant": true,
+    "by": 310,
+    "photo": {
+     "img": "pop9-goatroof.jpg",
+     "label": "A REAL GOAT ON A ROOF. NOT AI.",
+     "credit": "Photo: Tim Green, CC BY 2.0",
+     "y": 905,
+     "h": 400
+    },
+    "bs": 116,
+    "ss": 44
+   }
+  },
+  {
+   "t": "Italian brainrot is AI-made creatures with fake Italian names, and it blew up on TikTok in early 2025.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "AI CREATURES",
+    "sub": "FAKE ITALIAN NAMES",
+    "rays": "#ffffff",
+    "bs": 140,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Tralalero Tralala, a three-legged shark in Nike sneakers, is seen as the first one. One clip from January 2025 reportedly hit 7 million views.",
+   "sc": {
+    "bg": "mint",
+    "ground": "grass",
+    "big": "TRALALERO\nTRALALA",
+    "sub": "THE FIRST ONE",
+    "bs": 120,
+    "crowd": {
+     "n": 12,
+     "appear": 0.4
+    }
+   }
+  },
+  {
+   "t": "Then came Tung Tung Tung Sahur, a log with a bat, which actually comes from Indonesia, plus Bombardiro Crocodilo and Ballerina Cappuccina.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "TUNG TUNG\nTUNG SAHUR",
+    "sub": "FROM INDONESIA",
+    "bs": 120,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "g",
+      "hold": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It took over Roblox through Steal a Brainrot. And in April 2026, Tung Tung Tung Sahur and Ballerina Cappuccina came to Fortnite as skins.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "IN FORTNITE",
+    "sub": "APRIL 2026 SKINS",
+    "rays": "#ffffff",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Who's your favorite brainrot? Comment for which game we should review next! Follow for more!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "FAVORITE\nBRAINROT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  }
+ ]
+}
