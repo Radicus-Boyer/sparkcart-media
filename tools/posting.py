@@ -22,7 +22,7 @@ import argparse, datetime as dt, json, os, random, sys, urllib.parse
 from zoneinfo import ZoneInfo
 
 REPO = "Radicus-Boyer/sparkcart-media"
-YOUTUBE_ID = "cmups58t40dreqw0yvi5zfyzi"   # SparkCart
+YOUTUBE_ID = "cmv2t96p1000kpq97wyc7szih"   # SparkCart
 TIKTOK_ID = "cmups5usr0dsdqw0ypxeny3k7"    # sparkcart.co
 KEYS = ("FILE", "YT TITLE", "YT DESCRIPTION", "YT HASHTAGS", "YT TAGS", "TIKTOK TITLE", "TIKTOK CAPTION")
 OPTIONAL = ("YT COMMENT", "TIKTOK COMMENT")   # first comment posted by the channel under its own video
