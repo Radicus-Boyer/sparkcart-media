@@ -1,0 +1,199 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 126,
+ "slug": "126-tung-tung-tung-sahur-kicked-out",
+ "file": "126 Tung Tung Tung Sahur Got Kicked Out.mp4",
+ "target": 36,
+ "accent": "#ffb74d",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/TitanOne-Regular.ttf",
+  "size": 80,
+  "stroke": 0,
+  "fill": "#3e2723",
+  "hi": "#e65100",
+  "box": "#fff3e0",
+  "radius": 30
+ },
+ "pron": {
+  "brainrot": "brain rot",
+  "Brainrot": "Brain rot",
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots",
+  "Sahur": "Sa-hoor",
+  "Obby": "Obbie"
+ },
+ "lines": [
+  {
+   "t": "Tung Tung Tung Sahur got kicked out of Steal a Brainrot.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "TUNG TUNG\nKICKED OUT",
+    "sub": "OF STEAL A BRAINROT",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-bumbatron.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He comes from Indonesia, where people drum before dawn during Ramadan to wake everyone up for the meal called sahur.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "FROM\nINDONESIA",
+    "sub": "SAHUR = PRE-DAWN MEAL",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "moon",
+      "x": 860,
+      "y": 800,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In September 2025 he was pulled from the game over licensing, and two companies are still fighting over the copyright.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "PULLED",
+    "sub": "SEPTEMBER 2025: LICENSING",
+    "bs": 200,
+    "vig": true,
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then on November 29th, 2025, he came back.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HE'S BACK",
+    "sub": "NOVEMBER 29, 2025",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-chicken.jpg"
+    },
+    "bs": 160,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And in April 2026, he even became a Fortnite skin.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "IN FORTNITE",
+    "sub": "APRIL 2026",
+    "rays": "#ffffff",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "g",
+      "hold": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: the biggest brainrot games on Roblox, ranked. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: BRAINROT\nGAMES RANKED",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Plants & Brainrots on Roblox",
+     "img": "pop15-plants.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Is he the best brainrot? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "THE BEST\nBRAINROT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

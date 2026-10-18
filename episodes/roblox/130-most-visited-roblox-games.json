@@ -1,0 +1,207 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 130,
+ "slug": "130-most-visited-roblox-games",
+ "file": "130 ROBLOX's Most Visited Games Ever.mp4",
+ "target": 34,
+ "accent": "#29b6f6",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Rajdhani-Bold.ttf",
+  "size": 104,
+  "fill": "#ffffff",
+  "hi": "#81d4fa",
+  "stroke": 8
+ },
+ "pron": {
+  "brainrot": "brain rot",
+  "Brainrot": "Brain rot",
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots",
+  "Sahur": "Sa-hoor",
+  "Obby": "Obbie"
+ },
+ "lines": [
+  {
+   "t": "These are the most visited Roblox games of all time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MOST VISITED\nEVER",
+    "sub": "TOP 5 ON ROBLOX",
+    "full": {
+     "credit": "Image: Brookhaven RP on Roblox",
+     "img": "pop15-brookhaven.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 5: 99 Nights in the Forest, with 27 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "#5 99 NIGHTS",
+    "sub": "27 BILLION",
+    "bs": 130,
+    "fx": [
+     "fireflies"
+    ],
+    "props": [
+     [
+      "tree",
+      -1.8,
+      -1.8
+     ],
+     [
+      "tree",
+      1.8,
+      -2.0
+     ]
+    ]
+   }
+  },
+  {
+   "t": "Number 4: Adopt Me, with 43.8 billion.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#4 ADOPT ME",
+    "sub": "43.8 BILLION",
+    "full": {
+     "credit": "Image: Adopt Me! on Roblox",
+     "img": "pop15-adoptme.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 3: Blox Fruits, with 62 billion.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#3 BLOX FRUITS",
+    "sub": "62 BILLION",
+    "full": {
+     "credit": "Image: Blox Fruits on Roblox",
+     "img": "pop15-bloxfruits.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 2: Steal a Brainrot, with nearly 70 billion, in only about a year.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#2 STEAL A\nBRAINROT",
+    "sub": "69.8 BILLION",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-chicken.jpg"
+    },
+    "bs": 120,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And number 1: Brookhaven, with 83.4 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1 BROOKHAVEN",
+    "sub": "83.4 BILLION",
+    "full": {
+     "credit": "Image: Brookhaven RP on Roblox",
+     "img": "pop15-brookhaven.jpg",
+     "mode": "cover"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the hardest Geometry Dash level ever beaten. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: THE\nHARDEST LEVEL",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "img": "pop15-gd-66.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Which one have you played most? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "PLAYED\nTHE MOST?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -417,6 +417,109 @@ def photo_card(ph):
     return _PH[key]
 
 
+# ------------------------------------------------------------------ full-screen real media (batch 15)
+# sc["full"] = {"img": asset} or {"clip": asset, "start": s}; optional "w" (foreground width, default 1240),
+# "cy" (foreground centre y, default 1000), "credit" (small text under the media), "mode": "cover" for a full bleed.
+_FULL = {}
+
+
+def _shade():
+    if "shade" not in _FULL:
+        a = np.zeros((H, W), np.float32)
+        y = np.arange(H, dtype=np.float32)
+        a[:] = (np.clip((620 - y) / 620, 0, 1) ** 1.4 * 200 + np.clip((y - 1300) / 620, 0, 1) ** 1.4 * 190)[:, None]
+        m = np.zeros((H, W, 4), np.uint8)
+        m[..., 3] = a.astype(np.uint8)
+        _FULL["shade"] = Image.fromarray(m, "RGBA")
+    return _FULL["shade"]
+
+
+def _credit(img, fu, fh):
+    if fu.get("credit"):
+        t = text_img(fu["credit"], 30, (255, 255, 255), ST["sub_font"], 5)
+        cy = fu.get("cy", 1000)
+        img.alpha_composite(t, ((W - t.width) // 2, int(min(H - 60, cy + fh / 2 + 8))))
+
+
+def full_still(fu):
+    key = json.dumps(fu, sort_keys=True)
+    if key not in _FULL:
+        src = Image.open(ROOT + "episodes/assets/" + fu["img"]).convert("RGB")
+        if fu.get("crop"):
+            l, t, r, b = fu["crop"]
+            src = src.crop((int(src.width * l), int(src.height * t), int(src.width * r), int(src.height * b)))
+        k = max(W / src.width, H / src.height)
+        bg = src.resize((int(src.width * k) + 1, int(src.height * k) + 1), Image.BILINEAR)
+        bg = bg.crop(((bg.width - W) // 2, (bg.height - H) // 2, (bg.width - W) // 2 + W, (bg.height - H) // 2 + H))
+        img = bg.convert("RGBA")
+        fh = 0
+        if fu.get("mode") != "cover":
+            img = bg.filter(ImageFilter.GaussianBlur(28)).convert("RGBA")
+            img.alpha_composite(Image.new("RGBA", (W, H), (0, 0, 0, 110)))
+            fw = fu.get("w", 1240)
+            fh = int(fw * src.height / src.width)
+            if fh > fu.get("h", 1250):
+                fh = fu.get("h", 1250)
+                fw = int(fh * src.width / src.height)
+            fg = src.resize((fw, fh), Image.LANCZOS).convert("RGBA")
+            cy = fu.get("cy", 1000)
+            d = ImageDraw.Draw(img)
+            d.rectangle([(W - fw) // 2 - 6, cy - fh // 2 - 6, (W + fw) // 2 + 6, cy + fh // 2 + 6], fill=(255, 255, 255, 255))
+            img.alpha_composite(fg, ((W - fw) // 2, cy - fh // 2))
+        img.alpha_composite(_shade())
+        _credit(img, fu, fh)
+        _FULL[key] = img
+    return _FULL[key]
+
+
+class ClipReader:
+    """Streams a video clip as 1080x1920 frames (blurred fill + sharp foreground band), sequentially."""
+
+    def __init__(self):
+        self.key, self.p, self.n, self.last = None, None, -1, None
+
+    def get(self, fu, scene, fi_local):
+        key = (scene, json.dumps(fu, sort_keys=True))
+        if key != self.key or fi_local < self.n:
+            if self.p:
+                self.p.kill()
+            fw = fu.get("w", 1240)
+            cy = fu.get("cy", 1000)
+            vf = (f"fps={FPS},split[a][b];[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=24,"
+                  f"eq=brightness=-0.22[bg];[b]scale={fw}:-2,eq=brightness=0.05:saturation=1.25[fg];[bg][fg]overlay={0 if fw > W else '(W-w)/2'}:{cy}-h/2")
+            if fu.get("mode") == "cover":
+                vf = f"fps={FPS},scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}"
+            self.p = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-ss", str(fu.get("start", 0)), "-i",
+                                       ROOT + "episodes/assets/" + fu["clip"], "-an", "-vf", vf, "-f", "rawvideo",
+                                       "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+            self.key, self.n, self.last = key, -1, None
+            self.fh = int(fu.get("w", 1240) * 9 / 16)
+        while self.n < fi_local:
+            buf = self.p.stdout.read(W * H * 3)
+            self.n += 1
+            if len(buf) < W * H * 3:  # clip ran out: hold the last frame
+                self.n = fi_local
+                break
+            self.last = buf
+        img = Image.frombuffer("RGB", (W, H), self.last, "raw", "RGB", 0, 1).convert("RGBA")
+        img.alpha_composite(_shade())
+        _credit(img, fu, self.fh if fu.get("mode") != "cover" else 0)
+        return img
+
+
+def camera(img, lt, dur, i, strong=False):
+    """Movement on every scene: a fast punch-in, then a slow push and a sideways drift."""
+    z = 1 + 0.10 * (1 - ease(lt / 0.28)) + (0.09 if strong else 0.045) * min(1.0, lt / max(1.0, dur))
+    side = 1 if i % 2 == 0 else -1
+    dx = side * (26 if strong else 16) * (min(1.0, lt / max(1.0, dur)) - 0.5)
+    w, h = W / z, H / z
+    x0 = (W - w) / 2 + dx
+    y0 = (H - h) / 2 - (8 if strong else 0) * min(1.0, lt / max(1.0, dur))
+    x0 = max(0, min(W - w, x0))
+    y0 = max(0, min(H - h, y0))
+    return img.resize((W, H), Image.BILINEAR, box=(x0, y0, x0 + w, y0 + h))
+
+
 def draw_texts(img, sc, lt, ep):
     y = sc.get("by", 330 if ep.get("hdr") == "tag" else 400)
     inst = sc.get("instant")
@@ -609,6 +712,7 @@ def render(ep, sheet=False):
     starts = [0.0] + [timing[i][0] - 0.08 for i in range(1, len(timing))]
     hdr = header(ep)
     layers = {}
+    clips = ClipReader()
 
     def get_layers(i):
         if i not in layers:
@@ -628,20 +732,29 @@ def render(ep, sheet=False):
         sc = ep["lines"][i]["sc"]
         nxt = starts[i + 1] if i + 1 < len(starts) else END
         lt = now - starts[i]
-        b, f = get_layers(i)
-        img = b.copy()
-        if sc.get("rays"):
-            draw_rays(img, sc["rays"], now)
-            img.alpha_composite(f)
-        world_dynamic(img, sc, lt, nxt - starts[i], ep["num"] * 31 + i)
+        fu = sc.get("full")
+        if fu and fu.get("clip"):
+            img = clips.get(fu, i, int(round(lt * FPS)))
+        elif fu:
+            img = full_still(fu).copy()
+        else:
+            b, f = get_layers(i)
+            img = b.copy()
+            if sc.get("rays"):
+                draw_rays(img, sc["rays"], now)
+                img.alpha_composite(f)
+            world_dynamic(img, sc, lt, nxt - starts[i], ep["num"] * 31 + i)
         draw_fx(img, sc, lt, ep["num"] * 13 + i)
         if sc.get("vig"):
             img.alpha_composite(vignette())
         if sc.get("bar9"):
             draw_bar9(img, lt)
-        draw_icons(img, sc, lt)
+        if not fu:
+            draw_icons(img, sc, lt)
         if ST["pixel"]:
             img = nes_pixelate(img)
+        if ep.get("motion", True):
+            img = camera(img, lt, nxt - starts[i], i, bool(fu) and not fu.get("clip"))
         draw_texts(img, sc, lt, ep)
         img.alpha_composite(hdr, (0, 0))
         ln = ep["lines"][i]

@@ -1,0 +1,239 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 124,
+ "slug": "124-biggest-brainrot-games-ranked",
+ "file": "124 The Biggest Brainrot Games on ROBLOX.mp4",
+ "target": 72,
+ "accent": "#ff4081",
+ "voice": "am_michael",
+ "speed": 1.12,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "brainrot": "brain rot",
+  "Brainrot": "Brain rot",
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots",
+  "Sahur": "Sa-hoor",
+  "Obby": "Obbie"
+ },
+ "lines": [
+  {
+   "t": "These are the five biggest brainrot games on Roblox, ranked by the most people playing at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "TOP 5\nBRAINROT GAMES",
+    "sub": "RANKED BY PEAK PLAYERS",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-chicken.jpg"
+    },
+    "bs": 112,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 5: Swing Obby for Brainrots. You swing across ropes and grab brainrots. It peaked around 256,000 players in March 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#5 SWING OBBY",
+    "sub": "256,000 PLAYERS",
+    "full": {
+     "credit": "Image: Swing Obby for Brainrots on Roblox",
+     "img": "pop15-swing.jpg"
+    },
+    "bs": 110,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 4: Kick a Lucky Block, by No More Flops. Kick a block to roll brainrots, train your legs, and survive a tsunami. 1.7 million at once, in May 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#4 KICK A\nLUCKY BLOCK",
+    "sub": "1.7 MILLION PLAYERS",
+    "full": {
+     "credit": "Image: Kick a Lucky Block on Roblox",
+     "img": "pop15-kick-3.jpg"
+    },
+    "bs": 110,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 3: Escape Tsunami for Brainrots. Outrun a giant wave while you collect brainrots. It hit 4.1 million in February 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#3 ESCAPE\nTSUNAMI",
+    "sub": "4.1 MILLION PLAYERS",
+    "full": {
+     "credit": "Image: Escape Tsunami for Brainrots on Roblox",
+     "img": "pop15-tsunami.jpg"
+    },
+    "bs": 110,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Number 2: Plants and Brainrots. Your plants fight brainrots for you. 8.7 million at once, in October 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#2 PLANTS &\nBRAINROTS",
+    "sub": "8.7 MILLION PLAYERS",
+    "full": {
+     "credit": "Image: Plants & Brainrots on Roblox",
+     "img": "pop15-plants.jpg"
+    },
+    "bs": 110,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And number 1: Steal a Brainrot. Over 25 million people playing at once, in October 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1 STEAL A\nBRAINROT",
+    "sub": "25 MILLION AT ONCE",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-dragon.jpg"
+    },
+    "bs": 110,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That's about three times number 2, and almost a hundred times number 5.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "100X",
+    "sub": "NUMBER 1 VS NUMBER 5",
+    "rays": "#ffffff",
+    "bs": 220,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It also has nearly 70 billion visits, the second most visited Roblox game ever.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 69.8,
+     "fmt": "{:.1f}B",
+     "dur": 1.6
+    },
+    "sub": "VISITS",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 200,
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Next: the game that took Steal a Brainrot's crown. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: IT GOT\nDETHRONED",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Steal An Egg on Roblox",
+     "img": "pop15-egg-trex.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Which one's your favorite? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "YOUR\nFAVORITE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

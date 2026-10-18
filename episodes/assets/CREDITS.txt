@@ -123,3 +123,20 @@ pop9-landfill.jpg   "Atari E.T. Dig - Alamogordo, New Mexico" by taylorhatmaker,
 pop9-penguin.jpg    "Penguin in Antarctica jumping out of the water" by Christopher Michel, CC BY 2.0 (Club Penguin)
 pop9-meatballs.jpg  "Swedish Meatballs" by Hakan Dahlstrom, CC BY 2.0 (IKEA on Roblox)
 pop9-goatroof.jpg   "Goat on the roof" by Tim Green, CC BY 2.0 (Goat Simulator)
+
+# Batch 15: real game images (official Roblox game thumbnails / Epic Games store art / gameplay stills), used for commentary, credited on screen
+pop15-doors-*.jpg       DOORS official Roblox thumbnails (LSPLASH) - "Image: DOORS on Roblox"
+pop15-sab-*.jpg         Steal a Brainrot official Roblox thumbnails (SpyderSammy)
+pop15-egg-*.jpg         Steal An Egg official Roblox thumbnails
+pop15-brookhaven.jpg    Brookhaven RP official Roblox thumbnail
+pop15-bloxfruits.jpg    Blox Fruits official Roblox thumbnail
+pop15-adoptme.jpg       Adopt Me! official Roblox thumbnail
+pop15-plants.jpg        Plants & Brainrots official Roblox thumbnail
+pop15-tsunami.jpg       Escape Tsunami for Brainrots official Roblox thumbnail
+pop15-kick-*.jpg        Kick a Lucky Block official Roblox thumbnails
+pop15-swing.jpg         Swing Obby for Brainrots official Roblox thumbnail
+pop15-lemons-*.jpg      Sell Lemons official Roblox thumbnails (BloxByte Games)
+pop15-fn-*.jpg          Fortnite key art / screenshots, Epic Games Store page - "Image: Epic Games"
+pop15-gd-20/47/66.jpg   Stills from Doggie's "GRIEF (VERIFIED) // TOP 1" (YouTube gB8slBPlOjc)
+pop15-gd-demonlist.jpg  Pointercrate Demonlist main list screenshot
+gd-grief-doggie.mp4     Clip of Doggie's Grief verification (supplied by the channel owner)

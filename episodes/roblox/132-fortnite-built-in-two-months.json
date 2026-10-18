@@ -1,0 +1,213 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 132,
+ "slug": "132-fortnite-built-in-two-months",
+ "file": "132 Fortnite Was Built in 2 Months.mp4",
+ "target": 57,
+ "accent": "#7e57c2",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/BarlowCondensed-ExtraBold.ttf",
+  "size": 110,
+  "fill": "#ffffff",
+  "hi": "#b39ddb",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Fortnite's Battle Royale was built in about two months.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BUILT IN\n2 MONTHS",
+    "sub": "FORTNITE BATTLE ROYALE",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-br.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Fortnite grew out of an Epic Games game jam around 2011, and Save the World came out in early access in July 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SAVE THE\nWORLD",
+    "sub": "EARLY ACCESS, JULY 2017",
+    "bs": 150,
+    "photo": {
+     "img": "pop15-fn-freddy.jpg",
+     "label": "REAL FORTNITE SCREENSHOT",
+     "credit": "Image: Epic Games",
+     "y": 880,
+     "h": 420
+    },
+    "instant": true
+   }
+  },
+  {
+   "t": "Then Epic made Battle Royale in about two months, and released it free in September 2017.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "FREE",
+    "sub": "SEPTEMBER 2017",
+    "bs": 220,
+    "rays": "#ffffff",
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It hit 10 million players in two weeks, and 125 million by June 2018.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 125,
+     "fmt": "{:.0f}M",
+     "dur": 1.5
+    },
+    "sub": "PLAYERS BY JUNE 2018",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 220,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It made 2.4 billion dollars in 2018 alone.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "$2.4\nBILLION",
+    "sub": "IN 2018 ALONE",
+    "rays": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Then came Creative mode, a 30 million dollar World Cup in 2019, and a Travis Scott concert with 12.3 million players at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "12.3 MILLION",
+    "sub": "AT ONE CONCERT",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-festival.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "LEGO Fortnite arrived in December 2023, and in April 2026, Save the World finally became free.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "LEGO +\nFREE STW",
+    "sub": "2023 + 2026",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-lego.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: how DOORS The Mines really ends. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: THE\nMINES ENDING",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-seek.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Do you still play Fortnite? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "STILL\nPLAYING?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "FORTNITE"
+}

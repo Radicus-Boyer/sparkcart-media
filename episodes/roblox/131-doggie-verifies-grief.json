@@ -1,0 +1,275 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 131,
+ "slug": "131-doggie-verifies-grief",
+ "file": "131 The Hardest Level in Geometry Dash.mp4",
+ "target": 72,
+ "accent": "#e53935",
+ "voice": "am_michael",
+ "speed": 1.1,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "GrenadeofTacos": "Grenade of Tacos",
+  "icedcave": "iced cave",
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list"
+ },
+ "lines": [
+  {
+   "t": "This is the moment the hardest level in Geometry Dash got beaten, for the very first time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE HARDEST\nLEVEL EVER",
+    "sub": "GRIEF, VERIFIED",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "clip": "gd-grief-doggie.mp4",
+     "start": 13.5
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's called Grief, and it's number 1 on the Demonlist, the ranking of the hardest levels in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1",
+    "sub": "ON THE DEMONLIST",
+    "full": {
+     "credit": "Image: Pointercrate Demonlist",
+     "img": "pop15-gd-demonlist.jpg",
+     "w": 760,
+     "cy": 1040,
+     "h": 820
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Grief was built by GrenadeofTacos and others, published by icedcave, and it's the prequel to another famous level, Slaughterhouse.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "A PREQUEL",
+    "sub": "TO SLAUGHTERHOUSE",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The player who beat it is Doggie. He started verifying it on May 1st, 2024.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "DOGGIE",
+    "sub": "STARTED MAY 1, 2024",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It took him 436,879 attempts, over 396 streams, and about two years and five months.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 436879,
+     "fmt": "{:,.0f}",
+     "dur": 1.8
+    },
+    "sub": "ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "He reached 80 percent in November 2025, 84 percent in May 2026, then kept dying at 97 percent, again and again.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "STUCK\nAT 97%",
+    "sub": "AGAIN AND AGAIN",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "img": "pop15-gd-66.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then, on October 5th, 2026, he finally made it through.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "OCTOBER 5,\n2026",
+    "sub": "THE FINAL RUN",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "clip": "gd-grief-doggie.mp4",
+     "start": 0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "100 percent. Level verified.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "LEVEL\nVERIFIED!",
+    "sub": "100%",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "clip": "gd-grief-doggie.mp4",
+     "start": 17.5
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "His old record was 121,749 attempts, on Acheron. Grief took more than three times that.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "3X HIS OLD\nRECORD",
+    "sub": "ACHERON: 121,749",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "clip": "gd-grief-doggie.mp4",
+     "start": 23
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And so far, nobody else has beaten it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NOBODY ELSE\nYET",
+    "sub": "0 OTHER RECORDS",
+    "full": {
+     "credit": "Image: Pointercrate Demonlist",
+     "img": "pop15-gd-demonlist.jpg",
+     "w": 760,
+     "cy": 1040,
+     "h": 820
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: Fortnite's Battle Royale was built in about two months. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: BUILT IN\n2 MONTHS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-br.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Grief? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

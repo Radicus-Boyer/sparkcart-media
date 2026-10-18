@@ -1,0 +1,167 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 125,
+ "slug": "125-roblox-lost-29-million-players",
+ "file": "125 ROBLOX Lost 29 Million Daily Players.mp4",
+ "target": 38,
+ "accent": "#ef5350",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 84,
+  "hi": "#ff8a80",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Roblox has lost 29 million daily players in under a year.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "29 MILLION\nGONE",
+    "sub": "ROBLOX DAILY PLAYERS",
+    "full": {
+     "credit": "Image: Brookhaven RP on Roblox",
+     "img": "pop15-brookhaven.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In the summer of 2025, a record 152 million people played Roblox every day.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 152,
+     "fmt": "{:.0f}M",
+     "dur": 1.4
+    },
+    "sub": "PLAYED EVERY DAY",
+    "bg": "gold",
+    "ground": "grass",
+    "bs": 220,
+    "rays": "#ffffff"
+   }
+  },
+  {
+   "t": "Then it dropped three times in a row, down to 123 million by mid 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "123M",
+    "sub": "THREE DROPS IN A ROW",
+    "bs": 220,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "bar",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Hours played fell from about 40 billion to 29 billion a quarter, and revenue came in under what Wall Street expected.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "40B → 29B",
+    "sub": "HOURS PLAYED",
+    "bs": 150,
+    "vig": true,
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next up: Roblox's most visited games ever. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: MOST\nVISITED EVER",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Blox Fruits on Roblox",
+     "img": "pop15-bloxfruits.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Is Roblox dying, or just cooling off? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "stone",
+    "big": "DYING OR\nCOOLING OFF?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

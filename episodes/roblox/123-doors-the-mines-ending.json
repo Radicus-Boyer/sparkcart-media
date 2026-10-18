@@ -1,0 +1,290 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 123,
+ "slug": "123-doors-the-mines-ending",
+ "file": "123 DOORS The Mines Ending.mp4",
+ "target": 70,
+ "accent": "#ffb300",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#fff8e1",
+  "hi": "#ffca28",
+  "stroke": 6
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "The Mines in DOORS ends with Seek doing something nobody saw coming.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SEEK DID\nWHAT?!",
+    "sub": "THE MINES ENDING",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-seek.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Mines is Floor 2. One hundred rooms, from Door 100 all the way down to Door 200, and you go down there because of Figure.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "FLOOR 2",
+    "sub": "DOORS 100 TO 200",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-lobby.jpg"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Down there, Gloombats keep hurting you, so watch out for their Moth Eggs. And Giggle drops onto your face for up to 40 damage.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "GLOOMBATS +\nGIGGLE",
+    "sub": "UP TO 40 DAMAGE",
+    "bs": 120,
+    "vig": true,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "moon",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "From Door 150, Grumbles guard The Nest. Distract them with a Glowstick or a Bulklight, or they can kill you instantly.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "GRUMBLES",
+    "sub": "DOOR 150: THE NEST",
+    "bs": 170,
+    "vig": true,
+    "photo": {
+     "img": "pop15-doors-lineup.jpg",
+     "label": "REAL DOORS SCREENSHOT",
+     "credit": "Image: DOORS on Roblox",
+     "y": 880,
+     "h": 420
+    },
+    "instant": true
+   }
+  },
+  {
+   "t": "Seek chases you from Door 140, first on foot, then in a minecart over a giant ravine. And later, again, through the Sewage Pipes.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MINECART\nCHASE",
+    "sub": "DOORS 140 TO 149",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-alarm.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "At Door 200 is The Dam, a boss fight against Seek as a giant blob of eyes.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "DOOR 200",
+    "sub": "THE DAM BOSS FIGHT",
+    "bc": "#ffffff",
+    "bs": 180,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 540,
+      "y": 800,
+      "s": 220,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Beat it, and you climb a ladder, through a sewer grate, and out into The Woods.",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "THE WOODS",
+    "sub": "OUT OF THE SEWERS",
+    "bs": 170,
+    "fx": [
+     "fireflies"
+    ],
+    "props": [
+     [
+      "tree",
+      -1.8,
+      -1.8
+     ],
+     [
+      "tree",
+      1.8,
+      -2.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "sneak",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "At a castle, Seek infects Queen Grumble, and Seek's humanoid form crawls out.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SEEK'S REAL\nFORM",
+    "sub": "AT THE CASTLE",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-lineup.jpg",
+     "mode": "cover"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then the screen says To Be Continued, and you unlock an achievement called See You Soon.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "TO BE\nCONTINUED",
+    "sub": "ACHIEVEMENT: SEE YOU SOON",
+    "bs": 150,
+    "ss": 44,
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Oh, and it pays 50 knobs, and the rarest room is a giant ladder room full of gold.",
+   "sc": {
+    "bg": "gold",
+    "ground": "stone",
+    "big": "50 KNOBS",
+    "sub": "+ THE RAREST ROOM",
+    "rays": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Next up: the biggest brainrot games on Roblox, ranked. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: BRAINROT\nGAMES RANKED",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-chicken.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Did the ending scare you? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "DID IT\nSCARE YOU?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}
