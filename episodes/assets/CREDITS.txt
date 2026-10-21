@@ -144,4 +144,4 @@ gd-grief-doggie.mp4     Clip of Doggie's Grief verification (supplied by the cha
 # Batch 16: official Roblox game thumbnails + short gameplay clips used for commentary, credited on screen
 pop16-mm2-*.jpg         Murder Mystery 2 official Roblox thumbnails (Nikilis) - "Image: Murder Mystery 2 on Roblox"
 pop16-crossroads.jpg    Classic: Crossroads official Roblox thumbnail - "Image: Classic: Crossroads on Roblox"
-gd16-acheron.mp4        ~10 s from Zoink's "[VERIFIED] ACHERON" YouTube video - "Clip: Zoink, Acheron verification"
+gd16-*/ml16-* clips    short (<=14 s) YouTube clips cut for commentary, credited on screen; deleted after rendering, not kept in the repo

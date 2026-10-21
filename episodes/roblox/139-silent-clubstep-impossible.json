@@ -4,7 +4,7 @@
  "num": 139,
  "slug": "139-silent-clubstep-impossible",
  "file": "139 The Level That Was Impossible.mp4",
- "target": 48,
+ "target": 56,
  "accent": "#b388ff",
  "voice": "am_michael",
  "speed": 1.08,
@@ -32,69 +32,51 @@
    "t": "For years, this Geometry Dash level was called humanly impossible.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "HUMANLY\nIMPOSSIBLE",
     "sub": "SILENT CLUBSTEP",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Doggie, Silent clubstep",
+     "clip": "gd16-silent-end.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's Silent clubstep, a silent remake of Clubstep by Sailent.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "SILENT\nCLUBSTEP",
     "sub": "BY SAILENT",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Doggie, Silent clubstep",
+     "clip": "gd16-silent-mid.mp4",
+     "start": 0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It has the 8 jumps of hell: eight tiny cube jumps, almost frame perfect.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "8 JUMPS\nOF HELL",
     "sub": "ALMOST FRAME PERFECT",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Doggie, Silent clubstep",
+     "clip": "gd16-silent-mid.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -120,46 +102,34 @@
    "t": "Zoink beat it next, in just 22,199. Then Doggie, in March 2023, after 120,190.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "DOGGIE:\n120,190",
     "sub": "ZOINK: 22,199",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Silent clubstep",
+     "clip": "gd16-silent-end.mp4",
+     "start": 4.0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Doggie's furthest fail before that was only 75 percent.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "BEST FAIL:\n75%",
     "sub": "THEN 100%",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Silent clubstep",
+     "clip": "gd16-silent-end.mp4",
+     "start": 8.0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {

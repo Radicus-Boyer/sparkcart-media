@@ -29,8 +29,9 @@
     "big": "YEAT IN\nFORTNITE",
     "sub": "HIDDEN SECRETS",
     "full": {
-     "credit": "Image: Epic Games",
-     "img": "pop15-fn-festival.jpg"
+     "credit": "Clip: Fortnite x Yeat trailer, Epic Games",
+     "clip": "ml16-yeat-a.mp4",
+     "start": 0
     },
     "bs": 130,
     "by": 300,
@@ -45,8 +46,9 @@
     "big": "REAL LYFE",
     "sub": "OCTOBER 15, 2026",
     "full": {
-     "credit": "Image: Epic Games",
-     "img": "pop15-fn-br.jpg"
+     "credit": "Clip: Fortnite x Yeat trailer, Epic Games",
+     "clip": "ml16-yeat-b.mp4",
+     "start": 0
     },
     "bs": 150,
     "by": 300,
@@ -114,8 +116,9 @@
     "big": "UNRELEASED\nMUSIC",
     "sub": "FIND YEAT'S BELLS",
     "full": {
-     "credit": "Image: Epic Games",
-     "img": "pop15-fn-festival.jpg"
+     "credit": "Clip: Fortnite x Yeat trailer, Epic Games",
+     "clip": "ml16-yeat-a.mp4",
+     "start": 6.0
     },
     "bs": 130,
     "by": 300,

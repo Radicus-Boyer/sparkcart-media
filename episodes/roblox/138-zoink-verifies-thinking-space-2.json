@@ -32,69 +32,51 @@
    "t": "This level was number 1 in Geometry Dash for nine months. This is the run that beat it.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "#1 FOR 9\nMONTHS",
     "sub": "THINKING SPACE II",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Thinking Space II verification",
+     "clip": "gd16-ts2-end.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's Thinking Space II, hosted by DrCuber, CairoX and NineDice.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THINKING\nSPACE II",
     "sub": "DRCUBER, CAIROX, NINEDICE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Thinking Space II verification",
+     "clip": "gd16-ts2-mid.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It was nerfed to around top 15, then Zoink buffed it back up to a possible top 1.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "BUFFED\nBACK UP",
     "sub": "BY ZOINK",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Zoink, Thinking Space II verification",
+     "clip": "gd16-ts2-mid.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -120,23 +102,17 @@
    "t": "Along the way, he died 11 times after 90 percent.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "11 DEATHS\nPAST 90%",
     "sub": "SO CLOSE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Thinking Space II verification",
+     "clip": "gd16-ts2-end.mp4",
+     "start": 5.0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {

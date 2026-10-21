@@ -25,46 +25,34 @@
    "t": "It's me, it's Verity. But where did this yellow smile actually come from?",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "IT'S ME,\nIT'S VERITY",
     "sub": "THE ORIGIN",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 120
+    "full": {
+     "credit": "Clip: Verity mod gameplay (YouTube)",
+     "clip": "ml16-verity-a.mp4",
+     "start": 0
+    },
+    "bs": 120,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Verity is from a Minecraft horror series by a YouTuber called ThatMob. It's officially called Something.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "MINECRAFT\nHORROR",
     "sub": "BY THATMOB",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Verity mod gameplay (YouTube)",
+     "clip": "ml16-verity-a.mp4",
+     "start": 5.0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -101,23 +89,17 @@
    "t": "At first it helps you. Then it starts knowing things about your real life, and asking creepy questions.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "IT KNOWS\nTOO MUCH",
     "sub": "CREEPY QUESTIONS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Verity mod gameplay (YouTube)",
+     "clip": "ml16-verity-b.mp4",
+     "start": 0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {

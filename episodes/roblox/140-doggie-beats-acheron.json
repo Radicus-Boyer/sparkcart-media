@@ -31,115 +31,85 @@
    "t": "Doggie took 121,749 attempts to beat this level.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "121,749\nATTEMPTS",
     "sub": "DOGGIE VS ACHERON",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Doggie, Acheron",
+     "clip": "gd16-dacheron-end.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's Acheron, which was number 1 on the Demonlist, the hardest level in the game.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "ACHERON",
     "sub": "#1 ON THE DEMONLIST",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Doggie, Acheron",
+     "clip": "gd16-dacheron-mid.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Zoink verified it first, after 72,808 attempts.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "ZOINK:\n72,808",
     "sub": "THE VERIFIER",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Doggie, Acheron",
+     "clip": "gd16-dacheron-mid.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Doggie kept going, and on November 1st, 2022, he beat it.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "100%",
     "sub": "NOVEMBER 1, 2022",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 200
+    "full": {
+     "credit": "Clip: Doggie, Acheron",
+     "clip": "gd16-dacheron-end.mp4",
+     "start": 6.0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "He also found an easier way through a click at 35 percent, and every victor since has used it.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "HIS TRICK\nAT 35%",
     "sub": "EVERYONE USES IT",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Acheron",
+     "clip": "gd16-dacheron-mid.mp4",
+     "start": 3.0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {

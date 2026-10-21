@@ -37,8 +37,8 @@
     "sub": "ACHERON",
     "full": {
      "credit": "Clip: Zoink, Acheron verification",
-     "clip": "gd16-acheron.mp4",
-     "start": 0
+     "clip": "gd16-acheron-end.mp4",
+     "start": 2.0
     },
     "bs": 124,
     "by": 300,
@@ -54,7 +54,7 @@
     "sub": "HOSTED BY RYAMU",
     "full": {
      "credit": "Clip: Zoink, Acheron verification",
-     "clip": "gd16-acheron.mp4",
+     "clip": "gd16-acheron-mid.mp4",
      "start": 0
     },
     "bs": 150,
@@ -71,8 +71,8 @@
     "sub": "WOLVEZ, APRIL 2022",
     "full": {
      "credit": "Clip: Zoink, Acheron verification",
-     "clip": "gd16-acheron.mp4",
-     "start": 0
+     "clip": "gd16-acheron-mid.mp4",
+     "start": 6.5
     },
     "bs": 124,
     "by": 300,
@@ -88,7 +88,7 @@
     "sub": "ZOINK: 91%",
     "full": {
      "credit": "Clip: Zoink, Acheron verification",
-     "clip": "gd16-acheron.mp4",
+     "clip": "gd16-acheron-end.mp4",
      "start": 0
     },
     "bs": 150,
@@ -125,8 +125,8 @@
     "sub": "100%",
     "full": {
      "credit": "Clip: Zoink, Acheron verification",
-     "clip": "gd16-acheron.mp4",
-     "start": 0
+     "clip": "gd16-acheron-end.mp4",
+     "start": 9.0
     },
     "bs": 170,
     "by": 300,
@@ -161,8 +161,8 @@
     "sub": "DOGGIE",
     "full": {
      "credit": "Clip: Zoink, Acheron verification",
-     "clip": "gd16-acheron.mp4",
-     "start": 0
+     "clip": "gd16-acheron-mid.mp4",
+     "start": 3.0
     },
     "bs": 124,
     "by": 300,
