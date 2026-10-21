@@ -1,0 +1,222 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 134,
+ "slug": "134-murder-mystery-2-still-number-2",
+ "file": "134 Murder Mystery 2 Is 12 Years Old.mp4",
+ "target": 48,
+ "accent": "#e53935",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Nikilis": "Nick-ill-iss"
+ },
+ "lines": [
+  {
+   "t": "Murder Mystery 2 is twelve years old, and it's the second most played game on Roblox right now.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "12 YEARS OLD\nSTILL #2",
+    "sub": "MURDER MYSTERY 2",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-halloween.jpg"
+    },
+    "bs": 116,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Every round, one player is the murderer, one is the sheriff, and everyone else is innocent.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "MURDERER\nSHERIFF\nINNOCENT",
+    "sub": "EVERY ROUND",
+    "bs": 110,
+    "vig": true,
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "walk",
+      "c": "b",
+      "hold": "knife"
+     },
+     {
+      "p": [
+       0,
+       1.1
+      ],
+      "a": "bob",
+      "c": "a",
+      "hold": "gun"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "run",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "If the sheriff dies, the gun drops, and any innocent can grab it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE GUN\nDROPS",
+    "sub": "ANY INNOCENT CAN GRAB IT",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-logo.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was made by one developer, Nikilis, and came out in January 2014.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "1 DEVELOPER",
+    "sub": "NIKILIS, JANUARY 2014",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It has over 24 billion visits, and this week more than 600,000 people were playing it at once.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 600000,
+     "fmt": "{:,.0f}+",
+     "dur": 1.5
+    },
+    "sub": "PLAYING AT ONCE",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ]
+   }
+  },
+  {
+   "t": "Players still trade rare Godly knives, and the Halloween events bring new ones every year.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "GODLY\nKNIVES",
+    "sub": "HALLOWEEN EVENTS",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-heroes.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: how two developers made DOORS. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: HOW DOORS\nWAS MADE",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-seek.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Murderer, sheriff, or innocent? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "WHICH ROLE\nIS BEST?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

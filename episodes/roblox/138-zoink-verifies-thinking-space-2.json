@@ -1,0 +1,237 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 138,
+ "slug": "138-zoink-verifies-thinking-space-2",
+ "file": "138 Zoink Beat Thinking Space II.mp4",
+ "target": 50,
+ "accent": "#00e5ff",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Audiowide-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#18ffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff"
+ },
+ "lines": [
+  {
+   "t": "This level was number 1 in Geometry Dash for nine months. This is the run that beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 FOR 9\nMONTHS",
+    "sub": "THINKING SPACE II",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It's Thinking Space II, hosted by DrCuber, CairoX and NineDice.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THINKING\nSPACE II",
+    "sub": "DRCUBER, CAIROX, NINEDICE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It was nerfed to around top 15, then Zoink buffed it back up to a possible top 1.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BUFFED\nBACK UP",
+    "sub": "BY ZOINK",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "He verified it on May 25th, 2025, after 83,913 attempts across 31 streams.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 83913,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "ATTEMPTS, 31 STREAMS",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 170,
+    "fx": [
+     "sparkle"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "Along the way, he died 11 times after 90 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "11 DEATHS\nPAST 90%",
+    "sub": "SO CLOSE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It was placed number 1 on the Demonlist in September 2025, and stayed there until Society passed it in June 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1 UNTIL\nJUNE 2026",
+    "sub": "THEN SOCIETY",
+    "full": {
+     "credit": "Image: Pointercrate Demonlist",
+     "img": "pop15-gd-demonlist.jpg",
+     "w": 760,
+     "cy": 1040,
+     "h": 820
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the level that used to be impossible. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: ONCE\nIMPOSSIBLE",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-66.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat it? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

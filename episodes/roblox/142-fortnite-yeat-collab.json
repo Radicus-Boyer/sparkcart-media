@@ -1,0 +1,220 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 142,
+ "slug": "142-fortnite-yeat-collab",
+ "file": "142 Yeat Is in Fortnite.mp4",
+ "target": 50,
+ "accent": "#d500f9",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BarlowCondensed-ExtraBold.ttf",
+  "size": 112,
+  "fill": "#ffffff",
+  "hi": "#ea80fc",
+  "stroke": 8
+ },
+ "pron": {
+  "Yeat": "Yeet",
+  "HeliMan": "Heli man",
+  "Lyfe": "Life"
+ },
+ "lines": [
+  {
+   "t": "Yeat is now in Fortnite, and the collab is full of hidden secrets.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "YEAT IN\nFORTNITE",
+    "sub": "HIDDEN SECRETS",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-festival.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It dropped in the Item Shop on October 15th, 2026, with a trailer called Real Lyfe.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "REAL LYFE",
+    "sub": "OCTOBER 15, 2026",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-br.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You get two outfits with over 27 style combos, and his famous bell as a pickaxe.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "27+ STYLES",
+    "sub": "+ THE YEAT BELL PICKAXE",
+    "rays": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "sparkle"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "g",
+      "hold": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "t": "One emote has you riding a tiny truck, and another is his one finger handshake.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "TINY TRUCK\nEMOTE",
+    "sub": "+ THE HANDSHAKE",
+    "bs": 130,
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.6
+      ],
+      "a": "wave",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And there's unreleased music. Find Yeat in Battle Royale and collect his missing bells to unlock a song called HeliMan.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "UNRELEASED\nMUSIC",
+    "sub": "FIND YEAT'S BELLS",
+    "full": {
+     "credit": "Image: Epic Games",
+     "img": "pop15-fn-festival.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Three more secret songs unlock with codes hidden in the trailer.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "3 SECRET\nSONGS",
+    "sub": "CODES IN THE TRAILER",
+    "bs": 140,
+    "vig": true,
+    "ic": [
+     {
+      "n": "key",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: Doggie's 121,749 attempts on Acheron. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: DOGGIE\nVS ACHERON",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Did you buy the Yeat skin? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "DID YOU\nBUY IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE"
+}

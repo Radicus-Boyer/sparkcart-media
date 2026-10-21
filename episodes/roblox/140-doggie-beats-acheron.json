@@ -1,0 +1,237 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 140,
+ "slug": "140-doggie-beats-acheron",
+ "file": "140 Doggie Beat Acheron.mp4",
+ "target": 44,
+ "accent": "#ff9100",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffab40",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff"
+ },
+ "lines": [
+  {
+   "t": "Doggie took 121,749 attempts to beat this level.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "121,749\nATTEMPTS",
+    "sub": "DOGGIE VS ACHERON",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It's Acheron, which was number 1 on the Demonlist, the hardest level in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ACHERON",
+    "sub": "#1 ON THE DEMONLIST",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "Zoink verified it first, after 72,808 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ZOINK:\n72,808",
+    "sub": "THE VERIFIER",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Doggie kept going, and on November 1st, 2022, he beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "100%",
+    "sub": "NOVEMBER 1, 2022",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 200
+   }
+  },
+  {
+   "t": "He also found an easier way through a click at 35 percent, and every victor since has used it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "HIS TRICK\nAT 35%",
+    "sub": "EVERYONE USES IT",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 130
+   }
+  },
+  {
+   "t": "Four years later, he beat Grief, the new hardest level, in 436,879 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THEN GRIEF:\n436,879",
+    "sub": "OCTOBER 2026",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "img": "pop15-gd-66.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the level that took one player 821,027 attempts. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 821,027\nATTEMPTS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Who's better, Doggie or Zoink? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "DOGGIE OR\nZOINK?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

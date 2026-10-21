@@ -1,0 +1,271 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 133,
+ "slug": "133-roblox-oof-sound",
+ "file": "133 Why ROBLOX Deleted the OOF Sound.mp4",
+ "target": 56,
+ "accent": "#ff7043",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Tallarico": "Tal-a-ree-co",
+  "Robux": "Robucks"
+ },
+ "lines": [
+  {
+   "t": "Roblox deleted its famous oof sound, and then it came back.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE OOF WAS\nDELETED",
+    "sub": "...THEN IT CAME BACK",
+    "full": {
+     "credit": "Image: Classic: Crossroads on Roblox",
+     "img": "pop16-crossroads.jpg"
+    },
+    "bs": 120,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The oof wasn't even made for Roblox. It came from a 2000 game called Messiah.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NOT MADE\nFOR ROBLOX",
+    "sub": "FROM A 2000 GAME",
+    "bs": 140,
+    "vig": true,
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 800,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Roblox used it as the death sound from 2006, so every fall and every reset said oof.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "OOF!",
+    "sub": "THE DEATH SOUND SINCE 2006",
+    "bs": 240,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.4,
+       1.0
+      ],
+      "a": "run",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.8,
+       0.4
+      ],
+      "a": "cheer",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In 2019, composer Tommy Tallarico said he owned it.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "\"I OWN IT\"",
+    "sub": "2019 COPYRIGHT CLAIM",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "license",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "A deal in 2020 turned oof into a paid sound, for 100 Robux.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 100,
+     "fmt": "{:.0f} ROBUX",
+     "dur": 1.2
+    },
+    "sub": "TO USE THE OOF",
+    "bg": "gold",
+    "ground": "grass",
+    "bs": 170,
+    "fx": [
+     "coins"
+    ]
+   }
+  },
+  {
+   "t": "Then in July 2022, Roblox removed it over a licensing issue. The new sound got called a guttural grunt.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "REMOVED",
+    "sub": "JULY 2022",
+    "bs": 220,
+    "vig": true,
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "bob",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "But in July 2025, Roblox brought the original back for developers. Their post said: a comeback so good it hurts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "IT'S BACK!",
+    "sub": "JULY 2025",
+    "full": {
+     "credit": "Image: Classic: Crossroads on Roblox",
+     "img": "pop16-crossroads.jpg",
+     "mode": "cover"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the Roblox game that's 12 years old and still number 2. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 12 YEARS\nAND STILL #2",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-heroes.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Old oof or new oof? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "OLD OOF OR\nNEW OOF?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

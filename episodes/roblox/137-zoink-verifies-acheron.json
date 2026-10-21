@@ -1,0 +1,248 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 137,
+ "slug": "137-zoink-verifies-acheron",
+ "file": "137 Zoink Verified Acheron.mp4",
+ "target": 58,
+ "accent": "#ff1744",
+ "voice": "am_michael",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff"
+ },
+ "lines": [
+  {
+   "t": "This is the run that made Acheron the hardest level in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE HARDEST\nLEVEL",
+    "sub": "ACHERON",
+    "full": {
+     "credit": "Clip: Zoink, Acheron verification",
+     "clip": "gd16-acheron.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Acheron was hosted by ryamu, with Riot as co-host, and a long list of builders.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ACHERON",
+    "sub": "HOSTED BY RYAMU",
+    "full": {
+     "credit": "Clip: Zoink, Acheron verification",
+     "clip": "gd16-acheron.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The first verifier, Wolvez, got all the way to 96 percent, then dropped it in April 2022 because of health problems.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "96% ...\nTHEN DROPPED",
+    "sub": "WOLVEZ, APRIL 2022",
+    "full": {
+     "credit": "Clip: Zoink, Acheron verification",
+     "clip": "gd16-acheron.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "So it became an open race. Zoink buffed his own version, fixed the hitboxes, and got to 91 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "OPEN RACE",
+    "sub": "ZOINK: 91%",
+    "full": {
+     "credit": "Clip: Zoink, Acheron verification",
+     "clip": "gd16-acheron.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then, in August 2022, after 72,808 attempts, he beat it.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 72808,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "100 percent. Level verified.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "VERIFIED!",
+    "sub": "100%",
+    "full": {
+     "credit": "Clip: Zoink, Acheron verification",
+     "clip": "gd16-acheron.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It went in at number 2 on the Demonlist, and on October 7th, 2022, it was moved to number 1.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1",
+    "sub": "OCTOBER 7, 2022",
+    "full": {
+     "credit": "Image: Pointercrate Demonlist",
+     "img": "pop15-gd-demonlist.jpg",
+     "w": 760,
+     "cy": 1040,
+     "h": 820
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And the next player to beat it legit took 121,749 attempts. That was Doggie.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 121,749\nATTEMPTS",
+    "sub": "DOGGIE",
+    "full": {
+     "credit": "Clip: Zoink, Acheron verification",
+     "clip": "gd16-acheron.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: how Doggie beat Acheron. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: DOGGIE\nVS ACHERON",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Acheron? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

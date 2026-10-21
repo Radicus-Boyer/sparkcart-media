@@ -140,3 +140,8 @@ pop15-fn-*.jpg          Fortnite key art / screenshots, Epic Games Store page - 
 pop15-gd-20/47/66.jpg   Stills from Doggie's "GRIEF (VERIFIED) // TOP 1" (YouTube gB8slBPlOjc)
 pop15-gd-demonlist.jpg  Pointercrate Demonlist main list screenshot
 gd-grief-doggie.mp4     Clip of Doggie's Grief verification (supplied by the channel owner)
+
+# Batch 16: official Roblox game thumbnails + short gameplay clips used for commentary, credited on screen
+pop16-mm2-*.jpg         Murder Mystery 2 official Roblox thumbnails (Nikilis) - "Image: Murder Mystery 2 on Roblox"
+pop16-crossroads.jpg    Classic: Crossroads official Roblox thumbnail - "Image: Classic: Crossroads on Roblox"
+gd16-acheron.mp4        ~10 s from Zoink's "[VERIFIED] ACHERON" YouTube video - "Clip: Zoink, Acheron verification"

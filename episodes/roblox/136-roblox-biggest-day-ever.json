@@ -1,0 +1,257 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 136,
+ "slug": "136-roblox-biggest-day-ever",
+ "file": "136 ROBLOX's Biggest Day Ever.mp4",
+ "target": 50,
+ "accent": "#00e676",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#69f0ae",
+  "stroke": 8
+ },
+ "pron": {
+  "brainrot": "brain rot",
+  "Brainrot": "Brain rot",
+  "brainrots": "brain rots",
+  "Brainrots": "Brain rots"
+ },
+ "lines": [
+  {
+   "t": "This is the day 47 million people were on Roblox at the same time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "47 MILLION\nAT ONCE",
+    "sub": "ROBLOX'S BIGGEST DAY",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-dragon.jpg"
+    },
+    "bs": 116,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was August 23rd, 2025, and two games started a fake admin war.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "ADMIN WAR",
+    "sub": "AUGUST 23, 2025",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a",
+      "hold": "sword"
+     },
+     {
+      "p": [
+       1.6,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b",
+      "hold": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Steal a Brainrot against Grow a Garden. Grow a Garden hit at least 22.3 million players.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "22.3 MILLION",
+    "sub": "GROW A GARDEN",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ],
+    "props": [
+     [
+      "tree",
+      -1.8,
+      -1.8
+     ],
+     [
+      "tree",
+      1.8,
+      -2.0
+     ]
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And all of Roblox hit 47.4 million at once, smashing the old record of about 32.7 million.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 47.4,
+     "fmt": "{:.1f}M",
+     "dur": 1.6
+    },
+    "sub": "ON ROBLOX AT ONCE",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 220,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Then in September, Steal a Brainrot's Extinct Event pulled in 24 million on its own.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "24 MILLION",
+    "sub": "EXTINCT EVENT",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-chicken.jpg"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And in January 2026, a Bruno Mars concert in the game peaked at 12.8 million.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BRUNO MARS",
+    "sub": "12.8 MILLION AT ONCE",
+    "rays": "#ffffff",
+    "bs": 140,
+    "fx": [
+     "sparkle"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "g"
+     },
+     {
+      "p": [
+       -1.8,
+       0.4
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.8,
+       0.4
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: Roblox deleted the oof sound, and then it came back. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: THE OOF\nWAS DELETED",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Classic: Crossroads on Roblox",
+     "img": "pop16-crossroads.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Were you online that day? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WERE YOU\nTHERE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

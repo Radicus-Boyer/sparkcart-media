@@ -1,0 +1,215 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 135,
+ "slug": "135-doors-made-by-two-devs",
+ "file": "135 DOORS Was Made by 2 Developers.mp4",
+ "target": 46,
+ "accent": "#ffb300",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#fff8e1",
+  "hi": "#ffca28",
+  "stroke": 6
+ },
+ "pron": {
+  "LSPLASH": "L splash"
+ },
+ "lines": [
+  {
+   "t": "DOORS, one of Roblox's scariest games, was made by just two developers.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MADE BY\n2 PEOPLE",
+    "sub": "DOORS",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-seek.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "They're called LSPLASH and Red, and the game was based on another Roblox game called Rooms.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "LSPLASH\n+ RED",
+    "sub": "BASED ON ROOMS",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-lobby.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out on August 10th, 2022, with one floor: The Hotel.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE HOTEL",
+    "sub": "AUGUST 10, 2022",
+    "bs": 160,
+    "vig": true,
+    "ic": [
+     {
+      "n": "key",
+      "x": 860,
+      "y": 820,
+      "s": 140,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The Hotel got a huge revamp in January 2023, and modifiers to make runs harder came that August.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "REVAMPED",
+    "sub": "JANUARY 2023",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-rush.jpg"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "An event called The Hunt added a secret floor, The Backdoor.",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "THE\nBACKDOOR",
+    "sub": "ADDED IN THE HUNT",
+    "bs": 150,
+    "vig": true,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 540,
+      "y": 820,
+      "s": 200,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then Floor 2, The Mines, finally arrived on August 30th, 2024.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "FLOOR 2",
+    "sub": "AUGUST 30, 2024",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-alarm.jpg"
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the day Roblox had 47 million people online. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 47 MILLION\nONLINE",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-dragon.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Hotel or Mines? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "HOTEL OR\nMINES?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}
