@@ -1,0 +1,199 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 143,
+ "slug": "143-who-is-seek-doors",
+ "file": "143 Who Is Seek in DOORS.mp4",
+ "target": 54,
+ "accent": "#ff1744",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#fff8e1",
+  "hi": "#ff5252",
+  "stroke": 6
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This is Seek, the monster in DOORS that never stops chasing you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "WHO IS\nSEEK?",
+    "sub": "DOORS",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-seek.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Seek hides as eyes on the walls. When the eyes start to multiply, a chase is coming.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "EYES ON\nTHE WALLS",
+    "sub": "A CHASE IS COMING",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-alarm.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then it bursts out of the floor as a tall black figure, and you have to run through room after room.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "RUN!",
+    "sub": "ROOM AFTER ROOM",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-rush.jpg"
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In The Mines, it chases you from Door 140, first on foot, then in a minecart over a giant ravine.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MINECART\nCHASE",
+    "sub": "DOOR 140",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-alarm.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "At Door 200, you fight it at The Dam, where Seek turns into a giant blob of eyes.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "THE DAM",
+    "sub": "DOOR 200 BOSS",
+    "bc": "#ffffff",
+    "bs": 180,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 540,
+      "y": 820,
+      "s": 220,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And at the very end, Seek infects Queen Grumble, and its humanoid form crawls out. To be continued.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "TO BE\nCONTINUED",
+    "sub": "SEEK'S REAL FORM",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-lineup.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the Roblox horror game that DOORS helped inspire. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: PRESSURE",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Pressure on Roblox",
+     "img": "pop17-pressure-logo.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Is Seek the scariest monster? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "SCARIEST\nMONSTER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

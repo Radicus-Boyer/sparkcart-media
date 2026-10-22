@@ -1,0 +1,246 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 148,
+ "slug": "148-spaceuk-exposed",
+ "file": "148 The Top Player Who Hacked Everything.mp4",
+ "target": 56,
+ "accent": "#ffab00",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffd740",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "spaceuk": "space U K",
+  "zBot": "Z bot"
+ },
+ "lines": [
+  {
+   "t": "He was the best Geometry Dash player in the world, until everyone found out he was hacking.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "HE HACKED\nEVERYTHING",
+    "sub": "SPACEUK",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "spaceuk claimed huge levels like Slaughterhouse and Acheron, and won Best Player at the Geometry Dash Awards in 2021 and 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BEST PLAYER\nX2",
+    "sub": "2021 + 2022",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "Then players noticed his click sounds didn't match what happened on screen.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "CLICKS\nDIDN'T MATCH",
+    "sub": "THE CLUE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "On April 25th, 2023, paqoe posted a video exposing him, showing a bot called zBot in his recordings, all the way back to 2021.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "EXPOSED",
+    "sub": "APRIL 25, 2023",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "spaceuk admitted it. His records were removed, and titles went back to players like Doggie, Trick and Zoink.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "RECORDS\nREMOVED",
+    "sub": "TITLES RETURNED",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "Since then he's played legit, and in January 2026 he really beat Acheron, after about 125,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "LEGIT\nTHIS TIME",
+    "sub": "ACHERON: ~125,000",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "Next: the level that stayed number 1 for 15 months. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: #1 FOR\n15 MONTHS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Should he be forgiven? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "FORGIVE\nHIM?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

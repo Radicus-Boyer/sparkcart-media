@@ -1,0 +1,178 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 144,
+ "slug": "144-pressure-roblox-horror",
+ "file": "144 Pressure Is Roblox's Deepest Horror Game.mp4",
+ "target": 43,
+ "accent": "#2979ff",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/SairaStencilOne-Regular.ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#82b1ff",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox horror game takes place at the bottom of the ocean.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE BOTTOM\nOF THE OCEAN",
+    "sub": "PRESSURE",
+    "full": {
+     "credit": "Image: Pressure on Roblox",
+     "img": "pop17-pressure-logo.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's called Pressure, made by a group called Urbanshade: Hadal Division, and it came out in February 2023.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "PRESSURE",
+    "sub": "URBANSHADE: HADAL DIVISION",
+    "full": {
+     "credit": "Image: Pressure on Roblox",
+     "img": "pop17-pressure-logo.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You escape a flooded underwater facility, room by room, while monsters hunt you down.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ESCAPE THE\nFACILITY",
+    "sub": "ROOM BY ROOM",
+    "full": {
+     "credit": "Image: Pressure on Roblox",
+     "img": "pop17-pressure-monster.jpg"
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was inspired by Rooms, the same game that inspired DOORS.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "INSPIRED\nBY ROOMS",
+    "sub": "LIKE DOORS",
+    "full": {
+     "credit": "Image: Pressure on Roblox",
+     "img": "pop17-pressure-monster.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It has over 492 million visits and 1.6 million favorites, and it peaked at 111,000 players at once in March 2026.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 492,
+     "fmt": "{:.0f}M",
+     "dur": 1.4
+    },
+    "sub": "VISITS",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 220,
+    "fx": [
+     "sparkle"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "Next: how much Roblox paid its creators last year. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: $1 BILLION",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Steal a Brainrot on Roblox",
+     "img": "pop15-sab-dragon.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "DOORS or Pressure? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "dark",
+    "ground": "dark",
+    "big": "DOORS OR\nPRESSURE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

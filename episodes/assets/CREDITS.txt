@@ -145,3 +145,6 @@ gd-grief-doggie.mp4     Clip of Doggie's Grief verification (supplied by the cha
 pop16-mm2-*.jpg         Murder Mystery 2 official Roblox thumbnails (Nikilis) - "Image: Murder Mystery 2 on Roblox"
 pop16-crossroads.jpg    Classic: Crossroads official Roblox thumbnail - "Image: Classic: Crossroads on Roblox"
 gd16-*/ml16-* clips    short (<=14 s) YouTube clips cut for commentary, credited on screen; deleted after rendering, not kept in the repo
+
+# Batch 17
+pop17-pressure-*.jpg    Pressure official Roblox thumbnails (Urbanshade: Hadal Division) - "Image: Pressure on Roblox"

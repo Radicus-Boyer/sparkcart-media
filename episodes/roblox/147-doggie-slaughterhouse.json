@@ -1,0 +1,237 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 147,
+ "slug": "147-doggie-slaughterhouse",
+ "file": "147 Doggie Beat Slaughterhouse.mp4",
+ "target": 46,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "spaceuk": "space U K",
+  "icedcave": "iced cave"
+ },
+ "lines": [
+  {
+   "t": "Doggie beat this level, and only years later got credit as its real verifier.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE REAL\nVERIFIER",
+    "sub": "SLAUGHTERHOUSE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 130
+   }
+  },
+  {
+   "t": "It's Slaughterhouse, built by icedcave and a team of creators, and it was number 1 on the Demonlist for 221 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 FOR\n221 DAYS",
+    "sub": "BY ICEDCAVE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 130
+   }
+  },
+  {
+   "t": "Another player, spaceuk, claimed to verify it first, in October 2021.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SPACEUK\nCLAIMED IT",
+    "sub": "OCTOBER 2021",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 130
+   }
+  },
+  {
+   "t": "Doggie beat it on December 19th, 2021, after 79,170 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 79170,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "Then in April 2023, spaceuk was exposed for hacking, so the verifier title went to Doggie.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "VERIFIER:\nDOGGIE",
+    "sub": "APRIL 2023",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 130
+   }
+  },
+  {
+   "t": "And Grief, the level Doggie verified this October, is a remake by the same creator.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "GRIEF",
+    "sub": "SAME CREATOR",
+    "full": {
+     "credit": "Clip: Doggie, GRIEF verification",
+     "img": "pop15-gd-66.jpg"
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: how spaceuk got caught. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: SPACEUK\nEXPOSED",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Doggie or Zoink? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "DOGGIE OR\nZOINK?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,237 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 151,
+ "slug": "151-cyberpunk-edgerunners-2-is-out",
+ "file": "151 Cyberpunk Edgerunners 2 Is Out.mp4",
+ "target": 58,
+ "accent": "#ffea00",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Oxanium[wght].ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#ffff00",
+  "stroke": 8
+ },
+ "pron": {
+  "Edgerunners": "Edge runners",
+  "Talia": "Tah-lia",
+  "Maelstrom": "Male strom",
+  "netrunner": "net runner"
+ },
+ "lines": [
+  {
+   "t": "Cyberpunk Edgerunners 2 is finally out, and fans are split.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "EDGERUNNERS 2\nIS OUT",
+    "sub": "FANS ARE SPLIT",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 110
+   }
+  },
+  {
+   "t": "All 10 episodes dropped on Netflix on October 20th, made by Studio Trigger and CD Projekt Red.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "10 EPISODES",
+    "sub": "OCTOBER 20",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "It's a brand new crew, not a direct sequel. Roman, a young filmmaker. Talia, who joins the Maelstrom gang. Weak Kingsley, an old edgerunner. And D, a netrunner out for revenge.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "A NEW CREW",
+    "sub": "NOT A DIRECT SEQUEL",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "The opening song is 10:15 Saturday Night by The Cure.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE CURE",
+    "sub": "THE OPENING SONG",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   },
+   "say": "The opening song is Ten Fifteen Saturday Night, by The Cure."
+  },
+  {
+   "t": "It debuted at number 1 on Netflix in the US. But on Rotten Tomatoes, critics gave it 78 percent and fans 60, way down from season 1's 100 and 95.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "78% / 60%",
+    "sub": "SEASON 1: 100% / 95%",
+    "bs": 170,
+    "vig": true,
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Reviews praise the animation and action, but say the cast is too big and the crew lacks chemistry.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "GREAT ACTION",
+    "sub": "TOO MANY CHARACTERS?",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Next: Roblox's scariest monster, Seek. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: WHO IS\nSEEK?",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: DOORS on Roblox",
+     "img": "pop15-doors-seek.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Better or worse than season 1? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BETTER OR\nWORSE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "ANIME",
+ "mood": "spooky"
+}

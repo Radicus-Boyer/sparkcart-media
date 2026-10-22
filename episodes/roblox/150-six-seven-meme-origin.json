@@ -1,0 +1,299 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 150,
+ "slug": "150-six-seven-meme-origin",
+ "file": "150 Where 6 7 Came From.mp4",
+ "target": 44,
+ "accent": "#ff4081",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Skrilla": "Skrilla",
+  "LaMelo": "La Melo"
+ },
+ "lines": [
+  {
+   "t": "Six seven. Everyone says it, but where did it actually come from?",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "6 7",
+    "sub": "WHERE DID IT COME FROM?",
+    "rays": "#ffffff",
+    "bs": 280,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.6,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It started with a rap song called Doot Doot, six seven, by Skrilla, officially released in February 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DOOT DOOT",
+    "sub": "SKRILLA, FEB 2025",
+    "bs": 180,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The line six seven blew up on TikTok, especially in basketball edits of LaMelo Ball, who is six foot seven.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "6'7\"",
+    "sub": "LAMELO BALL EDITS",
+    "bs": 240,
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ],
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "What does it mean? Nobody knows. Skrilla said he never gave it a meaning, and he doesn't want to.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "IT MEANS\nNOTHING",
+    "sub": "ON PURPOSE",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "question",
+      "x": 860,
+      "y": 820,
+      "s": 160,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And Dictionary.com picked six seven as its word of the year for 2025.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "WORD OF\nTHE YEAR",
+    "sub": "DICTIONARY.COM, 2025",
+    "rays": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: Cyberpunk Edgerunners 2 is finally out. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NEXT:\nEDGERUNNERS 2",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 124,
+    "ss": 40,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Six or seven? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "SIX OR\nSEVEN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE"
+}

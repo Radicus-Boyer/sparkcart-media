@@ -1,0 +1,242 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 149,
+ "slug": "149-zoink-tidal-wave",
+ "file": "149 Tidal Wave Was Number 1 for 15 Months.mp4",
+ "target": 44,
+ "accent": "#00e5ff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Audiowide-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#18ffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "OniLink": "Oni link"
+ },
+ "lines": [
+  {
+   "t": "This level stayed number 1 in Geometry Dash for 15 months, longer than any other.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 FOR\n15 MONTHS",
+    "sub": "TIDAL WAVE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It's Tidal Wave, built by OniLink, and Zoink verified it on September 9th, 2023, after 49,534 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "49,534\nATTEMPTS",
+    "sub": "ZOINK, SEPT 2023",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It has 200 frame perfect inputs, more than any other rated level.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "200 FRAME\nPERFECTS",
+    "sub": "THE MOST EVER",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "It's three minutes long, with over 220,000 objects.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "3 MINUTES",
+    "sub": "220,134 OBJECTS",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "It took over number 1 in February 2024, and held it until Amethyst passed it in June 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "471 DAYS\nAT #1",
+    "sub": "FEB 2024 TO JUNE 2025",
+    "full": {
+     "credit": "Image: Pointercrate Demonlist",
+     "img": "pop15-gd-demonlist.jpg",
+     "w": 760,
+     "cy": 1040,
+     "h": 820
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Zoink's verification video has over 11 million views.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "11 MILLION\nVIEWS",
+    "sub": "ZOINK'S VIDEO",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "Next: the meme that took over every school. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 6 7",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-66.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Tidal Wave? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
