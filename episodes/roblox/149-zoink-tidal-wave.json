@@ -33,92 +33,68 @@
    "t": "This level stayed number 1 in Geometry Dash for 15 months, longer than any other.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "#1 FOR\n15 MONTHS",
     "sub": "TIDAL WAVE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Tidal Wave verification",
+     "clip": "gd17-tw-end.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's Tidal Wave, built by OniLink, and Zoink verified it on September 9th, 2023, after 49,534 attempts.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "49,534\nATTEMPTS",
     "sub": "ZOINK, SEPT 2023",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Tidal Wave verification",
+     "clip": "gd17-tw-a.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It has 200 frame perfect inputs, more than any other rated level.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "200 FRAME\nPERFECTS",
     "sub": "THE MOST EVER",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Tidal Wave verification",
+     "clip": "gd17-tw-b.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's three minutes long, with over 220,000 objects.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "3 MINUTES",
     "sub": "220,134 OBJECTS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Zoink, Tidal Wave verification",
+     "clip": "gd17-tw-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -144,23 +120,17 @@
    "t": "Zoink's verification video has over 11 million views.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "11 MILLION\nVIEWS",
     "sub": "ZOINK'S VIDEO",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Zoink, Tidal Wave verification",
+     "clip": "gd17-tw-end.mp4",
+     "start": 7.0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {

@@ -26,8 +26,9 @@
     "big": "WHO IS\nSEEK?",
     "sub": "DOORS",
     "full": {
-     "credit": "Image: DOORS on Roblox",
-     "img": "pop15-doors-seek.jpg"
+     "credit": "Clip: DOORS Seek chase (Roblox gameplay)",
+     "clip": "rb17-seek-b.mp4",
+     "start": 0
     },
     "bs": 140,
     "by": 300,
@@ -42,8 +43,9 @@
     "big": "EYES ON\nTHE WALLS",
     "sub": "A CHASE IS COMING",
     "full": {
-     "credit": "Image: DOORS on Roblox",
-     "img": "pop15-doors-alarm.jpg"
+     "credit": "Clip: DOORS Seek chase (Roblox gameplay)",
+     "clip": "rb17-seek-a.mp4",
+     "start": 0
     },
     "bs": 130,
     "by": 300,
@@ -58,8 +60,9 @@
     "big": "RUN!",
     "sub": "ROOM AFTER ROOM",
     "full": {
-     "credit": "Image: DOORS on Roblox",
-     "img": "pop15-doors-rush.jpg"
+     "credit": "Clip: DOORS Seek chase (Roblox gameplay)",
+     "clip": "rb17-seek-a.mp4",
+     "start": 3.0
     },
     "bs": 200,
     "by": 300,
@@ -113,8 +116,9 @@
     "big": "TO BE\nCONTINUED",
     "sub": "SEEK'S REAL FORM",
     "full": {
-     "credit": "Image: DOORS on Roblox",
-     "img": "pop15-doors-lineup.jpg"
+     "credit": "Clip: DOORS Seek chase (Roblox gameplay)",
+     "clip": "rb17-seek-b.mp4",
+     "start": 5.0
     },
     "bs": 130,
     "by": 300,

@@ -25,8 +25,9 @@
     "big": "THE BOTTOM\nOF THE OCEAN",
     "sub": "PRESSURE",
     "full": {
-     "credit": "Image: Pressure on Roblox",
-     "img": "pop17-pressure-logo.jpg"
+     "credit": "Clip: Pressure (Roblox gameplay)",
+     "clip": "rb17-pressure-b.mp4",
+     "start": 0
     },
     "bs": 124,
     "by": 300,
@@ -57,8 +58,9 @@
     "big": "ESCAPE THE\nFACILITY",
     "sub": "ROOM BY ROOM",
     "full": {
-     "credit": "Image: Pressure on Roblox",
-     "img": "pop17-pressure-monster.jpg"
+     "credit": "Clip: Pressure (Roblox gameplay)",
+     "clip": "rb17-pressure-a.mp4",
+     "start": 0
     },
     "bs": 124,
     "by": 300,

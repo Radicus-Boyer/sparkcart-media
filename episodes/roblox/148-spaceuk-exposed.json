@@ -33,69 +33,51 @@
    "t": "He was the best Geometry Dash player in the world, until everyone found out he was hacking.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "HE HACKED\nEVERYTHING",
     "sub": "SPACEUK",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: spaceuk, Acheron",
+     "clip": "gd17-spaceuk-a.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "spaceuk claimed huge levels like Slaughterhouse and Acheron, and won Best Player at the Geometry Dash Awards in 2021 and 2022.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "BEST PLAYER\nX2",
     "sub": "2021 + 2022",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: spaceuk, Acheron",
+     "clip": "gd17-spaceuk-c.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Then players noticed his click sounds didn't match what happened on screen.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "CLICKS\nDIDN'T MATCH",
     "sub": "THE CLUE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: spaceuk, Acheron",
+     "clip": "gd17-spaceuk-b.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -125,46 +107,34 @@
    "t": "spaceuk admitted it. His records were removed, and titles went back to players like Doggie, Trick and Zoink.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "RECORDS\nREMOVED",
     "sub": "TITLES RETURNED",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: spaceuk, Acheron",
+     "clip": "gd17-spaceuk-a.mp4",
+     "start": 6.0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Since then he's played legit, and in January 2026 he really beat Acheron, after about 125,000 attempts.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "LEGIT\nTHIS TIME",
     "sub": "ACHERON: ~125,000",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: spaceuk, Acheron",
+     "clip": "gd17-spaceuk-c.mp4",
+     "start": 6.0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {

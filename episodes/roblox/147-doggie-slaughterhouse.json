@@ -34,69 +34,51 @@
    "t": "Doggie beat this level, and only years later got credit as its real verifier.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE REAL\nVERIFIER",
     "sub": "SLAUGHTERHOUSE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Slaughterhouse",
+     "clip": "gd17-slaughter-end.mp4",
+     "start": 8.0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's Slaughterhouse, built by icedcave and a team of creators, and it was number 1 on the Demonlist for 221 days.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "#1 FOR\n221 DAYS",
     "sub": "BY ICEDCAVE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Slaughterhouse",
+     "clip": "gd17-slaughter-mid.mp4",
+     "start": 0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Another player, spaceuk, claimed to verify it first, in October 2021.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "SPACEUK\nCLAIMED IT",
     "sub": "OCTOBER 2021",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Slaughterhouse",
+     "clip": "gd17-slaughter-mid.mp4",
+     "start": 6.0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -123,23 +105,17 @@
    "t": "Then in April 2023, spaceuk was exposed for hacking, so the verifier title went to Doggie.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "VERIFIER:\nDOGGIE",
     "sub": "APRIL 2023",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 130
+    "full": {
+     "credit": "Clip: Doggie, Slaughterhouse",
+     "clip": "gd17-slaughter-end.mp4",
+     "start": 0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
    }
   },
   {

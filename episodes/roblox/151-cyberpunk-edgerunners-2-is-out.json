@@ -26,92 +26,68 @@
    "t": "Cyberpunk Edgerunners 2 is finally out, and fans are split.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "EDGERUNNERS 2\nIS OUT",
     "sub": "FANS ARE SPLIT",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 110
+    "full": {
+     "credit": "Clip: Cyberpunk: Edgerunners 2 trailer, Netflix",
+     "clip": "an17-er-a.mp4",
+     "start": 0
+    },
+    "bs": 110,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "All 10 episodes dropped on Netflix on October 20th, made by Studio Trigger and CD Projekt Red.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "10 EPISODES",
     "sub": "OCTOBER 20",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Cyberpunk: Edgerunners 2 trailer, Netflix",
+     "clip": "an17-er-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's a brand new crew, not a direct sequel. Roman, a young filmmaker. Talia, who joins the Maelstrom gang. Weak Kingsley, an old edgerunner. And D, a netrunner out for revenge.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "A NEW CREW",
     "sub": "NOT A DIRECT SEQUEL",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Cyberpunk: Edgerunners 2 trailer, Netflix",
+     "clip": "an17-er-c.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "The opening song is 10:15 Saturday Night by The Cure.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE CURE",
     "sub": "THE OPENING SONG",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Cyberpunk: Edgerunners 2 trailer, Netflix",
+     "clip": "an17-er-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    },
    "say": "The opening song is Ten Fifteen Saturday Night, by The Cure."
   },
@@ -139,23 +115,17 @@
    "t": "Reviews praise the animation and action, but say the cast is too big and the crew lacks chemistry.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "GREAT ACTION",
     "sub": "TOO MANY CHARACTERS?",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Cyberpunk: Edgerunners 2 trailer, Netflix",
+     "clip": "an17-er-b.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
