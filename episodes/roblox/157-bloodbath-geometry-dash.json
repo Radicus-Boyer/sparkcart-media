@@ -32,23 +32,17 @@
    "t": "This is Bloodbath, the most downloaded level in Geometry Dash history.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "BLOODBATH",
     "sub": "MOST DOWNLOADED EVER",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Bloodbath by Riot (Geometry Dash)",
+     "clip": "gd18-bb-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -75,23 +69,17 @@
    "t": "It was the hardest level in the game for about a year, until Sakupen Hell took over in 2016.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "#1 FOR\nA YEAR",
     "sub": "UNTIL SAKUPEN HELL",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Bloodbath by Riot (Geometry Dash)",
+     "clip": "gd18-bb-a.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -130,23 +118,17 @@
    "t": "Today it has over 192 million downloads.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "192 MILLION",
     "sub": "DOWNLOADS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Bloodbath by Riot (Geometry Dash)",
+     "clip": "gd18-bb-b.mp4",
+     "start": 6.0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {

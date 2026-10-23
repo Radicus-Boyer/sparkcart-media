@@ -26,8 +26,9 @@
     "big": "STEAL\nAN EGG",
     "sub": "#1 ON ROBLOX",
     "full": {
-     "credit": "Image: Steal An Egg on Roblox",
-     "img": "pop15-egg-trex.jpg"
+     "credit": "Clip: Steal An Egg (Roblox gameplay)",
+     "clip": "rb18-egg-a.mp4",
+     "start": 0
     },
     "bs": 150,
     "by": 300,
@@ -78,8 +79,9 @@
     "big": "HATCH +\nSTEAL",
     "sub": "YOUR EGGS = MONEY",
     "full": {
-     "credit": "Image: Steal An Egg on Roblox",
-     "img": "pop15-egg-snake.jpg"
+     "credit": "Clip: Steal An Egg (Roblox gameplay)",
+     "clip": "rb18-egg-b.mp4",
+     "start": 0
     },
     "bs": 140,
     "by": 300,
@@ -123,8 +125,9 @@
     "big": "9 BILLION\nVISITS",
     "sub": "8.5M FAVORITES",
     "full": {
-     "credit": "Image: Steal An Egg on Roblox",
-     "img": "pop15-egg-trex.jpg"
+     "credit": "Clip: Steal An Egg (Roblox gameplay)",
+     "clip": "rb18-egg-a.mp4",
+     "start": 6.0
     },
     "bs": 140,
     "by": 300,

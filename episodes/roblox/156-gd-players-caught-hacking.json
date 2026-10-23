@@ -37,46 +37,34 @@
    "t": "These are the times Geometry Dash players got caught hacking the hardest levels.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "CAUGHT\nHACKING",
     "sub": "GEOMETRY DASH",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: paqoe, spaceuk exposed",
+     "clip": "gd18-exp-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "In 2016, a player named Anaban beat Bloodbath using a start position hack, and it was removed.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "ANABAN",
     "sub": "2016: START POS HACK",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Bloodbath by Riot (Geometry Dash)",
+     "clip": "gd18-bb-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -136,23 +124,17 @@
    "t": "And the biggest one: spaceuk, the best player in the world, was exposed in April 2023 for using a bot.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "SPACEUK",
     "sub": "APRIL 2023: EXPOSED",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: paqoe, spaceuk exposed",
+     "clip": "gd18-exp-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {

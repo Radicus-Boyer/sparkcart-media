@@ -26,8 +26,9 @@
     "big": "99 NIGHTS",
     "sub": "IN THE FOREST",
     "full": {
-     "credit": "Image: 99 Nights in the Forest on Roblox",
-     "img": "pop18-99n-deer.jpg"
+     "credit": "Clip: 99 Nights in the Forest (Roblox gameplay)",
+     "clip": "rb18-99n-a.mp4",
+     "start": 0
     },
     "bs": 180,
     "by": 300,
@@ -58,8 +59,9 @@
     "big": "SURVIVE\n99 NIGHTS",
     "sub": "AVOID THE DEER",
     "full": {
-     "credit": "Image: 99 Nights in the Forest on Roblox",
-     "img": "pop18-99n-deer.jpg"
+     "credit": "Clip: 99 Nights in the Forest (Roblox gameplay)",
+     "clip": "rb18-99n-b.mp4",
+     "start": 0
     },
     "bs": 140,
     "by": 300,
@@ -92,8 +94,9 @@
     "big": "THE MOVIE",
     "sub": "20TH CENTURY STUDIOS",
     "full": {
-     "credit": "Image: 99 Nights in the Forest on Roblox",
-     "img": "pop18-99n-base.jpg"
+     "credit": "Clip: 99 Nights in the Forest (Roblox gameplay)",
+     "clip": "rb18-99n-a.mp4",
+     "start": 6.0
     },
     "bs": 160,
     "by": 300,

@@ -30,147 +30,126 @@
    "t": "In Cyberpunk, everyone wants chrome. But staying fully human might be the smartest move.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "STAY\nHUMAN",
     "sub": "THE SMART MOVE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Cyberpunk 2077 trailer, CD Projekt Red",
+     "clip": "an18-cp-d.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Too much cyberware causes cyberpsychosis. You lose your mind, and there's no cure.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "CYBER-\nPSYCHOSIS",
     "sub": "NO CURE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Cyberpunk 2077 trailer, CD Projekt Red",
+     "clip": "an18-cp-c.mp4",
+     "start": 0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Netrunners can hack your implants, and quickhacks only work if you have cyberware to hack.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "CAN'T HACK\nWHAT'S NOT THERE",
     "sub": "QUICKHACKS NEED CHROME",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Cyberpunk 2077 trailer, CD Projekt Red",
+     "clip": "an18-cp-b.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Implants are expensive, too. Every upgrade costs a trip to a ripperdoc.",
    "sc": {
-    "bg": "gold",
+    "bg": "night",
     "ground": "dark",
     "big": "$$$",
     "sub": "EVERY RIPPERDOC VISIT",
+    "full": {
+     "credit": "Clip: Cyberpunk 2077 trailer, CD Projekt Red",
+     "clip": "an18-cp-a.mp4",
+     "start": 4.0
+    },
     "bs": 240,
-    "fx": [
-     "coins"
-    ],
-    "ic": [
-     {
-      "n": "money",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "av": [
-     {
-      "p": [
-       0.0,
-       0.8
-      ],
-      "a": "walk",
-      "c": "a"
-     }
-    ]
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "In Edgerunners, David kept adding chrome until he went cyberpsycho, and Adam Smasher killed him.",
    "sc": {
-    "bg": "night",
-    "ground": "stone",
+    "bg": "red",
+    "ground": "dark",
     "big": "DAVID'S\nMISTAKE",
     "sub": "TOO MUCH CHROME",
-    "vig": true,
+    "bc": "#ffffff",
+    "bs": 150,
     "fx": [
-     "sparkle"
+     "red"
     ],
     "ic": [
      {
-      "n": "star",
+      "n": "bolt",
       "x": 860,
       "y": 820,
       "s": 150,
-      "a": "spin"
+      "a": "shake"
      }
     ],
-    "bs": 140
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "b"
+     }
+    ]
    }
   },
   {
    "t": "Maine lost his mind the same way. Stay organic, and you keep your mind.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "KEEP YOUR\nMIND",
     "sub": "STAY ORGANIC",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Cyberpunk 2077 trailer, CD Projekt Red",
+     "clip": "an18-cp-c.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {

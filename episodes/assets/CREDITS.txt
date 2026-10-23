@@ -148,3 +148,8 @@ gd16-*/ml16-* clips    short (<=14 s) YouTube clips cut for commentary, credited
 
 # Batch 17
 pop17-pressure-*.jpg    Pressure official Roblox thumbnails (Urbanshade: Hadal Division) - "Image: Pressure on Roblox"
+
+# Batch 18
+pop18-gag-*.jpg    Grow a Garden official Roblox thumbnails - "Image: Grow a Garden on Roblox"
+pop18-99n-*.jpg    99 Nights in the Forest official Roblox thumbnails - "Image: 99 Nights in the Forest on Roblox"
+rb18-*/gd18-*/an18-* clips    short (<=13 s) YouTube clips cut for commentary, credited on screen; deleted after rendering, not kept in the repo

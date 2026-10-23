@@ -33,46 +33,34 @@
    "t": "This level took 115,000 attempts to verify, and you can't even beat it at 60 FPS.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "AMETHYST",
     "sub": "115,000 ATTEMPTS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: wPopoff, Amethyst verification",
+     "clip": "gd18-am-a.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Amethyst was built by Mist and verified by wPopoff in May 2025.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "WPOPOFF",
     "sub": "MAY 2025",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: wPopoff, Amethyst verification",
+     "clip": "gd18-am-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -111,23 +99,17 @@
    "t": "Some parts need a higher frame rate. At 60 or 120 FPS, it's impossible.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "IMPOSSIBLE\nAT 60 FPS",
     "sub": "HIGH FPS ONLY",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: wPopoff, Amethyst verification",
+     "clip": "gd18-am-a.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {

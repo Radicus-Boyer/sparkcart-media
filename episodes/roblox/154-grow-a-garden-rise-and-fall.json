@@ -26,8 +26,9 @@
     "big": "22 MILLION\n→ 24K",
     "sub": "GROW A GARDEN",
     "full": {
-     "credit": "Image: Grow a Garden on Roblox",
-     "img": "pop18-gag-offline.jpg"
+     "credit": "Clip: Grow a Garden (Roblox gameplay)",
+     "clip": "rb18-gag-a.mp4",
+     "start": 0
     },
     "bs": 140,
     "by": 300,
@@ -78,8 +79,9 @@
     "big": "PLANT,\nGROW, SELL",
     "sub": "BUY RARER SEEDS",
     "full": {
-     "credit": "Image: Grow a Garden on Roblox",
-     "img": "pop18-gag-money.jpg"
+     "credit": "Clip: Grow a Garden (Roblox gameplay)",
+     "clip": "rb18-gag-b.mp4",
+     "start": 0
     },
     "bs": 140,
     "by": 300,
@@ -145,8 +147,9 @@
     "big": "A MOVIE\nIS COMING",
     "sub": "STILL",
     "full": {
-     "credit": "Image: Grow a Garden on Roblox",
-     "img": "pop18-gag-money.jpg"
+     "credit": "Clip: Grow a Garden (Roblox gameplay)",
+     "clip": "rb18-gag-a.mp4",
+     "start": 6.0
     },
     "bs": 150,
     "by": 300,
