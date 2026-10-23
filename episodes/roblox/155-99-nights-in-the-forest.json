@@ -1,0 +1,178 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 155,
+ "slug": "155-99-nights-in-the-forest",
+ "file": "155 How 99 Nights in the Forest Got a Movie.mp4",
+ "target": 46,
+ "accent": "#ff6d00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/CrimsonText-Bold.ttf",
+  "size": 100,
+  "upper": false,
+  "fill": "#fff8e1",
+  "hi": "#ff9e40",
+  "stroke": 6
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game about surviving a forest is getting a real movie.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "99 NIGHTS",
+    "sub": "IN THE FOREST",
+    "full": {
+     "credit": "Image: 99 Nights in the Forest on Roblox",
+     "img": "pop18-99n-deer.jpg"
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "99 Nights in the Forest was made by three developers from New Zealand, and came out in March 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MADE IN\nNEW ZEALAND",
+    "sub": "MARCH 2025",
+    "full": {
+     "credit": "Image: 99 Nights in the Forest on Roblox",
+     "img": "pop18-99n-base.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You have to survive 99 nights, rescue four lost kids, and stay away from the deer.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SURVIVE\n99 NIGHTS",
+    "sub": "AVOID THE DEER",
+    "full": {
+     "credit": "Image: 99 Nights in the Forest on Roblox",
+     "img": "pop18-99n-deer.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It peaked at 14.2 million players at once, the third biggest peak in Roblox history.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 14.2,
+     "fmt": "{:.1f}M",
+     "dur": 1.4
+    },
+    "sub": "#3 PEAK EVER",
+    "bg": "night",
+    "ground": "grass",
+    "bs": 200,
+    "fx": [
+     "fireflies"
+    ]
+   }
+  },
+  {
+   "t": "And in April 2026, 20th Century Studios got the rights to make a movie of it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE MOVIE",
+    "sub": "20TH CENTURY STUDIOS",
+    "full": {
+     "credit": "Image: 99 Nights in the Forest on Roblox",
+     "img": "pop18-99n-base.jpg"
+    },
+    "bs": 160,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: every time a Geometry Dash player got caught hacking. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: CAUGHT\nHACKING",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you survive 99 nights? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "grass",
+    "big": "COULD YOU\nSURVIVE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

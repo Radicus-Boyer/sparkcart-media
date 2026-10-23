@@ -1,0 +1,252 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 160,
+ "slug": "160-why-stay-organic-cyberpunk",
+ "file": "160 Why Staying Fully Human Is Smart in Cyberpunk.mp4",
+ "target": 47,
+ "accent": "#ffea00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Oxanium[wght].ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#ffff00",
+  "stroke": 8
+ },
+ "pron": {
+  "cyberpsychosis": "cyber psychosis",
+  "cyberpsycho": "cyber psycho",
+  "cyberware": "cyber ware",
+  "ripperdoc": "ripper doc",
+  "Netrunners": "Net runners",
+  "quickhacks": "quick hacks",
+  "Edgerunners": "Edge runners",
+  "Maine": "Maine"
+ },
+ "lines": [
+  {
+   "t": "In Cyberpunk, everyone wants chrome. But staying fully human might be the smartest move.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "STAY\nHUMAN",
+    "sub": "THE SMART MOVE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "Too much cyberware causes cyberpsychosis. You lose your mind, and there's no cure.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "CYBER-\nPSYCHOSIS",
+    "sub": "NO CURE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Netrunners can hack your implants, and quickhacks only work if you have cyberware to hack.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "CAN'T HACK\nWHAT'S NOT THERE",
+    "sub": "QUICKHACKS NEED CHROME",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "Implants are expensive, too. Every upgrade costs a trip to a ripperdoc.",
+   "sc": {
+    "bg": "gold",
+    "ground": "dark",
+    "big": "$$$",
+    "sub": "EVERY RIPPERDOC VISIT",
+    "bs": 240,
+    "fx": [
+     "coins"
+    ],
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In Edgerunners, David kept adding chrome until he went cyberpsycho, and Adam Smasher killed him.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DAVID'S\nMISTAKE",
+    "sub": "TOO MUCH CHROME",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Maine lost his mind the same way. Stay organic, and you keep your mind.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "KEEP YOUR\nMIND",
+    "sub": "STAY ORGANIC",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Next: the Roblox game with 1.3 million players right now. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: STEAL\nAN EGG",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Steal An Egg on Roblox",
+     "img": "pop15-egg-trex.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Chrome or organic? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "CHROME OR\nORGANIC?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "CYBERPUNK",
+ "mood": "spooky"
+}

@@ -1,0 +1,244 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 158,
+ "slug": "158-amethyst-geometry-dash",
+ "file": "158 Amethyst Took 115,000 Attempts.mp4",
+ "target": 42,
+ "accent": "#d500f9",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/SairaStencilOne-Regular.ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#ea80fc",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "Amethyst": "Amethyst"
+ },
+ "lines": [
+  {
+   "t": "This level took 115,000 attempts to verify, and you can't even beat it at 60 FPS.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "AMETHYST",
+    "sub": "115,000 ATTEMPTS",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "Amethyst was built by Mist and verified by wPopoff in May 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "WPOPOFF",
+    "sub": "MAY 2025",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "It became the number 1 hardest level in June, and stayed there until Thinking Space 2 in September.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 HARDEST",
+    "sub": "JUNE → SEPTEMBER 2025",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Some parts need a higher frame rate. At 60 or 120 FPS, it's impossible.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "IMPOSSIBLE\nAT 60 FPS",
+    "sub": "HIGH FPS ONLY",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Zoink was the first victor, in August 2025, after 45,717 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 45717,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "ZOINK'S ATTEMPTS",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 170,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Next: why the internet wants a meme reset in 2026. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "NEXT: THE\nMEME RESET",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 124,
+    "ss": 40,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Could you beat Amethyst? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

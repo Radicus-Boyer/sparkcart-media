@@ -1,0 +1,234 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 156,
+ "slug": "156-gd-players-caught-hacking",
+ "file": "156 Every Geometry Dash Player Caught Hacking.mp4",
+ "target": 44,
+ "accent": "#ff1744",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "spaceuk": "space U K",
+  "Anaban": "Ana-ban",
+  "ThePrimeEvil": "The Prime Evil",
+  "TheRealSneaky": "The Real Sneaky",
+  "TacoMacho": "Taco Macho"
+ },
+ "lines": [
+  {
+   "t": "These are the times Geometry Dash players got caught hacking the hardest levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "CAUGHT\nHACKING",
+    "sub": "GEOMETRY DASH",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "In 2016, a player named Anaban beat Bloodbath using a start position hack, and it was removed.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ANABAN",
+    "sub": "2016: START POS HACK",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "Others were exposed for fake Bloodbath runs too, like ThePrimeEvil, TheRealSneaky, and TacoMacho.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "FAKE\nBLOODBATHS",
+    "sub": "MORE PLAYERS EXPOSED",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Bots even attacked Bloodbath's rating, twice, but it was reversed within minutes.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BOT ATTACK",
+    "sub": "REVERSED IN MINUTES",
+    "bs": 170,
+    "vig": true,
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And the biggest one: spaceuk, the best player in the world, was exposed in April 2023 for using a bot.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SPACEUK",
+    "sub": "APRIL 2023: EXPOSED",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "Next: the level that was number 1 for a whole year. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: BLOODBATH",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Would you have noticed? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "WOULD YOU\nHAVE NOTICED?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

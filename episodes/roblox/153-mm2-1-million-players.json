@@ -1,0 +1,180 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 153,
+ "slug": "153-mm2-1-million-players",
+ "file": "153 MM2 Just Hit 1 Million Players at 12 Years Old.mp4",
+ "target": 39,
+ "accent": "#ff1744",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Nikilis": "Nick-ill-iss"
+ },
+ "lines": [
+  {
+   "t": "Murder Mystery 2 just passed one million players at once, and it's twelve years old.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "1 MILLION\nPLAYERS",
+    "sub": "MURDER MYSTERY 2",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-halloween.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was made by Nikilis and came out in January 2014.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "JANUARY\n2014",
+    "sub": "BY NIKILIS",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-logo.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "One player is the murderer, one is the sheriff, and everyone else has to survive.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MURDERER\nVS SHERIFF",
+    "sub": "EVERYONE ELSE: SURVIVE",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-heroes.jpg"
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Today it had over 1,048,000 players online, more than it has ever had.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 1048303,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "PLAYING AT ONCE",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "And it has around 31 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "31 BILLION\nVISITS",
+    "sub": "AND COUNTING",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-heroes.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the Roblox game that hit 22 million players, and then crashed. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: GROW A\nGARDEN",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Grow a Garden on Roblox",
+     "img": "pop18-gag-offline.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Murderer or sheriff? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "MURDERER OR\nSHERIFF?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

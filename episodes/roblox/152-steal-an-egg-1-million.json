@@ -1,0 +1,208 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 152,
+ "slug": "152-steal-an-egg-1-million",
+ "file": "152 Steal An Egg Hit 1.3 Million Players.mp4",
+ "target": 42,
+ "accent": "#ffca28",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 104,
+  "upper": false,
+  "fill": "#ffffff",
+  "hi": "#ffd54f",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Right now, the biggest game on Roblox is about stealing eggs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "STEAL\nAN EGG",
+    "sub": "#1 ON ROBLOX",
+    "full": {
+     "credit": "Image: Steal An Egg on Roblox",
+     "img": "pop15-egg-trex.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Steal An Egg has over 1.3 million people playing at the same time.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 1368655,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "PLAYING RIGHT NOW",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 150,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You hatch eggs into creatures that make you money, then sneak into other bases and steal their eggs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HATCH +\nSTEAL",
+    "sub": "YOUR EGGS = MONEY",
+    "full": {
+     "credit": "Image: Steal An Egg on Roblox",
+     "img": "pop15-egg-snake.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It only came out on July 25th, 2026. It's three months old.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "3 MONTHS\nOLD",
+    "sub": "JULY 25, 2026",
+    "bs": 160,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And it already has over 9 billion visits and 8.5 million favorites.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "9 BILLION\nVISITS",
+    "sub": "8.5M FAVORITES",
+    "full": {
+     "credit": "Image: Steal An Egg on Roblox",
+     "img": "pop15-egg-trex.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the twelve year old Roblox game that just hit a million players. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 12 YEARS\nOLD, 1 MILLION",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Murder Mystery 2 on Roblox",
+     "img": "pop16-mm2-halloween.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Would you steal an egg? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WOULD YOU\nSTEAL ONE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

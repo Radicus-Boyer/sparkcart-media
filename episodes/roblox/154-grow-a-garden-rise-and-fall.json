@@ -1,0 +1,230 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 154,
+ "slug": "154-grow-a-garden-rise-and-fall",
+ "file": "154 Grow a Garden Went From 22 Million to 23 Thousand.mp4",
+ "target": 51,
+ "accent": "#00e676",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 104,
+  "upper": false,
+  "fill": "#ffffff",
+  "hi": "#69f0ae",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game had 22 million players at once. Now it has about 24 thousand.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "22 MILLION\n→ 24K",
+    "sub": "GROW A GARDEN",
+    "full": {
+     "credit": "Image: Grow a Garden on Roblox",
+     "img": "pop18-gag-offline.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Grow a Garden was made in about three days by a 16 year old, and came out in March 2025.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "MADE IN\n3 DAYS",
+    "sub": "BY A 16 YEAR OLD",
+    "bs": 160,
+    "props": [
+     [
+      "tree",
+      -1.8,
+      -1.8
+     ]
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You plant seeds, grow crops, and sell them to buy rarer seeds.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "PLANT,\nGROW, SELL",
+    "sub": "BUY RARER SEEDS",
+    "full": {
+     "credit": "Image: Grow a Garden on Roblox",
+     "img": "pop18-gag-money.jpg"
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It reached 1 billion visits in just 33 days, the fastest ever.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "1 BILLION\nIN 33 DAYS",
+    "sub": "FASTEST EVER",
+    "rays": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "rocket",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then in August, an admin war event pulled in 22.3 million players at once.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 22.3,
+     "fmt": "{:.1f}M",
+     "dur": 1.4
+    },
+    "sub": "AUGUST 23: ADMIN WAR",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 200,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Players moved on to newer games, but it still has a movie on the way.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "A MOVIE\nIS COMING",
+    "sub": "STILL",
+    "full": {
+     "credit": "Image: Grow a Garden on Roblox",
+     "img": "pop18-gag-money.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the Roblox horror game getting a movie from 20th Century Studios. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: 99 NIGHTS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: 99 Nights in the Forest on Roblox",
+     "img": "pop18-99n-deer.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Did you play Grow a Garden? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "DID YOU\nPLAY IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

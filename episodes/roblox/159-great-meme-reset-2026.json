@@ -1,0 +1,294 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 159,
+ "slug": "159-great-meme-reset-2026",
+ "file": "159 The Great Meme Reset of 2026.mp4",
+ "target": 51,
+ "accent": "#ff4081",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Chungus": "Chungus",
+  "MLG": "M L G"
+ },
+ "lines": [
+  {
+   "t": "The internet wants to bring back 2016 memes. It's called the Great Meme Reset.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "MEME\nRESET",
+    "sub": "BACK TO 2016",
+    "rays": "#ffffff",
+    "bs": 240,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.6,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.0
+      ],
+      "a": "cheer",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.6,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The idea: everyone stops using today's brain rot, and goes back to old memes like Big Chungus, Ugandan Knuckles and rage comics.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "BIG CHUNGUS\nIS BACK",
+    "sub": "UGANDAN KNUCKLES, RAGE COMICS",
+    "bs": 140,
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It started small, with a skit in March 2025, and a Reddit post saying we need a reset that got over 18,000 upvotes.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "WE NEED\nA RESET",
+    "sub": "REDDIT, 18,000+ UPVOTES",
+    "bs": 150,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "globe",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "wave",
+      "c": "g"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then in September 2025, a viral post set the date for 2026, and it got over 368,000 likes.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 368000,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "LIKES",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "So if you see MLG airhorns in your feed, now you know why.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "MLG IS\nBACK",
+    "sub": "NOW YOU KNOW",
+    "bc": "#ffffff",
+    "bs": 180,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: why staying fully human is the smart move in Cyberpunk. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NEXT: STAY\nORGANIC",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 124,
+    "ss": 40,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "bolt",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Which meme should come back? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WHICH MEME\nCOMES BACK?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE"
+}
