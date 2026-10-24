@@ -22,23 +22,17 @@
    "t": "Remember, November 2026 is coming. And it's next week.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "NOVEMBER\n2026",
     "sub": "IS COMING",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: \"Remember November 2026\" polar bear meme (YouTube)",
+     "clip": "ml19-bear-a.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -95,23 +89,17 @@
    "t": "Then in August 2026, someone made the bear actually sing a warning about November. It got almost a million views in two weeks.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE BEAR\nSINGS",
     "sub": "AUGUST 2026",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: \"Remember November 2026\" polar bear meme (YouTube)",
+     "clip": "ml19-bear-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {

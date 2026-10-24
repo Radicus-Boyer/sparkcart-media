@@ -24,69 +24,51 @@
    "t": "This penguin walking away from everything became one of the biggest memes of 2026.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE\nPENGUIN",
     "sub": "WALKING AWAY",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Encounters at the End of the World (2007), Werner Herzog",
+     "clip": "ml19-peng-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's from a 2007 documentary by Werner Herzog, called Encounters at the End of the World.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "2007",
     "sub": "WERNER HERZOG",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 220
+    "full": {
+     "credit": "Clip: Encounters at the End of the World (2007), Werner Herzog",
+     "clip": "ml19-peng-b.mp4",
+     "start": 0
+    },
+    "bs": 220,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "One penguin leaves its group, and heads for the mountains, about 70 kilometers inland.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "70 KM\nINLAND",
     "sub": "ALONE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Encounters at the End of the World (2007), Werner Herzog",
+     "clip": "ml19-peng-a.mp4",
+     "start": 6.0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {

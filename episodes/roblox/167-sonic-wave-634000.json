@@ -35,23 +35,17 @@
    "t": "One player spent about 634,000 attempts on this level.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "634,000\nATTEMPTS",
     "sub": "SONIC WAVE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Sonic Wave verification stream (YouTube)",
+     "clip": "gd19-sw-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -91,23 +85,17 @@
    "t": "Then Sunix verified it for real in November 2016, after about 35,000 attempts.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "SUNIX",
     "sub": "35,000 ATTEMPTS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Sonic Wave verification stream (YouTube)",
+     "clip": "gd19-sw-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -132,23 +120,17 @@
    "t": "Even Riot died at 96 percent, and finally beat it on Halloween 2020.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "RIOT: 96%",
     "sub": "BEAT IT IN 2020",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Sonic Wave verification stream (YouTube)",
+     "clip": "gd19-sw-a.mp4",
+     "start": 6.0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {

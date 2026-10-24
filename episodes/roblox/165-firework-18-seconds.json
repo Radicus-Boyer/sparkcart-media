@@ -31,23 +31,17 @@
    "t": "This Geometry Dash level was number 1 for just 18 seconds.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "#1 FOR\n18 SECONDS",
     "sub": "FIREWORK",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Trick, Firework verification",
+     "clip": "gd19-fw-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -74,23 +68,17 @@
    "t": "When the Demonlist placed it, Firework went in at number 1.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "NEW #1",
     "sub": "OCTOBER 2021",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 200
+    "full": {
+     "credit": "Clip: Trick, Firework verification",
+     "clip": "gd19-fw-b.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -127,23 +115,17 @@
    "t": "Trick went on to be the first to beat Abyss of Darkness and Tidal Wave.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "FIRST\nVICTOR",
     "sub": "ABYSS + TIDAL WAVE",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Trick, Firework verification",
+     "clip": "gd19-fw-a.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {

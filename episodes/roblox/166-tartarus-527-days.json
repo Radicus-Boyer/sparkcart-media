@@ -36,23 +36,17 @@
    "t": "This level was the hardest in Geometry Dash for 527 days.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "TARTARUS",
     "sub": "#1 FOR 527 DAYS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Tartarus 100% (YouTube)",
+     "clip": "gd19-tt-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -77,23 +71,17 @@
    "t": "It became number 1 in February 2020, and stayed there until Slaughterhouse and Firework in November 2021.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "FEB 2020 →\nNOV 2021",
     "sub": "TOP 1",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Tartarus 100% (YouTube)",
+     "clip": "gd19-tt-b.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -133,23 +121,17 @@
    "t": "It's also the first part of a trilogy, followed by Acheron.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "PART 1",
     "sub": "THEN ACHERON",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Tartarus 100% (YouTube)",
+     "clip": "gd19-tt-a.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {

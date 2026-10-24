@@ -23,46 +23,34 @@
    "t": "GTA 6 comes out in just 26 days.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "26 DAYS",
     "sub": "GTA 6",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 220
+    "full": {
+     "credit": "Clip: Grand Theft Auto VI Trailer 2, Rockstar Games",
+     "clip": "tr19-gta-a.mp4",
+     "start": 0
+    },
+    "bs": 220,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It launches November 19th, 2026, on PS5 and Xbox Series X and S. No PC date yet.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "NOVEMBER 19",
     "sub": "PS5 + XBOX",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Grand Theft Auto VI Trailer 2, Rockstar Games",
+     "clip": "tr19-gta-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -102,23 +90,17 @@
    "t": "You play as Lucia and Jason, in Vice City, in the state of Leonida.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "LUCIA +\nJASON",
     "sub": "VICE CITY, LEONIDA",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Grand Theft Auto VI Trailer 2, Rockstar Games",
+     "clip": "tr19-gta-c.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -158,23 +140,17 @@
    "t": "And you can preload it starting November 12th.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "PRELOAD",
     "sub": "NOVEMBER 12",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Grand Theft Auto VI Trailer 2, Rockstar Games",
+     "clip": "tr19-gta-b.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {

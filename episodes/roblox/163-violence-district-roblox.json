@@ -26,8 +26,9 @@
     "big": "5 VS 1",
     "sub": "VIOLENCE DISTRICT",
     "full": {
-     "credit": "Image: Violence District on Roblox",
-     "img": "pop19-vd.jpg"
+     "credit": "Clip: Violence District (Roblox gameplay)",
+     "clip": "rb19-vd-a.mp4",
+     "start": 0
     },
     "bs": 220,
     "by": 300,
@@ -58,8 +59,9 @@
     "big": "FIX THE\nGENERATORS",
     "sub": "OPEN THE EXITS",
     "full": {
-     "credit": "Image: Violence District on Roblox",
-     "img": "pop19-vd.jpg"
+     "credit": "Clip: Violence District (Roblox gameplay)",
+     "clip": "rb19-vd-b.mp4",
+     "start": 0
     },
     "bs": 140,
     "by": 300,
@@ -74,8 +76,9 @@
     "big": "DROP THE\nPALLET",
     "sub": "STUN THE KILLER",
     "full": {
-     "credit": "Image: Violence District on Roblox",
-     "img": "pop19-vd.jpg"
+     "credit": "Clip: Violence District (Roblox gameplay)",
+     "clip": "rb19-vd-a.mp4",
+     "start": 6.0
     },
     "bs": 140,
     "by": 300,
