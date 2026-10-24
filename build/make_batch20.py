@@ -143,7 +143,7 @@ ep(173, "jujutsu-shenanigans-vanished", "The Roblox Game That Vanished Overnight
 
 # ============================================================ GEOMETRY DASH
 AVC = "Clip: Zoink, Avernus verification"
-ep(174, "zoink-4-top-ones", "Zoink Verified 4 Number 1 Levels", 0, "#00e676", MIKE, 1.06,
+ep(174, "zoink-4-top-ones", "Zoink Verified 4 Number 1 Levels", 40, "#00e676", MIKE, 1.06,
    {"font": MF + "RussoOne-Regular.ttf", "size": 92, "hi": "#69f0ae", "stroke": 8},
    [L("Zoink has verified four number 1 levels, more than anyone else in Geometry Dash.",
       CLIP("gd20-av-a.mp4", "4 TOP 1s", "ZOINK", 0, AVC, bs=200)),
@@ -162,7 +162,7 @@ ep(174, "zoink-4-top-ones", "Zoink Verified 4 Number 1 Levels", 0, "#00e676", MI
    ], pron=dict(GD_PRON, Avernus="Ah-ver-nus"), **GDE)
 
 BLC = "Clip: Bloodlust by Knobbelboy and more (YouTube)"
-ep(175, "bloodlust-121296", "Bloodlust Took 121,296 Attempts", 0, "#d50000", FENRIR, 1.06,
+ep(175, "bloodlust-121296", "Bloodlust Took 121,296 Attempts", 40, "#d50000", FENRIR, 1.06,
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#ff5252", "stroke": 8},
    [L("This was the first Geometry Dash level to take over 100,000 attempts to verify.",
       CLIP("gd20-bl-a.mp4", "BLOODLUST", "100,000+ ATTEMPTS", 0, BLC, bs=180)),
