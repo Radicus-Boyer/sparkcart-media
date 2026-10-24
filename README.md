@@ -240,3 +240,9 @@ TIKTOK CAPTION: hook + question + 3-5 hashtags incl. #8BitBackstory
 ```
 
 All art in these videos is original. No official sprites, logos or gameplay are used.
+
+## Topic list (avoid repeats)
+`TOPICS_DONE.txt` lists every video made so far. `tools/posting.py schedule` rebuilds it automatically.
+- Check ideas before writing a batch: `python3 tools/topics.py check "DOORS" "Hollow Knight"`
+- Check a whole generator: `python3 tools/topics.py check-batch build/make_batchNN.py`
+- Rebuild by hand: `python3 tools/topics.py update`

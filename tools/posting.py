@@ -120,6 +120,9 @@ def schedule(a):
     print(f"times in {a.tz}")
     print("\n".join(rows))
     print(f"{len(posts)} posts -> {a.out}")
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import topics
+    topics.update()
 
 
 if __name__ == "__main__":

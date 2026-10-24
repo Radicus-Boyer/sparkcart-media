@@ -1,5 +1,5 @@
-SPARKCART SHORTS - EVERYTHING WE'VE COVERED (updated Oct 24, 2026)
-Use this to avoid repeats. Numbers = video #.
+SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 24, 2026)
+Check new ideas against this list to avoid repeats: python3 tools/topics.py check "idea"
 
 == 8-BIT BACKSTORY: NES / RETRO ==
   1  Skate or Die
@@ -60,7 +60,7 @@ Use this to avoid repeats. Numbers = video #.
  19  Phantom Blade Zero
  20  Dandys World
 
-== POPULAR GAMES HISTORY (batch 3-5 style) ==
+== POPULAR GAME HISTORIES ==
  21  The Binding of Isaac
  22  Minecraft
  23  Pokemon
@@ -89,7 +89,7 @@ Use this to avoid repeats. Numbers = video #.
  46  Club Penguin
  47  Goat Simulator
 
-== ROBLOX EDITION + GD / MEMES / TRENDING (#21 onward) ==
+== ROBLOX EDITION + GD / MEMES / TRENDING ==
  21  Steal An Egg
  22  Ride A Pet
  23  +1 Speed Keyboard Escape
