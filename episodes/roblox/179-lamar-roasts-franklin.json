@@ -24,46 +24,34 @@
    "t": "This GTA 5 cutscene became one of the biggest gaming memes ever.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "LAMAR ROASTS\nFRANKLIN",
     "sub": "GTA 5",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Grand Theft Auto V, Rockstar Games",
+     "clip": "ml20-lm-a.mp4",
+     "start": 0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "In it, Lamar roasts Franklin's haircut, nonstop, while Franklin just takes it.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE HAIRCUT",
     "sub": "ROASTED",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Grand Theft Auto V, Rockstar Games",
+     "clip": "ml20-lm-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -100,23 +88,17 @@
    "t": "Then the real voice actors, Slink Johnson and Shawn Fonteno, acted it out in real life.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE REAL\nACTORS",
     "sub": "SLINK + SHAWN",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Grand Theft Auto V, Rockstar Games",
+     "clip": "ml20-lm-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {

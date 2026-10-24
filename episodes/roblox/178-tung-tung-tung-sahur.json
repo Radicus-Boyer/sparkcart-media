@@ -25,23 +25,17 @@
    "t": "Tung Tung Tung Sahur. Everyone knows him, but where did he come from?",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "TUNG TUNG\nTUNG SAHUR",
     "sub": "WHERE DID HE COME FROM?",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Tung Tung Tung Sahur (YouTube)",
+     "clip": "ml20-tg-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -80,23 +74,17 @@
    "t": "Sahur is the meal Muslims eat before dawn during Ramadan. And tung tung tung is the sound of a drum, used in Indonesia to wake people up for it.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "SAHUR",
     "sub": "THE MEAL BEFORE DAWN",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Tung Tung Tung Sahur (YouTube)",
+     "clip": "ml20-tg-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {

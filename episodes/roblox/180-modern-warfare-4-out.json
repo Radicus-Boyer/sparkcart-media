@@ -25,69 +25,51 @@
    "t": "Call of Duty Modern Warfare 4 is finally out.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "MODERN\nWARFARE 4",
     "sub": "OUT NOW",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Call of Duty: Modern Warfare 4 trailer, Activision",
+     "clip": "tr20-mw-a.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It launched on October 23rd, made by Infinity Ward.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "OCTOBER 23",
     "sub": "INFINITY WARD",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Call of Duty: Modern Warfare 4 trailer, Activision",
+     "clip": "tr20-mw-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "The campaign is about North Korea invading South Korea, with Price, Ghost and Gaz, and Mads Mikkelsen as a villain called the Archer.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "KOREA",
     "sub": "PRICE, GHOST, GAZ",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 200
+    "full": {
+     "credit": "Clip: Call of Duty: Modern Warfare 4 trailer, Activision",
+     "clip": "tr20-mw-c.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -127,23 +109,17 @@
    "t": "DMZ is back too. But it won't come to Game Pass for at least a year.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "DMZ IS BACK",
     "sub": "NO GAME PASS YET",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Call of Duty: Modern Warfare 4 trailer, Activision",
+     "clip": "tr20-mw-b.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {

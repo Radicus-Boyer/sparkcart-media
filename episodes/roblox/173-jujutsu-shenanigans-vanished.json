@@ -23,46 +23,34 @@
    "t": "One day in July 2025, one of Roblox's biggest fighting games just disappeared.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "IT VANISHED",
     "sub": "JULY 2025",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Jujutsu Shenanigans (Roblox gameplay)",
+     "clip": "rb20-jj-a.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "It's Jujutsu Shenanigans, a battlegrounds game made by Tze in 2022.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "JUJUTSU\nSHENANIGANS",
     "sub": "BY TZE, 2022",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 124
+    "full": {
+     "credit": "Clip: Jujutsu Shenanigans (Roblox gameplay)",
+     "clip": "rb20-jj-b.mp4",
+     "start": 0
+    },
+    "bs": 124,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -102,23 +90,17 @@
    "t": "Some said it was under review. But soon after, it came back online.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "IT CAME\nBACK",
     "sub": "UNDER REVIEW?",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Jujutsu Shenanigans (Roblox gameplay)",
+     "clip": "rb20-jj-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {

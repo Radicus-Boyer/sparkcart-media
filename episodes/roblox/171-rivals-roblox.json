@@ -27,8 +27,9 @@
     "big": "RIVALS",
     "sub": "19 BILLION VISITS",
     "full": {
-     "credit": "Image: RIVALS on Roblox",
-     "img": "pop20-rivals-a.jpg"
+     "credit": "Clip: RIVALS (Roblox gameplay)",
+     "clip": "rb20-rv-a.mp4",
+     "start": 0
     },
     "bs": 200,
     "by": 300,
@@ -59,8 +60,9 @@
     "big": "1V1 TO 5V5",
     "sub": "FIRST TO 5 ROUNDS",
     "full": {
-     "credit": "Image: RIVALS on Roblox",
-     "img": "pop20-rivals-a.jpg"
+     "credit": "Clip: RIVALS (Roblox gameplay)",
+     "clip": "rb20-rv-b.mp4",
+     "start": 0
     },
     "bs": 170,
     "by": 300,
@@ -95,8 +97,9 @@
     "big": "BEST\nSHOOTER",
     "sub": "ROBLOX AWARDS 2025",
     "full": {
-     "credit": "Image: RIVALS on Roblox",
-     "img": "pop20-rivals-b.jpg"
+     "credit": "Clip: RIVALS (Roblox gameplay)",
+     "clip": "rb20-rv-a.mp4",
+     "start": 6.0
     },
     "bs": 150,
     "by": 300,

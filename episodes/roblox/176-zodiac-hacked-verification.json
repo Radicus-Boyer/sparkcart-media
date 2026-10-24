@@ -34,46 +34,34 @@
    "t": "This number 1 level was first verified by a hacker.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "ZODIAC",
     "sub": "A HACKED VERIFY",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 200
+    "full": {
+     "credit": "Clip: Zodiac by Bianox and more (YouTube)",
+     "clip": "gd20-zd-a.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Zodiac was hosted by Bianox, and first uploaded in January 2019.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "BY BIANOX",
     "sub": "JANUARY 2019",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Zodiac by Bianox and more (YouTube)",
+     "clip": "gd20-zd-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -113,23 +101,17 @@
    "t": "So Technical verified it for real, in April 2019.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "TECHNICAL",
     "sub": "THE REAL VERIFY",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Zodiac by Bianox and more (YouTube)",
+     "clip": "gd20-zd-a.mp4",
+     "start": 6.0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {

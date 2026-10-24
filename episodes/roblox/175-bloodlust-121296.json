@@ -34,46 +34,34 @@
    "t": "This was the first Geometry Dash level to take over 100,000 attempts to verify.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "BLOODLUST",
     "sub": "100,000+ ATTEMPTS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Bloodlust by Knobbelboy and more (YouTube)",
+     "clip": "gd20-bl-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Bloodlust was hosted by Manix648, and verified by knobbelboy in February 2018.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "KNOBBELBOY",
     "sub": "FEBRUARY 2018",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Bloodlust by Knobbelboy and more (YouTube)",
+     "clip": "gd20-bl-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -100,23 +88,17 @@
    "t": "It was number 1 for over a year, until Zodiac in March 2019.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "#1 FOR\n383 DAYS",
     "sub": "UNTIL ZODIAC",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Bloodlust by Knobbelboy and more (YouTube)",
+     "clip": "gd20-bl-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {

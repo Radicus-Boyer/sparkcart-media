@@ -44,8 +44,9 @@
     "big": "JANUARY\n2024",
     "sub": "BLUSHCRUNCH STUDIO",
     "full": {
-     "credit": "Image: Dandy's World on Roblox",
-     "img": "pop20-dandy-b.jpg"
+     "credit": "Clip: Dandy's World (Roblox gameplay)",
+     "clip": "rb20-dw-a.mp4",
+     "start": 0
     },
     "bs": 150,
     "by": 300,
@@ -76,8 +77,9 @@
     "big": "GO DEEPER",
     "sub": "GARDENVIEW CENTER",
     "full": {
-     "credit": "Image: Dandy's World on Roblox",
-     "img": "pop20-dandy-a.jpg"
+     "credit": "Clip: Dandy's World (Roblox gameplay)",
+     "clip": "rb20-dw-b.mp4",
+     "start": 0
     },
     "bs": 170,
     "by": 300,

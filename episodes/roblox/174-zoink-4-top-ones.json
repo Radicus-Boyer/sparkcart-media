@@ -32,23 +32,17 @@
    "t": "Zoink has verified four number 1 levels, more than anyone else in Geometry Dash.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "4 TOP 1s",
     "sub": "ZOINK",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 200
+    "full": {
+     "credit": "Clip: Zoink, Avernus verification",
+     "clip": "gd20-av-a.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -75,23 +69,17 @@
    "t": "Then Avernus, in March 2023.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "AVERNUS",
     "sub": "MARCH 2023",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Zoink, Avernus verification",
+     "clip": "gd20-av-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -148,23 +136,17 @@
    "t": "Nobody else has verified as many.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "THE KING\nOF TOP 1s",
     "sub": "ZOINK",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 150
+    "full": {
+     "credit": "Clip: Zoink, Avernus verification",
+     "clip": "gd20-av-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
    }
   },
   {
