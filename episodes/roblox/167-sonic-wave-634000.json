@@ -1,0 +1,277 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 167,
+ "slug": "167-sonic-wave-634000",
+ "file": "167 One Player Tried Sonic Wave 634,000 Times.mp4",
+ "target": 46,
+ "accent": "#2979ff",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#82b1ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "Sunix": "Soo-nix",
+  "Muffy450": "Muffy four fifty",
+  "Cyclic": "Sigh-click"
+ },
+ "lines": [
+  {
+   "t": "One player spent about 634,000 attempts on this level.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "634,000\nATTEMPTS",
+    "sub": "SONIC WAVE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "Sonic Wave was made by Cyclic in 2015, but his first verification was hacked.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "HACKED\nVERIFY",
+    "sub": "2015",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then Sunix verified it for real in November 2016, after about 35,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SUNIX",
+    "sub": "35,000 ATTEMPTS",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "It became number 1, and stayed in the top 150 for a record 2,508 days.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 2508,
+     "fmt": "{:,.0f}",
+     "dur": 1.4
+    },
+    "sub": "DAYS IN THE TOP 150",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 180,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Even Riot died at 96 percent, and finally beat it on Halloween 2020.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "RIOT: 96%",
+    "sub": "BEAT IT IN 2020",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "And Muffy450 put about 634,000 attempts into it, the most on any level at the time.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "MUFFY450",
+    "sub": "~634,000 ATTEMPTS",
+    "bs": 180,
+    "vig": true,
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: the meme saying November 2026 is coming. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NEXT:\nNOVEMBER 2026",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 124,
+    "ss": 40,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "How many attempts would you need? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "HOW MANY\nATTEMPTS?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

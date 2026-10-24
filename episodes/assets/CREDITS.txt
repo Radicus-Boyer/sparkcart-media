@@ -153,3 +153,9 @@ pop17-pressure-*.jpg    Pressure official Roblox thumbnails (Urbanshade: Hadal D
 pop18-gag-*.jpg    Grow a Garden official Roblox thumbnails - "Image: Grow a Garden on Roblox"
 pop18-99n-*.jpg    99 Nights in the Forest official Roblox thumbnails - "Image: 99 Nights in the Forest on Roblox"
 rb18-*/gd18-*/an18-* clips    short (<=13 s) YouTube clips cut for commentary, credited on screen; deleted after rendering, not kept in the repo
+
+# Batch 19
+pop19-kbe.jpg    +1 Speed Keyboard Escape official Roblox thumbnail - "Image: +1 Speed Keyboard Escape on Roblox"
+pop19-vd.jpg    Violence District official Roblox thumbnail - "Image: Violence District on Roblox"
+pop19-mm2.jpg    Murder Mystery 2 official Roblox thumbnail - "Image: Murder Mystery 2 on Roblox"
+rb19-*/gd19-*/ml19-*/tr19-* clips    short (<=13 s) YouTube clips cut for commentary, credited on screen; deleted after rendering, not kept in the repo

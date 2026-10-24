@@ -1,0 +1,231 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 166,
+ "slug": "166-tartarus-527-days",
+ "file": "166 Tartarus Was Number 1 for 527 Days.mp4",
+ "target": 44,
+ "accent": "#ff6d00",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/SairaStencilOne-Regular.ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#ffab40",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "Tartarus": "Tar-tar-us",
+  "Dolphy": "Dolfee",
+  "Mullsy": "Mull-zee",
+  "Sid125": "Sid one two five"
+ },
+ "lines": [
+  {
+   "t": "This level was the hardest in Geometry Dash for 527 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "TARTARUS",
+    "sub": "#1 FOR 527 DAYS",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "Tartarus was hosted by Riot, and verified by Dolphy in January 2020, after 61,742 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 61742,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "DOLPHY'S ATTEMPTS",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 170,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "It became number 1 in February 2020, and stayed there until Slaughterhouse and Firework in November 2021.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "FEB 2020 →\nNOV 2021",
+    "sub": "TOP 1",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "Mullsy was the first victor. And Sid125 once died at 98 percent.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "98%",
+    "sub": "SID125'S FAIL",
+    "bc": "#ffffff",
+    "bs": 240,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It's also the first part of a trilogy, followed by Acheron.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "PART 1",
+    "sub": "THEN ACHERON",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "Next: the level one player tried 634,000 times. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: SONIC\nWAVE",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Tartarus? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

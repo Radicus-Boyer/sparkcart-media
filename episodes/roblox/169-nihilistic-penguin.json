@@ -1,0 +1,241 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 169,
+ "slug": "169-nihilistic-penguin",
+ "file": "169 Why Everyone Loves the Nihilistic Penguin.mp4",
+ "target": 44,
+ "accent": "#b0bec5",
+ "voice": "am_michael",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Herzog": "Hair-tsog"
+ },
+ "lines": [
+  {
+   "t": "This penguin walking away from everything became one of the biggest memes of 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE\nPENGUIN",
+    "sub": "WALKING AWAY",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "It's from a 2007 documentary by Werner Herzog, called Encounters at the End of the World.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "2007",
+    "sub": "WERNER HERZOG",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 220
+   }
+  },
+  {
+   "t": "One penguin leaves its group, and heads for the mountains, about 70 kilometers inland.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "70 KM\nINLAND",
+    "sub": "ALONE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "Herzog calls it a journey toward certain death.",
+   "sc": {
+    "bg": "night",
+    "ground": "snow",
+    "big": "CERTAIN\nDEATH",
+    "sub": "HERZOG'S WORDS",
+    "bs": 170,
+    "fx": [
+     "sparkle"
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In January 2026 the clip went viral again, as a symbol of quitting your job, or walking away from the pack.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "snow",
+    "big": "WALK AWAY",
+    "sub": "FROM THE PACK",
+    "bs": 180,
+    "ic": [
+     {
+      "n": "globe",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "walk",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "walk",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: GTA 6 comes out in 26 days. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "NEXT: GTA 6",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 150,
+    "ss": 40,
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Would you follow the penguin? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "snow",
+    "big": "WOULD YOU\nFOLLOW IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE"
+}

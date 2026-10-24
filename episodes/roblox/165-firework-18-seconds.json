@@ -1,0 +1,225 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 165,
+ "slug": "165-firework-18-seconds",
+ "file": "165 Firework Was Number 1 for 18 Seconds.mp4",
+ "target": 44,
+ "accent": "#ff3d00",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ff9e80",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash level was number 1 for just 18 seconds.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 FOR\n18 SECONDS",
+    "sub": "FIREWORK",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "Firework was verified by Trick in October 2021, after about 234,000 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 234000,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "When the Demonlist placed it, Firework went in at number 1.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NEW #1",
+    "sub": "OCTOBER 2021",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 200
+   }
+  },
+  {
+   "t": "But Slaughterhouse was placed right after, and pushed it down. 18 seconds, the shortest reign ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "18 SECONDS",
+    "sub": "SHORTEST #1 EVER",
+    "bs": 180,
+    "vig": true,
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Trick went on to be the first to beat Abyss of Darkness and Tidal Wave.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "FIRST\nVICTOR",
+    "sub": "ABYSS + TIDAL WAVE",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Next: the level that stayed number 1 for 527 days. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: TARTARUS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Firework? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

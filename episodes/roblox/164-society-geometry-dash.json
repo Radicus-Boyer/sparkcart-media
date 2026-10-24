@@ -1,0 +1,265 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 164,
+ "slug": "164-society-geometry-dash",
+ "file": "164 Society Took 75,000 Attempts.mp4",
+ "target": 46,
+ "accent": "#00e5ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#18ffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "Neomarbilan": "Neo mar bilan"
+ },
+ "lines": [
+  {
+   "t": "This level took 75,000 attempts, and it ended a nine month reign at number 1.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SOCIETY",
+    "sub": "75,000 ATTEMPTS",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "Society was hosted by Neomarbilan, and verified by wPopoff in June 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "WPOPOFF",
+    "sub": "JUNE 2026",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "It became number 1 on the Demonlist, passing Thinking Space 2.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NEW #1",
+    "sub": "PASSED THINKING SPACE II",
+    "bs": 180,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It was the first top 1 verified with Click Between Frames, a mod for more precise clicks.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "FIRST WITH\nCBF",
+    "sub": "CLICK BETWEEN FRAMES",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Then Zoink beat it, but admitted to 17 hours of practice on a harder version first, and fans argued about it.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "17 HOURS",
+    "sub": "OF PRE-PRACTICE",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "clock",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In October, Doggie's Grief took its place.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "GRIEF\nTOOK OVER",
+    "sub": "OCTOBER 2026",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "Next: the level that was number 1 for 18 seconds. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: #1 FOR\n18 SECONDS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Society? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
