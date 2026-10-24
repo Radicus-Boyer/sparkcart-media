@@ -1,0 +1,241 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 178,
+ "slug": "178-tung-tung-tung-sahur",
+ "file": "178 Where Tung Tung Tung Sahur Came From.mp4",
+ "target": 40,
+ "accent": "#ff6d00",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Sahur": "Sa-hoor",
+  "Patapim": "Pata-pim"
+ },
+ "lines": [
+  {
+   "t": "Tung Tung Tung Sahur. Everyone knows him, but where did he come from?",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "TUNG TUNG\nTUNG SAHUR",
+    "sub": "WHERE DID HE COME FROM?",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "The first video was posted on TikTok on February 28th, 2025, during Ramadan.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "FEB 28,\n2025",
+    "sub": "THE FIRST VIDEO",
+    "bs": 170,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "calendar",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Sahur is the meal Muslims eat before dawn during Ramadan. And tung tung tung is the sound of a drum, used in Indonesia to wake people up for it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "SAHUR",
+    "sub": "THE MEAL BEFORE DAWN",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "The video got over 42 million views.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 42.5,
+     "fmt": "{:.1f}M",
+     "dur": 1.4
+    },
+    "sub": "VIEWS",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 220,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Then it joined the Italian brainrot wave, with fan art and battles against Brr Brr Patapim.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "VS BRR BRR\nPATAPIM",
+    "sub": "THE BRAINROT WARS",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: the GTA meme that made Lamar a legend. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "NEXT: LAMAR\nROASTS FRANKLIN",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 124,
+    "ss": 40,
+    "ic": [
+     {
+      "n": "fire",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Tung Tung or Patapim? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "TUNG TUNG OR\nPATAPIM?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE"
+}

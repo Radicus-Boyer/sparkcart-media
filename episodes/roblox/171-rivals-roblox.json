@@ -1,0 +1,180 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 171,
+ "slug": "171-rivals-roblox",
+ "file": "171 RIVALS Has Almost 19 Billion Visits.mp4",
+ "target": 36,
+ "accent": "#ff1744",
+ "voice": "am_liam",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Nosniy": "Noz-nee",
+  "RIVALS": "Rivals"
+ },
+ "lines": [
+  {
+   "t": "This Roblox shooter has almost 19 billion visits, and 95 million favorites.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "RIVALS",
+    "sub": "19 BILLION VISITS",
+    "full": {
+     "credit": "Image: RIVALS on Roblox",
+     "img": "pop20-rivals-a.jpg"
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "RIVALS is made by Nosniy Games, and came out in June 2024.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "JUNE 2024",
+    "sub": "BY NOSNIY GAMES",
+    "full": {
+     "credit": "Image: RIVALS on Roblox",
+     "img": "pop20-rivals-b.jpg"
+    },
+    "bs": 160,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You fight in duels, from 1 versus 1 up to 5 versus 5. First team to win 5 rounds wins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "1V1 TO 5V5",
+    "sub": "FIRST TO 5 ROUNDS",
+    "full": {
+     "credit": "Image: RIVALS on Roblox",
+     "img": "pop20-rivals-a.jpg"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "At its peak, almost a million people were playing at once.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 967342,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "PEAK PLAYERS",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "It even won Best Shooter at the Roblox Innovation Awards.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BEST\nSHOOTER",
+    "sub": "ROBLOX AWARDS 2025",
+    "full": {
+     "credit": "Image: RIVALS on Roblox",
+     "img": "pop20-rivals-b.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Next: the Roblox horror game full of creepy cartoon mascots. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: DANDY'S\nWORLD",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: Dandy's World on Roblox",
+     "img": "pop20-dandy-a.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "What's your main weapon? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "YOUR MAIN\nWEAPON?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

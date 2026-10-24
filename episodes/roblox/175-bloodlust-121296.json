@@ -1,0 +1,231 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 175,
+ "slug": "175-bloodlust-121296",
+ "file": "175 Bloodlust Took 121,296 Attempts.mp4",
+ "target": 36,
+ "accent": "#d50000",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "Manix648": "Manix six four eight",
+  "knobbelboy": "knobble boy"
+ },
+ "lines": [
+  {
+   "t": "This was the first Geometry Dash level to take over 100,000 attempts to verify.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BLOODLUST",
+    "sub": "100,000+ ATTEMPTS",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "Bloodlust was hosted by Manix648, and verified by knobbelboy in February 2018.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "KNOBBELBOY",
+    "sub": "FEBRUARY 2018",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "It took him 121,296 attempts. That number is even the level's password.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 121296,
+     "fmt": "{:,.0f}",
+     "dur": 1.6
+    },
+    "sub": "ALSO THE PASSWORD",
+    "bg": "red",
+    "ground": "dark",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "vig": true
+   }
+  },
+  {
+   "t": "It was number 1 for over a year, until Zodiac in March 2019.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 FOR\n383 DAYS",
+    "sub": "UNTIL ZODIAC",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "And its verification has over 12 million views, the most of any Demonlist verification on YouTube.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "12 MILLION\nVIEWS",
+    "sub": "MOST-VIEWED VERIFICATION",
+    "rays": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: the number 1 level whose first verification was hacked. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: ZODIAC",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Could you beat Bloodlust? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

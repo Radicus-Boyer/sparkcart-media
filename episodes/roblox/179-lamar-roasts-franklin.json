@@ -1,0 +1,251 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 179,
+ "slug": "179-lamar-roasts-franklin",
+ "file": "179 Why Lamar Roasting Franklin Became a Meme.mp4",
+ "target": 39,
+ "accent": "#76ff03",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Fonteno": "Fon-tay-no"
+ },
+ "lines": [
+  {
+   "t": "This GTA 5 cutscene became one of the biggest gaming memes ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "LAMAR ROASTS\nFRANKLIN",
+    "sub": "GTA 5",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 140
+   }
+  },
+  {
+   "t": "In it, Lamar roasts Franklin's haircut, nonstop, while Franklin just takes it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE HAIRCUT",
+    "sub": "ROASTED",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 180
+   }
+  },
+  {
+   "t": "GTA 5 came out in 2013, but the meme only blew up in May 2020, with a remix using SpongeBob's text to speech voice.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "MAY 2020",
+    "sub": "THE SPONGEBOB REMIX",
+    "rays": "#ffffff",
+    "bs": 200,
+    "ic": [
+     {
+      "n": "tv",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then the real voice actors, Slink Johnson and Shawn Fonteno, acted it out in real life.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE REAL\nACTORS",
+    "sub": "SLINK + SHAWN",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "And Rockstar even added a new roast to GTA Online.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ROAST 2.0",
+    "sub": "GTA ONLINE",
+    "bs": 200,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "fire",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: Modern Warfare 4 is finally out. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NEXT: MODERN\nWARFARE 4",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bs": 124,
+    "ss": 40,
+    "ic": [
+     {
+      "n": "gun",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Will Lamar be in GTA 6? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "sunset",
+    "ground": "grass",
+    "big": "LAMAR IN\nGTA 6?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE"
+}

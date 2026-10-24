@@ -1,0 +1,234 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 173,
+ "slug": "173-jujutsu-shenanigans-vanished",
+ "file": "173 The Roblox Game That Vanished Overnight.mp4",
+ "target": 36,
+ "accent": "#7c4dff",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#b388ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Tze": "Tsay"
+ },
+ "lines": [
+  {
+   "t": "One day in July 2025, one of Roblox's biggest fighting games just disappeared.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "IT VANISHED",
+    "sub": "JULY 2025",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "It's Jujutsu Shenanigans, a battlegrounds game made by Tze in 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "JUJUTSU\nSHENANIGANS",
+    "sub": "BY TZE, 2022",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 124
+   }
+  },
+  {
+   "t": "On July 21st, it went offline with no warning, and players had no idea why.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "OFFLINE",
+    "sub": "JULY 21, 2025",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Some said it was under review. But soon after, it came back online.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "IT CAME\nBACK",
+    "sub": "UNDER REVIEW?",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "Today it has over 7.7 billion visits, and almost 300,000 people playing right now.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 291657,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "PLAYING RIGHT NOW",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "jump",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.4,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: the Geometry Dash player who verified 4 number 1 levels. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: ZOINK",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-47.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Who's your main? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "WHO'S YOUR\nMAIN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

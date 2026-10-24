@@ -1,0 +1,225 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 180,
+ "slug": "180-modern-warfare-4-out",
+ "file": "180 Modern Warfare 4 Is Out Now.mp4",
+ "target": 37,
+ "accent": "#ffab00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ffd740",
+  "stroke": 8
+ },
+ "pron": {
+  "Mikkelsen": "Mick-el-sen",
+  "DMZ": "D M Z",
+  "Gaz": "Gaz"
+ },
+ "lines": [
+  {
+   "t": "Call of Duty Modern Warfare 4 is finally out.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "MODERN\nWARFARE 4",
+    "sub": "OUT NOW",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "It launched on October 23rd, made by Infinity Ward.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "OCTOBER 23",
+    "sub": "INFINITY WARD",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "The campaign is about North Korea invading South Korea, with Price, Ghost and Gaz, and Mads Mikkelsen as a villain called the Archer.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "KOREA",
+    "sub": "PRICE, GHOST, GAZ",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 200
+   }
+  },
+  {
+   "t": "It's the first Call of Duty on Nintendo Switch 2 on day one.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "SWITCH 2",
+    "sub": "DAY ONE",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "controller",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "cheer",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "DMZ is back too. But it won't come to Game Pass for at least a year.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DMZ IS BACK",
+    "sub": "NO GAME PASS YET",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 150
+   }
+  },
+  {
+   "t": "Next: the Roblox shooter with 19 billion visits. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: RIVALS",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Image: RIVALS on Roblox",
+     "img": "pop20-rivals-a.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Are you playing it? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "PLAYING IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "CALL OF DUTY",
+ "mood": "spooky"
+}

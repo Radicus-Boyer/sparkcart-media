@@ -1,0 +1,243 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 176,
+ "slug": "176-zodiac-hacked-verification",
+ "file": "176 Zodiac's First Verification Was Hacked.mp4",
+ "target": 33,
+ "accent": "#651fff",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/SairaStencilOne-Regular.ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#b388ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Acheron": "Ack-er-on",
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "ryamu": "rye-ah-moo",
+  "Wolvez": "Wolves",
+  "paqoe": "pa-co",
+  "clubstep": "club step",
+  "CairoX": "Cairo X",
+  "DrCuber": "Doctor Cuber",
+  "wPopoff": "W Popoff",
+  "Bianox": "Bee-a-nox",
+  "xander": "Zander"
+ },
+ "lines": [
+  {
+   "t": "This number 1 level was first verified by a hacker.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "ZODIAC",
+    "sub": "A HACKED VERIFY",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 200
+   }
+  },
+  {
+   "t": "Zodiac was hosted by Bianox, and first uploaded in January 2019.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "BY BIANOX",
+    "sub": "JANUARY 2019",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "But the player who verified it, xander, later admitted he hacked it.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "HE ADMITTED\nIT",
+    "sub": "XANDER",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "So Technical verified it for real, in April 2019.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "TECHNICAL",
+    "sub": "THE REAL VERIFY",
+    "vig": true,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "bs": 170
+   }
+  },
+  {
+   "t": "It took the number 1 spot from Bloodlust, and held it for about 11 months, until Tartarus.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "#1 FOR\n11 MONTHS",
+    "sub": "UNTIL TARTARUS",
+    "bs": 150,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Next: the secret top 1 that took 249,109 attempts. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEXT: NULLSCAPES",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "full": {
+     "credit": "Clip: Doggie",
+     "img": "pop15-gd-20.jpg"
+    },
+    "bs": 104,
+    "ss": 40,
+    "by": 300
+   }
+  },
+  {
+   "t": "Should hacked levels be removed? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "REMOVE\nHACKED LEVELS?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,198 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 172,
+ "slug": "172-dandys-world-roblox",
+ "file": "172 Dandy's World Is Roblox's Creepiest Cartoon.mp4",
+ "target": 37,
+ "accent": "#ffd600",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 104,
+  "upper": false,
+  "fill": "#ffffff",
+  "hi": "#ffff00",
+  "stroke": 8
+ },
+ "pron": {
+  "BlushCrunch": "Blush Crunch"
+ },
+ "lines": [
+  {
+   "t": "This cute cartoon flower is actually the villain of a Roblox horror game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MEET DANDY",
+    "sub": "DANDY'S WORLD",
+    "full": {
+     "credit": "Image: Dandy's World on Roblox",
+     "img": "pop20-dandy-a.jpg"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Dandy's World is made by BlushCrunch Studio, and came out in January 2024.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "JANUARY\n2024",
+    "sub": "BLUSHCRUNCH STUDIO",
+    "full": {
+     "credit": "Image: Dandy's World on Roblox",
+     "img": "pop20-dandy-b.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You team up as collectible cartoon Toons, each with their own stats and abilities.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "COLLECT\nTOONS",
+    "sub": "EACH ONE IS DIFFERENT",
+    "full": {
+     "credit": "Image: Dandy's World on Roblox",
+     "img": "pop20-dandy-b.jpg"
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then you finish machines and go deeper into the Gardenview Center, while monsters chase you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "GO DEEPER",
+    "sub": "GARDENVIEW CENTER",
+    "full": {
+     "credit": "Image: Dandy's World on Roblox",
+     "img": "pop20-dandy-a.jpg"
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In March 2026, it hit 607,000 players at once, and it now has 7.7 billion visits.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 607000,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "PEAK PLAYERS",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Next: the Roblox fighting game that vanished overnight. Subscribe so you don't miss it.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "NEXT: IT\nVANISHED",
+    "sub": "SUBSCRIBE SO YOU DON'T MISS IT",
+    "bc": "#ffffff",
+    "bs": 124,
+    "ss": 40,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Who's your favorite Toon? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "FAVORITE\nTOON?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}
