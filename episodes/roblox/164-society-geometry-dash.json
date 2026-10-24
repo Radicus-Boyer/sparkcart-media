@@ -33,46 +33,34 @@
    "t": "This level took 75,000 attempts, and it ended a nine month reign at number 1.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "SOCIETY",
     "sub": "75,000 ATTEMPTS",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 180
+    "full": {
+     "credit": "Clip: Society by Neomarbilan and more (YouTube)",
+     "clip": "gd19-soc-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
    }
   },
   {
    "t": "Society was hosted by Neomarbilan, and verified by wPopoff in June 2026.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "WPOPOFF",
     "sub": "JUNE 2026",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 170
+    "full": {
+     "credit": "Clip: Society by Neomarbilan and more (YouTube)",
+     "clip": "gd19-soc-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -111,23 +99,17 @@
    "t": "It was the first top 1 verified with Click Between Frames, a mod for more precise clicks.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "FIRST WITH\nCBF",
     "sub": "CLICK BETWEEN FRAMES",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Society by Neomarbilan and more (YouTube)",
+     "clip": "gd19-soc-a.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
@@ -167,23 +149,17 @@
    "t": "In October, Doggie's Grief took its place.",
    "sc": {
     "bg": "night",
-    "ground": "stone",
+    "ground": "dark",
     "big": "GRIEF\nTOOK OVER",
     "sub": "OCTOBER 2026",
-    "vig": true,
-    "fx": [
-     "sparkle"
-    ],
-    "ic": [
-     {
-      "n": "star",
-      "x": 860,
-      "y": 820,
-      "s": 150,
-      "a": "spin"
-     }
-    ],
-    "bs": 140
+    "full": {
+     "credit": "Clip: Society by Neomarbilan and more (YouTube)",
+     "clip": "gd19-soc-b.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
    }
   },
   {
