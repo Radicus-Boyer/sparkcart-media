@@ -805,6 +805,13 @@ def load(path):
     global ST
     ep = json.load(open(path))
     ep.setdefault("slug", os.path.splitext(os.path.basename(path))[0])
+    # User rule (Oct 24, 2026): never tell viewers which video comes next. Drop any "Next: ..." teaser line.
+    kept = [l for l in ep["lines"] if not l.get("say", l["t"]).strip().lower().startswith("next")]
+    if len(kept) != len(ep["lines"]):
+        print(f"  dropped {len(ep['lines']) - len(kept)} 'Next:' teaser line(s) from {ep['slug']}")
+        ep["lines"] = kept
+        if ep.get("target"):
+            ep["target"] = max(20, ep["target"] - 5)
     ST = PRESETS[ep.get("preset", "roblox")]
     return ep
 
