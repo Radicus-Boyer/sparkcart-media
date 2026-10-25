@@ -87,7 +87,7 @@ function draw(){
   <p><button class="b g" onclick="navigator.clipboard.writeText($('#rtxt').value)">Copy</button></p></div>`;
  }
  if(tab=='settings'){
-  const f=[['timezone','Timezone'],['postiz_url','Postiz address (local)'],['compose_dir','Postiz docker folder'],['ngrok_cmd','ngrok command'],['postiz_api_key','Postiz API key'],['youtube_id','YouTube channel ID'],['clips_dir','Clips folder'],['videos_dir','Finished videos folder'],['parallel','Videos rendered at once']];
+  const f=[['timezone','Timezone'],['postiz_url','Postiz address (local)'],['compose_dir','Postiz docker folder'],['ngrok_cmd','ngrok command'],['docker_desktop','Docker Desktop (program or shortcut)'],['postiz_api_key','Postiz API key'],['youtube_id','YouTube channel ID'],['clips_dir','Clips folder'],['videos_dir','Finished videos folder'],['parallel','Videos rendered at once']];
   m.innerHTML=`<div class="card"><h2>Settings</h2><div style="display:grid;gap:10px">${f.map(x=>`<label>${x[1]}<input id="c_${x[0]}" value="${C[x[0]]??''}" ${x[0]=='postiz_api_key'?'type="password"':''}></label>`).join('')}</div>
   <p><button class="b" onclick="saveCfg()">Save</button></p><p class="mu">Postiz API key: open Postiz, Settings, Developers, Public API.</p></div>`;
  }

@@ -36,6 +36,7 @@ DEFAULTS = {
     "clips_dir": r"Z:\claudeprojects\ffmpegclips" if WIN else os.path.join(ROOT, "build", "clips_dl"),
     "videos_dir": r"Z:\claudeprojects\roblox vids" if WIN else os.path.join(ROOT, "build", "videos_copy"),
     "start_time": "14:00", "gap_min": 25, "gap_max": 45, "comments": False,
+    "docker_desktop": os.path.join(os.environ.get("APPDATA", ""), "Microsoft", "Windows", "Start Menu", "Docker Desktop.lnk") if WIN else "",
     "parallel": max(1, (os.cpu_count() or 2) // 2),
 }
 LOCK = threading.Lock()
@@ -152,7 +153,7 @@ def status():
 # ---------------------------------------------------------------- stack (Docker + Postiz + ngrok)
 def docker_desktop_exe():
     """Find Docker Desktop.exe: usual folders, next to docker.exe on PATH, then the Start Menu app list."""
-    cands = []
+    cands = [cfg().get("docker_desktop") or ""]
     # Start Menu shortcuts first (this PC: %APPDATA%\Microsoft\Windows\Start Menu\Docker Desktop.lnk)
     for var in ("APPDATA", "ProgramData"):
         b = os.environ.get(var)
@@ -172,7 +173,7 @@ def docker_desktop_exe():
             cands.append(os.path.join(up, "Docker Desktop.exe"))
             up = os.path.dirname(up)
     for p in cands:
-        if os.path.exists(p):
+        if p and os.path.exists(p):
             return p
     rc, out = quick(["powershell", "-NoProfile", "-Command",
                      "(Get-StartApps | Where-Object { $_.Name -like 'Docker Desktop*' } | Select-Object -First 1).AppID"], timeout=20)
