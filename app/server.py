@@ -288,6 +288,40 @@ def job_clips(job, bn, auto_render):
         job_render(job, bn, None)
 
 
+def job_one_clip(job, name, url, start, length):
+    """Manual clip: download start..start+length (+2s pad) of a video and cut it to <length> seconds."""
+    c = cfg()
+    raw, cut = os.path.join(c["clips_dir"], "raw"), os.path.join(c["clips_dir"], "cut")
+    os.makedirs(raw, exist_ok=True)
+    os.makedirs(cut, exist_ok=True)
+    name = re.sub(r"[^\w\-]+", "-", name).strip("-") or "clip"
+    for old in glob.glob(os.path.join(raw, name + ".*")):
+        os.remove(old)
+    cmd = ["yt-dlp", "-f", "bv*[height<=1080]+ba/b", "--merge-output-format", "mp4", "-o", os.path.join(raw, name + ".%(ext)s"),
+           "--no-playlist", "--download-sections", f"*{start}-{float(start) + float(length) + 2}"]
+    run_cmd(job, cmd + [url])
+    rawf = next(iter(glob.glob(os.path.join(raw, name + ".*"))), None)
+    if not rawf:
+        job.say("Download failed.")
+        job.status = "failed"
+        return
+    out = os.path.join(cut, name + ".mp4")
+    if run_cmd(job, ["ffmpeg", "-y", "-loglevel", "error", "-t", str(length), "-i", rawf, "-an", "-vf", "scale=1280:-2,fps=30",
+                     "-c:v", "libx264", "-crf", "20", out]) == 0:
+        shutil.copy(out, f"{ROOT}/episodes/assets/{name}.mp4")
+        job.say(f"Clip ready: {name}.mp4 (in {cut} and episodes/assets)")
+    else:
+        job.status = "failed"
+
+
+def job_all_clips(job):
+    for b in load_batches():
+        if any(not x["have"] for x in b["clips"]):
+            job.say(f"--- batch {b['batch']}")
+            job_clips(job, b["batch"], False)
+    job.say("Finished.")
+
+
 def clean_clips(bn):
     """Remove this batch's clip files from the repo assets and the download folder (they're temporary)."""
     c = cfg()
@@ -436,6 +470,9 @@ class H(BaseHTTPRequestHandler):
             return self.send(c)
         if p == "/api/batches":
             return self.send(load_batches())
+        if p == "/api/cliplist":
+            d = os.path.join(cfg()["clips_dir"], "cut")
+            return self.send(sorted(os.listdir(d)) if os.path.isdir(d) else [])
         if p == "/api/jobs":
             return self.send([{"id": j.id, "name": j.name, "status": j.status, "log": j.log[-60:], "age": int(time.time() - j.t0)}
                               for j in sorted(JOBS.values(), key=lambda j: -j.t0)[:6]])
@@ -459,6 +496,16 @@ class H(BaseHTTPRequestHandler):
                 return self.send({"job": start_job("Update from GitHub", job_update).id})
             if p == "/api/clips":
                 return self.send({"job": start_job(f"Get clips, batch {d['batch']}", job_clips, d["batch"], d.get("render", True)).id})
+            if p == "/api/clip":
+                return self.send({"job": start_job(f"Clip {d['name']}", job_one_clip, d["name"], d["url"], d.get("start", 0), d.get("len", 13)).id})
+            if p == "/api/clips/all":
+                return self.send({"job": start_job("Get all missing clips", job_all_clips).id})
+            if p == "/api/openclips":
+                folder = cfg()["clips_dir"]
+                os.makedirs(folder, exist_ok=True)
+                if WIN:
+                    os.startfile(folder)
+                return self.send({"ok": True})
             if p == "/api/render":
                 return self.send({"job": start_job(f"Render batch {d['batch']}", job_render, d["batch"], d.get("only")).id})
             if p == "/api/publish":

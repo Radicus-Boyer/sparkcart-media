@@ -34,7 +34,7 @@ table{width:100%;border-collapse:collapse}td,th{padding:6px 8px;border-bottom:1p
 <script>
 const $=s=>document.querySelector(s), api=(p,b)=>fetch('/api/'+p,b?{method:'POST',body:JSON.stringify(b)}:{}).then(r=>r.json());
 let tab='home',S={},B=[],C={},busy=false;
-const tabs=[['home','Home'],['batches','Batches'],['request','New batch'],['settings','Settings']];
+const tabs=[['home','Home'],['batches','Batches'],['clips','Clips'],['request','New batch'],['settings','Settings']];
 $('#nav').innerHTML=tabs.map(t=>`<button data-t="${t[0]}">${t[1]}</button>`).join('');
 $('#nav').onclick=e=>{if(e.target.dataset.t){tab=e.target.dataset.t;draw()}};
 const dot=ok=>`<span class="dot ${ok?'ok':''}"></span>`;
@@ -67,6 +67,17 @@ function draw(){
     <button class="b g" onclick="sched(${b.batch},true)">Preview times</button><button class="b" onclick="sched(${b.batch},false)">Schedule to Postiz</button></div></div>`}).join('')
    :`<div class="card">No batches yet. Ask Claude for a batch, then press <b>Update scripts from GitHub</b> on Home.</div>`;
  }
+ if(tab=='clips'){
+  m.innerHTML=`<div class="card"><h2>Download a clip</h2><p class="mu" style="margin:0 0 10px">Paste a video link, say where the clip starts and how long it is. It downloads just that part and cuts it.</p>
+  <div class="row" style="align-items:end"><label style="flex:1;min-width:260px">Video link<input id="cl_url" style="width:100%"></label>
+  <label>Name<input id="cl_name" placeholder="rb21-rivals" style="width:140px"></label>
+  <label>Start (sec)<input id="cl_start" type="number" value="0" style="width:90px"></label>
+  <label>Length (sec)<input id="cl_len" type="number" value="13" style="width:90px"></label>
+  <button class="b" onclick="oneClip()">Download clip</button></div></div>
+  <div class="card"><h2>Batch clips</h2><div class="row"><button class="b" onclick="post('clips/all',{})">Download all missing clips for every batch</button>
+  <button class="b g" onclick="post('openclips',{})">Open clips folder</button></div>
+  <p class="mu">Finished clips: ${(window.CL||[]).join(', ')||'none yet'}</p></div>`;
+ }
  if(tab=='request'){
   m.innerHTML=`<div class="card"><h2>Ask Claude for a new batch</h2><p class="mu" style="margin:0 0 10px">Fill this in, copy it, paste it into the chat. Claude writes the scripts and clip list; you press Update and the batch appears.</p>
   <div class="row">${[['Roblox',4],['Geometry Dash',3],['Meme lore',2],['Trending',1]].map(x=>`<label>${x[0]}<input class="rq" data-k="${x[0]}" type="number" min="0" style="width:90px" value="${x[1]}"></label>`).join('')}
@@ -81,13 +92,14 @@ function draw(){
   <p><button class="b" onclick="saveCfg()">Save</button></p><p class="mu">Postiz API key: open Postiz, Settings, Developers, Public API.</p></div>`;
  }
 }
+function oneClip(){const g=i=>$('#cl_'+i).value;if(!g('url')||!g('name'))return alert('Add a link and a name');post('clip',{url:g('url'),name:g('name'),start:+g('start'),len:+g('len')})}
 function nextStart(){const d=new Date();d.setDate(d.getDate()+1);const [h,mi]=(C.start_time||'14:00').split(':');d.setHours(+h,+mi,0,0);const p=n=>String(n).padStart(2,'0');return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}T${p(d.getHours())}:${p(d.getMinutes())}`}
 function sched(n,dry){const v=$('#st'+n).value.replace('T',' ');post('schedule',{batch:n,start:v,gap_min:+$('#g1'+n).value,gap_max:+$('#g2'+n).value,dry})}
 async function saveCfg(){const o={};document.querySelectorAll('[id^=c_]').forEach(i=>{let v=i.value;o[i.id.slice(2)]=i.id=='c_parallel'?+v:v});await api('config',o);C=await api('config');alert('Saved')}
 function mkReq(){const q=[...document.querySelectorAll('.rq')].filter(i=>+i.value).map(i=>`${i.value} ${i.dataset.k}`).join(', ');
  $('#rtxt').value=`Make a new batch: ${q}. Each video about ${$('#rlen').value} seconds. Schedule starting ${$('#rst').value.replace('T',' ')} (${C.timezone}). Same style and scripts as before, no repeats, no "Next:" teasers. Put it in batches/ so SparkCart Studio can pick it up.`}
 async function poll(){
- S=await api('status');if(tab=='home')draw();
+ S=await api('status');if(tab=='clips'){window.CL=await api('cliplist')}if(tab=='home')draw();
  const J=await api('jobs');
  $('#log').innerHTML=J.length?J.map(j=>`<div class="j"><span class="n">${j.name}</span> <span class="${j.status=='failed'?'f':'mu'}">${j.status} (${j.age}s)</span><br>${j.log.slice(-8).map(l=>l.replace(/</g,'&lt;')).join('<br>')}</div>`).join(''):'<span class="mu">Activity will show here.</span>';
  if(tab=='batches'){const nb=await api('batches');if(JSON.stringify(nb)!=JSON.stringify(B)){B=nb;if(!document.activeElement.matches('input'))draw()}}
