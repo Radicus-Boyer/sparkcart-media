@@ -200,12 +200,16 @@ def job_start_stack(job):
         else:
             job.say("ngrok not found; skipping (Postiz still works locally, YouTube links need ngrok).")
     job.say("Waiting for Postiz...")
-    for _ in range(60):
-        if http_up(c["postiz_url"]):
-            job.say("Postiz is up.")
-            return
-        time.sleep(3)
-    job.say("Postiz did not answer in 3 minutes.")
+    for attempt in range(2):
+        for _ in range(40):
+            if http_up(c["postiz_url"]):
+                job.say("Postiz is up.")
+                return
+            time.sleep(3)
+        if attempt == 0:
+            job.say("Postiz is running but not answering - restarting its container...")
+            run_cmd(job, ["docker", "compose", "restart", "postiz"], cwd=c["compose_dir"])
+    job.say("Postiz did not answer. Check the postiz container logs in Docker Desktop.")
     job.status = "failed"
 
 
