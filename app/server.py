@@ -529,6 +529,9 @@ class H(BaseHTTPRequestHandler):
                 return self.send({"job": start_job("Start Docker + Postiz", job_start_stack).id})
             if p == "/api/stack/stop":
                 return self.send({"job": start_job("Stop Postiz", job_stop_stack).id})
+            if p == "/api/restart":
+                threading.Timer(1, lambda: os._exit(3)).start()
+                return self.send({"ok": True})
             if p == "/api/update":
                 return self.send({"job": start_job("Update from GitHub", job_update).id})
             if p == "/api/clips":

@@ -45,7 +45,7 @@ function draw(){
  if(tab=='home'){
   const L=[['Docker',S.docker],['Postiz',S.postiz],['ngrok tunnel',S.ngrok],['ffmpeg',S.ffmpeg],['yt-dlp',S.ytdlp],['Voice model',S.models],['Render engine',S.engine],['Postiz API key',S.api_key]];
   m.innerHTML=`<div class="card"><h2>One-button start</h2><p class="mu" style="margin:0 0 10px">Starts Docker Desktop, the Postiz containers and the ngrok tunnel, then waits until Postiz answers.</p>
-  <div class="row"><button class="b" onclick="post('stack/start',{})">Start Docker + Postiz</button><button class="b g" onclick="post('stack/stop',{})">Stop Postiz</button><button class="b g" onclick="post('update',{})">Update scripts from GitHub</button></div></div>
+  <div class="row"><button class="b" onclick="post('stack/start',{})">Start Docker + Postiz</button><button class="b g" onclick="post('stack/stop',{})">Stop Postiz</button><button class="b g" onclick="post('update',{})">Update scripts from GitHub</button><button class="b g" onclick="post('restart',{});setTimeout(()=>location.reload(),4000)">Restart app</button></div></div>
   <div class="card"><h2>Status</h2><div class="lights">${L.map(l=>`<div class="l">${dot(l[1])}${l[0]}</div>`).join('')}</div></div>`;
  }
  if(tab=='batches'){
