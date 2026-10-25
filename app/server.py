@@ -507,6 +507,11 @@ class H(BaseHTTPRequestHandler):
             return self.send(c)
         if p == "/api/batches":
             return self.send(load_batches())
+        if p == "/api/diag":
+            c = cfg()
+            return self.send({"ps": quick(["docker", "ps", "-a", "--format", "{{.Names}}|{{.Status}}|{{.Ports}}"], timeout=20)[1],
+                              "logs": quick(["docker", "logs", "--tail", "60", "postiz"], timeout=30)[1][-6000:],
+                              "compose": quick(["docker", "compose", "config", "--format", "json"], cwd=c["compose_dir"], timeout=30)[1][:200]})
         if p == "/api/cliplist":
             d = os.path.join(cfg()["clips_dir"], "cut")
             return self.send(sorted(os.listdir(d)) if os.path.isdir(d) else [])
