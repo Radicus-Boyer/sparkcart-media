@@ -16,7 +16,13 @@ BIN = os.path.join(APP, "bin")
 WIN = os.name == "nt"
 sys.path.insert(0, ROOT + "/tools")
 sys.path.insert(0, APP)
-os.environ["PATH"] = BIN + os.pathsep + os.environ.get("PATH", "")
+_extra = [BIN]
+if WIN:
+    import glob as _g
+    _la = os.environ.get("LOCALAPPDATA", "")
+    _extra += [os.path.join(_la, "Microsoft", "WinGet", "Links"), r"C:\Program Files\Git\cmd"]
+    _extra += _g.glob(os.path.join(_la, "Microsoft", "WinGet", "Packages", "Gyan.FFmpeg*", "ffmpeg-*", "bin"))
+os.environ["PATH"] = os.pathsep.join(_extra) + os.pathsep + os.environ.get("PATH", "")
 os.makedirs(DATA, exist_ok=True)
 
 DEFAULTS = {
