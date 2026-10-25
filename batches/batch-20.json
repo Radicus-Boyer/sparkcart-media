@@ -1,0 +1,18 @@
+{
+ "batch": 20,
+ "note": "Roblox, GD, memes, MW4 (already posted)",
+ "episodes": [
+  "episodes/roblox/171-rivals-roblox.json",
+  "episodes/roblox/172-dandys-world-roblox.json",
+  "episodes/roblox/173-jujutsu-shenanigans-vanished.json",
+  "episodes/roblox/174-zoink-4-top-ones.json",
+  "episodes/roblox/175-bloodlust-121296.json",
+  "episodes/roblox/176-zodiac-hacked-verification.json",
+  "episodes/roblox/177-nullscapes-secret-top-1.json",
+  "episodes/roblox/178-tung-tung-tung-sahur.json",
+  "episodes/roblox/179-lamar-roasts-franklin.json",
+  "episodes/roblox/180-modern-warfare-4-out.json"
+ ],
+ "posting": "batch-20/posting.txt",
+ "clips": []
+}
