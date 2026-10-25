@@ -36,6 +36,8 @@ DEFAULTS = {
     "clips_dir": r"Z:\claudeprojects\ffmpegclips" if WIN else os.path.join(ROOT, "build", "clips_dl"),
     "videos_dir": r"Z:\claudeprojects\roblox vids" if WIN else os.path.join(ROOT, "build", "videos_copy"),
     "start_time": "14:00", "gap_min": 25, "gap_max": 45, "comments": False,
+    "postiz_direct": "http://localhost:4007",
+    "caddy_cmd": "caddy run --config Caddyfile",
     "docker_desktop": os.path.join(os.environ.get("APPDATA", ""), "Microsoft", "Windows", "Start Menu", "Docker Desktop.lnk") if WIN else "",
     "parallel": max(1, (os.cpu_count() or 2) // 2),
 }
@@ -181,9 +183,9 @@ def docker_desktop_exe():
         return "shell:AppsFolder\\" + out.strip().splitlines()[-1]
 
 
-def detached(cmd):
-    kw = {"creationflags": 0x00000008 | 0x00000200} if WIN else {"start_new_session": True}
-    subprocess.Popen(cmd, shell=isinstance(cmd, str), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+def detached(cmd, cwd=None):
+    kw = {"creationflags": 0x08000000 | 0x00000200} if WIN else {"start_new_session": True}   # no window, own group
+    subprocess.Popen(cmd, cwd=cwd, shell=isinstance(cmd, str), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
                      stdin=subprocess.DEVNULL, **kw)
 
 
@@ -219,6 +221,13 @@ def job_start_stack(job):
         job.say(f"Postiz folder not found: {c['compose_dir']} (set it in Settings)")
         job.status = "failed"
         return
+    # Caddy: proxies :8088 -> Postiz :4007 (strips cookie domains); ngrok points at :8088
+    if not http_up(c["postiz_url"]) and c.get("caddy_cmd"):
+        if shutil.which(c["caddy_cmd"].split()[0]):
+            job.say("Starting Caddy (port 8088)...")
+            detached(c["caddy_cmd"], cwd=c["compose_dir"])
+        else:
+            job.say("Caddy not found on this PC - Postiz will only work at port 4007.")
     try:
         json.load(urllib.request.urlopen("http://127.0.0.1:4040/api/tunnels", timeout=2))
         job.say("ngrok already running.")
@@ -227,18 +236,29 @@ def job_start_stack(job):
             job.say("Starting ngrok...")
             detached(c["ngrok_cmd"])
         else:
-            job.say("ngrok not found; skipping (Postiz still works locally, YouTube links need ngrok).")
-    job.say("Waiting for Postiz...")
+            job.say("ngrok not found; skipping (YouTube uploads need ngrok).")
+    job.say("Waiting for Postiz (first start can take 2-3 minutes)...")
     for attempt in range(2):
-        for _ in range(40):
-            if http_up(c["postiz_url"]):
-                job.say("Postiz is up.")
-                return
+        for _ in range(50):
+            if http_up(c["postiz_direct"]):
+                break
             time.sleep(3)
-        if attempt == 0:
-            job.say("Postiz is running but not answering - restarting its container...")
-            run_cmd(job, ["docker", "compose", "restart", "postiz"], cwd=c["compose_dir"])
-    job.say("Postiz did not answer. Check the postiz container logs in Docker Desktop.")
+        else:
+            if attempt == 0:
+                job.say("Postiz container isn't answering - restarting it...")
+                run_cmd(job, ["docker", "compose", "restart", "postiz"], cwd=c["compose_dir"])
+                continue
+            job.say("Postiz did not answer. Check the postiz container logs in Docker Desktop.")
+            job.status = "failed"
+            return
+        break
+    job.say("Postiz is up.")
+    for _ in range(10):
+        if http_up(c["postiz_url"]):
+            job.say("Caddy is forwarding (8088). All set.")
+            return
+        time.sleep(2)
+    job.say("Postiz is up but port 8088 (Caddy) isn't answering, so the ngrok link won't work.")
     job.status = "failed"
 
 
