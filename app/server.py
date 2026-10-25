@@ -151,10 +151,26 @@ def status():
 
 # ---------------------------------------------------------------- stack (Docker + Postiz + ngrok)
 def docker_desktop_exe():
-    for base in (os.environ.get("ProgramFiles", r"C:\Program Files"), r"C:\Program Files"):
-        p = os.path.join(base, "Docker", "Docker", "Docker Desktop.exe")
+    """Find Docker Desktop.exe: usual folders, next to docker.exe on PATH, then the Start Menu app list."""
+    cands = []
+    for var in ("ProgramFiles", "ProgramW6432", "LOCALAPPDATA", "ProgramFiles(x86)"):
+        b = os.environ.get(var)
+        if b:
+            cands += [os.path.join(b, "Docker", "Docker", "Docker Desktop.exe"),
+                      os.path.join(b, "Programs", "Docker", "Docker", "Docker Desktop.exe")]
+    d = shutil.which("docker")
+    if d:
+        up = os.path.dirname(os.path.realpath(d))
+        for _ in range(4):
+            cands.append(os.path.join(up, "Docker Desktop.exe"))
+            up = os.path.dirname(up)
+    for p in cands:
         if os.path.exists(p):
             return p
+    rc, out = quick(["powershell", "-NoProfile", "-Command",
+                     "(Get-StartApps | Where-Object { $_.Name -like 'Docker Desktop*' } | Select-Object -First 1).AppID"], timeout=20)
+    if rc == 0 and out.strip():
+        return "shell:AppsFolder\\" + out.strip().splitlines()[-1]
 
 
 def detached(cmd):
@@ -172,7 +188,7 @@ def job_start_stack(job):
             job.status = "failed"
             return
         job.say("Starting Docker Desktop (can take a minute)...")
-        detached([exe])
+        detached(["explorer.exe", exe] if exe.startswith("shell:") else [exe])
         for _ in range(60):
             time.sleep(3)
             if quick(["docker", "info"], timeout=8)[0] == 0:
