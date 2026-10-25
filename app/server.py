@@ -28,9 +28,9 @@ os.makedirs(DATA, exist_ok=True)
 DEFAULTS = {
     "timezone": "America/Toronto",
     "compose_dir": os.path.join(os.path.expanduser("~"), "postiz-docker-compose"),
-    "postiz_url": "http://localhost:5000",
+    "postiz_url": "http://localhost:8088",
     "ngrok_url": "https://banking-amazingly-divided.ngrok-free.dev",
-    "ngrok_cmd": "ngrok http 5000 --url=banking-amazingly-divided.ngrok-free.dev",
+    "ngrok_cmd": "ngrok http 8088 --url=banking-amazingly-divided.ngrok-free.dev",
     "postiz_api_key": "",
     "youtube_id": "cmvfrmynt0001nk8tlnohlmd0",
     "clips_dir": r"Z:\claudeprojects\ffmpegclips" if WIN else os.path.join(ROOT, "build", "clips_dl"),
