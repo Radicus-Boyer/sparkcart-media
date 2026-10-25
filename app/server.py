@@ -153,6 +153,13 @@ def status():
 def docker_desktop_exe():
     """Find Docker Desktop.exe: usual folders, next to docker.exe on PATH, then the Start Menu app list."""
     cands = []
+    # Start Menu shortcuts first (this PC: %APPDATA%\Microsoft\Windows\Start Menu\Docker Desktop.lnk)
+    for var in ("APPDATA", "ProgramData"):
+        b = os.environ.get(var)
+        if b:
+            sm = os.path.join(b, "Microsoft", "Windows", "Start Menu")
+            cands += [os.path.join(sm, "Docker Desktop.lnk"), os.path.join(sm, "Programs", "Docker Desktop.lnk")]
+            cands += glob.glob(os.path.join(sm, "**", "Docker Desktop*.lnk"), recursive=True)
     for var in ("ProgramFiles", "ProgramW6432", "LOCALAPPDATA", "ProgramFiles(x86)"):
         b = os.environ.get(var)
         if b:
@@ -187,14 +194,19 @@ def job_start_stack(job):
             job.say("Docker Desktop not found. Install it from docker.com, then press Start again.")
             job.status = "failed"
             return
-        job.say("Starting Docker Desktop (can take a minute)...")
-        detached(["explorer.exe", exe] if exe.startswith("shell:") else [exe])
-        for _ in range(60):
+        job.say(f"Starting Docker Desktop ({exe}) - can take a couple of minutes...")
+        if exe.startswith("shell:"):
+            detached(["explorer.exe", exe])
+        elif WIN:
+            os.startfile(exe)          # works for both .exe and .lnk shortcuts
+        else:
+            detached([exe])
+        for _ in range(100):
             time.sleep(3)
             if quick(["docker", "info"], timeout=8)[0] == 0:
                 break
         else:
-            job.say("Docker did not start in 3 minutes.")
+            job.say("Docker did not start in 5 minutes. Open Docker Desktop and check for an error.")
             job.status = "failed"
             return
     job.say("Docker is running.")
@@ -462,7 +474,11 @@ def job_schedule(job, bn, start_local, gap, dry):
 
 
 def job_update(job):
+    before = quick(["git", "rev-parse", "HEAD"], cwd=ROOT)[1]
     run_cmd(job, ["git", "pull", "--ff-only"], cwd=ROOT)
+    if quick(["git", "rev-parse", "HEAD"], cwd=ROOT)[1] != before:
+        job.say("Updated. Restarting the app in 2 seconds...")
+        threading.Timer(2, lambda: os._exit(3)).start()   # launcher sees exit code 3 and starts the new version
 
 
 # ---------------------------------------------------------------- http
