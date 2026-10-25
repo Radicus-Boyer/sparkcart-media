@@ -1,4 +1,4 @@
-SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 24, 2026)
+SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 25, 2026)
 Check new ideas against this list to avoid repeats: python3 tools/topics.py check "idea"
 
 == 8-BIT BACKSTORY: NES / RETRO ==
