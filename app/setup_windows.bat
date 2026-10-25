@@ -3,12 +3,13 @@ rem One-time setup for SparkCart Studio on Windows. Safe to run again.
 setlocal
 cd /d "%~dp0.."
 echo === SparkCart Studio setup ===
-where python >nul 2>nul || winget install -e --id Python.Python.3.12 --accept-package-agreements --accept-source-agreements
+python --version >nul 2>nul || (winget install -e --id Python.Python.3.12 --accept-package-agreements --accept-source-agreements & set NEWPY=1)
 where git >nul 2>nul || winget install -e --id Git.Git --accept-package-agreements --accept-source-agreements
 where ffmpeg >nul 2>nul || winget install -e --id Gyan.FFmpeg --accept-package-agreements --accept-source-agreements
 echo.
-echo If anything above was just installed, CLOSE this window and run setup again so Windows sees it.
-echo.
+where git >nul 2>nul || set NEWPY=1
+where ffmpeg >nul 2>nul || set NEWPY=1
+if defined NEWPY (echo Something was just installed. CLOSE this window and run SparkCart-Studio-Install.bat again. & pause & exit /b)
 python -m pip install --upgrade pip
 python -m pip install numpy pillow onnxruntime kokoro-onnx soundfile num2words tzdata
 if not exist app\bin mkdir app\bin
