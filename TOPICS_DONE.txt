@@ -1,4 +1,4 @@
-SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 25, 2026)
+SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 26, 2026)
 Check new ideas against this list to avoid repeats: python3 tools/topics.py check "idea"
 
 == 8-BIT BACKSTORY: NES / RETRO ==
@@ -240,3 +240,13 @@ Check new ideas against this list to avoid repeats: python3 tools/topics.py chec
 178  Where Tung Tung Tung Sahur Came From
 179  Why Lamar Roasting Franklin Became a Meme
 180  Modern Warfare 4 Is Out Now
+181  DONT SPLASH Is 9 Days Old With 87,000 Players
+182  Berry Avenue Has Almost 9 Billion Visits
+183  Murderers VS Sheriffs Has Almost 2 Billion Visits
+184  Illegal Soccer Is Soccer With Guns
+185  LIMBO Took 109,490 Attempts
+186  Abyss of Darkness Broke a Player at 98%
+187  The Golden Took 52,870 Attempts
+188  Erebus Took 44,803 Attempts
+189  What Code Rot Actually Means
+190  EA Shut Down BioWare and 207,000 Fans Want Mass Effect Saved
