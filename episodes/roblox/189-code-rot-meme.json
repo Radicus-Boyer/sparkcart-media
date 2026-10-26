@@ -1,0 +1,183 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 189,
+ "slug": "189-code-rot-meme",
+ "file": "189 What Code Rot Actually Means.mp4",
+ "target": 36,
+ "accent": "#00e676",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Gru": "Groo"
+ },
+ "lines": [
+  {
+   "t": "Yep, it's code rotted, indeed. But what is code rot?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "CODE ROT",
+    "sub": "YEP, IT'S CODE ROTTED",
+    "full": {
+     "credit": "Clips: TikTok, @diaryofawimpykidfan01, @planetaryequinox, @originally..gavin",
+     "clip": "ml21-cr-a.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Code rot is when a game gets old, the world around it updates, and it slowly starts to break.",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "CODE ROT",
+    "sub": "OLD GAMES SLOWLY BREAK",
+    "bs": 200,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "code",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "In May 2026, Royale High players noticed old apartments glitching, and Royale High blamed Roblox updates.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ROYALE HIGH",
+    "sub": "MAY 2026",
+    "full": {
+     "credit": "Clips: TikTok, @diaryofawimpykidfan01, @planetaryequinox, @originally..gavin",
+     "clip": "ml21-cr-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then players found rot in old games everywhere. One clip of Camping got 1.8 million views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "CAMPING",
+    "sub": "1.8 MILLION VIEWS",
+    "full": {
+     "credit": "Clips: TikTok, @diaryofawimpykidfan01, @planetaryequinox, @originally..gavin",
+     "clip": "ml21-cr-c.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And in October, a TikTok Despicable Me filter started glitching, so everyone said, the filter is code rotted.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE GRU\nFILTER",
+    "sub": "CODE ROTTED, INDEED",
+    "full": {
+     "credit": "Clips: TikTok, @diaryofawimpykidfan01, @planetaryequinox, @originally..gavin",
+     "clip": "ml21-cr-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What game has code rot? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "dark",
+    "ground": "stone",
+    "big": "WHAT GAME HAS\nCODE ROT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "MEME LORE",
+ "mood": "spooky"
+}

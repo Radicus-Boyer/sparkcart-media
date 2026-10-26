@@ -1,0 +1,183 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 184,
+ "slug": "184-illegal-soccer-roblox",
+ "file": "184 Illegal Soccer Is Soccer With Guns.mp4",
+ "target": 30,
+ "accent": "#76ff03",
+ "voice": "am_liam",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#b2ff59",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "What if soccer had guns, jetpacks and no referees?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ILLEGAL\nSOCCER",
+    "sub": "NO REFEREES",
+    "full": {
+     "credit": "Clip: Illegal Soccer (Roblox gameplay)",
+     "clip": "rb21-is-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That's Illegal Soccer, a Roblox game made by Repotted, that came out in May 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BY REPOTTED",
+    "sub": "MAY 2026",
+    "full": {
+     "credit": "Clip: Illegal Soccer (Roblox gameplay)",
+     "clip": "rb21-is-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You can kick, tackle and blow up the other team, use grappling hooks, and even shoot players while they dribble.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "GUNS +\nJETPACKS",
+    "sub": "+ GRAPPLING HOOKS",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "gun",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "jump",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Watch out for oil spills, because you will slip.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "OIL SPILLS",
+    "sub": "YOU WILL SLIP",
+    "full": {
+     "credit": "Clip: Illegal Soccer (Roblox gameplay)",
+     "clip": "rb21-is-a.mp4",
+     "start": 6.0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 5 months it got over 240 million visits.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 240505732,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "VISITS",
+    "bg": "day",
+    "ground": "grass",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Would you play it? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "WOULD YOU\nPLAY IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 185,
+ "slug": "185-limbo-109490",
+ "file": "185 LIMBO Took 109,490 Attempts.mp4",
+ "target": 30,
+ "accent": "#651fff",
+ "voice": "am_michael",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/SairaStencilOne-Regular.ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#b388ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "LIMBO": "Limbo"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash level ends with a guessing game, and one wrong pick kills you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "LIMBO",
+    "sub": "THE MEMORY LEVEL",
+    "full": {
+     "credit": "Clip: LIMBO by MindCap and more (YouTube)",
+     "clip": "gd21-lm-a.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "LIMBO was hosted by MindCap, and BGram verified it in November 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BGRAM",
+    "sub": "NOVEMBER 2022",
+    "full": {
+     "credit": "Clip: LIMBO by MindCap and more (YouTube)",
+     "clip": "gd21-lm-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It took him 109,490 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 109490,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true
+   }
+  },
+  {
+   "t": "At the end, 8 keys shuffle like cups, and there are 40,320 ways to order them. Only one is right.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "8 KEYS",
+    "sub": "40,320 ORDERS, 1 IS RIGHT",
+    "bs": 200,
+    "fx": [
+     "sparkle"
+    ],
+    "ic": [
+     {
+      "n": "key",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Its showcase video now has over 32 million views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "32 MILLION\nVIEWS",
+    "sub": "THE SHOWCASE",
+    "full": {
+     "credit": "Clip: LIMBO by MindCap and more (YouTube)",
+     "clip": "gd21-lm-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you remember the keys? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nREMEMBER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

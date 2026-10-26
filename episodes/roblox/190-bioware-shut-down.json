@@ -1,0 +1,186 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 190,
+ "slug": "190-bioware-shut-down",
+ "file": "190 EA Shut Down BioWare and 207,000 Fans Want Mass Effect Saved.mp4",
+ "target": 33,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Oxanium[wght].ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#82b1ff",
+  "stroke": 8
+ },
+ "pron": {
+  "BioWare": "Bio-Ware",
+  "Meer": "Meer",
+  "EA": "E A"
+ },
+ "lines": [
+  {
+   "t": "EA just shut down BioWare, the studio behind Mass Effect.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BIOWARE\nSHUT DOWN",
+    "sub": "OCTOBER 21, 2026",
+    "full": {
+     "credit": "Clip: Mass Effect Legendary Edition trailers, EA / BioWare",
+     "clip": "tr21-me-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "On October 21st, EA announced about 400 layoffs, and the next Mass Effect game was cancelled.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "MASS EFFECT 5\nCANCELLED",
+    "sub": "ABOUT 400 LAYOFFS",
+    "bc": "#ffffff",
+    "bs": 130,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "One day later, a trailer for the cancelled game leaked online.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "IT LEAKED",
+    "sub": "ONE DAY LATER",
+    "full": {
+     "credit": "Clip: Mass Effect Legendary Edition trailers, EA / BioWare",
+     "clip": "tr21-me-b.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Now fans started a petition to save Mass Effect, and over 207,000 people signed it.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 207000,
+     "fmt": "{:,.0f}+",
+     "dur": 1.5
+    },
+    "sub": "SIGNATURES",
+    "bg": "space",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Even both voices of Commander Shepard, Jennifer Hale and Mark Meer, told fans to hold the line.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HOLD THE\nLINE",
+    "sub": "BOTH SHEPARDS AGREE",
+    "full": {
+     "credit": "Clip: Mass Effect Legendary Edition trailers, EA / BioWare",
+     "clip": "tr21-me-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Should EA save Mass Effect? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "space",
+    "ground": "dark",
+    "big": "SAVE MASS\nEFFECT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "TRENDING",
+ "mood": "spooky"
+}

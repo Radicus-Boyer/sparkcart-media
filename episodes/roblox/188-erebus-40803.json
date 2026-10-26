@@ -1,0 +1,183 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 188,
+ "slug": "188-erebus-40803",
+ "file": "188 Erebus Took 40,803 Attempts.mp4",
+ "target": 30,
+ "accent": "#00b0ff",
+ "voice": "am_fenrir",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#80d8ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "Erebus": "Air-uh-bus",
+  "Rustam": "Roo-stam",
+  "ILRELL": "Ill-rell"
+ },
+ "lines": [
+  {
+   "t": "This level stayed on the Demonlist for 2,277 days, a record at the time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "EREBUS",
+    "sub": "2,277 DAYS",
+    "full": {
+     "credit": "Clip: Erebus, verified by BoldStep (YouTube)",
+     "clip": "gd21-er-a.mp4",
+     "start": 0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Erebus was made by Rustam and ILRELL, and BoldStep verified it in March 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BOLDSTEP",
+    "sub": "MARCH 2017",
+    "full": {
+     "credit": "Clip: Erebus, verified by BoldStep (YouTube)",
+     "clip": "gd21-er-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It took him 40,803 attempts, over three months.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 40803,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true
+   }
+  },
+  {
+   "t": "He called the last part the dreaded ship. And some bugs even crash you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE DREADED\nSHIP",
+    "sub": "81% TO 100%",
+    "full": {
+     "credit": "Clip: Erebus, verified by BoldStep (YouTube)",
+     "clip": "gd21-er-a.mp4",
+     "start": 6.0
+    },
+    "bs": 140,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Later, Exyl beat it on a 60 hertz screen, in 68,498 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 68498,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "EXYL ON 60HZ",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Could you beat Erebus? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

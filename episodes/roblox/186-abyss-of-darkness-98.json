@@ -1,0 +1,196 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 186,
+ "slug": "186-abyss-of-darkness-98",
+ "file": "186 Abyss of Darkness Broke a Player at 98%.mp4",
+ "target": 31,
+ "accent": "#d50000",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom"
+ },
+ "lines": [
+  {
+   "t": "One player died at 98% on this level twice, then quit after about 200,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ABYSS OF\nDARKNESS",
+    "sub": "DIED AT 98%, TWICE",
+    "full": {
+     "credit": "Clip: Abyss of Darkness, verified by Cursed (YouTube)",
+     "clip": "gd21-ad-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Abyss of Darkness was made by Exen, but his 2018 verification was hacked, so everyone forgot about it.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "HACKED",
+    "sub": "EXEN, 2018",
+    "bc": "#ffffff",
+    "bs": 200,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then in 2021, Dils thik hit 98%, two times, and gave up.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 98,
+     "fmt": "{:.0f}%",
+     "dur": 1.5
+    },
+    "sub": "DILS THIK, TWICE",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 220,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true
+   }
+  },
+  {
+   "t": "Finally, in April 2022, Cursed verified it, after 54,315 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "CURSED",
+    "sub": "54,315 ATTEMPTS",
+    "full": {
+     "credit": "Clip: Abyss of Darkness, verified by Cursed (YouTube)",
+     "clip": "gd21-ad-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It became the number 1 hardest level in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1 HARDEST",
+    "sub": "JUNE 2022",
+    "full": {
+     "credit": "Clip: Abyss of Darkness, verified by Cursed (YouTube)",
+     "clip": "gd21-ad-a.mp4",
+     "start": 6.0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Would you quit at 98%? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "QUIT AT\n98%?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

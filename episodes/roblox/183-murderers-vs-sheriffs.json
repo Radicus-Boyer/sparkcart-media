@@ -1,0 +1,193 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 183,
+ "slug": "183-murderers-vs-sheriffs",
+ "file": "183 Murderers VS Sheriffs Has Almost 2 Billion Visits.mp4",
+ "target": 31,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "MVS": "M V S",
+  "VS": "versus",
+  "MM2": "M M 2"
+ },
+ "lines": [
+  {
+   "t": "Knives against guns. This Roblox duel game has almost 2 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MURDERERS\nVS SHERIFFS",
+    "sub": "ALMOST 2 BILLION VISITS",
+    "full": {
+     "credit": "Clip: Murderers VS Sheriffs Duels (Roblox gameplay)",
+     "clip": "rb21-mv-a.mp4",
+     "start": 0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Murderers VS Sheriffs Duels came out in February 2025, made by the MVS Duels Community.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "FEBRUARY\n2025",
+    "sub": "MVS DUELS COMMUNITY",
+    "full": {
+     "credit": "Clip: Murderers VS Sheriffs Duels (Roblox gameplay)",
+     "clip": "rb21-mv-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Murderers get knives, sheriffs get guns, and you fight in 1 versus 1, 2 versus 2, or 3 versus 3.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "KNIFE\nVS GUN",
+    "sub": "1V1, 2V2, 3V3",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "knife",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Players call it a better MM2, because every round is a straight fight.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BETTER\nTHAN MM2?",
+    "sub": "EVERY ROUND IS A FIGHT",
+    "full": {
+     "credit": "Clip: Murderers VS Sheriffs Duels (Roblox gameplay)",
+     "clip": "rb21-mv-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And it has over 16 million favorites.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 16730897,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "FAVORITES",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true
+   }
+  },
+  {
+   "t": "Murderer or sheriff? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "MURDERER OR\nSHERIFF?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

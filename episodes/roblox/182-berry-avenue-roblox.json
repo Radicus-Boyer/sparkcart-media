@@ -1,0 +1,187 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 182,
+ "slug": "182-berry-avenue-roblox",
+ "file": "182 Berry Avenue Has Almost 9 Billion Visits.mp4",
+ "target": 31,
+ "accent": "#ff4081",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Chewy-Regular.ttf",
+  "size": 104,
+  "upper": false,
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "stroke": 8
+ },
+ "pron": {
+  "Amberry": "Am-berry"
+ },
+ "lines": [
+  {
+   "t": "This Roblox town has been visited almost 9 billion times.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BERRY\nAVENUE",
+    "sub": "ALMOST 9 BILLION VISITS",
+    "full": {
+     "credit": "Clip: Berry Avenue (Roblox gameplay)",
+     "clip": "rb21-ba-a.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Berry Avenue is made by Amberry Games, and came out in January 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "JANUARY\n2022",
+    "sub": "BY AMBERRY GAMES",
+    "full": {
+     "credit": "Clip: Berry Avenue (Roblox gameplay)",
+     "clip": "rb21-ba-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You can go to high school, work at the grocery store, treat patients at the hospital, or rob the bank and get chased by the police.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "PICK YOUR\nLIFE",
+    "sub": "SCHOOL, JOBS, BANK ROBBERY",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "It has 3.7 million favorites, and once had over 200,000 players at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "200,000\nAT ONCE",
+    "sub": "3.7 MILLION FAVORITES",
+    "full": {
+     "credit": "Clip: Berry Avenue (Roblox gameplay)",
+     "clip": "rb21-ba-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Total visits right now:",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 8904490705,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "VISITS",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 130,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Berry Avenue or Brookhaven? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "BERRY OR\nBROOKHAVEN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

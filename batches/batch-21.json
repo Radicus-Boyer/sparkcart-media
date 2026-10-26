@@ -1,0 +1,229 @@
+{
+ "batch": 21,
+ "note": "4 Roblox, 4 GD, code rot, BioWare (Oct 26)",
+ "posting": "batch-21/posting.txt",
+ "episodes": [
+  "episodes/roblox/181-dont-splash-roblox.json",
+  "episodes/roblox/182-berry-avenue-roblox.json",
+  "episodes/roblox/183-murderers-vs-sheriffs.json",
+  "episodes/roblox/184-illegal-soccer-roblox.json",
+  "episodes/roblox/185-limbo-109490.json",
+  "episodes/roblox/186-abyss-of-darkness-98.json",
+  "episodes/roblox/187-the-golden-52870.json",
+  "episodes/roblox/188-erebus-40803.json",
+  "episodes/roblox/189-code-rot-meme.json",
+  "episodes/roblox/190-bioware-shut-down.json"
+ ],
+ "clips": [
+  {
+   "name": "rb21-ds-a",
+   "url": "https://www.youtube.com/watch?v=xIXpJ38iS7o",
+   "backup": [
+    "https://www.youtube.com/watch?v=lkK3F6Md0JY"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-ds-b",
+   "url": "https://www.youtube.com/watch?v=K2RZJqwQ138",
+   "backup": [
+    "https://www.youtube.com/watch?v=9SG2p7DbDms"
+   ],
+   "section": "*4:00-4:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-ba-a",
+   "url": "https://www.youtube.com/watch?v=p-ZOEfA4qKc",
+   "backup": [
+    "https://www.youtube.com/watch?v=XoTt9iFlEYA"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-ba-b",
+   "url": "https://www.youtube.com/watch?v=Blp8zbpYdUo",
+   "backup": [
+    "https://www.youtube.com/watch?v=mg1ow1ZYV6E"
+   ],
+   "section": "*6:00-6:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-mv-a",
+   "url": "https://www.youtube.com/watch?v=55ZxMWJsVIw",
+   "backup": [
+    "https://www.youtube.com/watch?v=XAFDWvnvL7w"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-mv-b",
+   "url": "https://www.youtube.com/watch?v=1DW5cTgbRss",
+   "backup": [
+    "https://www.youtube.com/watch?v=4j2doy2Dvi0"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-is-a",
+   "url": "https://www.youtube.com/watch?v=rN8PDSyZn68",
+   "backup": [
+    "https://www.youtube.com/watch?v=vLZaYdQbpzU"
+   ],
+   "section": "*5:00-5:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb21-is-b",
+   "url": "https://www.youtube.com/watch?v=MtSsB7OYmi8",
+   "backup": [
+    "https://www.youtube.com/watch?v=hxCqfJmwoeE"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-lm-a",
+   "url": "https://www.youtube.com/watch?v=kXYMbaMVOZg",
+   "backup": [
+    "https://www.youtube.com/watch?v=dtKV9uSa5jQ"
+   ],
+   "section": "*0:40-1:00",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-lm-b",
+   "url": "https://www.youtube.com/watch?v=ryBbuH_SPbs",
+   "backup": [
+    "https://www.youtube.com/watch?v=X8lVZFTbP3E"
+   ],
+   "section": "*3:05-3:25",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-ad-a",
+   "url": "https://www.youtube.com/watch?v=ejJkpqcMMCY",
+   "backup": [
+    "https://www.youtube.com/watch?v=Hzr7_PrgeqI"
+   ],
+   "section": "*0:20-0:40",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-ad-b",
+   "url": "https://www.youtube.com/watch?v=ejJkpqcMMCY",
+   "backup": [
+    "https://www.youtube.com/watch?v=Hzr7_PrgeqI"
+   ],
+   "section": "*1:40-2:00",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-gl-a",
+   "url": "https://www.youtube.com/watch?v=wpS5PSHmji0",
+   "backup": [
+    "https://www.youtube.com/watch?v=fyKRPHKAss8"
+   ],
+   "section": "*0:25-0:45",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-gl-b",
+   "url": "https://www.youtube.com/watch?v=NkOOeh2ly4A",
+   "backup": [
+    "https://www.youtube.com/watch?v=fyKRPHKAss8"
+   ],
+   "section": "*0:40-1:00",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-er-a",
+   "url": "https://www.youtube.com/watch?v=8csWDx6C2YI",
+   "backup": [
+    "https://www.youtube.com/watch?v=RdUwTwoxHOw"
+   ],
+   "section": "*0:30-0:50",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd21-er-b",
+   "url": "https://www.youtube.com/watch?v=RdUwTwoxHOw",
+   "backup": [
+    "https://www.youtube.com/watch?v=7i7W7IAx5rA"
+   ],
+   "section": "*0:50-1:10",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "ml21-cr-a",
+   "url": "https://www.tiktok.com/@diaryofawimpykidfan01/video/7696245612215356685",
+   "backup": [
+    "https://www.tiktok.com/@ted.broome1/video/7697372713521794318"
+   ],
+   "section": null,
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "ml21-cr-b",
+   "url": "https://www.tiktok.com/@planetaryequinox/video/7643145686371863839",
+   "backup": [
+    "https://www.tiktok.com/@acherryblossomtree/video/7643551584290442518"
+   ],
+   "section": null,
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "ml21-cr-c",
+   "url": "https://www.tiktok.com/@originally..gavin/video/7645766551240494354",
+   "backup": [
+    "https://www.tiktok.com/@forgottenfuture1/video/7644967301451762966"
+   ],
+   "section": null,
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr21-me-a",
+   "url": "https://www.youtube.com/watch?v=n8i53TtQ6IQ",
+   "backup": [
+    "https://www.youtube.com/watch?v=UAScSKBDuno"
+   ],
+   "section": "*0:20-0:40",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "tr21-me-b",
+   "url": "https://www.youtube.com/watch?v=n8i53TtQ6IQ",
+   "backup": [
+    "https://www.youtube.com/watch?v=q0lVjqxF0C0"
+   ],
+   "section": "*1:05-1:25",
+   "cut": 2,
+   "len": 13
+  }
+ ]
+}

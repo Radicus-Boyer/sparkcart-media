@@ -1,0 +1,186 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 181,
+ "slug": "181-dont-splash-roblox",
+ "file": "181 DONT SPLASH Is 9 Days Old With 87,000 Players.mp4",
+ "target": 30,
+ "accent": "#00e5ff",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "stroke": 8
+ },
+ "pron": {
+  "DONT": "Don't",
+  "slo7th": "slow seventh",
+  "Poolrooms": "Pool rooms"
+ },
+ "lines": [
+  {
+   "t": "This Roblox horror game is only 9 days old, and 87,000 people are playing it right now.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "DONT SPLASH",
+    "sub": "9 DAYS OLD",
+    "full": {
+     "credit": "Clip: DONT SPLASH (Roblox gameplay)",
+     "clip": "rb21-ds-a.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's called DONT SPLASH, made by slo7th, and it came out on October 17th.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BY SLO7TH",
+    "sub": "OCTOBER 17, 2026",
+    "full": {
+     "credit": "Clip: DONT SPLASH (Roblox gameplay)",
+     "clip": "rb21-ds-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's inspired by the Poolrooms, the creepy, empty swimming pools from the backrooms.",
+   "sc": {
+    "bg": "ocean",
+    "ground": "water",
+    "big": "THE\nPOOLROOMS",
+    "sub": "THE INSPIRATION",
+    "bs": 170,
+    "fx": [
+     "waves"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "The game's only warning? Don't splash. It knows.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "IT KNOWS",
+    "sub": "DON'T SPLASH",
+    "full": {
+     "credit": "Clip: DONT SPLASH (Roblox gameplay)",
+     "clip": "rb21-ds-a.mp4",
+     "start": 6.0
+    },
+    "bs": 200,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In just over a week, it already has 46 million visits.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 46057769,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "VISITS IN 9 DAYS",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true
+   }
+  },
+  {
+   "t": "Would you play it alone? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "WOULD YOU PLAY\nIT ALONE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

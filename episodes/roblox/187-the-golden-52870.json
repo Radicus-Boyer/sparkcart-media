@@ -1,0 +1,201 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 187,
+ "slug": "187-the-golden-52870",
+ "file": "187 The Golden Took 52,870 Attempts.mp4",
+ "target": 32,
+ "accent": "#ffab00",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffd740",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "Bo": "Bo",
+  "Dolphy": "Dol-fee",
+  "Tartarus": "Tar-ta-rus"
+ },
+ "lines": [
+  {
+   "t": "This level was so hard, it was passed between four top players before anyone beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE GOLDEN",
+    "sub": "4 PLAYERS TRIED",
+    "full": {
+     "credit": "Clip: The Golden by Bo and more (YouTube)",
+     "clip": "gd21-gl-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Golden was hosted by Bo. He tried to verify it, then passed it to Sky Jax, then Dolphy, then nSwish.",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "BO, SKY JAX,\nDOLPHY, NSWISH",
+    "sub": "THE HANDOFFS",
+    "rays": "#ffffff",
+    "bs": 120,
+    "ic": [
+     {
+      "n": "crown",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "nSwish finally verified it in April 2020, after 52,870 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 52870,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "NSWISH'S ATTEMPTS",
+    "bg": "gold",
+    "ground": "grass",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "It's full of fast wave parts in a dark jungle.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "WAVE\nJUNGLE",
+    "sub": "TRIPLE SPEED",
+    "full": {
+     "credit": "Clip: The Golden by Bo and more (YouTube)",
+     "clip": "gd21-gl-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It beat Tartarus and stayed number 1 for 105 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#1 FOR\n105 DAYS",
+    "sub": "OVER TARTARUS",
+    "full": {
+     "credit": "Clip: The Golden by Bo and more (YouTube)",
+     "clip": "gd21-gl-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you beat The Golden? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
