@@ -10,7 +10,7 @@
   "episodes/roblox/185-limbo-109490.json",
   "episodes/roblox/186-abyss-of-darkness-98.json",
   "episodes/roblox/187-the-golden-52870.json",
-  "episodes/roblox/188-erebus-40803.json",
+  "episodes/roblox/188-erebus-44803.json",
   "episodes/roblox/189-code-rot-meme.json",
   "episodes/roblox/190-bioware-shut-down.json"
  ],
@@ -67,12 +67,10 @@
   },
   {
    "name": "rb21-mv-b",
-   "url": "https://www.youtube.com/watch?v=1DW5cTgbRss",
-   "backup": [
-    "https://www.youtube.com/watch?v=4j2doy2Dvi0"
-   ],
-   "section": "*3:00-3:20",
-   "cut": 2,
+   "url": "https://www.youtube.com/watch?v=XAFDWvnvL7w",
+   "backup": [],
+   "section": "*0:40-0:55",
+   "cut": 0,
    "len": 13
   },
   {

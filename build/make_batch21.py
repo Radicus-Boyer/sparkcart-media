@@ -113,7 +113,7 @@ ep(182, "berry-avenue-roblox", "Berry Avenue Has Almost 9 Billion Visits", HEART
 
 MVC = "Clip: Murderers VS Sheriffs Duels (Roblox gameplay)"
 clip("rb21-mv-a.mp4", "https://www.youtube.com/watch?v=55ZxMWJsVIw", "*1:30-1:50", backup=["https://www.youtube.com/watch?v=XAFDWvnvL7w"])
-clip("rb21-mv-b.mp4", "https://www.youtube.com/watch?v=1DW5cTgbRss", "*3:00-3:20", backup=["https://www.youtube.com/watch?v=4j2doy2Dvi0"])
+clip("rb21-mv-b.mp4", "https://www.youtube.com/watch?v=XAFDWvnvL7w", "*0:40-0:55", cut=0)
 ep(183, "murderers-vs-sheriffs", "Murderers VS Sheriffs Has Almost 2 Billion Visits", FENRIR, "#ff1744",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ff5252", "stroke": 8},
    [L("Knives against guns. This Roblox duel game has almost 2 billion visits.",
@@ -198,23 +198,23 @@ ep(187, "the-golden-52870", "The Golden Took 52,870 Attempts", PUCK, "#ffab00",
     L("It's full of fast wave parts in a dark jungle.",
       CLIP("gd21-gl-b.mp4", "WAVE\nJUNGLE", "TRIPLE SPEED", 0, GLC, bs=170)),
     L("It beat Tartarus and stayed number 1 for 105 days.",
-      CLIP("gd21-gl-a.mp4", "#1 FOR\n105 DAYS", "OVER TARTARUS", 6.0, GLC, bs=150)),
+      CLIP("gd21-gl-b.mp4", "#1 FOR\n105 DAYS", "OVER TARTARUS", 6.0, GLC, bs=150)),
     end("Could you beat The Golden?", "COULD YOU\nBEAT IT?", bg="gold", ground="grass"),
    ], pron=dict(GD_PRON, Bo="Bo", Dolphy="Dol-fee", Tartarus="Tar-ta-rus"), **GDE)
 
 ERC = "Clip: Erebus, verified by BoldStep (YouTube)"
 clip("gd21-er-a.mp4", "https://www.youtube.com/watch?v=8csWDx6C2YI", "*0:30-0:50", backup=["https://www.youtube.com/watch?v=RdUwTwoxHOw"])
 clip("gd21-er-b.mp4", "https://www.youtube.com/watch?v=RdUwTwoxHOw", "*0:50-1:10", backup=["https://www.youtube.com/watch?v=7i7W7IAx5rA"])
-ep(188, "erebus-40803", "Erebus Took 40,803 Attempts", FENRIR, "#00b0ff",
+ep(188, "erebus-44803", "Erebus Took 44,803 Attempts", FENRIR, "#00b0ff",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#80d8ff", "stroke": 8},
    [L("This level stayed on the Demonlist for 2,277 days, a record at the time.",
       CLIP("gd21-er-a.mp4", "EREBUS", "2,277 DAYS", 0, ERC, bs=200)),
     L("Erebus was made by Rustam and ILRELL, and BoldStep verified it in March 2017.",
       CLIP("gd21-er-b.mp4", "BOLDSTEP", "MARCH 2017", 0, ERC, bs=170)),
-    L("It took him 40,803 attempts, over three months.",
-      COUNT(40803, "ATTEMPTS", bg="red", ground="dark", fx="red")),
+    L("It took him 44,803 attempts, over three months.",
+      COUNT(44803, "ATTEMPTS", bg="red", ground="dark", fx="red")),
     L("He called the last part the dreaded ship. And some bugs even crash you.",
-      CLIP("gd21-er-a.mp4", "THE DREADED\nSHIP", "81% TO 100%", 6.0, ERC, bs=140)),
+      CLIP("gd21-er-b.mp4", "THE DREADED\nSHIP", "81% TO 100%", 6.0, ERC, bs=140)),
     L("Later, Exyl beat it on a 60 hertz screen, in 68,498 attempts.",
       COUNT(68498, "EXYL ON 60HZ", bg="night", ground="stone", fx="sparkle")),
     end("Could you beat Erebus?", "COULD YOU\nBEAT IT?", bg="night", ground="stone"),

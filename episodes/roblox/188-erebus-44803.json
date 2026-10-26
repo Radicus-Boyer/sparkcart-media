@@ -2,8 +2,8 @@
  "preset": "roblox",
  "hdr": "tag",
  "num": 188,
- "slug": "188-erebus-40803",
- "file": "188 Erebus Took 40,803 Attempts.mp4",
+ "slug": "188-erebus-44803",
+ "file": "188 Erebus Took 44,803 Attempts.mp4",
  "target": 30,
  "accent": "#00b0ff",
  "voice": "am_fenrir",
@@ -66,11 +66,11 @@
    }
   },
   {
-   "t": "It took him 40,803 attempts, over three months.",
+   "t": "It took him 44,803 attempts, over three months.",
    "sc": {
     "count": {
      "from": 0,
-     "to": 40803,
+     "to": 44803,
      "fmt": "{:,.0f}",
      "dur": 1.5
     },
@@ -94,7 +94,7 @@
     "sub": "81% TO 100%",
     "full": {
      "credit": "Clip: Erebus, verified by BoldStep (YouTube)",
-     "clip": "gd21-er-a.mp4",
+     "clip": "gd21-er-b.mp4",
      "start": 6.0
     },
     "bs": 140,
