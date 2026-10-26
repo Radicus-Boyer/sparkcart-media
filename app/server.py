@@ -303,6 +303,13 @@ def get_batch(bn):
 
 
 # ---------------------------------------------------------------- clips
+def raw_file(raw, name):
+    """Finished download for a clip (ignores yt-dlp's unfinished .part/.ytdl files)."""
+    fs = [f for f in glob.glob(os.path.join(raw, name + ".*")) if not f.endswith((".part", ".ytdl", ".temp")) and ".part-" not in f]
+    fs.sort(key=lambda f: (not f.endswith(".mp4"), f))
+    return fs[0] if fs else None
+
+
 def job_clips(job, bn, auto_render):
     c = cfg()
     b = get_batch(bn)
@@ -313,7 +320,7 @@ def job_clips(job, bn, auto_render):
     job.say(f"{len(todo)} clip(s) to get")
     for cl in todo:
         name = cl["name"]
-        rawf = next(iter(glob.glob(os.path.join(raw, name + ".*"))), None)
+        rawf = raw_file(raw, name)
         if not rawf:
             for url in [cl["url"]] + cl.get("backup", []):
                 cmd = ["yt-dlp", "-f", "bv*[height<=1080]+ba/b", "--merge-output-format", "mp4", "-o",
@@ -321,7 +328,7 @@ def job_clips(job, bn, auto_render):
                 if cl.get("section"):
                     cmd += ["--download-sections", cl["section"]]
                 run_cmd(job, cmd + [url])
-                rawf = next(iter(glob.glob(os.path.join(raw, name + ".*"))), None)
+                rawf = raw_file(raw, name)
                 if rawf and os.path.getsize(rawf) > 50_000:
                     break
         if not rawf:
@@ -334,6 +341,9 @@ def job_clips(job, bn, auto_render):
         if rc == 0:
             shutil.copy(out, f"{ROOT}/episodes/assets/{name}.mp4")
             job.say(f"ready: {name}")
+        else:
+            job.say(f"FAILED to cut {name}")
+            job.status = "failed"
     if job.status == "failed":
         return
     job.say("All clips ready.")
@@ -353,7 +363,7 @@ def job_one_clip(job, name, url, start, length):
     cmd = ["yt-dlp", "-f", "bv*[height<=1080]+ba/b", "--merge-output-format", "mp4", "-o", os.path.join(raw, name + ".%(ext)s"),
            "--no-playlist", "--download-sections", f"*{start}-{float(start) + float(length) + 2}"]
     run_cmd(job, cmd + [url])
-    rawf = next(iter(glob.glob(os.path.join(raw, name + ".*"))), None)
+    rawf = raw_file(raw, name)
     if not rawf:
         job.say("Download failed.")
         job.status = "failed"
