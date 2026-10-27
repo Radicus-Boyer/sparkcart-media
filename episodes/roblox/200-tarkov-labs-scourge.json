@@ -29,7 +29,7 @@
     "sub": "THE NEW LABS BOSS",
     "full": {
      "credit": "Clips: Escape from Tarkov, Battlestate Games; LVNDMARK (YouTube)",
-     "clip": "tr22-tk-a.mp4",
+     "clip": "tr22-tk-b.mp4",
      "start": 0
     },
     "bs": 180,
@@ -70,7 +70,7 @@
     "full": {
      "credit": "Clips: Escape from Tarkov, Battlestate Games; LVNDMARK (YouTube)",
      "clip": "tr22-tk-b.mp4",
-     "start": 0
+     "start": 6.0
     },
     "bs": 150,
     "by": 300,
@@ -171,7 +171,7 @@
    }
   }
  ],
- "prop_clip": "tr22-tk-a.mp4",
+ "prop_clip": "tr22-tk-b.mp4",
  "ticker": "TARKOV: NEW LABS BOSS SCOURGE - ZOMBIE LABS EVENT TEASED",
  "edition": "ESCAPE FROM TARKOV",
  "mood": "spooky"

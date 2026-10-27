@@ -141,7 +141,7 @@ ep(194, "huss-valley-roblox", "Huss Valley Has 205 Million Visits", FENRIR, "#00
     L("Every round, you have to make it across before the chasers get you. The last one standing wins.",
       S("LAST ONE\nSTANDING", "MAKE IT ACROSS", "day", "grass", bs=150, ic=ic("trophy", "float"), av=[av([-1.4, 0.6], "run", "a"), av([0.0, 0.8], "run", "b"), av([1.4, 0.6], "run", "c")])),
     L("For Halloween, it added a woods map with knives and new abilities.",
-      CLIP("rb22-hv-a.mp4", "HALLOWEEN\nWOODS", "KNIVES + ABILITIES", 6.0, HVC, bs=150)),
+      CLIP("rb22-hv-b.mp4", "HALLOWEEN\nWOODS", "KNIVES + ABILITIES", 6.0, HVC, bs=150)),
     L("In 2 months, it reached 205 million visits.",
       COUNT(205743618, "VISITS", bg="day", ground="grass", fx="confetti")),
     end("Runner or chaser?", "RUNNER OR\nCHASER?", bg="day", ground="grass"),
@@ -149,7 +149,7 @@ ep(194, "huss-valley-roblox", "Huss Valley Has 205 Million Visits", FENRIR, "#00
 
 # ============================================================ GEOMETRY DASH (stage "gd": real player icons, no Roblox avatars)
 SCC = "Clips: Silent clubstep verified by paqoe; Vision's 100% (YouTube)"
-clip("gd22-sc-a.mp4", "https://www.youtube.com/watch?v=GR4OMkS3SN8", "*0:40-1:00", backup=["https://www.youtube.com/watch?v=0NUyQIltlfo"])
+clip("gd22-sc-a.mp4", "https://www.youtube.com/watch?v=GR4OMkS3SN8", "*0:45-1:00", cut=0)
 clip("gd22-sc-b.mp4", "https://www.youtube.com/watch?v=EOr8hDyXDvQ", "*1:20-1:40", backup=["https://www.youtube.com/watch?v=GR4OMkS3SN8"])
 ep(195, "silent-clubstep-race", "The Race to Beat the Impossible Level", MIKE, "#2979ff",
    {"font": MF + "SairaStencilOne-Regular.ttf", "size": 96, "fill": "#ffffff", "hi": "#82b1ff", "stroke": 8},
@@ -203,7 +203,7 @@ ep(197, "sakupen-circles-1107185", "One Player Took 1,107,185 Attempts on Sakupe
    ], pron=dict(GD_PRON, Sakupen="Sa-koo-pen", ezzzzka="ez-ka"), gd_player="Diamond", **GDE)
 
 SHC = "Clips: Sakupen Hell by Noobas, verified by TrusTa; Riot (YouTube)"
-clip("gd22-sh-a.mp4", "https://www.youtube.com/watch?v=svyOjwLCErg", "*1:30-1:50", backup=["https://www.youtube.com/watch?v=CtL_ayfNKPI"])
+clip("gd22-sh-a.mp4", "https://www.youtube.com/watch?v=CtL_ayfNKPI", "*0:08-0:23", cut=0)
 clip("gd22-sh-b.mp4", "https://www.youtube.com/watch?v=miOMwNG3HKs", "*0:15-0:35", backup=["https://www.youtube.com/watch?v=CtL_ayfNKPI"])
 ep(198, "sakupen-hell-challenge", "Sakupen Hell Was Made to Beat Riot and Cyclic", LIAM, "#ff3d00",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ff9e80", "stroke": 8},
@@ -250,17 +250,17 @@ clip("tr22-tk-b.mp4", "https://www.youtube.com/watch?v=OKh9HaTEUfk", "*0:40-1:00
 ep(200, "tarkov-labs-scourge", "Tarkov's New Labs Boss Had Aimbot Guards", MIKE, "#ffab00",
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#ffd740", "stroke": 8},
    [L("Escape from Tarkov just put a new boss in Labs, and players said his guards had aimbot.",
-      CLIP("tr22-tk-a.mp4", "SCOURGE", "THE NEW LABS BOSS", 0, TKC, bs=180)),
+      CLIP("tr22-tk-b.mp4", "SCOURGE", "THE NEW LABS BOSS", 0, TKC, bs=180)),
     L("The Scourge Incursion started October 16th. Scourge led 4 guards, said to be Arena champions.",
       S("4 ARENA\nCHAMPIONS", "OCTOBER 16", "red", "dark", bc="#ffffff", bs=150, fx=["red"], ic=ic("crosshair", "pulse"))),
     L("They had tier 5 armor, spawned every raid, and pushed and flanked like real players.",
-      CLIP("tr22-tk-b.mp4", "TIER 5\nARMOR", "100% SPAWN", 0, TKC, bs=150)),
+      CLIP("tr22-tk-b.mp4", "TIER 5\nARMOR", "100% SPAWN", 6.0, TKC, bs=150)),
     L("Four days later, Battlestate cut their health and their vision, and the event was extended to October 26th.",
       S("NERFED", "EXTENDED TO OCT 26", "night", "stone", bs=200, ic=ic("shield", "float"))),
     L("And now Nikita is teasing a zombie event in Labs, saying it's pretty big, with a surprise.",
       CLIP("tr22-tk-a.mp4", "ZOMBIE\nLABS?", "\"PRETTY BIG\"", 6.0, TKC, bs=150)),
     end("Did you fight Scourge?", "DID YOU FIGHT\nSCOURGE?", bg="night", ground="stone"),
-   ], pron={"Nikita": "Ni-kee-ta", "Battlestate": "Battle state"}, prop_clip="tr22-tk-a.mp4",
+   ], pron={"Nikita": "Ni-kee-ta", "Battlestate": "Battle state"}, prop_clip="tr22-tk-b.mp4",
    ticker="TARKOV: NEW LABS BOSS SCOURGE - ZOMBIE LABS EVENT TEASED", edition="ESCAPE FROM TARKOV", mood="spooky")
 
 # ================================================================== write
