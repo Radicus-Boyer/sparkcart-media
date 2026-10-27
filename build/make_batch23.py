@@ -210,7 +210,7 @@ ep(208, "blue-scuti-beat-tetris", "A 13 Year Old Was the First Person to Beat Te
 G6C = "Clips: Grand Theft Auto VI trailers, Rockstar Games (YouTube)"
 clip("tr23-g6-a.mp4", "https://www.youtube.com/watch?v=VQRLujxTm3c", "*1:06-1:26")
 clip("tr23-g6-b.mp4", "https://www.youtube.com/watch?v=Qqzj-j4qk0E", "*0:20-0:40", backup=["https://www.youtube.com/watch?v=oFwB6gZLRmc"])
-clip("tr23-g6-c.mp4", "https://www.youtube.com/watch?v=tJbzMqJGH4k", "*5:00-5:20")
+clip("tr23-g6-c.mp4", "https://www.youtube.com/watch?v=BSIytHG3-Xo", "*0:55-1:15", cut=0)  # extended look is age-restricted
 ep(209, "gta-6-launch-trailer", "GTA 6's Launch Trailer Is Out", MIKE, "#ff4081",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ff80ab", "stroke": 8},
    [L("GTA 6 is 22 days away, and the launch trailer is finally out.",
