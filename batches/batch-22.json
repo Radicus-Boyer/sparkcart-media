@@ -1,0 +1,229 @@
+{
+ "batch": 22,
+ "note": "4 Roblox, 4 GD, and then I walk in, Tarkov Labs (Oct 27)",
+ "posting": "batch-22/posting.txt",
+ "episodes": [
+  "episodes/roblox/191-the-hollow-roblox.json",
+  "episodes/roblox/192-anime-dice-roblox.json",
+  "episodes/roblox/193-break-and-steal-an-egg.json",
+  "episodes/roblox/194-huss-valley-roblox.json",
+  "episodes/roblox/195-silent-clubstep-race.json",
+  "episodes/roblox/196-cataclysm-hacked.json",
+  "episodes/roblox/197-sakupen-circles-1107185.json",
+  "episodes/roblox/198-sakupen-hell-challenge.json",
+  "episodes/roblox/199-and-then-i-walk-in.json",
+  "episodes/roblox/200-tarkov-labs-scourge.json"
+ ],
+ "clips": [
+  {
+   "name": "rb22-hl-a",
+   "url": "https://www.youtube.com/watch?v=iTjpQhV4_0U",
+   "backup": [
+    "https://www.youtube.com/watch?v=aDt4v0QR_wI"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-hl-b",
+   "url": "https://www.youtube.com/watch?v=m9DRQTdF248",
+   "backup": [
+    "https://www.youtube.com/watch?v=Xhv5PySNsZo"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-ad-a",
+   "url": "https://www.youtube.com/watch?v=GDhRkgOBJkk",
+   "backup": [
+    "https://www.youtube.com/watch?v=3Otkov2a7cU"
+   ],
+   "section": "*4:00-4:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-ad-b",
+   "url": "https://www.youtube.com/watch?v=Rb6VIV7S5fY",
+   "backup": [
+    "https://www.youtube.com/watch?v=azzcvjCZ0CI"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-be-a",
+   "url": "https://www.youtube.com/watch?v=MtNnuhxs5jk",
+   "backup": [
+    "https://www.youtube.com/watch?v=Y0o2gqsKzK8"
+   ],
+   "section": "*5:00-5:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-be-b",
+   "url": "https://www.youtube.com/watch?v=v57NpCawzVU",
+   "backup": [
+    "https://www.youtube.com/watch?v=Y0o2gqsKzK8"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-hv-a",
+   "url": "https://www.youtube.com/watch?v=OGxOmFC4Wyw",
+   "backup": [
+    "https://www.youtube.com/watch?v=xgvSsNX-dZI"
+   ],
+   "section": "*4:00-4:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "rb22-hv-b",
+   "url": "https://www.youtube.com/watch?v=iHM5GpAI-tc",
+   "backup": [
+    "https://www.youtube.com/watch?v=1zlsh6nTqkQ"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-sc-a",
+   "url": "https://www.youtube.com/watch?v=GR4OMkS3SN8",
+   "backup": [
+    "https://www.youtube.com/watch?v=0NUyQIltlfo"
+   ],
+   "section": "*0:40-1:00",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-sc-b",
+   "url": "https://www.youtube.com/watch?v=EOr8hDyXDvQ",
+   "backup": [
+    "https://www.youtube.com/watch?v=GR4OMkS3SN8"
+   ],
+   "section": "*1:20-1:40",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-ct-a",
+   "url": "https://www.youtube.com/watch?v=J90L73YOR3k",
+   "backup": [
+    "https://www.youtube.com/watch?v=gFU4ln-hcJY"
+   ],
+   "section": "*0:20-0:40",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-ct-b",
+   "url": "https://www.youtube.com/watch?v=2Q0CYSDFpKk",
+   "backup": [
+    "https://www.youtube.com/watch?v=xBdSwk-leAw"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-sk-a",
+   "url": "https://www.youtube.com/watch?v=ofG2mJi9kEA",
+   "backup": [
+    "https://www.youtube.com/watch?v=b66_Oe4Xo1w"
+   ],
+   "section": "*0:20-0:40",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-sk-b",
+   "url": "https://www.youtube.com/watch?v=zCJrhYTjqMo",
+   "backup": [
+    "https://www.youtube.com/watch?v=b66_Oe4Xo1w"
+   ],
+   "section": "*0:30-0:50",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-sh-a",
+   "url": "https://www.youtube.com/watch?v=svyOjwLCErg",
+   "backup": [
+    "https://www.youtube.com/watch?v=CtL_ayfNKPI"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "gd22-sh-b",
+   "url": "https://www.youtube.com/watch?v=miOMwNG3HKs",
+   "backup": [
+    "https://www.youtube.com/watch?v=CtL_ayfNKPI"
+   ],
+   "section": "*0:15-0:35",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "ml22-wi-a",
+   "url": "https://www.tiktok.com/@trevorlarcom/video/7696693848453500173",
+   "backup": [
+    "https://www.tiktok.com/@hyperstrides/video/7701058477937986838"
+   ],
+   "section": null,
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "ml22-wi-b",
+   "url": "https://www.tiktok.com/@290dan/video/7699669699440725269",
+   "backup": [
+    "https://www.tiktok.com/@timothy.haireth/video/7700026895466843406"
+   ],
+   "section": null,
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "ml22-wi-c",
+   "url": "https://www.tiktok.com/@alexanderthegreat025/video/7700360138200321287",
+   "backup": [
+    "https://www.tiktok.com/@zenzennyyyyz/video/7699897420347378952"
+   ],
+   "section": null,
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr22-tk-a",
+   "url": "https://www.youtube.com/watch?v=v7Gjb69XcP4",
+   "backup": [
+    "https://www.youtube.com/watch?v=dzD7nTUUyp8"
+   ],
+   "section": "*10:00-10:20",
+   "cut": 2,
+   "len": 13
+  },
+  {
+   "name": "tr22-tk-b",
+   "url": "https://www.youtube.com/watch?v=OKh9HaTEUfk",
+   "backup": [
+    "https://www.youtube.com/watch?v=Dd3MSNfRZ68"
+   ],
+   "section": "*0:40-1:00",
+   "cut": 2,
+   "len": 13
+  }
+ ]
+}

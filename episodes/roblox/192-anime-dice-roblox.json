@@ -1,0 +1,180 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 192,
+ "slug": "192-anime-dice-roblox",
+ "file": "192 Anime Dice Has 141 Million Visits in 2 Months.mp4",
+ "target": 31,
+ "accent": "#e040fb",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ea80fc",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game is only 2 months old, and it already has 141 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ANIME DICE",
+    "sub": "141 MILLION VISITS",
+    "full": {
+     "credit": "Clip: Anime Dice (Roblox gameplay)",
+     "clip": "rb22-ad-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Anime Dice came out in August 2026, made by More and More Games.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "AUGUST 2026",
+    "sub": "MORE & MORE GAMES",
+    "full": {
+     "credit": "Clip: Anime Dice (Roblox gameplay)",
+     "clip": "rb22-ad-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You roll dice to reveal anime characters, then upgrade your dice for more luck.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "ROLL THE\nDICE",
+    "sub": "REVEAL ANIME HEROES",
+    "bs": 170,
+    "fx": [
+     "confetti"
+    ],
+    "ic": [
+     {
+      "n": "star",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "spin"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "jump",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "You build the strongest team, and you even make money while you're offline.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BEST TEAM",
+    "sub": "MONEY WHILE OFFLINE",
+    "full": {
+     "credit": "Clip: Anime Dice (Roblox gameplay)",
+     "clip": "rb22-ad-a.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And it has 733,000 likes, and only about 6,800 dislikes.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 733236,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "LIKES",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "What's your best unit? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "YOUR BEST\nUNIT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

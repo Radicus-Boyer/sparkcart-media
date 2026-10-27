@@ -1,0 +1,192 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 196,
+ "slug": "196-cataclysm-hacked",
+ "file": "196 Cataclysm Was Verified With Hacks.mp4",
+ "target": 33,
+ "accent": "#d50000",
+ "voice": "am_fenrir",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "Ggb0y": "G G boy",
+  "Giron": "Hee-ron",
+  "Cataclysm": "Cat-a-clism"
+ },
+ "lines": [
+  {
+   "t": "The most famous level in Geometry Dash was first beaten with hacks.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "CATACLYSM",
+    "sub": "BEATEN WITH HACKS",
+    "full": {
+     "credit": "Clips: Cataclysm by Ggb0y; Riot's stream (YouTube)",
+     "clip": "gd22-ct-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Ggb0y spent around 80,000 attempts on Cataclysm, couldn't beat it, and hack-verified it in January 2015.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 80088,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "GGB0Y'S ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true
+   }
+  },
+  {
+   "t": "Cyclic was called the first real victor, until he admitted he hacked too.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "CYCLIC\nCONFESSED",
+    "sub": "THE FAKE FIRST VICTOR",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "alarm",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "mode": "wave",
+    "player": "Cyclic"
+   }
+  },
+  {
+   "t": "So Giron became the first legit victor, in May 2015. Then Riot verified the 2.0 version on stream.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "RIOT",
+    "sub": "VERIFIED ON STREAM",
+    "full": {
+     "credit": "Clips: Cataclysm by Ggb0y; Riot's stream (YouTube)",
+     "clip": "gd22-ct-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's still the second most liked Extreme Demon in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "#2 MOST\nLIKED",
+    "sub": "EXTREME DEMON",
+    "full": {
+     "credit": "Clips: Cataclysm by Ggb0y; Riot's stream (YouTube)",
+     "clip": "gd22-ct-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you beat Cataclysm? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "gd_player": "Riot",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

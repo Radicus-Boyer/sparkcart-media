@@ -1,0 +1,183 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 197,
+ "slug": "197-sakupen-circles-1107185",
+ "file": "197 One Player Took 1,107,185 Attempts on Sakupen Circles.mp4",
+ "target": 30,
+ "accent": "#ff1744",
+ "voice": "af_heart",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ff8a80",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "Sakupen": "Sa-koo-pen",
+  "ezzzzka": "ez-ka"
+ },
+ "lines": [
+  {
+   "t": "One player spent over a million attempts on this 1 minute level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SAKUPEN\nCIRCLES",
+    "sub": "1 MILLION+ ATTEMPTS",
+    "full": {
+     "credit": "Clips: Sakupen Circles verified by Diamond; Trick's 100% (YouTube)",
+     "clip": "gd22-sk-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Sakupen Circles was verified by Diamond, in December 2021.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "DIAMOND",
+    "sub": "DECEMBER 2021",
+    "full": {
+     "credit": "Clips: Sakupen Circles verified by Diamond; Trick's 100% (YouTube)",
+     "clip": "gd22-sk-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was placed number 1 on the Demonlist, and it's still the hardest level under a minute long.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "UNDER\n1 MINUTE",
+    "sub": "THE HARDEST ONE",
+    "bc": "#ffffff",
+    "bs": 170,
+    "fx": [
+     "red"
+    ],
+    "mode": "wave",
+    "player": "Diamond"
+   }
+  },
+  {
+   "t": "Most players need tens of thousands of attempts. But ezzzzka needed 1,107,185.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 1107185,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "EZZZZKA'S ATTEMPTS",
+    "bg": "red",
+    "ground": "dark",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "bc": "#ffffff",
+    "vig": true,
+    "mode": "cube",
+    "player": "ezzzzka"
+   }
+  },
+  {
+   "t": "That's more attempts than anyone has spent beating any level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "A RECORD",
+    "sub": "MOST ATTEMPTS EVER",
+    "full": {
+     "credit": "Clips: Sakupen Circles verified by Diamond; Trick's 100% (YouTube)",
+     "clip": "gd22-sk-a.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "How many attempts would you need? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "HOW MANY\nATTEMPTS?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "gd_player": "Diamond",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

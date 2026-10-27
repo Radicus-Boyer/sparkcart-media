@@ -1,0 +1,185 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 193,
+ "slug": "193-break-and-steal-an-egg",
+ "file": "193 Break and Steal an Egg Has 270 Million Visits.mp4",
+ "target": 31,
+ "accent": "#ffd600",
+ "voice": "am_liam",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffff00",
+  "stroke": 8
+ },
+ "pron": {
+  "ILGames": "I L Games"
+ },
+ "lines": [
+  {
+   "t": "Steal An Egg is the number 1 game on Roblox. So someone made Break and Steal an Egg.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "BREAK AND\nSTEAL AN EGG",
+    "sub": "INSPIRED BY THE #1 GAME",
+    "full": {
+     "credit": "Clip: Break and Steal an Egg (Roblox gameplay)",
+     "clip": "rb22-be-a.mp4",
+     "start": 0
+    },
+    "bs": 130,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out on September 5th, made by ILGames.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SEPTEMBER 5",
+    "sub": "BY ILGAMES",
+    "full": {
+     "credit": "Clip: Break and Steal an Egg (Roblox gameplay)",
+     "clip": "rb22-be-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You smash eggs with a pickaxe, hatch rare animals, then steal them and escape the guards.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "SMASH +\nSTEAL",
+    "sub": "ESCAPE THE GUARDS",
+    "bs": 170,
+    "ic": [
+     {
+      "n": "money",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "shake"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       1.2,
+       0.6
+      ],
+      "a": "run",
+      "c": "b"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Then you upgrade your speed and your pickaxe to grab rarer eggs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "UPGRADE",
+    "sub": "SPEED + PICKAXE",
+    "full": {
+     "credit": "Clip: Break and Steal an Egg (Roblox gameplay)",
+     "clip": "rb22-be-a.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 7 weeks it got 270 million visits.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 270076427,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "VISITS IN 7 WEEKS",
+    "bg": "gold",
+    "ground": "grass",
+    "bs": 140,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Steal An Egg or Break and Steal? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "gold",
+    "ground": "grass",
+    "big": "WHICH EGG\nGAME?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

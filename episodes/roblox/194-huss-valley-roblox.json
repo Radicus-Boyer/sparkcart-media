@@ -1,0 +1,193 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 194,
+ "slug": "194-huss-valley-roblox",
+ "file": "194 Huss Valley Has 205 Million Visits.mp4",
+ "target": 30,
+ "accent": "#00e676",
+ "voice": "am_fenrir",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#69f0ae",
+  "stroke": 8
+ },
+ "pron": {
+  "Huss": "Huss"
+ },
+ "lines": [
+  {
+   "t": "One chaser. Everyone else runs. Get caught, and you become a chaser too.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HUSS VALLEY",
+    "sub": "RUN!",
+    "full": {
+     "credit": "Clip: Huss Valley (Roblox gameplay)",
+     "clip": "rb22-hv-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Huss Valley came out on Roblox at the end of August 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "AUGUST 2026",
+    "sub": "HUSS VALLEY",
+    "full": {
+     "credit": "Clip: Huss Valley (Roblox gameplay)",
+     "clip": "rb22-hv-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Every round, you have to make it across before the chasers get you. The last one standing wins.",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "LAST ONE\nSTANDING",
+    "sub": "MAKE IT ACROSS",
+    "bs": 150,
+    "ic": [
+     {
+      "n": "trophy",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       -1.4,
+       0.6
+      ],
+      "a": "run",
+      "c": "a"
+     },
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "run",
+      "c": "b"
+     },
+     {
+      "p": [
+       1.4,
+       0.6
+      ],
+      "a": "run",
+      "c": "c"
+     }
+    ]
+   }
+  },
+  {
+   "t": "For Halloween, it added a woods map with knives and new abilities.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HALLOWEEN\nWOODS",
+    "sub": "KNIVES + ABILITIES",
+    "full": {
+     "credit": "Clip: Huss Valley (Roblox gameplay)",
+     "clip": "rb22-hv-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 2 months, it reached 205 million visits.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 205743618,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "VISITS",
+    "bg": "day",
+    "ground": "grass",
+    "bs": 160,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Runner or chaser? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "day",
+    "ground": "grass",
+    "big": "RUNNER OR\nCHASER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ]
+}

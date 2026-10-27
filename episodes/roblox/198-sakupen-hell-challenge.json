@@ -1,0 +1,174 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 198,
+ "slug": "198-sakupen-hell-challenge",
+ "file": "198 Sakupen Hell Was Made to Beat Riot and Cyclic.mp4",
+ "target": 31,
+ "accent": "#ff3d00",
+ "voice": "am_liam",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ff9e80",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "Sakupen": "Sa-koo-pen",
+  "Noobas": "Noo-bas",
+  "TrusTa": "Trust-a"
+ },
+ "lines": [
+  {
+   "t": "This level was made as a challenge to the two best players in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SAKUPEN\nHELL",
+    "sub": "A CHALLENGE",
+    "full": {
+     "credit": "Clips: Sakupen Hell by Noobas, verified by TrusTa; Riot (YouTube)",
+     "clip": "gd22-sh-a.mp4",
+     "start": 0
+    },
+    "bs": 160,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Noobas made Sakupen Hell to challenge Riot and Cyclic, and openly hack-verified it in June 2015.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "VS RIOT\n& CYCLIC",
+    "sub": "OPENLY HACK-VERIFIED",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "mode": "cube",
+    "player": "Riot"
+   }
+  },
+  {
+   "t": "Then he deleted it, to start over as a legit player.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DELETED",
+    "sub": "A FRESH START",
+    "bs": 200,
+    "mode": "ship",
+    "player": "Noobas"
+   }
+  },
+  {
+   "t": "Over a year later, TrusTa verified it for real, on livestream, in August 2016.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "TRUSTA",
+    "sub": "AUGUST 2016",
+    "full": {
+     "credit": "Clips: Sakupen Hell by Noobas, verified by TrusTa; Riot (YouTube)",
+     "clip": "gd22-sh-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It became the hardest level in the game, passing Bloodbath.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "NEW #1",
+    "sub": "PASSED BLOODBATH",
+    "full": {
+     "credit": "Clips: Sakupen Hell by Noobas, verified by TrusTa; Riot (YouTube)",
+     "clip": "gd22-sh-a.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Riot or Cyclic? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "RIOT OR\nCYCLIC?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "gd_player": "TrusTa",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

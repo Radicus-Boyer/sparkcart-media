@@ -1,0 +1,179 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 195,
+ "slug": "195-silent-clubstep-race",
+ "file": "195 The Race to Beat the Impossible Level.mp4",
+ "target": 29,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/SairaStencilOne-Regular.ttf",
+  "size": 96,
+  "fill": "#ffffff",
+  "hi": "#82b1ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "BGram": "B Gram",
+  "MindCap": "Mind Cap",
+  "nSwish": "N Swish",
+  "BoldStep": "Bold Step",
+  "Exyl": "Ex-il",
+  "Dils": "Dills",
+  "thik": "thick",
+  "Exen": "Ex-en",
+  "ViperVenom95": "Viper Venom",
+  "paqoe": "pa-co",
+  "icedcave": "iced cave",
+  "Clubstep": "Club step"
+ },
+ "lines": [
+  {
+   "t": "For years, everyone said this Geometry Dash level was impossible.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SILENT\nCLUBSTEP",
+    "sub": "\"IMPOSSIBLE\"",
+    "full": {
+     "credit": "Clips: Silent clubstep verified by paqoe; Vision's 100% (YouTube)",
+     "clip": "gd22-sc-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then in 2020, its creator fixed it with icedcave, and the best players raced to verify it first.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "THE RACE",
+    "sub": "WHO VERIFIES IT FIRST?",
+    "bs": 200,
+    "mode": "cube",
+    "player": "paqoe"
+   }
+  },
+  {
+   "t": "paqoe won. She verified it in July 2022, after about 138,000 attempts.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 138000,
+     "fmt": "~{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "PAQOE'S ATTEMPTS",
+    "bg": "night",
+    "ground": "stone",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ],
+    "mode": "ship",
+    "player": "paqoe"
+   }
+  },
+  {
+   "t": "Her premiere had 3,700 people watching live.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "3,700\nWATCHING",
+    "sub": "THE PREMIERE",
+    "full": {
+     "credit": "Clips: Silent clubstep verified by paqoe; Vision's 100% (YouTube)",
+     "clip": "gd22-sc-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Vision lost the race, but kept going, and beat it after 821,027 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "VISION",
+    "sub": "821,027 ATTEMPTS",
+    "full": {
+     "credit": "Clips: Silent clubstep verified by paqoe; Vision's 100% (YouTube)",
+     "clip": "gd22-sc-b.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you beat Silent Clubstep? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "COULD YOU\nBEAT IT?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "gd_player": "paqoe",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

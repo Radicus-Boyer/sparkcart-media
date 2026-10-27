@@ -1,0 +1,178 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 200,
+ "slug": "200-tarkov-labs-scourge",
+ "file": "200 Tarkov's New Labs Boss Had Aimbot Guards.mp4",
+ "target": 37,
+ "accent": "#ffab00",
+ "voice": "am_michael",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ffd740",
+  "stroke": 8
+ },
+ "pron": {
+  "Nikita": "Ni-kee-ta",
+  "Battlestate": "Battle state"
+ },
+ "lines": [
+  {
+   "t": "Escape from Tarkov just put a new boss in Labs, and players said his guards had aimbot.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "SCOURGE",
+    "sub": "THE NEW LABS BOSS",
+    "full": {
+     "credit": "Clips: Escape from Tarkov, Battlestate Games; LVNDMARK (YouTube)",
+     "clip": "tr22-tk-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Scourge Incursion started October 16th. Scourge led 4 guards, said to be Arena champions.",
+   "sc": {
+    "bg": "red",
+    "ground": "dark",
+    "big": "4 ARENA\nCHAMPIONS",
+    "sub": "OCTOBER 16",
+    "bc": "#ffffff",
+    "bs": 150,
+    "fx": [
+     "red"
+    ],
+    "ic": [
+     {
+      "n": "crosshair",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ]
+   }
+  },
+  {
+   "t": "They had tier 5 armor, spawned every raid, and pushed and flanked like real players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "TIER 5\nARMOR",
+    "sub": "100% SPAWN",
+    "full": {
+     "credit": "Clips: Escape from Tarkov, Battlestate Games; LVNDMARK (YouTube)",
+     "clip": "tr22-tk-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Four days later, Battlestate cut their health and their vision, and the event was extended to October 26th.",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "NERFED",
+    "sub": "EXTENDED TO OCT 26",
+    "bs": 200,
+    "ic": [
+     {
+      "n": "shield",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "float"
+     }
+    ]
+   }
+  },
+  {
+   "t": "And now Nikita is teasing a zombie event in Labs, saying it's pretty big, with a surprise.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "ZOMBIE\nLABS?",
+    "sub": "\"PRETTY BIG\"",
+    "full": {
+     "credit": "Clips: Escape from Tarkov, Battlestate Games; LVNDMARK (YouTube)",
+     "clip": "tr22-tk-a.mp4",
+     "start": 6.0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you fight Scourge? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "stone",
+    "big": "DID YOU FIGHT\nSCOURGE?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "prop_clip": "tr22-tk-a.mp4",
+ "ticker": "TARKOV: NEW LABS BOSS SCOURGE - ZOMBIE LABS EVENT TEASED",
+ "edition": "ESCAPE FROM TARKOV",
+ "mood": "spooky"
+}

@@ -1,0 +1,180 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 191,
+ "slug": "191-the-hollow-roblox",
+ "file": "191 The Hollow Is Roblox's Own Horror Event.mp4",
+ "target": 30,
+ "accent": "#ff6d00",
+ "voice": "af_sarah",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ffab40",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Roblox itself made this horror game, and it's asking you not to go in.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "THE HOLLOW",
+    "sub": "BY ROBLOX ITSELF",
+    "full": {
+     "credit": "Clip: The Hollow (Roblox gameplay)",
+     "clip": "rb22-hl-a.mp4",
+     "start": 0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Hollow opened on October 22nd, made by Roblox Presents.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "OCTOBER 22",
+    "sub": "ROBLOX PRESENTS",
+    "full": {
+     "credit": "Clip: The Hollow (Roblox gameplay)",
+     "clip": "rb22-hl-b.mp4",
+     "start": 0
+    },
+    "bs": 170,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Every night, it drops you somewhere new, and some creators are going in live.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "A NEW PLACE\nEVERY NIGHT",
+    "sub": "CREATORS GO IN LIVE",
+    "bs": 140,
+    "fx": [
+     "fireflies"
+    ],
+    "ic": [
+     {
+      "n": "eye",
+      "x": 860,
+      "y": 820,
+      "s": 150,
+      "a": "pulse"
+     }
+    ],
+    "av": [
+     {
+      "p": [
+       0.0,
+       0.8
+      ],
+      "a": "walk",
+      "c": "a"
+     }
+    ]
+   }
+  },
+  {
+   "t": "Quests here and in other Roblox games give you free avatar items.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "FREE ITEMS",
+    "sub": "EVENT QUESTS",
+    "full": {
+     "credit": "Clip: The Hollow (Roblox gameplay)",
+     "clip": "rb22-hl-a.mp4",
+     "start": 6.0
+    },
+    "bs": 180,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It already has almost 97 million visits, and it ends on Halloween.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 96941754,
+     "fmt": "{:,.0f}",
+     "dur": 1.5
+    },
+    "sub": "VISITS",
+    "bg": "night",
+    "ground": "dark",
+    "bs": 160,
+    "fx": [
+     "sparkle"
+    ]
+   }
+  },
+  {
+   "t": "Will you go in? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "WILL YOU\nGO IN?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "mood": "spooky"
+}

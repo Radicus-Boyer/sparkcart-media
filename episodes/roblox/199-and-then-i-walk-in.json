@@ -1,0 +1,160 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 199,
+ "slug": "199-and-then-i-walk-in",
+ "file": "199 Where And Then I Walk In Came From.mp4",
+ "target": 34,
+ "accent": "#ffd740",
+ "voice": "am_puck",
+ "speed": 1.04,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "And then I walk in. Why is this guy in every comment section?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "AND THEN\nI WALK IN",
+    "sub": "WHO IS HE?",
+    "full": {
+     "credit": "Clips: TikTok (@trevorlarcom, @290dan, @alexanderthegreat025)",
+     "clip": "ml22-wi-a.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The meme is one photo of a guy posing like a model, with the words, and then I walk in.",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "ONE PHOTO",
+    "sub": "\"AND THEN I WALK IN\"",
+    "bs": 200
+   }
+  },
+  {
+   "t": "The joke is, no matter how good a post is, he walks in and steals the spotlight.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "HE STEALS\nTHE SHOW",
+    "sub": "AURA",
+    "full": {
+     "credit": "Clips: TikTok (@trevorlarcom, @290dan, @alexanderthegreat025)",
+     "clip": "ml22-wi-b.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "TikTokers traced it to a creator called Model Alexander, and one origin video got 1.9 million views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "big": "MODEL\nALEXANDER",
+    "sub": "THE ORIGIN",
+    "full": {
+     "credit": "Clips: TikTok (@trevorlarcom, @290dan, @alexanderthegreat025)",
+     "clip": "ml22-wi-c.mp4",
+     "start": 0
+    },
+    "bs": 150,
+    "by": 300,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Now he's even walking into Roblox comment sections.",
+   "sc": {
+    "count": {
+     "from": 0,
+     "to": 1.9,
+     "fmt": "{:.1f}M",
+     "dur": 1.5
+    },
+    "sub": "VIEWS ON ONE ORIGIN VIDEO",
+    "bg": "party",
+    "ground": "purple",
+    "bs": 220,
+    "fx": [
+     "confetti"
+    ]
+   }
+  },
+  {
+   "t": "Who walked in better? Like and subscribe, and comment for which game we should review next!",
+   "sc": {
+    "bg": "party",
+    "ground": "purple",
+    "big": "WHO WALKED\nIN BETTER?",
+    "sub": "COMMENT FOR WHICH GAME\nWE SHOULD REVIEW NEXT!",
+    "rays": "#ffffff",
+    "ss": 50,
+    "sgap": 62,
+    "fx": [
+     "confetti"
+    ],
+    "av": [
+     {
+      "p": [
+       -1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "a"
+     },
+     {
+      "p": [
+       0,
+       1.2
+      ],
+      "a": "wave",
+      "c": "g"
+     },
+     {
+      "p": [
+       1.8,
+       0.6
+      ],
+      "a": "cheer",
+      "c": "b"
+     }
+    ],
+    "ic": [
+     {
+      "n": "heart",
+      "x": 170,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     },
+     {
+      "n": "bolt",
+      "x": 910,
+      "y": 700,
+      "s": 130,
+      "a": "pulse"
+     }
+    ]
+   }
+  }
+ ],
+ "prop_clip": "ml22-wi-a.mp4",
+ "edition": "MEME LORE"
+}
