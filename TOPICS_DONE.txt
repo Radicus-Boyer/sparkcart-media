@@ -260,3 +260,13 @@ Check new ideas against this list to avoid repeats: python3 tools/topics.py chec
 198  Sakupen Hell Was Made to Beat Riot and Cyclic
 199  Where And Then I Walk In Came From
 200  Tarkov's New Labs Boss Had Aimbot Guards
+201  Ragdoll Reality Is 2 Weeks Old With 17 Million Visits
+202  Bike Universe Got 35 Million Visits in a Month
+203  The Race to Be the First to Beat Grief
+204  Flamewall Took 221,703 Attempts
+205  Where Scrib Doon Came From
+206  Niftski Is 4 Frames From a Perfect Mario Run
+207  Someone Beat Minecraft in 6 Minutes 39 Seconds
+208  A 13 Year Old Was the First Person to Beat Tetris
+209  GTA 6's Launch Trailer Is Out
+210  Freddy Krueger and FNAF Are in Fortnite
