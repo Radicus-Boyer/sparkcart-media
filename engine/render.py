@@ -13,7 +13,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFilter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from art import *
-import tts, music
+import tts, music, stages
 
 D = os.path.dirname(os.path.abspath(__file__)) + "/"
 ROOT = os.path.dirname(D.rstrip("/")) + "/"
@@ -737,6 +737,12 @@ def render(ep, sheet=False):
             img = clips.get(fu, i, int(round(lt * FPS)))
         elif fu:
             img = full_still(fu).copy()
+        elif ep.get("stage") == "gd":
+            img = stages.gd_stage(sc, lt, ep["num"] * 31 + i, ep, ep.get("bpm", 128))
+        elif ep.get("stage") == "meme":
+            img = stages.meme_stage(sc, lt, ep["num"] * 31 + i, ep, WORK, paste_icon)
+        elif ep.get("stage") == "news":
+            img = stages.news_stage(sc, lt, ep["num"] * 31 + i, ep, WORK, text_img, ST["sub_font"])
         else:
             b, f = get_layers(i)
             img = b.copy()
@@ -812,6 +818,10 @@ def load(path):
         ep["lines"] = kept
         if ep.get("target"):
             ep["target"] = max(20, ep["target"] - 5)
+    # User rule (Oct 27, 2026): non-Roblox videos never use the Roblox avatars/baseplate; pick a topic stage.
+    if not ep.get("stage") and ep.get("edition") and "ROBLOX" not in ep["edition"].upper():
+        ed = ep["edition"].upper()
+        ep["stage"] = "gd" if "GEOMETRY" in ed else "meme" if "MEME" in ed else "news"
     ST = PRESETS[ep.get("preset", "roblox")]
     return ep
 

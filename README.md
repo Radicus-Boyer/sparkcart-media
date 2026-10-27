@@ -246,3 +246,12 @@ All art in these videos is original. No official sprites, logos or gameplay are 
 - Check ideas before writing a batch: `python3 tools/topics.py check "DOORS" "Hollow Knight"`
 - Check a whole generator: `python3 tools/topics.py check-batch build/make_batchNN.py`
 - Rebuild by hand: `python3 tools/topics.py update`
+
+## Non-Roblox stages (rule since Oct 27, 2026)
+Videos that are not about Roblox never use the blocky avatars or baseplates. `engine/stages.py` draws a topic stage for every
+generated scene instead, picked by `"stage"` (or automatically from `"edition"`):
+- `gd`: a moving Geometry Dash level. Set `"gd_player": "Zoink"` (or per scene `"player"`) and the player's real cube,
+  ship and wave icons are fetched from GDBrowser (`engine/gdicons.py`, cached as `episodes/assets/gdicon-<player>-<form>.png`).
+  Scenes cycle cube / ship / wave unless `"mode"` is set.
+- `meme`: a phone showing a still from `"prop_clip"` (or scene `"prop"` image) with floating reactions.
+- `news`: a news desk with the story on a monitor, a flashing BREAKING tag and a `"ticker"` headline.
