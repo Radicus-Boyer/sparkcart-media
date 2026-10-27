@@ -72,12 +72,20 @@ def fit(im, w, h):
 
 
 def glow(img, layer, radius=18, strength=1.0):
-    g = layer.filter(ImageFilter.GaussianBlur(radius))
+    """Blur only the drawn area (much faster than blurring the whole 1080x1920 frame)."""
+    bb = layer.getbbox()
+    if not bb:
+        return
+    pad = radius * 3
+    x0, y0 = max(0, bb[0] - pad), max(0, bb[1] - pad)
+    x1, y1 = min(layer.width, bb[2] + pad), min(layer.height, bb[3] + pad)
+    part = layer.crop((x0, y0, x1, y1))
+    g = part.filter(ImageFilter.GaussianBlur(radius))
     if strength != 1:
         a = g.split()[3].point(lambda v: min(255, int(v * strength)))
         g.putalpha(a)
-    img.alpha_composite(g)
-    img.alpha_composite(layer)
+    img.alpha_composite(g, (x0, y0))
+    img.alpha_composite(part, (x0, y0))
 
 
 def default_cube(size, c1, c2):
