@@ -1,0 +1,113 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 210,
+ "slug": "210-fortnitemares-freddy",
+ "file": "210 Freddy Krueger and FNAF Are in Fortnite.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ffab40",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Freddy Krueger is a boss in Fortnite right now.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnitemares 2026 trailers, Epic Games; SinX6 (YouTube)",
+     "clip": "tr23-fn-a.mp4",
+     "start": 0
+    },
+    "big": "FREDDY\nKRUEGER",
+    "sub": "IN FORTNITE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Fortnitemares started October 1st. Freddy guards a new spot, Nightmare Neighborhood.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnitemares 2026 trailers, Epic Games; SinX6 (YouTube)",
+     "clip": "tr23-fn-b.mp4",
+     "start": 0
+    },
+    "big": "NIGHTMARE\nNEIGHBORHOOD",
+    "sub": "FORTNITEMARES 2026",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And at Freddy Fazbear's Pizzeria, you can beat the Five Nights at Freddy's animatronics, then become them.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnitemares 2026 trailers, Epic Games; SinX6 (YouTube)",
+     "clip": "tr23-fn-c.mp4",
+     "start": 0
+    },
+    "big": "BECOME\nFOXY",
+    "sub": "FNAF BOSSES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You can even use Freddy Krueger's claws. But it all ends on November 1st.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnitemares 2026 trailers, Epic Games; SinX6 (YouTube)",
+     "clip": "tr23-fn-b.mp4",
+     "start": 6.0
+    },
+    "big": "ENDS\nNOV 1",
+    "sub": "FREDDY'S CLAWS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Which Freddy is scarier?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnitemares 2026 trailers, Epic Games; SinX6 (YouTube)",
+     "clip": "tr23-fn-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH FREDDY\nIS SCARIER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 0.8,
+ "tail": 0.6,
+ "clip_audio": true,
+ "prop_clip": "tr23-fn-b.mp4",
+ "ticker": "FORTNITEMARES 2026 ENDS NOVEMBER 1",
+ "edition": "FORTNITE",
+ "mood": "spooky"
+}

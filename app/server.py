@@ -337,7 +337,7 @@ def job_clips(job, bn, auto_render):
             continue
         out = os.path.join(cut, name + ".mp4")
         rc = run_cmd(job, ["ffmpeg", "-y", "-loglevel", "error", "-ss", str(cl.get("cut", 0)), "-t", str(cl.get("len", 13)),
-                           "-i", rawf, "-an", "-vf", "scale=1280:-2,fps=30", "-c:v", "libx264", "-crf", "20", out])
+                           "-i", rawf, "-map", "0:v:0", "-map", "0:a:0?", "-c:a", "aac", "-b:a", "128k", "-vf", "scale=1280:-2,fps=30", "-c:v", "libx264", "-crf", "20", out])
         if rc == 0:
             shutil.copy(out, f"{ROOT}/episodes/assets/{name}.mp4")
             job.say(f"ready: {name}")
@@ -369,7 +369,7 @@ def job_one_clip(job, name, url, start, length):
         job.status = "failed"
         return
     out = os.path.join(cut, name + ".mp4")
-    if run_cmd(job, ["ffmpeg", "-y", "-loglevel", "error", "-t", str(length), "-i", rawf, "-an", "-vf", "scale=1280:-2,fps=30",
+    if run_cmd(job, ["ffmpeg", "-y", "-loglevel", "error", "-t", str(length), "-i", rawf, "-map", "0:v:0", "-map", "0:a:0?", "-c:a", "aac", "-b:a", "128k", "-vf", "scale=1280:-2,fps=30",
                      "-c:v", "libx264", "-crf", "20", out]) == 0:
         shutil.copy(out, f"{ROOT}/episodes/assets/{name}.mp4")
         job.say(f"Clip ready: {name}.mp4 (in {cut} and episodes/assets)")

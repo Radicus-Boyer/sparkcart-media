@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 206,
+ "slug": "206-niftski-4-frames",
+ "file": "206 Niftski Is 4 Frames From a Perfect Mario Run.mp4",
+ "target": 0,
+ "accent": "#ff3d00",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ff9e80",
+  "stroke": 8
+ },
+ "pron": {
+  "Niftski": "Nift-ski"
+ },
+ "lines": [
+  {
+   "t": "This is the fastest anyone has ever beaten Super Mario Bros.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Niftski, Super Mario Bros. Any% 4:54.332; TAS comparison by Reflect (YouTube)",
+     "clip": "tr23-nf-a.mp4",
+     "start": 0
+    },
+    "big": "4:54.332",
+    "sub": "WORLD RECORD",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Niftski set it in August: 4 minutes, 54.332 seconds.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Niftski, Super Mario Bros. Any% 4:54.332; TAS comparison by Reflect (YouTube)",
+     "clip": "tr23-nf-b.mp4",
+     "start": 0
+    },
+    "big": "NIFTSKI",
+    "sub": "AUGUST 13, 2026",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The best run thought possible is 4:54.265. He's just 4 frames off. That's about a fifteenth of a second.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Niftski, Super Mario Bros. Any% 4:54.332; TAS comparison by Reflect (YouTube)",
+     "clip": "tr23-nf-c.mp4",
+     "start": 0
+    },
+    "big": "4 FRAMES",
+    "sub": "FROM PERFECT",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   },
+   "say": "The best run thought possible is 4 54 point 2 6 5. He's just 4 frames off. That's about a fifteenth of a second."
+  },
+  {
+   "t": "And right now, he's live streaming attempts to tie it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Niftski, Super Mario Bros. Any% 4:54.332; TAS comparison by Reflect (YouTube)",
+     "clip": "tr23-nf-b.mp4",
+     "start": 6.0
+    },
+    "big": "GOING FOR\nPERFECT",
+    "sub": "LIVE ON STREAM",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Can a human ever get a perfect run?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Niftski, Super Mario Bros. Any% 4:54.332; TAS comparison by Reflect (YouTube)",
+     "clip": "tr23-nf-a.mp4",
+     "start": 0.0
+    },
+    "big": "PERFECT\nPOSSIBLE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 0.8,
+ "tail": 0.6,
+ "clip_audio": true,
+ "prop_clip": "tr23-nf-b.mp4",
+ "ticker": "SUPER MARIO BROS. ANY% WORLD RECORD: 4:54.332",
+ "edition": "SUPER MARIO BROS"
+}

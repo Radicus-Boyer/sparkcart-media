@@ -1,0 +1,113 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 202,
+ "slug": "202-bike-universe",
+ "file": "202 Bike Universe Got 35 Million Visits in a Month.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#84ffff",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game pays you to pull wheelies.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bike Universe (Roblox gameplay, YouTube)",
+     "clip": "rb23-bu-a.mp4",
+     "start": 0
+    },
+    "big": "BIKE\nUNIVERSE",
+    "sub": "WHEELIES = MONEY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Bike Universe came out on September 27th. You earn money from riding, wheelies and tricks.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bike Universe (Roblox gameplay, YouTube)",
+     "clip": "rb23-bu-b.mp4",
+     "start": 0
+    },
+    "big": "TRICKS\nPAY",
+    "sub": "SEPTEMBER 27",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then you collect dirt bikes, electric bikes and pedal bikes, tune them, and race your friends.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bike Universe (Roblox gameplay, YouTube)",
+     "clip": "rb23-bu-a.mp4",
+     "start": 6.0
+    },
+    "big": "DIRT. ELECTRIC.\nPEDAL.",
+    "sub": "TUNE + RACE",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "One month in, it has over 35 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bike Universe (Roblox gameplay, YouTube)",
+     "clip": "rb23-bu-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS IN 1 MONTH",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 35675299,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Dirt bike or electric?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bike Universe (Roblox gameplay, YouTube)",
+     "clip": "rb23-bu-a.mp4",
+     "start": 0.0
+    },
+    "big": "DIRT OR\nELECTRIC?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 0.8,
+ "tail": 0.6,
+ "clip_audio": true
+}

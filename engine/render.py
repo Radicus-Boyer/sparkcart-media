@@ -659,11 +659,15 @@ def synth_lines(ep, speed):
 def build_voice(ep):
     target = ep["target"]
     speed = ep.get("speed", 1.12)
-    gap, lead, tail = 0.16, (0.12 if ep.get("hdr") == "tag" else 0.3), 1.2
+    # v2 (Oct 27, 2026): "lead" lets the hook clip play with its own sound before narration starts;
+    # target 0 = natural length (no padding, no forced speed-up); "tail" short so the end loops.
+    gap = 0.16
+    lead = ep.get("lead", 0.12 if ep.get("hdr") == "tag" else 0.3)
+    tail = ep.get("tail", 1.2)
     for _ in range(3):
         clips, sr = synth_lines(ep, speed)
         total = lead + sum(len(c) / sr for c in clips) + gap * (len(clips) - 1) + tail
-        if total > target + 1.0 and speed < 1.4:
+        if target and total > target + 1.0 and speed < 1.4:
             speed = min(1.4, speed * total / (target + 0.3))
             continue
         break
@@ -673,7 +677,7 @@ def build_voice(ep):
         parts += [c, np.zeros(int(sr * gap), np.float32)]
         t += len(c) / sr + gap
     audio = np.concatenate(parts)
-    end = max(t - gap + tail, target - 0.5 if total < target else 0)
+    end = max(t - gap + tail, target - 0.5 if target and total < target else 0)
     audio = np.concatenate([audio, np.zeros(max(0, int(end * sr) - len(audio)), np.float32)])
     audio = audio / np.max(np.abs(audio)) * 0.92
     with wave.open(WORK + f"{ep['slug']}_voice.wav", "wb") as w:
@@ -687,6 +691,37 @@ def write_wav(fn, a, sr):
     with wave.open(fn, "wb") as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)
         w.writeframes((a * 32767).astype(np.int16).tobytes())
+
+
+def clip_audio_track(ep, starts, end):
+    """v2: the real clips keep their own sound (screams, hits, crowds). Each full-clip scene contributes
+    its audio at its own time; the mix ducks it under the narration so it is loud in the hook and gaps."""
+    sr = music.SR
+    a = np.zeros(int((end + 1) * sr), np.float32)
+    got = False
+    for i, ln in enumerate(ep["lines"]):
+        fu = ln["sc"].get("full") or {}
+        if not fu.get("clip") or fu.get("mute"):
+            continue
+        dur = (starts[i + 1] if i + 1 < len(starts) else end) - starts[i]
+        r = subprocess.run(["ffmpeg", "-loglevel", "error", "-ss", str(fu.get("start", 0)), "-t", f"{dur + 0.05:.3f}",
+                            "-i", ROOT + "episodes/assets/" + fu["clip"], "-vn", "-ac", "1", "-ar", str(sr), "-f", "f32le", "-"],
+                           capture_output=True)
+        seg = np.frombuffer(r.stdout, np.float32).copy()
+        if not len(seg):
+            continue
+        f = min(len(seg) // 2, int(0.03 * sr))
+        if f:
+            seg[:f] *= np.linspace(0, 1, f)
+            seg[-f:] *= np.linspace(1, 0, f)
+        seg *= fu.get("vol", 1.0)
+        p = int(starts[i] * sr)
+        a[p:p + len(seg)] += seg[: len(a) - p]
+        got = True
+    if not got:
+        return None
+    pk = np.max(np.abs(a)) or 1
+    return (a / pk * 0.8)[: int(end * sr)]
 
 
 def sfx_track(starts, end):
@@ -798,6 +833,21 @@ def render(ep, sheet=False):
     write_wav(WORK + f"{ep['slug']}_music.wav", mus, music.SR)
     write_wav(WORK + f"{ep['slug']}_sfx.wav", sfx_track(starts, END), music.SR)
     final = OUT + ep["file"]
+    ca = clip_audio_track(ep, starts, END) if ep.get("clip_audio") else None
+    if ca is not None:
+        write_wav(WORK + f"{ep['slug']}_clipaudio.wav", ca, music.SR)
+        cv = ep.get("clip_vol", 0.9)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", WORK + f"{ep['slug']}_voice.wav",
+                        "-i", WORK + f"{ep['slug']}_music.wav", "-i", WORK + f"{ep['slug']}_sfx.wav",
+                        "-i", WORK + f"{ep['slug']}_clipaudio.wav", "-filter_complex",
+                        "[1:a]aresample=44100,volume=1.5,asplit=3[vo1][vo2][vo3];[2:a]volume=0.20[mu];"
+                        f"[4:a]volume={cv}[ca];"
+                        "[mu][vo1]sidechaincompress=threshold=0.05:ratio=6:attack=20:release=300[md];"
+                        "[ca][vo3]sidechaincompress=threshold=0.03:ratio=12:attack=10:release=250[cd];"
+                        "[md][vo2][3:a][cd]amix=inputs=4:normalize=0:duration=first,alimiter=limit=0.95[aout]",
+                        "-map", "0:v", "-map", "[aout]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", final], check=True)
+        print("done", final, f"{END:.1f}s speed {speed:.2f} (clip audio)")
+        return
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", WORK + f"{ep['slug']}_voice.wav",
                     "-i", WORK + f"{ep['slug']}_music.wav", "-i", WORK + f"{ep['slug']}_sfx.wav", "-filter_complex",
                     "[1:a]aresample=44100,volume=1.5,asplit=2[vo1][vo2];[2:a]volume=0.30[mu];"

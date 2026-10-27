@@ -142,6 +142,8 @@ def gd_stage(sc, lt, seed, ep, bpm):
     ImageDraw.Draw(line).rectangle([0, GD_GROUND - 3, W, GD_GROUND + 3], fill=mix(acc, (255, 255, 255), 0.5 + 0.4 * beat) + (255,))
     glow(img, line, 14, 1.4)
     d = ImageDraw.Draw(img)
+    if sc.get("race"):
+        return gd_race(img, sc, lt, ep, acc, base, beat)
     mode = sc.get("mode") or ("cube", "ship", "wave")[seed % 3]
     if mode == "ship":
         return gd_ship(img, sc, lt, ep, acc, base, beat)
@@ -326,4 +328,56 @@ def news_stage(sc, lt, seed, ep, work, text_img, font):
     tim = text_img(("   •   ".join([tick] * 4)), 46, (255, 255, 255), font, 3, 20000)
     off = int((lt * 220) % max(1, tim.width // 4))
     img.alpha_composite(tim, (40 - off, 1300 + (80 - tim.height) // 2))
+    return img
+
+
+# ------------------------------------------------------------ race (v2, Oct 27 2026)
+# sc["race"] = [{"player": "Zoink", "pct": 80, "col": "#ff5252"}, {"player": "wPopoff", "pct": 81}]
+# Two lanes, each player's real cube icon riding a progress bar that fills to their best %, then shakes.
+def _font(size):
+    key = ("f", size)
+    if key not in _cache:
+        from PIL import ImageFont
+        _cache[key] = ImageFont.truetype(os.path.join(D, "modern", "fonts", "Anton-Regular.ttf"), size)
+    return _cache[key]
+
+
+def gd_race(img, sc, lt, ep, acc, base, beat):
+    racers = sc["race"]
+    lanes = [760 + i * 330 for i in range(len(racers))]
+    best = max(r["pct"] for r in racers)
+    x0, x1 = 90, W - 90
+    for i, (r, y) in enumerate(zip(racers, lanes)):
+        col = rgb(r.get("col", ("#ff5252", "#40c4ff", "#69f0ae")[i % 3]))
+        k = min(1.0, max(0.0, (lt - 0.15 * i) / 1.6))
+        k = 1 - (1 - k) ** 3
+        pct = r["pct"] * k
+        bar = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        bd = ImageDraw.Draw(bar)
+        bd.rounded_rectangle([x0, y - 34, x1, y + 34], 34, fill=(10, 10, 18, 220), outline=(255, 255, 255, 255), width=5)
+        xe = x0 + (x1 - x0) * pct / 100
+        if xe > x0 + 40:
+            bd.rounded_rectangle([x0 + 8, y - 26, xe, y + 26], 26, fill=col + (255,))
+        glow(img, bar, 12, 0.9 + (0.6 * beat if r["pct"] == best else 0.2))
+        d = ImageDraw.Draw(img)
+        # the 100% finish flag, nobody there yet
+        for j in range(4):
+            for q in range(2):
+                c = (255, 255, 255) if (j + q) % 2 == 0 else (20, 20, 20)
+                d.rectangle([x1 - 30 + q * 15, y - 110 + j * 15, x1 - 15 + q * 15, y - 95 + j * 15], fill=c)
+        d.line([x1 - 30, y - 110, x1 - 30, y - 34], fill=(255, 255, 255), width=5)
+        size = 120
+        ic = player_icon({"player": r["player"]}, ep, "cube", size) or default_cube(size, col, mix(col, (255, 255, 255), 0.6))
+        hop = abs(math.sin(lt * 7 + i)) * 26 if k < 1 else 0
+        shake = (math.sin(lt * 60) * 6 if k >= 1 and r["pct"] == best else 0)
+        rot = -90 * ((lt * 3 + i) % 1) if k < 1 else 0
+        ri = ic.rotate(rot, resample=Image.BICUBIC, expand=True)
+        cx = max(x0 + size / 2, xe) + shake
+        img.alpha_composite(ri, (int(cx - ri.width / 2), int(y - 42 - size / 2 - hop - ri.height / 2)))
+        f = _font(64)
+        name = r["player"].upper()
+        d.text((x0 + 6, y + 48), name, font=f, fill=(255, 255, 255), stroke_width=6, stroke_fill=(0, 0, 0))
+        pt = f"{pct:.0f}%"
+        tw = d.textlength(pt, font=_font(84))
+        d.text((x1 - tw, y + 40), pt, font=_font(84), fill=col, stroke_width=7, stroke_fill=(0, 0, 0))
     return img

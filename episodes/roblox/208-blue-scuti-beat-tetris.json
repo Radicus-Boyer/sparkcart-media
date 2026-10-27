@@ -1,0 +1,119 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 208,
+ "slug": "208-blue-scuti-beat-tetris",
+ "file": "208 A 13 Year Old Was the First Person to Beat Tetris.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#82b1ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Scuti": "Scoot-ee"
+ },
+ "lines": [
+  {
+   "t": "This is the moment a 13 year old beat Tetris.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-a.mp4",
+     "start": 0
+    },
+    "big": "TETRIS\nBEATEN",
+    "sub": "THE GAME CRASHED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "NES Tetris came out in 1989. For 34 years, no human could beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-b.mp4",
+     "start": 0
+    },
+    "big": "34 YEARS",
+    "sub": "NO HUMAN DID IT",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then in December 2023, Blue Scuti played so far that the game froze at level 157. That's how you beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-b.mp4",
+     "start": 6.0
+    },
+    "sub": "LEVEL THE GAME CRASHED",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 157,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "He even got to meet the creator of Tetris.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-c.mp4",
+     "start": 0
+    },
+    "big": "BLUE\nSCUTI",
+    "sub": "MET THE CREATOR",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What game would you beat first?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH GAME\nWOULD YOU BEAT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 0.8,
+ "tail": 0.6,
+ "clip_audio": true,
+ "prop_clip": "tr23-tt-b.mp4",
+ "ticker": "NES TETRIS: FIRST HUMAN TO BEAT THE GAME",
+ "edition": "TETRIS"
+}
