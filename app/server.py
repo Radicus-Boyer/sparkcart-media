@@ -581,6 +581,8 @@ class H(BaseHTTPRequestHandler):
                 if WIN:
                     os.startfile(folder)
                 return self.send({"ok": True})
+            if p == "/api/gdicons":
+                return self.send({"job": start_job("Fetch GD icons", lambda j: run_cmd(j, [sys.executable, ROOT + "/engine/gdicons.py"] + d["players"], cwd=ROOT)).id})
             if p == "/api/render":
                 return self.send({"job": start_job(f"Render batch {d['batch']}", job_render, d["batch"], d.get("only")).id})
             if p == "/api/publish":
