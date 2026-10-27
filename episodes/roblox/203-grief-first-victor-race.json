@@ -28,8 +28,8 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Doggie, Zoink, wPopoff; Creative Destruction; DashWire (YouTube)",
-     "clip": "gd23-gr-a.mp4",
+     "credit": "Clips: Doggie; Zoink vs wPopoff overlay by DashWire (YouTube)",
+     "clip": "gd23-gr-b.mp4",
      "start": 0
     },
     "big": "GRIEF",
@@ -45,9 +45,9 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Doggie, Zoink, wPopoff; Creative Destruction; DashWire (YouTube)",
+     "credit": "Clips: Doggie; Zoink vs wPopoff overlay by DashWire (YouTube)",
      "clip": "gd23-gr-b.mp4",
-     "start": 0
+     "start": 5.0
     },
     "sub": "DOGGIE'S ATTEMPTS",
     "bs": 170,
@@ -88,7 +88,7 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Doggie, Zoink, wPopoff; Creative Destruction; DashWire (YouTube)",
+     "credit": "Clips: Doggie; Zoink vs wPopoff overlay by DashWire (YouTube)",
      "clip": "gd23-gr-c.mp4",
      "start": 0
     },
@@ -105,8 +105,8 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Doggie, Zoink, wPopoff; Creative Destruction; DashWire (YouTube)",
-     "clip": "gd23-gr-a.mp4",
+     "credit": "Clips: Doggie; Zoink vs wPopoff overlay by DashWire (YouTube)",
+     "clip": "gd23-gr-b.mp4",
      "start": 0.0
     },
     "big": "ZOINK OR\nWPOPOFF?",

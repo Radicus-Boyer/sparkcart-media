@@ -66,23 +66,13 @@
    "len": 13
   },
   {
-   "name": "gd23-gr-a",
-   "url": "https://www.youtube.com/watch?v=qw91o5kZkJQ",
-   "backup": [
-    "https://www.youtube.com/watch?v=wjP5-gXMcsw"
-   ],
-   "section": "*0:05-0:25",
-   "cut": 2,
-   "len": 13
-  },
-  {
    "name": "gd23-gr-b",
    "url": "https://www.youtube.com/watch?v=Emd2tWP2FkI",
    "backup": [
     "https://www.youtube.com/watch?v=_nv9UsomBi0"
    ],
-   "section": "*2:35-2:55",
-   "cut": 2,
+   "section": "*2:42-3:02",
+   "cut": 0,
    "len": 13
   },
   {
@@ -101,8 +91,8 @@
    "backup": [
     "https://www.youtube.com/watch?v=VqCSvBYK6wM"
    ],
-   "section": "*9:18-9:38",
-   "cut": 2,
+   "section": "*9:29-9:49",
+   "cut": 0,
    "len": 13
   },
   {
@@ -111,8 +101,8 @@
    "backup": [
     "https://www.youtube.com/watch?v=h_i8yS8nXvw"
    ],
-   "section": "*6:58-7:18",
-   "cut": 2,
+   "section": "*7:04-7:24",
+   "cut": 0,
    "len": 13
   },
   {
@@ -131,7 +121,7 @@
    "backup": [
     "https://www.youtube.com/watch?v=67dmM5UM-AQ"
    ],
-   "section": "*0:00-0:20",
+   "section": "*0:09-0:29",
    "cut": 0,
    "len": 13
   },
@@ -174,6 +164,14 @@
    "len": 13
   },
   {
+   "name": "tr23-nf-d",
+   "url": "https://www.youtube.com/watch?v=jeyjmJkhLb0",
+   "backup": [],
+   "section": "*5:21-5:41",
+   "cut": 0,
+   "len": 13
+  },
+  {
    "name": "tr23-nf-c",
    "url": "https://www.youtube.com/watch?v=LbOGuC3_R2Y",
    "backup": [
@@ -213,12 +211,10 @@
   },
   {
    "name": "tr23-tt-a",
-   "url": "https://www.youtube.com/watch?v=GuJ5UuknsHU",
-   "backup": [
-    "https://www.youtube.com/watch?v=J9oVQ43j22g"
-   ],
-   "section": "*14:58-15:18",
-   "cut": 2,
+   "url": "https://www.youtube.com/watch?v=dS_8CZy8DbI",
+   "backup": [],
+   "section": "*1:35-1:55",
+   "cut": 0,
    "len": 13
   },
   {
@@ -235,8 +231,8 @@
    "backup": [
     "https://www.youtube.com/watch?v=_hVACOeb7OA"
    ],
-   "section": "*0:35-0:55",
-   "cut": 2,
+   "section": "*0:42-1:02",
+   "cut": 0,
    "len": 13
   },
   {

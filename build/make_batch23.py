@@ -71,14 +71,14 @@ clip("rb23-rr-c.mp4", "https://www.youtube.com/watch?v=G4J99kmjye8", "*0:40-1:00
 ep(201, "ragdoll-reality", "Ragdoll Reality Is 2 Weeks Old With 17 Million Visits", FENRIR, "#ff1744",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ff8a80", "stroke": 8},
    [L("In this Roblox game, every hit lands exactly where you aim.",
-      CLIP("rb23-rr-a.mp4", "RAGDOLL\nREALITY", "EVERY HIT IS REAL", 0, RRC)),
+      CLIP("rb23-rr-c.mp4", "RAGDOLL\nREALITY", "EVERY HIT IS REAL", 4.0, RRC)),
     L("Ragdoll Reality came out on October 13th. Shoot a leg, and the dummy limps. Hit an arm, and it dangles.",
-      CLIP("rb23-rr-b.mp4", "REAL\nPHYSICS", "2 WEEKS OLD", 0, RRC)),
+      CLIP("rb23-rr-a.mp4", "REAL\nPHYSICS", "2 WEEKS OLD", 0, RRC)),
     L("And for Halloween, dummies you throw in the graveyard come back as zombies.",
-      CLIP("rb23-rr-c.mp4", "ZOMBIE\nUPDATE", "SURVIVE THE HORDE", 0, RRC)),
+      CLIP("rb23-rr-b.mp4", "ZOMBIE\nUPDATE", "SURVIVE THE HORDE", 3.0, RRC)),
     L("In 2 weeks, it got over 17 million visits.",
-      CCOUNT("rb23-rr-b.mp4", 6.0, RRC, 17345568, "VISITS IN 2 WEEKS")),
-    ask("What's the first weapon you're grabbing?", "FIRST\nWEAPON?", "rb23-rr-a.mp4", RRC),
+      CCOUNT("rb23-rr-b.mp4", 8.0, RRC, 17345568, "VISITS IN 2 WEEKS")),
+    ask("What's the first weapon you're grabbing?", "FIRST\nWEAPON?", "rb23-rr-c.mp4", RRC, 4.0),
    ], mood="spooky")
 
 BUC = "Clips: Bike Universe (Roblox gameplay, YouTube)"
@@ -87,38 +87,37 @@ clip("rb23-bu-b.mp4", "https://www.youtube.com/watch?v=RxpADLMyMgg", "*2:00-2:20
 ep(202, "bike-universe", "Bike Universe Got 35 Million Visits in a Month", LIAM, "#00e5ff",
    {"font": MF + "RussoOne-Regular.ttf", "size": 92, "hi": "#84ffff", "stroke": 8},
    [L("This Roblox game pays you to pull wheelies.",
-      CLIP("rb23-bu-a.mp4", "BIKE\nUNIVERSE", "WHEELIES = MONEY", 0, BUC)),
+      CLIP("rb23-bu-b.mp4", "BIKE\nUNIVERSE", "WHEELIES = MONEY", 4.0, BUC)),
     L("Bike Universe came out on September 27th. You earn money from riding, wheelies and tricks.",
       CLIP("rb23-bu-b.mp4", "TRICKS\nPAY", "SEPTEMBER 27", 0, BUC)),
     L("Then you collect dirt bikes, electric bikes and pedal bikes, tune them, and race your friends.",
-      CLIP("rb23-bu-a.mp4", "DIRT. ELECTRIC.\nPEDAL.", "TUNE + RACE", 6.0, BUC, bs=120)),
+      CLIP("rb23-bu-a.mp4", "DIRT. ELECTRIC.\nPEDAL.", "TUNE + RACE", 0, BUC, bs=120)),
     L("One month in, it has over 35 million visits.",
-      CCOUNT("rb23-bu-b.mp4", 6.0, BUC, 35675299, "VISITS IN 1 MONTH")),
-    ask("Dirt bike or electric?", "DIRT OR\nELECTRIC?", "rb23-bu-a.mp4", BUC),
+      CCOUNT("rb23-bu-b.mp4", 8.0, BUC, 35675299, "VISITS IN 1 MONTH")),
+    ask("Dirt bike or electric?", "DIRT OR\nELECTRIC?", "rb23-bu-b.mp4", BUC, 4.0),
    ])
 
 # ============================================================ GEOMETRY DASH (stage "gd": real player icons)
-GRC = "Clips: Doggie, Zoink, wPopoff; Creative Destruction; DashWire (YouTube)"
-clip("gd23-gr-a.mp4", "https://www.youtube.com/watch?v=qw91o5kZkJQ", "*0:05-0:25", backup=["https://www.youtube.com/watch?v=wjP5-gXMcsw"])
-clip("gd23-gr-b.mp4", "https://www.youtube.com/watch?v=Emd2tWP2FkI", "*2:35-2:55", backup=["https://www.youtube.com/watch?v=_nv9UsomBi0"])
+GRC = "Clips: Doggie; Zoink vs wPopoff overlay by DashWire (YouTube)"
+clip("gd23-gr-b.mp4", "https://www.youtube.com/watch?v=Emd2tWP2FkI", "*2:42-3:02", cut=0, backup=["https://www.youtube.com/watch?v=_nv9UsomBi0"])
 clip("gd23-gr-c.mp4", "https://www.youtube.com/watch?v=Mo5v4RiaKuw", "*1:00-1:20", backup=["https://www.youtube.com/watch?v=ysbFAzForrc"])
 ep(203, "grief-first-victor-race", "The Race to Be the First to Beat Grief", MIKE, "#ff1744",
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#ff8a80", "stroke": 8},
    [L("Only one person has beaten the hardest level in Geometry Dash. Two more are racing to be next.",
-      CLIP("gd23-gr-a.mp4", "GRIEF", "THE #1 HARDEST LEVEL", 0, GRC)),
+      CLIP("gd23-gr-b.mp4", "GRIEF", "THE #1 HARDEST LEVEL", 0, GRC)),
     L("Doggie verified Grief on October 6th, after over 436,000 attempts.",
-      CCOUNT("gd23-gr-b.mp4", 0, GRC, 436000, "DOGGIE'S ATTEMPTS", fmt="{:,.0f}+")),
+      CCOUNT("gd23-gr-b.mp4", 5.0, GRC, 436000, "DOGGIE'S ATTEMPTS", fmt="{:,.0f}+")),
     L("Nobody else has beaten it yet. But Zoink just hit 80 percent, and wPopoff hit 81.",
       dict(big="THE RACE", sub="FIRST VICTOR?", bs=150, by=300, race=[
           {"player": "Zoink", "pct": 80, "col": "#ff5252"}, {"player": "wPopoff", "pct": 81, "col": "#40c4ff"}])),
     L("Their best runs are almost frame for frame.",
       CLIP("gd23-gr-c.mp4", "80% VS 81%", "SIDE BY SIDE", 0, GRC, bs=130)),
-    ask("Who beats it first, Zoink or wPopoff?", "ZOINK OR\nWPOPOFF?", "gd23-gr-a.mp4", GRC),
+    ask("Who beats it first, Zoink or wPopoff?", "ZOINK OR\nWPOPOFF?", "gd23-gr-b.mp4", GRC),
    ], pron=dict(GD_PRON), gd_player="Doggie", **GDE)
 
 FWC = "Clips: Flamewall by Narwall & more, verified by Cuatrocientos (YouTube)"
-clip("gd23-fw-a.mp4", "https://www.youtube.com/watch?v=x4Io4zkWVRw", "*9:18-9:38", backup=["https://www.youtube.com/watch?v=VqCSvBYK6wM"])
-clip("gd23-fw-b.mp4", "https://www.youtube.com/watch?v=1gZEJI-2yQQ", "*6:58-7:18", backup=["https://www.youtube.com/watch?v=h_i8yS8nXvw"])
+clip("gd23-fw-a.mp4", "https://www.youtube.com/watch?v=x4Io4zkWVRw", "*9:29-9:49", cut=0, backup=["https://www.youtube.com/watch?v=VqCSvBYK6wM"])
+clip("gd23-fw-b.mp4", "https://www.youtube.com/watch?v=1gZEJI-2yQQ", "*7:04-7:24", cut=0, backup=["https://www.youtube.com/watch?v=h_i8yS8nXvw"])
 clip("gd23-fw-c.mp4", "https://www.youtube.com/watch?v=gwNYGFmo_WY", "*6:25-6:45", backup=["https://www.youtube.com/watch?v=wZbqwUv5NI8"])
 ep(204, "flamewall-221703", "Flamewall Took 221,703 Attempts", FENRIR, "#ff6d00",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ffab40", "stroke": 8},
@@ -127,7 +126,7 @@ ep(204, "flamewall-221703", "Flamewall Took 221,703 Attempts", FENRIR, "#ff6d00"
     L("Cuatrocientos spent over 221,000 attempts verifying Flamewall, one of the hardest levels in Geometry Dash.",
       CCOUNT("gd23-fw-c.mp4", 0, FWC, 221703, "ATTEMPTS")),
     L("He died at 99 percent. Twice.",
-      CLIP("gd23-fw-b.mp4", "99%", "TWICE", 0, FWC, bs=220)),
+      CLIP("gd23-fw-b.mp4", "99%", "TWICE", 3.0, FWC, bs=220)),
     L("Then in September 2025 he finally beat it, and it went in at number 2 on the Demonlist.",
       dict(big="TOP 2", sub="SEPTEMBER 2025", bs=200, by=300, mode="ship", player="Cuatrocientos", fx=["sparkle"])),
     ask("Would you have quit at 99?", "QUIT AT\n99%?", "gd23-fw-a.mp4", FWC),
@@ -135,7 +134,7 @@ ep(204, "flamewall-221703", "Flamewall Took 221,703 Attempts", FENRIR, "#ff6d00"
 
 # ============================================================ MEME LORE (stage "meme")
 SDC = "Clips: Star Wars: Galactic Racer (YouTube)"
-clip("ml23-sd-a.mp4", "https://www.youtube.com/watch?v=Hv8U7YcJHAA", "*0:00-0:20", cut=0, backup=["https://www.youtube.com/watch?v=67dmM5UM-AQ"])
+clip("ml23-sd-a.mp4", "https://www.youtube.com/watch?v=Hv8U7YcJHAA", "*0:09-0:29", cut=0, backup=["https://www.youtube.com/watch?v=67dmM5UM-AQ"])
 clip("ml23-sd-b.mp4", "https://www.youtube.com/watch?v=udF8djozQek", "*0:00-0:20", cut=0, backup=["https://www.youtube.com/watch?v=1sdegC3R1Vw"])
 clip("ml23-sd-c.mp4", "https://www.youtube.com/watch?v=Ju9wvY_dIW4", "*2:00-2:20", backup=["https://www.youtube.com/watch?v=X7BaeEKcYTg"])
 ep(205, "scrib-doon", "Where Scrib Doon Came From", PUCK, "#ffd740",
@@ -156,19 +155,20 @@ ep(205, "scrib-doon", "Where Scrib Doon Came From", PUCK, "#ffd740",
 NFC = "Clips: Niftski, Super Mario Bros. Any% 4:54.332; TAS comparison by Reflect (YouTube)"
 clip("tr23-nf-a.mp4", "https://www.youtube.com/watch?v=jeyjmJkhLb0", "*7:58-8:18", backup=["https://www.youtube.com/watch?v=VbNI9Ws3WKQ"])
 clip("tr23-nf-b.mp4", "https://www.youtube.com/watch?v=jeyjmJkhLb0", "*5:13-5:33")
+clip("tr23-nf-d.mp4", "https://www.youtube.com/watch?v=jeyjmJkhLb0", "*5:21-5:41", cut=0)
 clip("tr23-nf-c.mp4", "https://www.youtube.com/watch?v=LbOGuC3_R2Y", "*1:00-1:20", backup=["https://www.youtube.com/watch?v=i2jj1RLVOas"])
 ep(206, "niftski-4-frames", "Niftski Is 4 Frames From a Perfect Mario Run", HEART, "#ff3d00",
    {"font": MF + "RussoOne-Regular.ttf", "size": 92, "hi": "#ff9e80", "stroke": 8},
    [L("This is the fastest anyone has ever beaten Super Mario Bros.",
-      CLIP("tr23-nf-a.mp4", "4:54.332", "WORLD RECORD", 0, NFC, bs=170)),
+      CLIP("tr23-nf-d.mp4", "4:54.332", "WORLD RECORD", 0, NFC, bs=170)),
     L("Niftski set it in August: 4 minutes, 54.332 seconds.",
-      CLIP("tr23-nf-b.mp4", "NIFTSKI", "AUGUST 13, 2026", 0, NFC)),
+      CLIP("tr23-nf-a.mp4", "NIFTSKI", "AUGUST 13, 2026", 0, NFC)),
     L("The best run thought possible is 4:54.265. He's just 4 frames off. That's about a fifteenth of a second.",
       CLIP("tr23-nf-c.mp4", "4 FRAMES", "FROM PERFECT", 0, NFC, bs=180),
       say="The best run thought possible is 4 54 point 2 6 5. He's just 4 frames off. That's about a fifteenth of a second."),
     L("And right now, he's live streaming attempts to tie it.",
       CLIP("tr23-nf-b.mp4", "GOING FOR\nPERFECT", "LIVE ON STREAM", 6.0, NFC, bs=130)),
-    ask("Can a human ever get a perfect run?", "PERFECT\nPOSSIBLE?", "tr23-nf-a.mp4", NFC),
+    ask("Can a human ever get a perfect run?", "PERFECT\nPOSSIBLE?", "tr23-nf-d.mp4", NFC),
    ], pron={"Niftski": "Nift-ski"}, prop_clip="tr23-nf-b.mp4", ticker="SUPER MARIO BROS. ANY% WORLD RECORD: 4:54.332",
    edition="SUPER MARIO BROS")
 
@@ -181,30 +181,30 @@ ep(207, "minecraft-6-39", "Someone Beat Minecraft in 6 Minutes 39 Seconds", LIAM
    [L("This player beat Minecraft faster than you can cook dinner.",
       CLIP("tr23-mc-a.mp4", "6:39", "MINECRAFT BEATEN", 0, MCC, bs=220)),
     L("Skycrab, from Norway, set the random seed world record in July: 6 minutes, 39 seconds.",
-      CLIP("tr23-mc-b.mp4", "SKYCRAB", "JULY 27, 2026", 0, MCC)),
+      CLIP("tr23-mc-c.mp4", "SKYCRAB", "JULY 27, 2026", 0, MCC)),
     L("New world, no glitches. Find a portal, the stronghold, then kill the Ender Dragon.",
-      CLIP("tr23-mc-a.mp4", "NO\nGLITCHES", "RANDOM SEED", 5.0, MCC, bs=150)),
+      CLIP("tr23-mc-b.mp4", "NO\nGLITCHES", "RANDOM SEED", 1.5, MCC, bs=150)),
     L("His record video has over 1.5 million views.",
-      CCOUNT("tr23-mc-c.mp4", 0, MCC, 1541552, "VIEWS")),
+      CCOUNT("tr23-mc-a.mp4", 6.5, MCC, 1541552, "VIEWS")),
     ask("How long would it take you?", "YOUR\nTIME?", "tr23-mc-a.mp4", MCC),
    ], pron={"Skycrab": "Sky crab"}, prop_clip="tr23-mc-b.mp4", ticker="MINECRAFT ANY% RANDOM SEED WORLD RECORD: 6:39.813",
    edition="MINECRAFT")
 
-TTC = "Clips: Blue Scuti; aGameScout; NBC News (YouTube)"
-clip("tr23-tt-a.mp4", "https://www.youtube.com/watch?v=GuJ5UuknsHU", "*14:58-15:18", backup=["https://www.youtube.com/watch?v=J9oVQ43j22g"])
+TTC = "Clips: aGameScout; NBC News (YouTube)"
+clip("tr23-tt-a.mp4", "https://www.youtube.com/watch?v=dS_8CZy8DbI", "*1:35-1:55", cut=0)
 clip("tr23-tt-b.mp4", "https://www.youtube.com/watch?v=GuJ5UuknsHU", "*11:08-11:28")
-clip("tr23-tt-c.mp4", "https://www.youtube.com/watch?v=dS_8CZy8DbI", "*0:35-0:55", backup=["https://www.youtube.com/watch?v=_hVACOeb7OA"])
+clip("tr23-tt-c.mp4", "https://www.youtube.com/watch?v=dS_8CZy8DbI", "*0:42-1:02", cut=0, backup=["https://www.youtube.com/watch?v=_hVACOeb7OA"])
 ep(208, "blue-scuti-beat-tetris", "A 13 Year Old Was the First Person to Beat Tetris", SARAH, "#2979ff",
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#82b1ff", "stroke": 8},
    [L("This is the moment a 13 year old beat Tetris.",
-      CLIP("tr23-tt-a.mp4", "TETRIS\nBEATEN", "THE GAME CRASHED", 0, TTC)),
+      CLIP("tr23-tt-c.mp4", "TETRIS\nBEATEN", "THE GAME CRASHED", 1.0, TTC)),
     L("NES Tetris came out in 1989. For 34 years, no human could beat it.",
       CLIP("tr23-tt-b.mp4", "34 YEARS", "NO HUMAN DID IT", 0, TTC, bs=180)),
     L("Then in December 2023, Blue Scuti played so far that the game froze at level 157. That's how you beat it.",
       CCOUNT("tr23-tt-b.mp4", 6.0, TTC, 157, "LEVEL THE GAME CRASHED")),
-    L("He even got to meet the creator of Tetris.",
-      CLIP("tr23-tt-c.mp4", "BLUE\nSCUTI", "MET THE CREATOR", 0, TTC)),
-    ask("What game would you beat first?", "WHICH GAME\nWOULD YOU BEAT?", "tr23-tt-a.mp4", TTC),
+    L("Even the founder of the Tetris Company went on the news about it.",
+      CLIP("tr23-tt-a.mp4", "BLUE\nSCUTI", "A TETRIS LEGEND", 2.0, TTC)),
+    ask("What game would you beat first?", "WHICH GAME\nWOULD YOU BEAT?", "tr23-tt-c.mp4", TTC, 1.0),
    ], pron={"Scuti": "Scoot-ee"}, prop_clip="tr23-tt-b.mp4", ticker="NES TETRIS: FIRST HUMAN TO BEAT THE GAME", edition="TETRIS")
 
 G6C = "Clips: Grand Theft Auto VI trailers, Rockstar Games (YouTube)"
@@ -237,7 +237,7 @@ ep(210, "fortnitemares-freddy", "Freddy Krueger and FNAF Are in Fortnite", FENRI
     L("And at Freddy Fazbear's Pizzeria, you can beat the Five Nights at Freddy's animatronics, then become them.",
       CLIP("tr23-fn-c.mp4", "BECOME\nFOXY", "FNAF BOSSES", 0, FNC)),
     L("You can even use Freddy Krueger's claws. But it all ends on November 1st.",
-      CLIP("tr23-fn-b.mp4", "ENDS\nNOV 1", "FREDDY'S CLAWS", 6.0, FNC)),
+      CLIP("tr23-fn-a.mp4", "ENDS\nNOV 1", "FREDDY'S CLAWS", 8.5, FNC)),
     ask("Which Freddy is scarier?", "WHICH FREDDY\nIS SCARIER?", "tr23-fn-a.mp4", FNC),
    ], prop_clip="tr23-fn-b.mp4", ticker="FORTNITEMARES 2026 ENDS NOVEMBER 1", edition="FORTNITE", mood="spooky")
 

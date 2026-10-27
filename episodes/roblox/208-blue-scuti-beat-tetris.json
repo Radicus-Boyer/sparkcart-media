@@ -25,9 +25,9 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
-     "clip": "tr23-tt-a.mp4",
-     "start": 0
+     "credit": "Clips: aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-c.mp4",
+     "start": 1.0
     },
     "big": "TETRIS\nBEATEN",
     "sub": "THE GAME CRASHED",
@@ -42,7 +42,7 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "credit": "Clips: aGameScout; NBC News (YouTube)",
      "clip": "tr23-tt-b.mp4",
      "start": 0
     },
@@ -59,7 +59,7 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
+     "credit": "Clips: aGameScout; NBC News (YouTube)",
      "clip": "tr23-tt-b.mp4",
      "start": 6.0
     },
@@ -76,17 +76,17 @@
    }
   },
   {
-   "t": "He even got to meet the creator of Tetris.",
+   "t": "Even the founder of the Tetris Company went on the news about it.",
    "sc": {
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
-     "clip": "tr23-tt-c.mp4",
-     "start": 0
+     "credit": "Clips: aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-a.mp4",
+     "start": 2.0
     },
     "big": "BLUE\nSCUTI",
-    "sub": "MET THE CREATOR",
+    "sub": "A TETRIS LEGEND",
     "by": 300,
     "bs": 150,
     "ss": 56
@@ -98,9 +98,9 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Blue Scuti; aGameScout; NBC News (YouTube)",
-     "clip": "tr23-tt-a.mp4",
-     "start": 0.0
+     "credit": "Clips: aGameScout; NBC News (YouTube)",
+     "clip": "tr23-tt-c.mp4",
+     "start": 1.0
     },
     "big": "WHICH GAME\nWOULD YOU BEAT?",
     "sub": "COMMENT BELOW",
