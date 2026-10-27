@@ -1,4 +1,4 @@
-SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 26, 2026)
+SPARKCART SHORTS - EVERYTHING WE'VE COVERED (auto-updated Oct 27, 2026)
 Check new ideas against this list to avoid repeats: python3 tools/topics.py check "idea"
 
 == 8-BIT BACKSTORY: NES / RETRO ==
@@ -250,3 +250,13 @@ Check new ideas against this list to avoid repeats: python3 tools/topics.py chec
 188  Erebus Took 44,803 Attempts
 189  What Code Rot Actually Means
 190  EA Shut Down BioWare and 207,000 Fans Want Mass Effect Saved
+191  The Hollow Is Roblox's Own Horror Event
+192  Anime Dice Has 141 Million Visits in 2 Months
+193  Break and Steal an Egg Has 270 Million Visits
+194  Huss Valley Has 205 Million Visits
+195  The Race to Beat the Impossible Level
+196  Cataclysm Was Verified With Hacks
+197  One Player Took 1,107,185 Attempts on Sakupen Circles
+198  Sakupen Hell Was Made to Beat Riot and Cyclic
+199  Where And Then I Walk In Came From
+200  Tarkov's New Labs Boss Had Aimbot Guards

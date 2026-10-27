@@ -162,3 +162,4 @@ rb19-*/gd19-*/ml19-*/tr19-* clips    short (<=13 s) YouTube clips cut for commen
 
 # Batch 20 (#171-180): clips rb20-*, gd20-*, ml20-*, tr20-* (temporary, deleted after render) from YouTube gameplay/verification videos credited in each posting.txt; pop20-rivals-*, pop20-dandy-* = game images from Roblox.
 # Batch 21 (#181-190): clips rb21-*, gd21-*, ml21-* (TikTok), tr21-* (temporary, deleted after render); sources listed in batches/batch-21.json and batch-21/posting.txt.
+# Batch 22 (#191-200): clips rb22-*, gd22-*, ml22-* (TikTok), tr22-* (temporary, deleted after render); sources in batches/batch-22.json and batch-22/posting.txt. GD icons from GDBrowser (gdicon-*.png, fetched on the render PC).
