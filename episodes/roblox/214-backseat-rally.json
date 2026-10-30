@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 214,
+ "slug": "214-backseat-rally",
+ "file": "214 In Backseat Rally You Cant See the Road.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd740",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox racing game, you can't see the road. Your friend can.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Backseat Rally (Roblox gameplay, YouTube)",
+     "clip": "rb24-br-a.mp4",
+     "start": 0
+    },
+    "big": "BACKSEAT\nRALLY",
+    "sub": "YOU CAN'T SEE THE ROAD",
+    "ss": 50,
+    "by": 300,
+    "bs": 150
+   }
+  },
+  {
+   "t": "Backseat Rally came out on October 5th. Your co-driver sees what's coming and calls out every turn.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Backseat Rally (Roblox gameplay, YouTube)",
+     "clip": "rb24-br-b.mp4",
+     "start": 0
+    },
+    "big": "TRUST YOUR\nCO-DRIVER",
+    "sub": "OCTOBER 5",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "7 cars, 5 stages, rain, mud and snow. Playing solo? A friend's avatar rides along as your AI co-driver.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Backseat Rally (Roblox gameplay, YouTube)",
+     "clip": "rb24-br-c.mp4",
+     "start": 0
+    },
+    "big": "RAIN. MUD.\nSNOW.",
+    "sub": "7 CARS, 5 STAGES",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In less than 4 weeks, it got over 45 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Backseat Rally (Roblox gameplay, YouTube)",
+     "clip": "rb24-br-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 45546093,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you trust your friend to call the turns?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Backseat Rally (Roblox gameplay, YouTube)",
+     "clip": "rb24-br-a.mp4",
+     "start": 0.0
+    },
+    "big": "TRUST YOUR\nFRIEND?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Backseat Rally (Roblox gameplay, YouTube)",
+     "clip": "rb24-br-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

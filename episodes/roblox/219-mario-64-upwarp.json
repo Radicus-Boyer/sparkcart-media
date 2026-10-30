@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 219,
+ "slug": "219-mario-64-upwarp",
+ "file": "219 Mario Flew Into the Air and Nobody Knows Why.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ff8a80",
+  "stroke": 8
+ },
+ "pron": {
+  "DOTA_Teabag": "Dota Teabag",
+  "Pannenkoek": "Pan-uh-cook"
+ },
+ "lines": [
+  {
+   "t": "In 2013, Mario suddenly flew up into the air, and nobody knows why.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)",
+     "clip": "tr24-up-a.mp4",
+     "start": 0
+    },
+    "big": "THE\nUPWARP",
+    "sub": "SUPER MARIO 64",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "A streamer called DOTA_Teabag was playing Super Mario 64, when Mario warped up in Tick Tock Clock.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)",
+     "clip": "tr24-up-a.mp4",
+     "start": 5.0
+    },
+    "big": "TICK TOCK\nCLOCK",
+    "sub": "DOTA_TEABAG",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Pannenkoek found it matched one single bit changing in Mario's height, and offered 1,000 dollars to anyone who could recreate it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)",
+     "clip": "tr24-up-b.mp4",
+     "start": 0
+    },
+    "big": "ONE BIT",
+    "sub": "$1,000 BOUNTY",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The famous theory is a cosmic ray from space. Others think it was a bad cartridge. It's never been proven.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)",
+     "clip": "tr24-up-c.mp4",
+     "start": 0
+    },
+    "big": "COSMIC\nRAY?",
+    "sub": "NEVER PROVEN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Cosmic ray, or bad cartridge?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)",
+     "clip": "tr24-up-a.mp4",
+     "start": 0.0
+    },
+    "big": "COSMIC RAY OR\nCARTRIDGE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)",
+     "clip": "tr24-up-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr24-up-b.mp4",
+ "edition": "SUPER MARIO 64"
+}

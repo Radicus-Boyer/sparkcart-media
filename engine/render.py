@@ -714,6 +714,11 @@ def clip_audio_track(ep, starts, end):
         if f:
             seg[:f] *= np.linspace(0, 1, f)
             seg[-f:] *= np.linspace(1, 0, f)
+        # v2.1: level every clip to the same loudness so a quiet hook still hits (cap the boost at 6x / +15 dB)
+        rms = float(np.sqrt(np.mean(seg ** 2))) if len(seg) else 0
+        if rms > 1e-4:
+            seg *= min(6.0, 0.12 / rms)
+        seg = np.tanh(seg * 1.2) / 1.2
         seg *= fu.get("vol", 1.0)
         p = int(starts[i] * sr)
         a[p:p + len(seg)] += seg[: len(a) - p]
@@ -721,7 +726,7 @@ def clip_audio_track(ep, starts, end):
     if not got:
         return None
     pk = np.max(np.abs(a)) or 1
-    return (a / pk * 0.8)[: int(end * sr)]
+    return (a / max(pk, 0.8) * 0.8)[: int(end * sr)]
 
 
 def sfx_track(starts, end):

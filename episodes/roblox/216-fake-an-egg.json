@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 216,
+ "slug": "216-fake-an-egg",
+ "file": "216 In Fake an Egg the Egg Is a Player.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffff00",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, that egg might be a player.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fake an Egg (Roblox gameplay, YouTube)",
+     "clip": "rb24-fe-a.mp4",
+     "start": 0
+    },
+    "big": "FAKE AN EGG",
+    "sub": "NOT EVERY EGG IS REAL",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Fake an Egg came out on October 4th. You disguise yourself as an egg, and wait for a victim.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fake an Egg (Roblox gameplay, YouTube)",
+     "clip": "rb24-fe-b.mp4",
+     "start": 0
+    },
+    "big": "DISGUISE",
+    "sub": "WAIT FOR A VICTIM",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then you steal their best pet, while they're not looking.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fake an Egg (Roblox gameplay, YouTube)",
+     "clip": "rb24-fe-c.mp4",
+     "start": 0
+    },
+    "big": "STEAL\nTHEIR PET",
+    "sub": "DON'T GET CAUGHT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's under 4 weeks old, with almost 39 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fake an Egg (Roblox gameplay, YouTube)",
+     "clip": "rb24-fe-a.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 38904782,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you fall for it?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fake an Egg (Roblox gameplay, YouTube)",
+     "clip": "rb24-fe-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD YOU\nFALL FOR IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fake an Egg (Roblox gameplay, YouTube)",
+     "clip": "rb24-fe-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

@@ -1,0 +1,283 @@
+{
+ "batch": 24,
+ "note": "spaceuk, Artemis 13, Kenos, Backseat Rally, What If Disasters, Fake an Egg, Backrooms, Herobrine, Mario 64 upwarp, Twitch Plays Pokemon",
+ "posting": "batch-24/posting.txt",
+ "episodes": [
+  "episodes/roblox/211-spaceuk-career.json",
+  "episodes/roblox/212-artemis-13-2-out-of-10.json",
+  "episodes/roblox/213-kenos-135320.json",
+  "episodes/roblox/214-backseat-rally.json",
+  "episodes/roblox/215-what-if-disasters.json",
+  "episodes/roblox/216-fake-an-egg.json",
+  "episodes/roblox/217-backrooms-a24.json",
+  "episodes/roblox/218-herobrine-origin.json",
+  "episodes/roblox/219-mario-64-upwarp.json",
+  "episodes/roblox/220-twitch-plays-pokemon.json"
+ ],
+ "clips": [
+  {
+   "name": "gd24-sk-a",
+   "url": "https://www.youtube.com/watch?v=0CSFakL3Hl8",
+   "backup": [],
+   "section": "*6:26-6:46",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-sk-b",
+   "url": "https://www.youtube.com/watch?v=CC7zfHByLSk",
+   "backup": [
+    "https://www.youtube.com/watch?v=7W5bZJY2IPI"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-sk-c",
+   "url": "https://www.youtube.com/watch?v=I2RTFwn_zho",
+   "backup": [],
+   "section": "*0:38-0:58",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-sk-d",
+   "url": "https://www.youtube.com/watch?v=iS4bhiCOZGU",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-ar-a",
+   "url": "https://www.youtube.com/watch?v=FgjOM0ef1N8",
+   "backup": [],
+   "section": "*1:08-1:28",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-ar-b",
+   "url": "https://www.youtube.com/watch?v=DQsMd2-RMY8",
+   "backup": [],
+   "section": "*14:44-15:04",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-ar-c",
+   "url": "https://www.youtube.com/watch?v=OAYhKktcyUA",
+   "backup": [],
+   "section": "*0:28-0:48",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-ke-a",
+   "url": "https://www.youtube.com/watch?v=TYU-G-MQ3dY",
+   "backup": [],
+   "section": "*1:51-2:11",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-ke-b",
+   "url": "https://www.youtube.com/watch?v=Bs1kVySdUtI",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd24-ke-c",
+   "url": "https://www.youtube.com/watch?v=eTmaojkJ_3M",
+   "backup": [
+    "https://www.youtube.com/watch?v=TfwUCuC6Z2I"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-br-a",
+   "url": "https://www.youtube.com/watch?v=VJS4UmLje1Q",
+   "backup": [
+    "https://www.youtube.com/watch?v=jqlqSj1lnYA"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-br-b",
+   "url": "https://www.youtube.com/watch?v=gMdtEmlNkzk",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-br-c",
+   "url": "https://www.youtube.com/watch?v=o7aWLN16vgY",
+   "backup": [
+    "https://www.youtube.com/watch?v=FigMPG-mrmE"
+   ],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-wd-a",
+   "url": "https://www.youtube.com/watch?v=YO0VrLyregQ",
+   "backup": [
+    "https://www.youtube.com/watch?v=UY4GKHY17F8"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-wd-b",
+   "url": "https://www.youtube.com/watch?v=aDi1JoNPzvc",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-wd-c",
+   "url": "https://www.youtube.com/watch?v=UxnDv2mNT6Y",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-fe-a",
+   "url": "https://www.youtube.com/watch?v=TQvBn1Bea7U",
+   "backup": [
+    "https://www.youtube.com/watch?v=FYPLIvsh7vM"
+   ],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-fe-b",
+   "url": "https://www.youtube.com/watch?v=E3Iepf_U_U0",
+   "backup": [
+    "https://www.youtube.com/watch?v=ErnfL23tjyk"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb24-fe-c",
+   "url": "https://www.youtube.com/watch?v=EWMQRi1QKgo",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-bk-a",
+   "url": "https://www.youtube.com/watch?v=0HjdiohVOik",
+   "backup": [],
+   "section": "*2:03-2:18",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-bk-b",
+   "url": "https://www.youtube.com/watch?v=H4dGpz6cnHo",
+   "backup": [],
+   "section": "*8:22-8:42",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-bk-c",
+   "url": "https://www.youtube.com/watch?v=0HjdiohVOik",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-hb-a",
+   "url": "https://www.youtube.com/watch?v=5LXE-FKSv8c",
+   "backup": [
+    "https://www.youtube.com/watch?v=WBC4gcklXNE"
+   ],
+   "section": "*0:00-0:23",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-hb-b",
+   "url": "https://www.youtube.com/watch?v=gO0bJlXEG5w",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-hb-c",
+   "url": "https://www.youtube.com/watch?v=qYR3SNauEwI",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-up-a",
+   "url": "https://www.youtube.com/watch?v=aNzTUdOHm9A",
+   "backup": [],
+   "section": "*0:17-0:37",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-up-b",
+   "url": "https://www.youtube.com/watch?v=X5cwuYFUUAY",
+   "backup": [],
+   "section": "*0:04-0:24",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-up-c",
+   "url": "https://www.youtube.com/watch?v=vj8DzA9y8ls",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-tp-a",
+   "url": "https://www.youtube.com/watch?v=8MTRwoY-oDQ",
+   "backup": [],
+   "section": "*2:34-2:54",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-tp-b",
+   "url": "https://www.youtube.com/watch?v=dEaLWXJC5Fg",
+   "backup": [],
+   "section": "*0:00-0:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr24-tp-c",
+   "url": "https://www.youtube.com/watch?v=hEKbfId5oHM",
+   "backup": [],
+   "section": "*26:05-26:25",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

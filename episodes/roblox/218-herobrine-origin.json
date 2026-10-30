@@ -1,0 +1,133 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 218,
+ "slug": "218-herobrine-origin",
+ "file": "218 Where Herobrine Came From.mp4",
+ "target": 0,
+ "accent": "#e0e0e0",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Herobrine": "Hero brine",
+  "4chan": "four chan",
+  "Mojang": "Mo-jang"
+ },
+ "lines": [
+  {
+   "t": "This 2010 livestream helped start Minecraft's biggest legend.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)",
+     "clip": "tr24-hb-a.mp4",
+     "start": 3.0
+    },
+    "big": "HEROBRINE",
+    "sub": "2010",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "That year, someone posted on 4chan about a player with white eyes in their single player world, named Herobrine.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)",
+     "clip": "tr24-hb-b.mp4",
+     "start": 0
+    },
+    "big": "WHITE EYES",
+    "sub": "THE 4CHAN POST",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then streamers started faking their own sightings, live.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)",
+     "clip": "tr24-hb-a.mp4",
+     "start": 0
+    },
+    "big": "FAKED\nLIVE",
+    "sub": "THE STREAM HOAX",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He was never actually in the game. But Mojang still jokes about removing him in update notes.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)",
+     "clip": "tr24-hb-c.mp4",
+     "start": 0
+    },
+    "big": "NEVER\nREAL",
+    "sub": "\"REMOVED HEROBRINE\"",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you ever believe in Herobrine?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)",
+     "clip": "tr24-hb-a.mp4",
+     "start": 3.0
+    },
+    "big": "DID YOU\nBELIEVE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)",
+     "clip": "tr24-hb-a.mp4",
+     "start": 6.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr24-hb-b.mp4",
+ "edition": "MINECRAFT",
+ "mood": "spooky"
+}

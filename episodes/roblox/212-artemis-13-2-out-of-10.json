@@ -1,0 +1,140 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 212,
+ "slug": "212-artemis-13-2-out-of-10",
+ "file": "212 Zoink Beat the Number 2 Level and Rated It 2 Out of 10.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#80d8ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "spaceuk": "space U K",
+  "paqoe": "pa-co",
+  "Npesta": "N pesta",
+  "Bianox": "Bee-a-nox",
+  "Kenos": "Kee-nos",
+  "Mvngo": "Mango",
+  "Acheron": "Ack-er-on"
+ },
+ "lines": [
+  {
+   "t": "Zoink just beat the second hardest level in Geometry Dash, and he hated it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; TCD; Mr. Happy Junior (YouTube)",
+     "clip": "gd24-ar-a.mp4",
+     "start": 0
+    },
+    "big": "ARTEMIS 13",
+    "sub": "VERIFIED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He verified Artemis 13 in September. It knocked Tidal Wave out of the top 5 after 3 years.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; TCD; Mr. Happy Junior (YouTube)",
+     "clip": "gd24-ar-b.mp4",
+     "start": 0
+    },
+    "big": "#2 HARDEST",
+    "sub": "TIDAL WAVE OUT OF TOP 5",
+    "ss": 48,
+    "by": 300,
+    "bs": 150
+   }
+  },
+  {
+   "t": "He almost had to drop it, after drama around the level's host. Then the level was handed to Mvngo, and he kept going.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; TCD; Mr. Happy Junior (YouTube)",
+     "clip": "gd24-ar-c.mp4",
+     "start": 0
+    },
+    "big": "ALMOST\nDROPPED",
+    "sub": "HOST DRAMA",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "His furthest death was 95 percent. And his review? 2 out of 10.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; TCD; Mr. Happy Junior (YouTube)",
+     "clip": "gd24-ar-a.mp4",
+     "start": 6.0
+    },
+    "big": "ENJOYMENT:\n2/10",
+    "sub": "- ZOINK",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you grind a level you hate?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; TCD; Mr. Happy Junior (YouTube)",
+     "clip": "gd24-ar-a.mp4",
+     "start": 0.0
+    },
+    "big": "GRIND A LEVEL\nYOU HATE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; TCD; Mr. Happy Junior (YouTube)",
+     "clip": "gd24-ar-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

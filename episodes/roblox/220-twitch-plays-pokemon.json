@@ -1,0 +1,136 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 220,
+ "slug": "220-twitch-plays-pokemon",
+ "file": "220 1 Million People Played One Game of Pokemon.mp4",
+ "target": 0,
+ "accent": "#ffca28",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffe57f",
+  "cy": 1470
+ },
+ "pron": {
+  "Pokémon": "Poke-ay-mon"
+ },
+ "lines": [
+  {
+   "t": "In 2014, over a million people played one game of Pokémon, at the same time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Twitch Plays Pokemon (icymate; captain Crab; TheGamerFromMars, YouTube)",
+     "clip": "tr24-tp-a.mp4",
+     "start": 0
+    },
+    "big": "TWITCH PLAYS\nPOKEMON",
+    "sub": "1 GAME, 1 MILLION PLAYERS",
+    "bs": 120,
+    "ss": 48,
+    "by": 300
+   }
+  },
+  {
+   "t": "Every chat message was a button press, and over 1.16 million people joined in.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Twitch Plays Pokemon (icymate; captain Crab; TheGamerFromMars, YouTube)",
+     "clip": "tr24-tp-c.mp4",
+     "start": 0
+    },
+    "sub": "PLAYERS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 1165140,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It was total chaos. Players kept checking the Helix Fossil, until it became their god, Lord Helix.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Twitch Plays Pokemon (icymate; captain Crab; TheGamerFromMars, YouTube)",
+     "clip": "tr24-tp-b.mp4",
+     "start": 0
+    },
+    "big": "LORD\nHELIX",
+    "sub": "ALL HAIL",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "After 16 days, they actually beat Pokémon Red, and it won a Game Award.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Twitch Plays Pokemon (icymate; captain Crab; TheGamerFromMars, YouTube)",
+     "clip": "tr24-tp-a.mp4",
+     "start": 6.0
+    },
+    "big": "BEATEN",
+    "sub": "16 DAYS",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Could chat beat a game today?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Twitch Plays Pokemon (icymate; captain Crab; TheGamerFromMars, YouTube)",
+     "clip": "tr24-tp-a.mp4",
+     "start": 0.0
+    },
+    "big": "COULD CHAT\nDO IT TODAY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Twitch Plays Pokemon (icymate; captain Crab; TheGamerFromMars, YouTube)",
+     "clip": "tr24-tp-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr24-tp-b.mp4",
+ "edition": "POKEMON"
+}
