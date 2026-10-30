@@ -83,11 +83,11 @@ clip("gd24-sk-c.mp4", "https://www.youtube.com/watch?v=I2RTFwn_zho", "*0:38-0:58
 clip("gd24-sk-d.mp4", "https://www.youtube.com/watch?v=iS4bhiCOZGU", "*0:30-0:50", cut=0)
 ep(211, "spaceuk-career", "spaceuk Faked Everything Then Came Back Legit", MIKE, "#7c4dff",
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#b388ff", "stroke": 8},
-   [L("This player got caught faking almost every hard level he ever beat. Now he's beating them for real.",
+   [L("He got caught faking almost every hard level. Now he's beating them for real.",
       CLIP("gd24-sk-a.mp4", "SPACEUK", "THE COMEBACK", 0, SKC)),
-    L("Starting in 2020, spaceuk beat the hardest levels almost one a day, and verified Slaughterhouse.",
+    L("Starting in 2020, spaceuk beat the hardest levels almost one a day.",
       CLIP("gd24-sk-b.mp4", "THE RISE", "SLAUGHTERHOUSE 'VERIFIED'", 0, SKC, ss=50)),
-    L("Then in April 2023, paqoe exposed him. He'd been clicking over a bot on almost every record since The Golden.",
+    L("In April 2023, paqoe exposed him. He'd faked almost every record with a bot.",
       CLIP("gd24-sk-c.mp4", "EXPOSED", "APRIL 2023", 0, SKC, bs=170)),
     L("He came back legit. In January, he beat Acheron after about 125,000 attempts.",
       CCOUNT("gd24-sk-a.mp4", 6.0, SKC, 125000, "LEGIT ATTEMPTS ON ACHERON", fmt="~{:,.0f}")),
@@ -196,15 +196,15 @@ clip("tr24-bk-c.mp4", "https://www.youtube.com/watch?v=0HjdiohVOik", "*0:30-0:50
 ep(217, "backrooms-a24", "The Backrooms Went From One Photo to A24s Biggest Opening", MIKE, "#ffd54f",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ffe082", "stroke": 8},
    [L("It started as one creepy photo. Now it's A24's biggest opening ever.",
-      CLIP("tr24-bk-a.mp4", "BACKROOMS", "A24", 0, BKC)),
-    L("In 2019, someone posted a photo of an empty yellow room on 4chan, and it got a name: the Backrooms.",
+      CLIP("tr24-bk-c.mp4", "BACKROOMS", "A24", 6.0, BKC)),
+    L("In 2019, someone posted this empty yellow room on 4chan, and called it the Backrooms.",
       CLIP("tr24-bk-c.mp4", "ONE PHOTO", "MAY 2019", 0, BKC)),
-    L("In 2022, a teenage YouTuber named Kane Parsons made this video. It has over 97 million views.",
+    L("In 2022, teenage YouTuber Kane Parsons made this video. 97 million views.",
       CCOUNT("tr24-bk-b.mp4", 0, BKC, 97325058, "VIEWS")),
-    L("A24 made it a movie. It opened on May 29th with 81 million dollars, A24's biggest opening ever.",
+    L("A24 made it a movie, and it opened with 81 million dollars.",
       CLIP("tr24-bk-c.mp4", "$81 MILLION", "OPENING WEEKEND", 6.0, BKC)),
-    ask("Would you survive the Backrooms?", "WOULD YOU\nSURVIVE?", "tr24-bk-a.mp4", BKC),
-    subline("tr24-bk-a.mp4", BKC, 3.0),
+    ask("Would you survive the Backrooms?", "WOULD YOU\nSURVIVE?", "tr24-bk-c.mp4", BKC, 6.0),
+    subline("tr24-bk-c.mp4", BKC, 9.0),
    ], pron={"A24": "A twenty four", "4chan": "four chan"}, prop_clip="tr24-bk-c.mp4", edition="BACKROOMS", mood="spooky")
 
 HBC = "Clips: Brocraft stream (2010); SeaWattgaming; Lessons in Meme Culture (YouTube)"
@@ -226,7 +226,7 @@ ep(218, "herobrine-origin", "Where Herobrine Came From", LIAM, "#e0e0e0",
    ], pron={"Herobrine": "Hero brine", "4chan": "four chan", "Mojang": "Mo-jang"}, prop_clip="tr24-hb-b.mp4",
    edition="MINECRAFT", mood="spooky")
 
-UPC = "Clips: pannenkoek2012; UncommentatedPannen; LunaticJ (YouTube)"
+UPC = "Clips: pannenkoek2012; UncommentatedPannen (YouTube)"
 clip("tr24-up-a.mp4", "https://www.youtube.com/watch?v=aNzTUdOHm9A", "*0:17-0:37", cut=0)
 clip("tr24-up-b.mp4", "https://www.youtube.com/watch?v=X5cwuYFUUAY", "*0:04-0:24", cut=0)
 clip("tr24-up-c.mp4", "https://www.youtube.com/watch?v=vj8DzA9y8ls", "*0:30-0:50", cut=0)
@@ -239,7 +239,7 @@ ep(219, "mario-64-upwarp", "Mario Flew Into the Air and Nobody Knows Why", SARAH
     L("Pannenkoek found it matched one single bit changing in Mario's height, and offered 1,000 dollars to anyone who could recreate it.",
       CLIP("tr24-up-b.mp4", "ONE BIT", "$1,000 BOUNTY", 0, UPC, bs=180)),
     L("The famous theory is a cosmic ray from space. Others think it was a bad cartridge. It's never been proven.",
-      CLIP("tr24-up-c.mp4", "COSMIC\nRAY?", "NEVER PROVEN", 0, UPC)),
+      CLIP("tr24-up-a.mp4", "COSMIC\nRAY?", "NEVER PROVEN", 9.0, UPC)),
     ask("Cosmic ray, or bad cartridge?", "COSMIC RAY OR\nCARTRIDGE?", "tr24-up-a.mp4", UPC),
     subline("tr24-up-a.mp4", UPC, 3.0),
    ], pron={"DOTA_Teabag": "Dota Teabag", "Pannenkoek": "Pan-uh-cook"}, prop_clip="tr24-up-b.mp4", edition="SUPER MARIO 64")

@@ -26,8 +26,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Backrooms trailer, A24; Kane Pixels (YouTube)",
-     "clip": "tr24-bk-a.mp4",
-     "start": 0
+     "clip": "tr24-bk-c.mp4",
+     "start": 6.0
     },
     "big": "BACKROOMS",
     "sub": "A24",
@@ -37,7 +37,7 @@
    }
   },
   {
-   "t": "In 2019, someone posted a photo of an empty yellow room on 4chan, and it got a name: the Backrooms.",
+   "t": "In 2019, someone posted this empty yellow room on 4chan, and called it the Backrooms.",
    "sc": {
     "bg": "night",
     "ground": "dark",
@@ -54,7 +54,7 @@
    }
   },
   {
-   "t": "In 2022, a teenage YouTuber named Kane Parsons made this video. It has over 97 million views.",
+   "t": "In 2022, teenage YouTuber Kane Parsons made this video. 97 million views.",
    "sc": {
     "bg": "night",
     "ground": "dark",
@@ -76,7 +76,7 @@
    }
   },
   {
-   "t": "A24 made it a movie. It opened on May 29th with 81 million dollars, A24's biggest opening ever.",
+   "t": "A24 made it a movie, and it opened with 81 million dollars.",
    "sc": {
     "bg": "night",
     "ground": "dark",
@@ -99,8 +99,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Backrooms trailer, A24; Kane Pixels (YouTube)",
-     "clip": "tr24-bk-a.mp4",
-     "start": 0.0
+     "clip": "tr24-bk-c.mp4",
+     "start": 6.0
     },
     "big": "WOULD YOU\nSURVIVE?",
     "sub": "COMMENT BELOW",
@@ -116,8 +116,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Backrooms trailer, A24; Kane Pixels (YouTube)",
-     "clip": "tr24-bk-a.mp4",
-     "start": 3.0
+     "clip": "tr24-bk-c.mp4",
+     "start": 9.0
     },
     "big": "SUBSCRIBE",
     "sub": "HELP US HIT 500 BY CHRISTMAS",

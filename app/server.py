@@ -397,9 +397,9 @@ def clean_clips(bn):
 
 
 # ---------------------------------------------------------------- render
-def job_render(job, bn, only):
+def job_render(job, bn, only, force=False):
     b = get_batch(bn)
-    eps = [e for e in b["episodes"] if not e["rendered"] and (not only or e["num"] in only)]
+    eps = [e for e in b["episodes"] if (force or not e["rendered"]) and (not only or e["num"] in only)]
     if not eps:
         job.say("Nothing to render.")
         return
@@ -584,7 +584,7 @@ class H(BaseHTTPRequestHandler):
             if p == "/api/gdicons":
                 return self.send({"job": start_job("Fetch GD icons", lambda j: run_cmd(j, [sys.executable, ROOT + "/engine/gdicons.py"] + d["players"], cwd=ROOT)).id})
             if p == "/api/render":
-                return self.send({"job": start_job(f"Render batch {d['batch']}", job_render, d["batch"], d.get("only")).id})
+                return self.send({"job": start_job(f"Render batch {d['batch']}", job_render, d["batch"], d.get("only"), bool(d.get("force"))).id})
             if p == "/api/publish":
                 return self.send({"job": start_job(f"Save videos, batch {d['batch']}", job_publish, d["batch"]).id})
             if p == "/api/schedule":

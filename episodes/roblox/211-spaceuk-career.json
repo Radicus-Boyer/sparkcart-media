@@ -30,7 +30,7 @@
  },
  "lines": [
   {
-   "t": "This player got caught faking almost every hard level he ever beat. Now he's beating them for real.",
+   "t": "He got caught faking almost every hard level. Now he's beating them for real.",
    "sc": {
     "bg": "night",
     "ground": "dark",
@@ -47,7 +47,7 @@
    }
   },
   {
-   "t": "Starting in 2020, spaceuk beat the hardest levels almost one a day, and verified Slaughterhouse.",
+   "t": "Starting in 2020, spaceuk beat the hardest levels almost one a day.",
    "sc": {
     "bg": "night",
     "ground": "dark",
@@ -64,7 +64,7 @@
    }
   },
   {
-   "t": "Then in April 2023, paqoe exposed him. He'd been clicking over a bot on almost every record since The Golden.",
+   "t": "In April 2023, paqoe exposed him. He'd faked almost every record with a bot.",
    "sc": {
     "bg": "night",
     "ground": "dark",
