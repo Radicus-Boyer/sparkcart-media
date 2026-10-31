@@ -280,3 +280,13 @@ Check new ideas against this list to avoid repeats: python3 tools/topics.py chec
 218  Where Herobrine Came From
 219  Mario Flew Into the Air and Nobody Knows Why
 220  1 Million People Played One Game of Pokemon
+221  Antarctic Lights Took 381,058 Attempts
+222  BOOBAWAMBA Took 175,282 Attempts
+223  Two Verifiers Quit Green Bullet
+224  +1 Spider Arm
+225  Say Cheese
+226  Bug Evolution
+227  Zombies Are Back in Tarkov (Halloween 2026)
+228  Scientists Reveal the Hi
+229  Where Slender Man Came From
+230  pack.png Seed
