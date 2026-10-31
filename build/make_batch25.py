@@ -78,26 +78,26 @@ GD_PRON.update({"Axinity": "Ax-in-ity", "declan": "deck-lan", "BOOBAWAMBA": "Boo
 
 # ============================================================ GEOMETRY DASH (pointercrate + GD wiki, Oct 31)
 ALC = "Clips: Axinity; Newly Rated Extremes (YouTube)"
-clip("gd25-al-a.mp4", "https://www.youtube.com/watch?v=Uue4ZRhVf-I", "*1:33-1:53", cut=0)
+clip("gd25-al-a.mp4", "https://www.youtube.com/watch?v=Uue4ZRhVf-I", "*0:54-1:09", cut=0)
 clip("gd25-al-b.mp4", "https://www.youtube.com/watch?v=Uue4ZRhVf-I", "*0:50-1:10", cut=0)
 clip("gd25-al-c.mp4", "https://www.youtube.com/watch?v=Ii25Ypw_Cjs", "*0:14-0:34", cut=0)
 clip("gd25-al-d.mp4", "https://www.youtube.com/watch?v=_M3D5xP0w7c", "*0:50-1:10", cut=0)
 ep(221, "antarctic-lights-381058", "Axinity Took 381,058 Attempts on a 1 Minute Level", FENRIR, "#40c4ff",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#80d8ff", "stroke": 8},
    [L("This level is only one minute long. It took 381,058 attempts.",
-      CLIP("gd25-al-a.mp4", "ANTARCTIC\nLIGHTS", "VERIFIED", 0, ALC)),
+      CLIP("gd25-al-a.mp4", "ANTARCTIC\nLIGHTS", "VERIFIED", 8.0, ALC)),
     L("Antarctic Lights is a harder remake of Arctic Lights, with wave gaps so tight they're measured in frames.",
       CLIP("gd25-al-c.mp4", "FRAME\nPERFECT", "ARCTIC LIGHTS, BUT HARDER", 0, ALC, ss=50)),
     L("Axinity started posting progress in 2024. Two years later, he died at 92 percent.",
       CLIP("gd25-al-d.mp4", "92%", "SO CLOSE", 0, ALC, bs=200)),
     L("In July, he finally beat it, after 381,058 attempts. It went straight into the top 10.",
       CCOUNT("gd25-al-b.mp4", 0, ALC, 381058, "ATTEMPTS")),
-    ask("Would you spend 2 years on one minute?", "2 YEARS FOR\n1 MINUTE?", "gd25-al-a.mp4", ALC),
-    subline("gd25-al-a.mp4", ALC, 3.0),
+    ask("Would you spend 2 years on one minute?", "2 YEARS FOR\n1 MINUTE?", "gd25-al-a.mp4", ALC, 6.0),
+    subline("gd25-al-a.mp4", ALC, 9.0),
    ], pron=dict(GD_PRON), gd_player="Axinity", **GDE)
 
 BWC = "Clips: EastShark1; Zoink (YouTube)"
-clip("gd25-bw-a.mp4", "https://www.youtube.com/watch?v=20fYiqLAo_E", "*2:38-2:58", cut=0)
+clip("gd25-bw-a.mp4", "https://www.youtube.com/watch?v=20fYiqLAo_E", "*2:22-2:38", cut=0)
 clip("gd25-bw-b.mp4", "https://www.youtube.com/watch?v=20fYiqLAo_E", "*1:58-2:18", cut=0)
 clip("gd25-bw-c.mp4", "https://www.youtube.com/watch?v=DXV7CVkos7I", "*34:44-35:04", cut=0)
 ep(222, "boobawamba-175282", "EastShark Took 175,282 Attempts on a Level You Cant See", LIAM, "#76ff03",
@@ -115,7 +115,7 @@ ep(222, "boobawamba-175282", "EastShark Took 175,282 Attempts on a Level You Can
    ], pron=dict(GD_PRON), gd_player="EastShark", **GDE)
 
 GBC = "Clips: nickname; Neiro; Geometry Dash news (YouTube)"
-clip("gd25-gb-a.mp4", "https://www.youtube.com/watch?v=JG-qcvVkZFw", "*2:50-3:10", cut=0)
+clip("gd25-gb-a.mp4", "https://www.youtube.com/watch?v=JG-qcvVkZFw", "*2:36-2:51", cut=0)
 clip("gd25-gb-b.mp4", "https://www.youtube.com/watch?v=zfTqKYeqhTo", "*0:50-1:10", cut=0)
 clip("gd25-gb-c.mp4", "https://www.youtube.com/watch?v=GTt1PNe4xho", "*0:20-0:40", cut=0)
 clip("gd25-gb-d.mp4", "https://www.youtube.com/watch?v=B7vl5z-jqtE", "*1:20-1:40", cut=0)
@@ -191,61 +191,60 @@ ep(226, "bug-evolution", "In Bug Evolution You Start as a Tiny Spider", HEART, "
 # ============================================================ TARKOV ZOMBIES (user request, Oct 31)
 TKC = "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)"
 clip("tr25-tk-a.mp4", "https://www.youtube.com/watch?v=Abn3UT3tA3k", "*2:00-2:20", cut=0)
-clip("tr25-tk-b.mp4", "https://www.youtube.com/watch?v=LxarqL48MUA", "*4:00-4:20", cut=0)
-clip("tr25-tk-c.mp4", "https://www.youtube.com/watch?v=LxarqL48MUA", "*12:00-12:20", cut=0)
+clip("tr25-tk-b.mp4", "https://www.youtube.com/watch?v=LxarqL48MUA", "*8:30-8:43", cut=0)
+clip("tr25-tk-c.mp4", "https://www.youtube.com/watch?v=Abn3UT3tA3k", "*6:00-6:13", cut=0)
 clip("tr25-tk-d.mp4", "https://www.youtube.com/watch?v=Z8Kp6FannzQ", "*1:30-1:50", cut=0)
 ep(227, "tarkov-zombies-2026", "Zombies Are Back in Tarkov", FENRIR, "#c6ff00",
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#eeff41", "stroke": 8},
    [L("Zombies are back in Escape from Tarkov, and this time it's worse.",
-      CLIP("tr25-tk-a.mp4", "TARKOV\nZOMBIES", "THE OUTBREAK", 0, TKC)),
+      CLIP("tr25-tk-a.mp4", "TARKOV\nZOMBIES", "THE OUTBREAK", 6.0, TKC)),
     L("The Halloween event started on October 29th. The infected are on every map, and some of them shoot back.",
       CLIP("tr25-tk-b.mp4", "EVERY MAP", "FAST, SLOW, RANGED", 0, TKC)),
     L("Tagilla is back as a zombie, with a scythe. And there are infected Black Division soldiers too.",
       CLIP("tr25-tk-c.mp4", "ZOMBIE\nTAGILLA", "NOW WITH A SCYTHE", 0, TKC)),
     L("Labs and Factory are now outbreak zones. Small groups only, and no insurance. Your job? Find the vaccine.",
       CLIP("tr25-tk-d.mp4", "NO\nINSURANCE", "FIND THE VACCINE", 0, TKC)),
-    ask("Would you go into Labs right now?", "WOULD YOU\nGO IN?", "tr25-tk-a.mp4", TKC),
-    subline("tr25-tk-a.mp4", TKC, 3.0),
+    ask("Would you go into Labs right now?", "WOULD YOU\nGO IN?", "tr25-tk-a.mp4", TKC, 6.0),
+    subline("tr25-tk-a.mp4", TKC, 9.0),
    ], pron={"Tarkov": "Tar-kov", "Tagilla": "Ta-gee-la"}, prop_clip="tr25-tk-b.mp4", edition="TARKOV", mood="spooky")
 
 # ============================================================ TRENDING MEME (Know Your Meme, Oct 2026)
-HIC = "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)"
-clip("tr25-hi-a.mp4", "https://www.youtube.com/watch?v=x5WbmxMqWsU", "*0:00-0:16", cut=0)
+HIC = "Clips: MrToucan Explains; dumb alt account; EVIL sjtcfal (YouTube)"
 clip("tr25-hi-b.mp4", "https://www.youtube.com/watch?v=GlSy4tNmRng", "*0:10-0:30", cut=0)
 clip("tr25-hi-c.mp4", "https://www.youtube.com/watch?v=l8YIf93uwZE", "*0:20-0:40", cut=0)
 clip("tr25-hi-d.mp4", "https://www.youtube.com/watch?v=yu_fnvjFY40", "*0:00-0:18", cut=0)
 ep(228, "scientists-reveal-the-hi", "Where Scientists Reveal the Hi Came From", PUCK, "#ff9100",
    {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#ffd180", "cy": 1470},
    [L("Scientists reveal the hi. But what does it actually mean?",
-      CLIP("tr25-hi-a.mp4", "SCIENTISTS\nREVEAL THE HI", "THE MEME", 0, HIC, bs=110)),
+      CLIP("tr25-hi-c.mp4", "SCIENTISTS\nREVEAL THE HI", "THE MEME", 4.0, HIC, bs=110)),
     L("It started with a real BBC article in 2025, about why ginger cats are ginger.",
       CLIP("tr25-hi-b.mp4", "A REAL\nBBC ARTICLE", "WHY GINGER CATS ARE GINGER", 0, HIC, bs=130, ss=44)),
     L("A Redditor captioned the cat, Scientists reveal the secret. Then in May, someone changed one word, to hi.",
       CLIP("tr25-hi-c.mp4", "SECRET\nTO HI", "ONE WORD", 0, HIC)),
     L("It means nothing. That's the joke. And in October, it took over Instagram and TikTok.",
       CLIP("tr25-hi-d.mp4", "IT MEANS\nNOTHING", "THAT'S THE JOKE", 0, HIC, bs=130)),
-    ask("What should scientists reveal next?", "WHAT SHOULD\nTHEY REVEAL?", "tr25-hi-a.mp4", HIC),
-    subline("tr25-hi-a.mp4", HIC, 3.0),
+    ask("What should scientists reveal next?", "WHAT SHOULD\nTHEY REVEAL?", "tr25-hi-c.mp4", HIC, 4.0),
+    subline("tr25-hi-c.mp4", HIC, 7.0),
    ], pron={"BBC": "B B C"}, prop_clip="tr25-hi-b.mp4", edition="MEME LORE")
 
 # ============================================================ LORE
 SLC = "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)"
-clip("tr25-sl-a.mp4", "https://www.youtube.com/watch?v=OZMBG4Pn3Sg", "*1:38-1:58", cut=0)
+clip("tr25-sl-a.mp4", "https://www.youtube.com/watch?v=OZMBG4Pn3Sg", "*1:44-1:59", cut=0)
 clip("tr25-sl-b.mp4", "https://www.youtube.com/watch?v=Gjp_z3CIxNo", "*9:01-9:21", cut=0)
 clip("tr25-sl-c.mp4", "https://www.youtube.com/watch?v=Bn59FJ4HrmU", "*0:25-0:45", cut=0)
 clip("tr25-sl-d.mp4", "https://www.youtube.com/watch?v=OZMBG4Pn3Sg", "*6:05-6:25", cut=0)
 ep(229, "slender-man-origin", "Where Slender Man Came From", MIKE, "#eeeeee",
    {"font": MF + "BlackOpsOne-Regular.ttf", "size": 92, "fill": "#ffffff", "hi": "#ffffff", "stroke": 8},
    [L("This scream got 14 million views. But Slender Man started as a Photoshop contest.",
-      CLIP("tr25-sl-a.mp4", "SLENDER\nMAN", "THE ORIGIN", 3.5, SLC)),
+      CLIP("tr25-sl-a.mp4", "SLENDER\nMAN", "THE ORIGIN", 0, SLC)),
     L("In June 2009, a forum asked for creepy edited photos. Eric Knudsen added a tall, faceless man behind some kids.",
-      CLIP("tr25-sl-b.mp4", "ONE\nPHOTOSHOP", "JUNE 2009", 0, SLC)),
+      CLIP("tr25-sl-b.mp4", "ONE\nPHOTOSHOP", "JUNE 2009", 8.0, SLC)),
     L("That same year, a YouTube series called Marble Hornets turned him into a found footage horror story.",
-      CLIP("tr25-sl-c.mp4", "MARBLE\nHORNETS", "2009", 0, SLC)),
+      CLIP("tr25-sl-c.mp4", "MARBLE\nHORNETS", "2009", 2.0, SLC)),
     L("Then in 2012, the game Slender came out. So many people tried to download it, the website crashed.",
       CLIP("tr25-sl-d.mp4", "SLENDER:\nTHE GAME", "THE SITE CRASHED", 0, SLC, bs=130)),
-    ask("Did Slender ever scare you?", "DID IT\nSCARE YOU?", "tr25-sl-a.mp4", SLC, 3.5),
-    subline("tr25-sl-a.mp4", SLC, 6.0),
+    ask("Did Slender ever scare you?", "DID IT\nSCARE YOU?", "tr25-sl-a.mp4", SLC, 0),
+    subline("tr25-sl-a.mp4", SLC, 4.0),
    ], pron={"Knudsen": "Noodsen"}, prop_clip="tr25-sl-b.mp4", edition="SLENDER", mood="spooky")
 
 PKC = "Clips: SalC1; Minecraft@Home (YouTube)"
@@ -255,14 +254,14 @@ clip("tr25-pk-c.mp4", "https://www.youtube.com/watch?v=ea6py9q46QU", "*1:00-1:20
 ep(230, "pack-png-seed", "It Took 3,700 People to Find This Minecraft Picture", LIAM, "#4caf50",
    {"font": MF + "RussoOne-Regular.ttf", "size": 92, "hi": "#b9f6ca", "stroke": 8},
    [L("This tiny picture was in Minecraft for 10 years. Nobody knew where it was taken.",
-      CLIP("tr25-pk-a.mp4", "PACK.PNG", "THE MINECRAFT MYSTERY", 0, PKC)),
+      CLIP("tr25-pk-a.mp4", "PACK.PNG", "THE MINECRAFT MYSTERY", 2.0, PKC)),
     L("It's called pack.png, the default resource pack icon. A real Minecraft world, but which one?",
       CLIP("tr25-pk-c.mp4", "WHICH\nWORLD?", "128 BY 128 PIXELS", 0, PKC)),
     L("In 2020, SalC1 made a video about it, and the hunt began. Thousands of volunteers lent their computers to search every seed.",
       CCOUNT("tr25-pk-b.mp4", 0, PKC, 3700, "VOLUNTEERS", fmt="~{:,.0f}")),
     L("In September, they found it, in one of the very last seeds they searched.",
       CLIP("tr25-pk-a.mp4", "FOUND", "SEPTEMBER 2020", 6.0, PKC, bs=180)),
-    ask("What Minecraft mystery should we cover next?", "NEXT\nMYSTERY?", "tr25-pk-a.mp4", PKC),
+    ask("What Minecraft mystery should we cover next?", "NEXT\nMYSTERY?", "tr25-pk-a.mp4", PKC, 2.0),
     subline("tr25-pk-a.mp4", PKC, 3.0),
    ], pron={"SalC1": "Sal C 1", "pack.png": "pack dot P N G"}, prop_clip="tr25-pk-b.mp4", edition="MINECRAFT")
 
