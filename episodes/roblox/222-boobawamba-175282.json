@@ -1,0 +1,146 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 222,
+ "slug": "222-boobawamba-175282",
+ "file": "222 EastShark Took 175,282 Attempts on a Level You Cant See.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ccff90",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Axinity": "Ax-in-ity",
+  "declan": "deck-lan",
+  "BOOBAWAMBA": "Boo-ba-wam-ba",
+  "EastShark": "East Shark",
+  "akunakun": "a-koo-na-koon",
+  "SerVax": "Sir Vax",
+  "MinAY": "Min A Y",
+  "nickname": "nickname"
+ },
+ "lines": [
+  {
+   "t": "In this level, you can barely see where you're going.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd25-bw-a.mp4",
+     "start": 0
+    },
+    "big": "BOOBAWAMBA",
+    "sub": "VERIFIED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "BOOBAWAMBA is all green and grey, so you can't tell what's coming. You have to memorize it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd25-bw-b.mp4",
+     "start": 0
+    },
+    "big": "MEMORY\nLEVEL",
+    "sub": "YOU CAN'T SEE IT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "EastShark verified it in October 2024, after 175,282 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd25-bw-b.mp4",
+     "start": 6.0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 175282,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It's still the hardest memory level in the game. Then in April, Zoink beat it, and said it went so fast it was kinda crazy.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd25-bw-c.mp4",
+     "start": 0
+    },
+    "big": "ZOINK",
+    "sub": "\"KINDA CRAZY\"",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Could you beat a level you can't see?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd25-bw-a.mp4",
+     "start": 0.0
+    },
+    "big": "COULD YOU\nSEE IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd25-bw-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "EastShark",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

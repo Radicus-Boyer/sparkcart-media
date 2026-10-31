@@ -845,7 +845,7 @@ def render(ep, sheet=False):
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", WORK + f"{ep['slug']}_voice.wav",
                         "-i", WORK + f"{ep['slug']}_music.wav", "-i", WORK + f"{ep['slug']}_sfx.wav",
                         "-i", WORK + f"{ep['slug']}_clipaudio.wav", "-filter_complex",
-                        "[1:a]aresample=44100,volume=1.5,asplit=3[vo1][vo2][vo3];[2:a]volume=0.20[mu];"
+                        "[1:a]aresample=44100,volume=1.5,asplit=3[vo1][vo2][vo3];[2:a]volume=0.15[mu];"
                         f"[4:a]volume={cv}[ca];"
                         "[mu][vo1]sidechaincompress=threshold=0.05:ratio=6:attack=20:release=300[md];"
                         "[ca][vo3]sidechaincompress=threshold=0.03:ratio=12:attack=10:release=250[cd];"
@@ -855,7 +855,7 @@ def render(ep, sheet=False):
         return
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", WORK + f"{ep['slug']}_voice.wav",
                     "-i", WORK + f"{ep['slug']}_music.wav", "-i", WORK + f"{ep['slug']}_sfx.wav", "-filter_complex",
-                    "[1:a]aresample=44100,volume=1.5,asplit=2[vo1][vo2];[2:a]volume=0.30[mu];"
+                    "[1:a]aresample=44100,volume=1.5,asplit=2[vo1][vo2];[2:a]volume=0.24[mu];"
                     "[mu][vo1]sidechaincompress=threshold=0.05:ratio=6:attack=20:release=300[md];"
                     "[md][vo2][3:a]amix=inputs=3:normalize=0:duration=first,alimiter=limit=0.95[aout]",
                     "-map", "0:v", "-map", "[aout]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", final], check=True)

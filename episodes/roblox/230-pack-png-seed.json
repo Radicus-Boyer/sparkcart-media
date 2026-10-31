@@ -1,0 +1,135 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 230,
+ "slug": "230-pack-png-seed",
+ "file": "230 It Took 3,700 People to Find This Minecraft Picture.mp4",
+ "target": 0,
+ "accent": "#4caf50",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#b9f6ca",
+  "stroke": 8
+ },
+ "pron": {
+  "SalC1": "Sal C 1",
+  "pack.png": "pack dot P N G"
+ },
+ "lines": [
+  {
+   "t": "This tiny picture was in Minecraft for 10 years. Nobody knew where it was taken.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Minecraft@Home (YouTube)",
+     "clip": "tr25-pk-a.mp4",
+     "start": 0
+    },
+    "big": "PACK.PNG",
+    "sub": "THE MINECRAFT MYSTERY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's called pack.png, the default resource pack icon. A real Minecraft world, but which one?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Minecraft@Home (YouTube)",
+     "clip": "tr25-pk-c.mp4",
+     "start": 0
+    },
+    "big": "WHICH\nWORLD?",
+    "sub": "128 BY 128 PIXELS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2020, SalC1 made a video about it, and the hunt began. Thousands of volunteers lent their computers to search every seed.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Minecraft@Home (YouTube)",
+     "clip": "tr25-pk-b.mp4",
+     "start": 0
+    },
+    "sub": "VOLUNTEERS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 3700,
+     "fmt": "~{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "In September, they found it, in one of the very last seeds they searched.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Minecraft@Home (YouTube)",
+     "clip": "tr25-pk-a.mp4",
+     "start": 6.0
+    },
+    "big": "FOUND",
+    "sub": "SEPTEMBER 2020",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What Minecraft mystery should we cover next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Minecraft@Home (YouTube)",
+     "clip": "tr25-pk-a.mp4",
+     "start": 0.0
+    },
+    "big": "NEXT\nMYSTERY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Minecraft@Home (YouTube)",
+     "clip": "tr25-pk-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr25-pk-b.mp4",
+ "edition": "MINECRAFT"
+}

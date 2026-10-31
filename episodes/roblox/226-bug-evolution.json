@@ -1,0 +1,133 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 226,
+ "slug": "226-bug-evolution",
+ "file": "226 In Bug Evolution You Start as a Tiny Spider.mp4",
+ "target": 0,
+ "accent": "#8bc34a",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ccff90",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, you start as a tiny spider.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bug Evolution (Roblox gameplay: Bax; JelloYT, YouTube)",
+     "clip": "rb25-be-a.mp4",
+     "start": 0
+    },
+    "big": "BUG\nEVOLUTION",
+    "sub": "START TINY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Eat, grow, and evolve into over 30 insects. Flies, moths, grasshoppers, tarantulas.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bug Evolution (Roblox gameplay: Bax; JelloYT, YouTube)",
+     "clip": "rb25-be-c.mp4",
+     "start": 0
+    },
+    "big": "30+\nINSECTS",
+    "sub": "EAT AND EVOLVE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And at the top, giant prehistoric beasts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bug Evolution (Roblox gameplay: Bax; JelloYT, YouTube)",
+     "clip": "rb25-be-b.mp4",
+     "start": 0
+    },
+    "big": "PREHISTORIC\nBEASTS",
+    "sub": "THE FINAL FORM",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out this month, and it already has over 6 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bug Evolution (Roblox gameplay: Bax; JelloYT, YouTube)",
+     "clip": "rb25-be-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 6825950,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What bug would you evolve into?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bug Evolution (Roblox gameplay: Bax; JelloYT, YouTube)",
+     "clip": "rb25-be-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT BUG\nWOULD YOU BE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bug Evolution (Roblox gameplay: Bax; JelloYT, YouTube)",
+     "clip": "rb25-be-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "mood": "spooky"
+}

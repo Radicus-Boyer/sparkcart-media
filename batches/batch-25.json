@@ -1,0 +1,305 @@
+{
+ "batch": 25,
+ "note": "Antarctic Lights, BOOBAWAMBA, Green Bullet, +1 Spider Arm, Say Cheese, Bug Evolution, Tarkov zombies, Scientists Reveal the Hi, Slender Man, pack.png",
+ "posting": "batch-25/posting.txt",
+ "episodes": [
+  "episodes/roblox/221-antarctic-lights-381058.json",
+  "episodes/roblox/222-boobawamba-175282.json",
+  "episodes/roblox/223-green-bullet-3-verifiers.json",
+  "episodes/roblox/224-plus-1-spider-arm.json",
+  "episodes/roblox/225-say-cheese.json",
+  "episodes/roblox/226-bug-evolution.json",
+  "episodes/roblox/227-tarkov-zombies-2026.json",
+  "episodes/roblox/228-scientists-reveal-the-hi.json",
+  "episodes/roblox/229-slender-man-origin.json",
+  "episodes/roblox/230-pack-png-seed.json"
+ ],
+ "clips": [
+  {
+   "name": "gd25-al-a",
+   "url": "https://www.youtube.com/watch?v=Uue4ZRhVf-I",
+   "backup": [],
+   "section": "*1:33-1:53",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-al-b",
+   "url": "https://www.youtube.com/watch?v=Uue4ZRhVf-I",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-al-c",
+   "url": "https://www.youtube.com/watch?v=Ii25Ypw_Cjs",
+   "backup": [],
+   "section": "*0:14-0:34",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-al-d",
+   "url": "https://www.youtube.com/watch?v=_M3D5xP0w7c",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-bw-a",
+   "url": "https://www.youtube.com/watch?v=20fYiqLAo_E",
+   "backup": [],
+   "section": "*2:38-2:58",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-bw-b",
+   "url": "https://www.youtube.com/watch?v=20fYiqLAo_E",
+   "backup": [],
+   "section": "*1:58-2:18",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-bw-c",
+   "url": "https://www.youtube.com/watch?v=DXV7CVkos7I",
+   "backup": [],
+   "section": "*34:44-35:04",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-gb-a",
+   "url": "https://www.youtube.com/watch?v=JG-qcvVkZFw",
+   "backup": [],
+   "section": "*2:50-3:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-gb-b",
+   "url": "https://www.youtube.com/watch?v=zfTqKYeqhTo",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-gb-c",
+   "url": "https://www.youtube.com/watch?v=GTt1PNe4xho",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd25-gb-d",
+   "url": "https://www.youtube.com/watch?v=B7vl5z-jqtE",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-sa-a",
+   "url": "https://www.youtube.com/watch?v=CfjIxRi4qU4",
+   "backup": [
+    "https://www.youtube.com/watch?v=XkWXiurjbeo"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-sa-b",
+   "url": "https://www.youtube.com/watch?v=CfjIxRi4qU4",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-sa-c",
+   "url": "https://www.youtube.com/watch?v=XkWXiurjbeo",
+   "backup": [
+    "https://www.youtube.com/watch?v=UkC045Az8Q4"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-sc-a",
+   "url": "https://www.youtube.com/watch?v=kyWrM9Bn1DA",
+   "backup": [
+    "https://www.youtube.com/watch?v=--6IOnM6qH4"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-sc-b",
+   "url": "https://www.youtube.com/watch?v=kyWrM9Bn1DA",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-sc-c",
+   "url": "https://www.youtube.com/watch?v=--6IOnM6qH4",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-be-a",
+   "url": "https://www.youtube.com/watch?v=NKPQejjYbkQ",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-be-b",
+   "url": "https://www.youtube.com/watch?v=NKPQejjYbkQ",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb25-be-c",
+   "url": "https://www.youtube.com/watch?v=9pgArp2WrNI",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-tk-a",
+   "url": "https://www.youtube.com/watch?v=Abn3UT3tA3k",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-tk-b",
+   "url": "https://www.youtube.com/watch?v=LxarqL48MUA",
+   "backup": [],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-tk-c",
+   "url": "https://www.youtube.com/watch?v=LxarqL48MUA",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-tk-d",
+   "url": "https://www.youtube.com/watch?v=Z8Kp6FannzQ",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-hi-a",
+   "url": "https://www.youtube.com/watch?v=x5WbmxMqWsU",
+   "backup": [],
+   "section": "*0:00-0:16",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-hi-b",
+   "url": "https://www.youtube.com/watch?v=GlSy4tNmRng",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-hi-c",
+   "url": "https://www.youtube.com/watch?v=l8YIf93uwZE",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-hi-d",
+   "url": "https://www.youtube.com/watch?v=yu_fnvjFY40",
+   "backup": [],
+   "section": "*0:00-0:18",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-sl-a",
+   "url": "https://www.youtube.com/watch?v=OZMBG4Pn3Sg",
+   "backup": [],
+   "section": "*1:38-1:58",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-sl-b",
+   "url": "https://www.youtube.com/watch?v=Gjp_z3CIxNo",
+   "backup": [],
+   "section": "*9:01-9:21",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-sl-c",
+   "url": "https://www.youtube.com/watch?v=Bn59FJ4HrmU",
+   "backup": [],
+   "section": "*0:25-0:45",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-sl-d",
+   "url": "https://www.youtube.com/watch?v=OZMBG4Pn3Sg",
+   "backup": [],
+   "section": "*6:05-6:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-pk-a",
+   "url": "https://www.youtube.com/watch?v=ea6py9q46QU",
+   "backup": [],
+   "section": "*9:34-9:54",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-pk-b",
+   "url": "https://www.youtube.com/watch?v=88By1e1N9es",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr25-pk-c",
+   "url": "https://www.youtube.com/watch?v=ea6py9q46QU",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 225,
+ "slug": "225-say-cheese",
+ "file": "225 In Say Cheese Your Photos Start a Riot.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ea80fc",
+  "stroke": 8
+ },
+ "pron": {
+  "Nicky": "Nicky"
+ },
+ "lines": [
+  {
+   "t": "In this Roblox game, your photos can start a riot.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Say Cheese! (Roblox gameplay: Roblox Master Gamer; Zac Worthy, YouTube)",
+     "clip": "rb25-sc-a.mp4",
+     "start": 0
+    },
+    "big": "SAY\nCHEESE!",
+    "sub": "YOU'RE ON CAMERA",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You're a journalist hired by Big Media. Your job is to spread panic, so everyone keeps watching the news.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Say Cheese! (Roblox gameplay: Roblox Master Gamer; Zac Worthy, YouTube)",
+     "clip": "rb25-sc-b.mp4",
+     "start": 0
+    },
+    "big": "BIG MEDIA",
+    "sub": "SPREAD PANIC",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's based on a 2016 browser game by Nicky Case. Will you wreck the park, or try to bring hope? There are 12 endings.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Say Cheese! (Roblox gameplay: Roblox Master Gamer; Zac Worthy, YouTube)",
+     "clip": "rb25-sc-c.mp4",
+     "start": 0
+    },
+    "big": "12\nENDINGS",
+    "sub": "THE CHOICE IS YOURS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's less than 2 weeks old, with over 5 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Say Cheese! (Roblox gameplay: Roblox Master Gamer; Zac Worthy, YouTube)",
+     "clip": "rb25-sc-a.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 5112560,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you spread panic, or hope?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Say Cheese! (Roblox gameplay: Roblox Master Gamer; Zac Worthy, YouTube)",
+     "clip": "rb25-sc-a.mp4",
+     "start": 0.0
+    },
+    "big": "PANIC OR\nHOPE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Say Cheese! (Roblox gameplay: Roblox Master Gamer; Zac Worthy, YouTube)",
+     "clip": "rb25-sc-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "mood": "spooky"
+}

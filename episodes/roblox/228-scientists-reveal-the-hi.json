@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 228,
+ "slug": "228-scientists-reveal-the-hi",
+ "file": "228 Where Scientists Reveal the Hi Came From.mp4",
+ "target": 0,
+ "accent": "#ff9100",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd180",
+  "cy": 1470
+ },
+ "pron": {
+  "BBC": "B B C"
+ },
+ "lines": [
+  {
+   "t": "Scientists reveal the hi. But what does it actually mean?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)",
+     "clip": "tr25-hi-a.mp4",
+     "start": 0
+    },
+    "big": "SCIENTISTS\nREVEAL THE HI",
+    "sub": "THE MEME",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It started with a real BBC article in 2025, about why ginger cats are ginger.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)",
+     "clip": "tr25-hi-b.mp4",
+     "start": 0
+    },
+    "big": "A REAL\nBBC ARTICLE",
+    "sub": "WHY GINGER CATS ARE GINGER",
+    "bs": 130,
+    "ss": 44,
+    "by": 300
+   }
+  },
+  {
+   "t": "A Redditor captioned the cat, Scientists reveal the secret. Then in May, someone changed one word, to hi.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)",
+     "clip": "tr25-hi-c.mp4",
+     "start": 0
+    },
+    "big": "SECRET\nTO HI",
+    "sub": "ONE WORD",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It means nothing. That's the joke. And in October, it took over Instagram and TikTok.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)",
+     "clip": "tr25-hi-d.mp4",
+     "start": 0
+    },
+    "big": "IT MEANS\nNOTHING",
+    "sub": "THAT'S THE JOKE",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What should scientists reveal next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)",
+     "clip": "tr25-hi-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT SHOULD\nTHEY REVEAL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Uriah Sachs; dumb alt account; EVIL sjtcfal (YouTube)",
+     "clip": "tr25-hi-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr25-hi-b.mp4",
+ "edition": "MEME LORE"
+}

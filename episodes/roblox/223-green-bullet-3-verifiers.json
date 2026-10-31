@@ -1,0 +1,147 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 223,
+ "slug": "223-green-bullet-3-verifiers",
+ "file": "223 Two Verifiers Quit Green Bullet Then nickname Beat It.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#69f0ae",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Axinity": "Ax-in-ity",
+  "declan": "deck-lan",
+  "BOOBAWAMBA": "Boo-ba-wam-ba",
+  "EastShark": "East Shark",
+  "akunakun": "a-koo-na-koon",
+  "SerVax": "Sir Vax",
+  "MinAY": "Min A Y",
+  "nickname": "nickname"
+ },
+ "lines": [
+  {
+   "t": "Two players gave up on this level. The third one beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: nickname; Neiro; Geometry Dash news (YouTube)",
+     "clip": "gd25-gb-a.mp4",
+     "start": 0
+    },
+    "big": "GREEN\nBULLET",
+    "sub": "VERIFIED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Green Bullet is a giant collab by Cherry Team. Its first verifier, SerVax, stepped down. The next one refused to verify it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: nickname; Neiro; Geometry Dash news (YouTube)",
+     "clip": "gd25-gb-c.mp4",
+     "start": 0
+    },
+    "big": "2 VERIFIERS\nQUIT",
+    "sub": "THE DRAMA",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So nickname took over. After nearly a year, he died at 89 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: nickname; Neiro; Geometry Dash news (YouTube)",
+     "clip": "gd25-gb-d.mp4",
+     "start": 0
+    },
+    "big": "89%",
+    "sub": "NICKNAME",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In June, he finally verified it, after about 105,000 attempts. It's now a top 10 level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: nickname; Neiro; Geometry Dash news (YouTube)",
+     "clip": "gd25-gb-b.mp4",
+     "start": 0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 105000,
+     "fmt": "~{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you have quit too?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: nickname; Neiro; Geometry Dash news (YouTube)",
+     "clip": "gd25-gb-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD YOU\nQUIT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: nickname; Neiro; Geometry Dash news (YouTube)",
+     "clip": "gd25-gb-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "nickname",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

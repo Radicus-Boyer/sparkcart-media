@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 229,
+ "slug": "229-slender-man-origin",
+ "file": "229 Where Slender Man Came From.mp4",
+ "target": 0,
+ "accent": "#eeeeee",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Knudsen": "Noodsen"
+ },
+ "lines": [
+  {
+   "t": "This scream got 14 million views. But Slender Man started as a Photoshop contest.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)",
+     "clip": "tr25-sl-a.mp4",
+     "start": 3.5
+    },
+    "big": "SLENDER\nMAN",
+    "sub": "THE ORIGIN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In June 2009, a forum asked for creepy edited photos. Eric Knudsen added a tall, faceless man behind some kids.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)",
+     "clip": "tr25-sl-b.mp4",
+     "start": 0
+    },
+    "big": "ONE\nPHOTOSHOP",
+    "sub": "JUNE 2009",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "That same year, a YouTube series called Marble Hornets turned him into a found footage horror story.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)",
+     "clip": "tr25-sl-c.mp4",
+     "start": 0
+    },
+    "big": "MARBLE\nHORNETS",
+    "sub": "2009",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then in 2012, the game Slender came out. So many people tried to download it, the website crashed.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)",
+     "clip": "tr25-sl-d.mp4",
+     "start": 0
+    },
+    "big": "SLENDER:\nTHE GAME",
+    "sub": "THE SITE CRASHED",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did Slender ever scare you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)",
+     "clip": "tr25-sl-a.mp4",
+     "start": 3.5
+    },
+    "big": "DID IT\nSCARE YOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PewDiePie; Marble Hornets; TheRemster (YouTube)",
+     "clip": "tr25-sl-a.mp4",
+     "start": 6.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr25-sl-b.mp4",
+ "edition": "SLENDER",
+ "mood": "spooky"
+}

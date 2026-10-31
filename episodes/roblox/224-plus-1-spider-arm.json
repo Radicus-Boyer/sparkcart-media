@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 224,
+ "slug": "224-plus-1-spider-arm",
+ "file": "224 In This Roblox Game You Ride a Giant Spider Arm.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab40",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, a giant spider arm climbs for you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: +1 Spider Arm (Roblox gameplay, YouTube)",
+     "clip": "rb25-sa-a.mp4",
+     "start": 0
+    },
+    "big": "+1 SPIDER\nARM",
+    "sub": "CLIMB ANYTHING",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You ride a mechanical spider that walks, climbs walls, and hangs under ceilings.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: +1 Spider Arm (Roblox gameplay, YouTube)",
+     "clip": "rb25-sa-b.mp4",
+     "start": 0
+    },
+    "big": "CLIMB\nWALLS",
+    "sub": "HANG FROM CEILINGS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Train to get plus one arm. More arms means more speed and more grip. But watch your grip, or you fall.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: +1 Spider Arm (Roblox gameplay, YouTube)",
+     "clip": "rb25-sa-c.mp4",
+     "start": 0
+    },
+    "big": "+1 ARM",
+    "sub": "MORE SPEED, MORE GRIP",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's less than 2 weeks old, with over 8 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: +1 Spider Arm (Roblox gameplay, YouTube)",
+     "clip": "rb25-sa-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 8269265,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "How many arms would you get?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: +1 Spider Arm (Roblox gameplay, YouTube)",
+     "clip": "rb25-sa-a.mp4",
+     "start": 0.0
+    },
+    "big": "HOW MANY\nARMS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: +1 Spider Arm (Roblox gameplay, YouTube)",
+     "clip": "rb25-sa-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

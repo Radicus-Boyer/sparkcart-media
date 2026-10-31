@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 227,
+ "slug": "227-tarkov-zombies-2026",
+ "file": "227 Zombies Are Back in Tarkov.mp4",
+ "target": 0,
+ "accent": "#c6ff00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#eeff41",
+  "stroke": 8
+ },
+ "pron": {
+  "Tarkov": "Tar-kov",
+  "Tagilla": "Ta-gee-la"
+ },
+ "lines": [
+  {
+   "t": "Zombies are back in Escape from Tarkov, and this time it's worse.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)",
+     "clip": "tr25-tk-a.mp4",
+     "start": 0
+    },
+    "big": "TARKOV\nZOMBIES",
+    "sub": "THE OUTBREAK",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The Halloween event started on October 29th. The infected are on every map, and some of them shoot back.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)",
+     "clip": "tr25-tk-b.mp4",
+     "start": 0
+    },
+    "big": "EVERY MAP",
+    "sub": "FAST, SLOW, RANGED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Tagilla is back as a zombie, with a scythe. And there are infected Black Division soldiers too.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)",
+     "clip": "tr25-tk-c.mp4",
+     "start": 0
+    },
+    "big": "ZOMBIE\nTAGILLA",
+    "sub": "NOW WITH A SCYTHE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Labs and Factory are now outbreak zones. Small groups only, and no insurance. Your job? Find the vaccine.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)",
+     "clip": "tr25-tk-d.mp4",
+     "start": 0
+    },
+    "big": "NO\nINSURANCE",
+    "sub": "FIND THE VACCINE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you go into Labs right now?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)",
+     "clip": "tr25-tk-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD YOU\nGO IN?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Glorious_E; VeryBadSCAV; EIRE_Gaz (YouTube)",
+     "clip": "tr25-tk-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr25-tk-b.mp4",
+ "edition": "TARKOV",
+ "mood": "spooky"
+}
