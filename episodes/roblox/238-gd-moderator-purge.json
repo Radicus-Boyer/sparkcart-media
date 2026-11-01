@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 238,
+ "slug": "238-gd-moderator-purge",
+ "file": "238 RobTop Removed Half of Geometry Dashs Moderators.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffff00",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "MindCap": "Mind Cap",
+  "spaceuk": "space U K",
+  "Hqmy": "H Q M Y",
+  "RobTop": "Rob Top",
+  "meganeko": "meh-ga-neh-ko",
+  "Zodiac": "Zodiac"
+ },
+ "lines": [
+  {
+   "t": "Half of Geometry Dash's moderators got removed in one morning.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VortroxTwo; KampMiggy (YouTube)",
+     "clip": "gd26-md-a.mp4",
+     "start": 0
+    },
+    "big": "DEMOTED",
+    "sub": "THE MOD PURGE",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In September, RobTop rebuilt the team, and 42 moderators were demoted. Most found out that same morning.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VortroxTwo; KampMiggy (YouTube)",
+     "clip": "gd26-md-c.mp4",
+     "start": 0
+    },
+    "sub": "MODS DEMOTED",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 42,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Moderators are now called Rating Advisors. Applications are closed for good, and new ones won't be announced.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VortroxTwo; KampMiggy (YouTube)",
+     "clip": "gd26-md-b.mp4",
+     "start": 0
+    },
+    "big": "RATING\nADVISORS",
+    "sub": "NO MORE APPLICATIONS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "RobTop said he wanted a smaller, clearer team. A lot of players weren't happy.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VortroxTwo; KampMiggy (YouTube)",
+     "clip": "gd26-md-a.mp4",
+     "start": 6.0
+    },
+    "big": "SMALLER\nTEAM",
+    "sub": "PLAYERS WEREN'T HAPPY",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Was RobTop right?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VortroxTwo; KampMiggy (YouTube)",
+     "clip": "gd26-md-a.mp4",
+     "start": 0.0
+    },
+    "big": "WAS ROBTOP\nRIGHT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VortroxTwo; KampMiggy (YouTube)",
+     "clip": "gd26-md-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

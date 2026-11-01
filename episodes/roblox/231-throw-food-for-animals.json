@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 231,
+ "slug": "231-throw-food-for-animals",
+ "file": "231 In This Roblox Game You Throw Food to Catch Animals.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd740",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, you throw food as far as you can, and see what comes running.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb26-tf-a.mp4",
+     "start": 0
+    },
+    "big": "THROW FOOD\nFOR ANIMALS",
+    "sub": "AS FAR AS YOU CAN",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Every throw attracts animals. Catch them, and they make you money.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb26-tf-b.mp4",
+     "start": 0
+    },
+    "big": "CATCH\nTHEM",
+    "sub": "THEY MAKE YOU MONEY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Buy better food for rarer animals, and do pull-ups to throw even further.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb26-tf-c.mp4",
+     "start": 0
+    },
+    "big": "PULL-UPS",
+    "sub": "MORE THROW POWER",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's about 6 weeks old, with almost 33 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb26-tf-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 32964686,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What animal would you throw food for?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb26-tf-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT WOULD\nYOU CATCH?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb26-tf-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

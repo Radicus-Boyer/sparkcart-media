@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 236,
+ "slug": "236-orbit-99-ball-pit",
+ "file": "236 Zoink Died at 99 Percent in a Ball Pit.mp4",
+ "target": 0,
+ "accent": "#ff9100",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ffd180",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "MindCap": "Mind Cap",
+  "spaceuk": "space U K",
+  "Hqmy": "H Q M Y",
+  "RobTop": "Rob Top",
+  "meganeko": "meh-ga-neh-ko",
+  "Zodiac": "Zodiac"
+ },
+ "lines": [
+  {
+   "t": "He was one click from beating it. Then he hit the wrong orb.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd26-or-a.mp4",
+     "start": 0
+    },
+    "big": "ORBIT",
+    "sub": "99%",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "ORBIT was meant for spaceuk, until he got caught hacking. So Zoink got it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd26-or-c.mp4",
+     "start": 0
+    },
+    "big": "MEANT FOR\nSPACEUK",
+    "sub": "THEN ZOINK GOT IT",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In January, he reached the very end, clicked the wrong orb, and got stuck in a ball pit. 99 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd26-or-a.mp4",
+     "start": 4.0
+    },
+    "big": "THE BALL\nPIT",
+    "sub": "99%",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "12 days later, he beat it, after about 30,000 attempts. It became the first classic extreme demon rated Mythic.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd26-or-b.mp4",
+     "start": 0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 30000,
+     "fmt": "~{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you have quit after 99 percent?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd26-or-a.mp4",
+     "start": 0.0
+    },
+    "big": "QUIT AFTER\n99%?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd26-or-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

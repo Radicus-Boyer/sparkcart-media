@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 235,
+ "slug": "235-bey-rivals",
+ "file": "235 Bey Rivals Is a Spinning Top Battle Game on Roblox.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#84ffff",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Remember spinning top battles? Now they're on Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: V1rtual; Osawh (Roblox gameplay, YouTube)",
+     "clip": "rb26-by-a.mp4",
+     "start": 0
+    },
+    "big": "BEY\nRIVALS",
+    "sub": "LET IT RIP",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In Bey Rivals, you launch your top into the arena, and battle other players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: V1rtual; Osawh (Roblox gameplay, YouTube)",
+     "clip": "rb26-by-b.mp4",
+     "start": 0
+    },
+    "big": "BATTLE",
+    "sub": "PLAYERS AND BOSSES",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Collect tops, customize them, upgrade them, and climb to the top of the leaderboard.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: V1rtual; Osawh (Roblox gameplay, YouTube)",
+     "clip": "rb26-by-c.mp4",
+     "start": 0
+    },
+    "big": "CUSTOMIZE",
+    "sub": "BUILD THE BEST TOP",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October, and it's almost at 8 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: V1rtual; Osawh (Roblox gameplay, YouTube)",
+     "clip": "rb26-by-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 7839901,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Did you have spinning tops as a kid?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: V1rtual; Osawh (Roblox gameplay, YouTube)",
+     "clip": "rb26-by-a.mp4",
+     "start": 0.0
+    },
+    "big": "DID YOU\nHAVE ONE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: V1rtual; Osawh (Roblox gameplay, YouTube)",
+     "clip": "rb26-by-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

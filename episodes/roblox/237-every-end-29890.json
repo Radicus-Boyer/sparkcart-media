@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 237,
+ "slug": "237-every-end-29890",
+ "file": "237 Every End Kicked Two Old Number 1s Off the List.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ea80fc",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "MindCap": "Mind Cap",
+  "spaceuk": "space U K",
+  "Hqmy": "H Q M Y",
+  "RobTop": "Rob Top",
+  "meganeko": "meh-ga-neh-ko",
+  "Zodiac": "Zodiac"
+ },
+ "lines": [
+  {
+   "t": "This level kicked two old number ones off the Demonlist.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; Zoink (YouTube)",
+     "clip": "gd26-ee-a.mp4",
+     "start": 0
+    },
+    "big": "EVERY END",
+    "sub": "VERIFIED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Every End is a MindCap collab. Two verifiers dropped it, so Hqmy took over.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; Zoink (YouTube)",
+     "clip": "gd26-ee-b.mp4",
+     "start": 0
+    },
+    "big": "2 VERIFIERS\nDROPPED IT",
+    "sub": "HQMY TOOK OVER",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In March 2025, he verified it, after about 29,890 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; Zoink (YouTube)",
+     "clip": "gd26-ee-b.mp4",
+     "start": 6.0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 29890,
+     "fmt": "~{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It went into the top 5. Zodiac got pushed to the extended list, and Bloodlust to the legacy list.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; Zoink (YouTube)",
+     "clip": "gd26-ee-c.mp4",
+     "start": 0
+    },
+    "big": "BYE\nZODIAC",
+    "sub": "BYE BLOODLUST",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Which old top 1 do you miss most?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; Zoink (YouTube)",
+     "clip": "gd26-ee-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH TOP 1\nDO YOU MISS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; Zoink (YouTube)",
+     "clip": "gd26-ee-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Hqmy",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

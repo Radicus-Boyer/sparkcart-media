@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 239,
+ "slug": "239-gd-2-209",
+ "file": "239 Geometry Dash Now Shows You Every Place You Died.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#69f0ae",
+  "cy": 1470
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "MindCap": "Mind Cap",
+  "spaceuk": "space U K",
+  "Hqmy": "H Q M Y",
+  "RobTop": "Rob Top",
+  "meganeko": "meh-ga-neh-ko",
+  "Zodiac": "Zodiac"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash can now show you every single place you died.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RobTop Games (2.209 trailer); Colours Gaming (YouTube)",
+     "clip": "gd26-up-a.mp4",
+     "start": 0
+    },
+    "big": "UPDATE\n2.209",
+    "sub": "IT'S OUT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Update 2.209 came out on October 16th. Platformer levels finally save your progress.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RobTop Games (2.209 trailer); Colours Gaming (YouTube)",
+     "clip": "gd26-up-b.mp4",
+     "start": 0
+    },
+    "big": "PLATFORMER\nSAVES",
+    "sub": "OCTOBER 16",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "There's a death tracker, with markers on every spot you died. And you can set your own keybinds.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RobTop Games (2.209 trailer); Colours Gaming (YouTube)",
+     "clip": "gd26-up-c.mp4",
+     "start": 0
+    },
+    "big": "DEATH\nMARKERS",
+    "sub": "EVERY. SINGLE. DEATH.",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Plus group chats, emojis, and a new song by meganeko.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RobTop Games (2.209 trailer); Colours Gaming (YouTube)",
+     "clip": "gd26-up-d.mp4",
+     "start": 0
+    },
+    "big": "GROUP\nCHATS",
+    "sub": "AND A NEW SONG",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What should the next update add?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RobTop Games (2.209 trailer); Colours Gaming (YouTube)",
+     "clip": "gd26-up-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT'S\nNEXT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RobTop Games (2.209 trailer); Colours Gaming (YouTube)",
+     "clip": "gd26-up-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 240,
+ "slug": "240-ai-game-merging",
+ "file": "240 People Are Using AI to Merge Video Games.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {
+  "Elden Ring": "Elden Ring"
+ },
+ "lines": [
+  {
+   "t": "Someone put Minecraft inside Elden Ring, and AI did most of the work.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
+     "clip": "tr26-ai-a.mp4",
+     "start": 0
+    },
+    "big": "MINECRAFT\nIN ELDEN RING",
+    "sub": "MADE WITH AI",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In September, people started using AI to merge video games. It reads both games' code, and makes them run together.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
+     "clip": "tr26-ai-b.mp4",
+     "start": 0
+    },
+    "big": "AI GAME\nMERGING",
+    "sub": "THE NEW TREND",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Call of Duty with Minecraft. Skate tricks in Modern Warfare 2.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
+     "clip": "tr26-ai-d.mp4",
+     "start": 0
+    },
+    "big": "COD +\nMINECRAFT",
+    "sub": "WHY NOT",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then someone put Mario 64 inside Elden Ring. Almost 3 million views, until it got taken down for copyright.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
+     "clip": "tr26-ai-c.mp4",
+     "start": 0
+    },
+    "big": "MARIO IN\nELDEN RING",
+    "sub": "TAKEN DOWN",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What 2 games should be merged next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
+     "clip": "tr26-ai-a.mp4",
+     "start": 0.0
+    },
+    "big": "MERGE WHAT\nNEXT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
+     "clip": "tr26-ai-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr26-ai-b.mp4",
+ "edition": "MEME LORE"
+}

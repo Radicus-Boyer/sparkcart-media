@@ -1,0 +1,293 @@
+{
+ "batch": 26,
+ "note": "Throw Food For Animals, Criminal Simulator, Night Rider, Clean the Moon, Bey Rivals, ORBIT, Every End, GD mod purge, GD 2.209, AI game merging",
+ "posting": "batch-26/posting.txt",
+ "episodes": [
+  "episodes/roblox/231-throw-food-for-animals.json",
+  "episodes/roblox/232-criminal-simulator.json",
+  "episodes/roblox/233-night-rider.json",
+  "episodes/roblox/234-clean-the-moon.json",
+  "episodes/roblox/235-bey-rivals.json",
+  "episodes/roblox/236-orbit-99-ball-pit.json",
+  "episodes/roblox/237-every-end-29890.json",
+  "episodes/roblox/238-gd-moderator-purge.json",
+  "episodes/roblox/239-gd-2-209.json",
+  "episodes/roblox/240-ai-game-merging.json"
+ ],
+ "clips": [
+  {
+   "name": "rb26-tf-a",
+   "url": "https://www.youtube.com/watch?v=55cCOFQ6pzk",
+   "backup": [
+    "https://www.youtube.com/watch?v=wzNIsJZpV8Q"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-tf-b",
+   "url": "https://www.youtube.com/watch?v=55cCOFQ6pzk",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-tf-c",
+   "url": "https://www.youtube.com/watch?v=D6wVp6vArzU",
+   "backup": [],
+   "section": "*9:00-9:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-cs-a",
+   "url": "https://www.youtube.com/watch?v=qfcUct1pKmU",
+   "backup": [
+    "https://www.youtube.com/watch?v=4R9J3kARygA"
+   ],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-cs-b",
+   "url": "https://www.youtube.com/watch?v=qfcUct1pKmU",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-cs-c",
+   "url": "https://www.youtube.com/watch?v=oEfL1e2QL84",
+   "backup": [
+    "https://www.youtube.com/watch?v=4R9J3kARygA"
+   ],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-nr-a",
+   "url": "https://www.youtube.com/watch?v=0l1dLXR97ZM",
+   "backup": [
+    "https://www.youtube.com/watch?v=EYz2McCjNJY"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-nr-b",
+   "url": "https://www.youtube.com/watch?v=0l1dLXR97ZM",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-nr-c",
+   "url": "https://www.youtube.com/watch?v=EYz2McCjNJY",
+   "backup": [
+    "https://www.youtube.com/watch?v=0rX-hhu92xM"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-cm-a",
+   "url": "https://www.youtube.com/watch?v=5tNfFioOF3c",
+   "backup": [
+    "https://www.youtube.com/watch?v=ET1g1nYfyUE"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-cm-b",
+   "url": "https://www.youtube.com/watch?v=5tNfFioOF3c",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-cm-c",
+   "url": "https://www.youtube.com/watch?v=4C6poRImasE",
+   "backup": [
+    "https://www.youtube.com/watch?v=ET1g1nYfyUE"
+   ],
+   "section": "*1:00:00-1:00:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-by-a",
+   "url": "https://www.youtube.com/watch?v=iQuy_I3qkHU",
+   "backup": [],
+   "section": "*0:05-0:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-by-b",
+   "url": "https://www.youtube.com/watch?v=SzV44XZX-8E",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb26-by-c",
+   "url": "https://www.youtube.com/watch?v=rzx8nYsHrrA",
+   "backup": [
+    "https://www.youtube.com/watch?v=MUl6OlLEZ4s"
+   ],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-or-a",
+   "url": "https://www.youtube.com/watch?v=VVMRwjf9aPw",
+   "backup": [],
+   "section": "*2:56-3:11",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-or-b",
+   "url": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
+   "backup": [],
+   "section": "*3:52-4:12",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-or-c",
+   "url": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
+   "backup": [],
+   "section": "*2:34-2:54",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-ee-a",
+   "url": "https://www.youtube.com/watch?v=KexrBfBCZJA",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-ee-b",
+   "url": "https://www.youtube.com/watch?v=KexrBfBCZJA",
+   "backup": [],
+   "section": "*6:28-6:48",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-ee-c",
+   "url": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
+   "backup": [],
+   "section": "*19:05-19:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-md-a",
+   "url": "https://www.youtube.com/watch?v=W6z7c1OdUYw",
+   "backup": [],
+   "section": "*0:04-0:24",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-md-b",
+   "url": "https://www.youtube.com/watch?v=W6z7c1OdUYw",
+   "backup": [],
+   "section": "*9:40-10:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-md-c",
+   "url": "https://www.youtube.com/watch?v=wrX1q8rfnwc",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-up-a",
+   "url": "https://www.youtube.com/watch?v=gLlwslqKvQc",
+   "backup": [],
+   "section": "*0:05-0:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-up-b",
+   "url": "https://www.youtube.com/watch?v=YWR_h8jvUhE",
+   "backup": [],
+   "section": "*6:58-7:18",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-up-c",
+   "url": "https://www.youtube.com/watch?v=YWR_h8jvUhE",
+   "backup": [],
+   "section": "*12:52-13:12",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd26-up-d",
+   "url": "https://www.youtube.com/watch?v=gLlwslqKvQc",
+   "backup": [],
+   "section": "*0:26-0:46",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr26-ai-a",
+   "url": "https://www.youtube.com/watch?v=TmgAK5JjcDM",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr26-ai-b",
+   "url": "https://www.youtube.com/watch?v=zRT3MyFwgu0",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr26-ai-c",
+   "url": "https://www.youtube.com/watch?v=0-NM9HyaSt8",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr26-ai-d",
+   "url": "https://www.youtube.com/watch?v=xkfIvE59AqA",
+   "backup": [
+    "https://www.youtube.com/watch?v=LuityjCJ1Hg"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

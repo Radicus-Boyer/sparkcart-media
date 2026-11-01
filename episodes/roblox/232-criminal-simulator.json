@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 232,
+ "slug": "232-criminal-simulator",
+ "file": "232 In Criminal Simulator You Pay Your Debt or Face the Sniper.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, if you don't pay your debt, a sniper comes for you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bespecter; Radex Tips; ItzVexo (Roblox gameplay, YouTube)",
+     "clip": "rb26-cs-a.mp4",
+     "start": 0
+    },
+    "big": "CRIMINAL\nSIMULATOR",
+    "sub": "PAY UP",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You and up to 3 friends rob the city at night. Sneak past the people living there.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bespecter; Radex Tips; ItzVexo (Roblox gameplay, YouTube)",
+     "clip": "rb26-cs-b.mp4",
+     "start": 0
+    },
+    "big": "ROB THE\nCITY",
+    "sub": "UP TO 4 PLAYERS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Outrun the police and their dogs, and sell your loot before the deadline.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bespecter; Radex Tips; ItzVexo (Roblox gameplay, YouTube)",
+     "clip": "rb26-cs-c.mp4",
+     "start": 0
+    },
+    "big": "RUN",
+    "sub": "POLICE AND DOGS",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's still in alpha, and it already has over 7 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bespecter; Radex Tips; ItzVexo (Roblox gameplay, YouTube)",
+     "clip": "rb26-cs-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 7166199,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you pay the debt, or run?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bespecter; Radex Tips; ItzVexo (Roblox gameplay, YouTube)",
+     "clip": "rb26-cs-a.mp4",
+     "start": 0.0
+    },
+    "big": "PAY OR\nRUN?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bespecter; Radex Tips; ItzVexo (Roblox gameplay, YouTube)",
+     "clip": "rb26-cs-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "mood": "spooky"
+}
