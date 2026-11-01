@@ -55,16 +55,16 @@
    }
   },
   {
-   "t": "Call of Duty with Minecraft. Skate tricks in Modern Warfare 2.",
+   "t": "Minecraft inside Modern Warfare 2. Call of Duty with Minecraft blocks.",
    "sc": {
     "bg": "night",
     "ground": "dark",
     "full": {
      "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
-     "clip": "tr26-ai-d.mp4",
-     "start": 0
+     "clip": "tr26-ai-c.mp4",
+     "start": 2.0
     },
-    "big": "COD +\nMINECRAFT",
+    "big": "MINECRAFT\nIN MW2",
     "sub": "WHY NOT",
     "bs": 140,
     "by": 300,
@@ -72,20 +72,20 @@
    }
   },
   {
-   "t": "Then someone put Mario 64 inside Elden Ring. Almost 3 million views, until it got taken down for copyright.",
+   "t": "One even put Mario 64 inside Elden Ring. Almost 3 million views, then it got taken down for copyright.",
    "sc": {
     "bg": "night",
     "ground": "dark",
     "full": {
      "credit": "Clips: Tobyn Jacobs; chasm; Tanox; Chrispreds3 (YouTube)",
-     "clip": "tr26-ai-c.mp4",
-     "start": 0
+     "clip": "tr26-ai-d.mp4",
+     "start": 6.0
     },
-    "big": "MARIO IN\nELDEN RING",
-    "sub": "TAKEN DOWN",
-    "bs": 130,
-    "by": 300,
-    "ss": 56
+    "big": "3 MILLION\nVIEWS",
+    "sub": "MARIO IN ELDEN RING: TAKEN DOWN",
+    "bs": 140,
+    "ss": 40,
+    "by": 300
    }
   },
   {
