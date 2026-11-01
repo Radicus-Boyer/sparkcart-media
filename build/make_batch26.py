@@ -272,6 +272,6 @@ for e in RB:
     paths.append(p)
     print(e["slug"], len(e["lines"]), "lines", words, "words")
 manifest = {"batch": 26, "note": "Throw Food For Animals, Criminal Simulator, Night Rider, Clean the Moon, Bey Rivals, ORBIT, Every End, GD mod purge, GD 2.209, AI game merging",
-            "posting": "batch-26/posting.txt", "episodes": paths, "clips": CLIPS}
+            "posting": "Z:/claudeprojects/roblox vids/batch-26/posting.txt", "episodes": paths, "clips": CLIPS}
 json.dump(manifest, open(os.path.join(ROOT, "batches", "batch-26.json"), "w"), indent=1)
 print(len(CLIPS), "clips")
