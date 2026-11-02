@@ -135,7 +135,7 @@ ep(243, "ashley-wave-trials", "This Level Stayed Unrated for a Year Because of a
    ], pron=dict(GD_PRON), gd_player="Zoink", **GDE)
 
 PNC = "Clips: w3rty (YouTube)"
-clip("gd27-pn-a.mp4", "https://www.youtube.com/watch?v=nVHPFf13M-I", "*1:28-1:48", cut=0)
+clip("gd27-pn-a.mp4", "https://www.youtube.com/watch?v=nVHPFf13M-I", "*1:12-1:27", cut=0)
 clip("gd27-pn-b.mp4", "https://www.youtube.com/watch?v=nVHPFf13M-I", "*0:40-1:00", cut=0)
 clip("gd27-pn-c.mp4", "https://www.youtube.com/watch?v=wN80tDzbkkY", "*1:20-1:40", cut=0)
 ep(244, "penumbral-12-days", "He Beat It in 12 Days the Next Guy Needed 50,000 Attempts", FENRIR, "#7c4dff",
@@ -250,15 +250,15 @@ clip("rb27-cd-c.mp4", "https://www.youtube.com/watch?v=JVXwFXiRPuE", "*0:03-0:23
 ep(250, "create-a-disaster", "In This Roblox Game You Are the Disaster", HEART, "#ffd600",
    {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#ffff00", "cy": 1470},
    [L("In this Roblox game, you don't survive the disaster. You are the disaster.",
-      CLIP("rb27-cd-a.mp4", "CREATE A\nDISASTER", "BLOW IT ALL UP", 0, CDC)),
+      CLIP("rb27-cd-a.mp4", "CREATE A\nDISASTER", "BLOW IT ALL UP", 4.0, CDC)),
     L("Drop meteors, tornadoes, nukes, and black holes on the city, and earn cash for every disaster.",
       CLIP("rb27-cd-b.mp4", "METEORS.\nNUKES.", "BLACK HOLES", 0, CDC, bs=150)),
     L("Save up, and you can summon the Kraken, a giant kaiju, or a crashing space station.",
       CLIP("rb27-cd-c.mp4", "THE KRAKEN", "SUMMON IT", 0, CDC, bs=180)),
     L("It came out in October, and it already has over 6 million visits.",
       CCOUNT("rb27-cd-b.mp4", 6.0, CDC, 6086164, "VISITS", bs=140)),
-    ask("What disaster would you drop first?", "WHAT WOULD\nYOU DROP?", "rb27-cd-a.mp4", CDC),
-    subline("rb27-cd-a.mp4", CDC, 3.0),
+    ask("What disaster would you drop first?", "WHAT WOULD\nYOU DROP?", "rb27-cd-a.mp4", CDC, 4.0),
+    subline("rb27-cd-a.mp4", CDC, 8.0),
    ], pron={"kaiju": "kai-joo"})
 
 # ================================================================== write
