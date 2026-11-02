@@ -1,0 +1,134 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 250,
+ "slug": "250-create-a-disaster",
+ "file": "250 In This Roblox Game You Are the Disaster.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffff00",
+  "cy": 1470
+ },
+ "pron": {
+  "kaiju": "kai-joo"
+ },
+ "lines": [
+  {
+   "t": "In this Roblox game, you don't survive the disaster. You are the disaster.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ToyTaanic; CR11MS0N (Roblox gameplay, YouTube)",
+     "clip": "rb27-cd-a.mp4",
+     "start": 0
+    },
+    "big": "CREATE A\nDISASTER",
+    "sub": "BLOW IT ALL UP",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Drop meteors, tornadoes, nukes, and black holes on the city, and earn cash for every disaster.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ToyTaanic; CR11MS0N (Roblox gameplay, YouTube)",
+     "clip": "rb27-cd-b.mp4",
+     "start": 0
+    },
+    "big": "METEORS.\nNUKES.",
+    "sub": "BLACK HOLES",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Save up, and you can summon the Kraken, a giant kaiju, or a crashing space station.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ToyTaanic; CR11MS0N (Roblox gameplay, YouTube)",
+     "clip": "rb27-cd-c.mp4",
+     "start": 0
+    },
+    "big": "THE KRAKEN",
+    "sub": "SUMMON IT",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October, and it already has over 6 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ToyTaanic; CR11MS0N (Roblox gameplay, YouTube)",
+     "clip": "rb27-cd-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 6086164,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What disaster would you drop first?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ToyTaanic; CR11MS0N (Roblox gameplay, YouTube)",
+     "clip": "rb27-cd-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT WOULD\nYOU DROP?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ToyTaanic; CR11MS0N (Roblox gameplay, YouTube)",
+     "clip": "rb27-cd-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

@@ -1,0 +1,139 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 245,
+ "slug": "245-the-bloop-buffed",
+ "file": "245 Zoink Made The Bloop Harder While Beating It.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#84ffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "w3rty": "werty",
+  "dovvin": "dovvin",
+  "murkkat": "murk cat",
+  "OddMod": "Odd Mod",
+  "RobTop": "Rob Top",
+  "xStep": "ex step"
+ },
+ "lines": [
+  {
+   "t": "He made this level harder, while he was still trying to beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd27-bl-a.mp4",
+     "start": 0
+    },
+    "big": "THE BLOOP",
+    "sub": "VERIFIED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The Bloop is a giant collab hosted by murkkat. Zoink started verifying it last November.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd27-bl-b.mp4",
+     "start": 0
+    },
+    "big": "ZOINK",
+    "sub": "THE VERIFIER",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In February, he started from zero. 28 percent, then 42, 56, 71.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd27-bl-c.mp4",
+     "start": 0
+    },
+    "big": "28% 42%\n56% 71%",
+    "sub": "FROM ZERO",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then he started buffing it, making it even harder. 83, 95, and in March, verified.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd27-bl-a.mp4",
+     "start": 6.0
+    },
+    "big": "BUFFED\nIT",
+    "sub": "THEN BEAT IT",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you make a level harder before beating it?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd27-bl-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD YOU\nBUFF IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd27-bl-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

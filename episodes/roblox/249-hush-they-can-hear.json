@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 249,
+ "slug": "249-hush-they-can-hear",
+ "file": "249 In HUSH the Monsters Hunt by Sound.mp4",
+ "target": 0,
+ "accent": "#9e9e9e",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#e0e0e0",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, the monsters can't see you. But they can hear you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; Imadumbo (Roblox gameplay, YouTube)",
+     "clip": "rb27-hu-a.mp4",
+     "start": 0
+    },
+    "big": "HUSH",
+    "sub": "THEY CAN HEAR",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Monsters took over the town. You crawl out of the sewers, after hiding for a long time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; Imadumbo (Roblox gameplay, YouTube)",
+     "clip": "rb27-hu-b.mp4",
+     "start": 0
+    },
+    "big": "THE TOWN\nIS GONE",
+    "sub": "OUT OF THE SEWERS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Sneak into houses, the hospital, and the army camp. Loot, hotwire a car, and get out before they hear you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; Imadumbo (Roblox gameplay, YouTube)",
+     "clip": "rb27-hu-c.mp4",
+     "start": 0
+    },
+    "big": "STAY\nQUIET",
+    "sub": "LOOT AND GET OUT",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's still in beta, and it already has over 9.7 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; Imadumbo (Roblox gameplay, YouTube)",
+     "clip": "rb27-hu-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 9707832,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Could you stay quiet?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; Imadumbo (Roblox gameplay, YouTube)",
+     "clip": "rb27-hu-a.mp4",
+     "start": 0.0
+    },
+    "big": "COULD YOU\nSTAY QUIET?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; Imadumbo (Roblox gameplay, YouTube)",
+     "clip": "rb27-hu-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "mood": "spooky"
+}

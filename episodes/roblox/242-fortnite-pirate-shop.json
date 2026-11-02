@@ -1,0 +1,136 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 242,
+ "slug": "242-fortnite-pirate-shop",
+ "file": "242 This Fortnite Chest Makes the Whole Item Shop Free.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {
+  "V-Bucks": "V Bucks"
+ },
+ "lines": [
+  {
+   "t": "There's a chest in Fortnite that makes the entire Item Shop free.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)",
+     "clip": "tr27-fn-a.mp4",
+     "start": 0
+    },
+    "big": "FREE ITEM\nSHOP",
+    "sub": "FROM ONE CHEST",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's called the Pirate Shop, and since November 1st, it can drop from chests in Battle Royale.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)",
+     "clip": "tr27-fn-b.mp4",
+     "start": 0
+    },
+    "big": "THE PIRATE\nSHOP",
+    "sub": "TREASURE HUNTERS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Find it, and everything you'd buy with V-Bucks is free for 14 days. Twice. Once this year, once next year.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)",
+     "clip": "tr27-fn-c.mp4",
+     "start": 0
+    },
+    "big": "14 DAYS\nFREE",
+    "sub": "TWICE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "One player found it after about 150 chests, and it looked like a normal chest. Epic won't say how rare it is.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)",
+     "clip": "tr27-fn-d.mp4",
+     "start": 0
+    },
+    "sub": "CHESTS OPENED",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 150,
+     "fmt": "~{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "How many chests would you open?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)",
+     "clip": "tr27-fn-a.mp4",
+     "start": 0.0
+    },
+    "big": "HOW MANY\nCHESTS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)",
+     "clip": "tr27-fn-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr27-fn-b.mp4",
+ "edition": "FORTNITE"
+}

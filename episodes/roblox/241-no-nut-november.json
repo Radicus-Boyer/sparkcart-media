@@ -1,0 +1,136 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 241,
+ "slug": "241-no-nut-november",
+ "file": "241 No Nut November Is Harder Than Tidal Wave.mp4",
+ "target": 0,
+ "accent": "#ff9100",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd180",
+  "cy": 1470
+ },
+ "pron": {
+  "NNN": "N N N"
+ },
+ "lines": [
+  {
+   "t": "It's November 2nd, and some of you have already lost No Nut November.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
+     "clip": "tr27-nn-a.mp4",
+     "start": 0
+    },
+    "big": "NO NUT\nNOVEMBER",
+    "sub": "DAY 2",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It started as an Urban Dictionary joke in 2011. The rules? For 30 days, you don't. That's it. That's the whole game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
+     "clip": "tr27-nn-b.mp4",
+     "start": 0
+    },
+    "big": "THE RULES",
+    "sub": "YOU KNOW WHAT YOU DID",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "By 2019, 52,000 men had joined the subreddit, holding each other accountable. Brothers in arms.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
+     "clip": "tr27-nn-c.mp4",
+     "start": 0
+    },
+    "sub": "BROTHERS IN ARMS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 52000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Scientists say it does basically nothing. Players say it's the hardest level ever made. Harder than Tidal Wave.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
+     "clip": "tr27-nn-d.mp4",
+     "start": 0
+    },
+    "big": "HARDER THAN\nTIDAL WAVE",
+    "sub": "EXTREME DEMON",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What day are you on? Be honest.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
+     "clip": "tr27-nn-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT DAY\nARE YOU ON?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
+     "clip": "tr27-nn-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr27-nn-b.mp4",
+ "edition": "MEME LORE"
+}

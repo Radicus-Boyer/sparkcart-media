@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 244,
+ "slug": "244-penumbral-12-days",
+ "file": "244 He Beat It in 12 Days the Next Guy Needed 50,000 Attempts.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#b388ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "w3rty": "werty",
+  "dovvin": "dovvin",
+  "murkkat": "murk cat",
+  "OddMod": "Odd Mod",
+  "RobTop": "Rob Top",
+  "xStep": "ex step"
+ },
+ "lines": [
+  {
+   "t": "One player beat this level in 12 days. The next one needed 50,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty (YouTube)",
+     "clip": "gd27-pn-a.mp4",
+     "start": 0
+    },
+    "big": "PENUMBRAL",
+    "sub": "VERIFIED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Penumbral is a Cherry Team collab, and the hardest level ever made to the song xStep.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty (YouTube)",
+     "clip": "gd27-pn-b.mp4",
+     "start": 0
+    },
+    "big": "XSTEP",
+    "sub": "THE HARDEST XSTEP LEVEL",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "w3rty verified it in just 12 days, and it was rated around top 10.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty (YouTube)",
+     "clip": "gd27-pn-c.mp4",
+     "start": 0
+    },
+    "big": "12 DAYS",
+    "sub": "W3RTY",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The first person to beat it after him was dovvin, after around 50,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty (YouTube)",
+     "clip": "gd27-pn-b.mp4",
+     "start": 6.0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 50000,
+     "fmt": "~{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "12 days, or 50,000 attempts?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty (YouTube)",
+     "clip": "gd27-pn-a.mp4",
+     "start": 0.0
+    },
+    "big": "12 DAYS OR\n50,000?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty (YouTube)",
+     "clip": "gd27-pn-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "w3rty",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

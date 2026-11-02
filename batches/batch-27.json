@@ -1,0 +1,295 @@
+{
+ "batch": 27,
+ "note": "No Nut November, Fortnite Pirate Shop, Ashley Wave Trials, Penumbral, The Bloop, 1M Clicks To Escape, Tesla Roadster Chase, Punch Out Of Prison, HUSH, Create A Disaster",
+ "posting": "Z:/claudeprojects/roblox vids/batch-27/posting.txt",
+ "episodes": [
+  "episodes/roblox/241-no-nut-november.json",
+  "episodes/roblox/242-fortnite-pirate-shop.json",
+  "episodes/roblox/243-ashley-wave-trials.json",
+  "episodes/roblox/244-penumbral-12-days.json",
+  "episodes/roblox/245-the-bloop-buffed.json",
+  "episodes/roblox/246-1m-clicks-to-escape.json",
+  "episodes/roblox/247-tesla-roadster-chase.json",
+  "episodes/roblox/248-punch-out-of-prison.json",
+  "episodes/roblox/249-hush-they-can-hear.json",
+  "episodes/roblox/250-create-a-disaster.json"
+ ],
+ "clips": [
+  {
+   "name": "tr27-nn-a",
+   "url": "https://www.youtube.com/watch?v=GblvGhuRgHE",
+   "backup": [],
+   "section": "*1:22-1:42",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-nn-b",
+   "url": "https://www.youtube.com/watch?v=uhDpfolqn2Q",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-nn-c",
+   "url": "https://www.youtube.com/watch?v=uhDpfolqn2Q",
+   "backup": [],
+   "section": "*3:30-3:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-nn-d",
+   "url": "https://www.youtube.com/watch?v=j5YpDusOS5o",
+   "backup": [],
+   "section": "*0:12-0:32",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-fn-a",
+   "url": "https://www.youtube.com/watch?v=kJj7hV20p0Y",
+   "backup": [
+    "https://www.youtube.com/watch?v=RoUsl_Jurzg"
+   ],
+   "section": "*0:00-0:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-fn-b",
+   "url": "https://www.youtube.com/watch?v=rnjWNafJy8Q",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-fn-c",
+   "url": "https://www.youtube.com/watch?v=3grl3jv3kAI",
+   "backup": [
+    "https://www.youtube.com/watch?v=NMPsjlNEF4o"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr27-fn-d",
+   "url": "https://www.youtube.com/watch?v=kJj7hV20p0Y",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-aw-a",
+   "url": "https://www.youtube.com/watch?v=aTxt76U3e2Q",
+   "backup": [],
+   "section": "*2:12-2:32",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-aw-b",
+   "url": "https://www.youtube.com/watch?v=aTxt76U3e2Q",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-aw-c",
+   "url": "https://www.youtube.com/watch?v=KrdMngKSLKc",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-pn-a",
+   "url": "https://www.youtube.com/watch?v=nVHPFf13M-I",
+   "backup": [],
+   "section": "*1:28-1:48",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-pn-b",
+   "url": "https://www.youtube.com/watch?v=nVHPFf13M-I",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-pn-c",
+   "url": "https://www.youtube.com/watch?v=wN80tDzbkkY",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-bl-a",
+   "url": "https://www.youtube.com/watch?v=ROuXHSKEhHA",
+   "backup": [],
+   "section": "*17:58-18:18",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-bl-b",
+   "url": "https://www.youtube.com/watch?v=ROuXHSKEhHA",
+   "backup": [],
+   "section": "*16:21-16:41",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd27-bl-c",
+   "url": "https://www.youtube.com/watch?v=ROuXHSKEhHA",
+   "backup": [],
+   "section": "*17:25-17:45",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-mc-a",
+   "url": "https://www.youtube.com/watch?v=FF54UTOPmMM",
+   "backup": [
+    "https://www.youtube.com/watch?v=jHl31RjBxBo"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-mc-b",
+   "url": "https://www.youtube.com/watch?v=FF54UTOPmMM",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-mc-c",
+   "url": "https://www.youtube.com/watch?v=jHl31RjBxBo",
+   "backup": [
+    "https://www.youtube.com/watch?v=EevOgTo6k90"
+   ],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-tr-a",
+   "url": "https://www.youtube.com/watch?v=Nrf7lsPwFAo",
+   "backup": [
+    "https://www.youtube.com/watch?v=FyGk8din8RM"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-tr-b",
+   "url": "https://www.youtube.com/watch?v=Nrf7lsPwFAo",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-tr-c",
+   "url": "https://www.youtube.com/watch?v=FyGk8din8RM",
+   "backup": [
+    "https://www.youtube.com/watch?v=YU5P9hoIwWE"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-pp-a",
+   "url": "https://www.youtube.com/watch?v=7J7Ywaeb3lQ",
+   "backup": [
+    "https://www.youtube.com/watch?v=X-dICXSsJ60"
+   ],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-pp-b",
+   "url": "https://www.youtube.com/watch?v=7J7Ywaeb3lQ",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-pp-c",
+   "url": "https://www.youtube.com/watch?v=M4NidrTFHa8",
+   "backup": [
+    "https://www.youtube.com/watch?v=1BJjLWZRaAI"
+   ],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-hu-a",
+   "url": "https://www.youtube.com/watch?v=tLUr8opXaT4",
+   "backup": [
+    "https://www.youtube.com/watch?v=RQgmjLnIvmo"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-hu-b",
+   "url": "https://www.youtube.com/watch?v=tLUr8opXaT4",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-hu-c",
+   "url": "https://www.youtube.com/watch?v=RQgmjLnIvmo",
+   "backup": [
+    "https://www.youtube.com/watch?v=p56gJeXt-m4"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-cd-a",
+   "url": "https://www.youtube.com/watch?v=PYQWUhcPddw",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-cd-b",
+   "url": "https://www.youtube.com/watch?v=PYQWUhcPddw",
+   "backup": [],
+   "section": "*7:00-7:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb27-cd-c",
+   "url": "https://www.youtube.com/watch?v=JVXwFXiRPuE",
+   "backup": [],
+   "section": "*0:03-0:23",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

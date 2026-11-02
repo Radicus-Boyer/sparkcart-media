@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 246,
+ "slug": "246-1m-clicks-to-escape",
+ "file": "246 In This Roblox Game You Click a Button 1 Million Times to Escape.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In this Roblox game, the only way out is to click one button, a million times.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yazn; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb27-mc-a.mp4",
+     "start": 0
+    },
+    "big": "1M CLICKS\nTO ESCAPE",
+    "sub": "THE ONLY WAY OUT",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You signed up for a game show. Now you're locked in a white room, with a big red button.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yazn; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb27-mc-b.mp4",
+     "start": 0
+    },
+    "big": "THE WHITE\nROOM",
+    "sub": "ONE RED BUTTON",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Click it 1,000,000 times. Unlock upgrades, earn gems, and uncover the lore of who locked you in.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yazn; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb27-mc-c.mp4",
+     "start": 0
+    },
+    "sub": "CLICKS TO GO",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 1000000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It already has over 1.3 million visits. Probably fewer clicks than you need.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yazn; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb27-mc-a.mp4",
+     "start": 6.0
+    },
+    "big": "1.3 MILLION\nVISITS",
+    "sub": "KEEP CLICKING",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "How long would it take you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yazn; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb27-mc-a.mp4",
+     "start": 0.0
+    },
+    "big": "HOW LONG\nFOR YOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yazn; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb27-mc-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}
