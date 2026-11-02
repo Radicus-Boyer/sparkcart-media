@@ -44,8 +44,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
-     "clip": "tr27-nn-b.mp4",
-     "start": 0
+     "clip": "tr27-nn-a.mp4",
+     "start": 4.0
     },
     "big": "THE RULES",
     "sub": "YOU KNOW WHAT YOU DID",
@@ -62,7 +62,7 @@
     "full": {
      "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
      "clip": "tr27-nn-c.mp4",
-     "start": 0
+     "start": 4.0
     },
     "sub": "BROTHERS IN ARMS",
     "bs": 170,
@@ -84,7 +84,7 @@
     "full": {
      "credit": "Clips: Bramozed; CarbonFlash; lincth0m (YouTube)",
      "clip": "tr27-nn-d.mp4",
-     "start": 0
+     "start": 2.0
     },
     "big": "HARDER THAN\nTIDAL WAVE",
     "sub": "EXTREME DEMON",
@@ -131,6 +131,6 @@
  "lead": 1.7,
  "tail": 0.5,
  "clip_audio": true,
- "prop_clip": "tr27-nn-b.mp4",
+ "prop_clip": "tr27-nn-a.mp4",
  "edition": "MEME LORE"
 }

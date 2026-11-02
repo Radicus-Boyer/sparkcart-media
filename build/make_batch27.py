@@ -86,14 +86,14 @@ ep(241, "no-nut-november", "No Nut November Is Harder Than Tidal Wave", PUCK, "#
    [L("It's November 2nd, and some of you have already lost No Nut November.",
       CLIP("tr27-nn-a.mp4", "NO NUT\nNOVEMBER", "DAY 2", 0, NNC)),
     L("It started as an Urban Dictionary joke in 2011. The rules? For 30 days, you don't. That's it. That's the whole game.",
-      CLIP("tr27-nn-b.mp4", "THE RULES", "YOU KNOW WHAT YOU DID", 0, NNC, bs=180)),
+      CLIP("tr27-nn-a.mp4", "THE RULES", "YOU KNOW WHAT YOU DID", 4.0, NNC, bs=180)),
     L("By 2019, 52,000 men had joined the subreddit, holding each other accountable. Brothers in arms.",
-      CCOUNT("tr27-nn-c.mp4", 0, NNC, 52000, "BROTHERS IN ARMS")),
+      CCOUNT("tr27-nn-c.mp4", 4.0, NNC, 52000, "BROTHERS IN ARMS")),
     L("Scientists say it does basically nothing. Players say it's the hardest level ever made. Harder than Tidal Wave.",
-      CLIP("tr27-nn-d.mp4", "HARDER THAN\nTIDAL WAVE", "EXTREME DEMON", 0, NNC, bs=120)),
+      CLIP("tr27-nn-d.mp4", "HARDER THAN\nTIDAL WAVE", "EXTREME DEMON", 2.0, NNC, bs=120)),
     ask("What day are you on? Be honest.", "WHAT DAY\nARE YOU ON?", "tr27-nn-a.mp4", NNC),
     subline("tr27-nn-a.mp4", NNC, 3.0),
-   ], pron={"NNN": "N N N"}, prop_clip="tr27-nn-b.mp4", edition="MEME LORE")
+   ], pron={"NNN": "N N N"}, prop_clip="tr27-nn-a.mp4", edition="MEME LORE")
 
 # ============================================================ FORTNITE: Pirate Shop (Dexerto / Shane the Gamer, Nov 1-2)
 FNC = "Clips: Fortnite (Epic Games); Ali-A; Coldside (YouTube)"
