@@ -167,3 +167,4 @@ rb19-*/gd19-*/ml19-*/tr19-* clips    short (<=13 s) YouTube clips cut for commen
 # Batch 24 (#211-220): clips gd24-*, rb24-*, tr24-* with audio (temporary, deleted after render); sources in batches/batch-24.json and batch-24/posting.txt.
 # Batch 25 (#221-230): clips gd25-*, rb25-*, tr25-* with audio (temporary, deleted after render); sources in batches/batch-25.json and batch-25/posting.txt.
 # Batch 26 (#231-240): clips gd26-*, rb26-*, tr26-* with audio (temporary, deleted after render); sources in batches/batch-26.json and batch-26/posting.txt.
+# Batch 27 (#241-250): clips gd27-*, rb27-*, tr27-* with audio (temporary, deleted after render); sources in batches/batch-27.json and batch-27/posting.txt.
