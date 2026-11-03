@@ -315,7 +315,7 @@ Check new ideas against this list to avoid repeats: python3 tools/topics.py chec
 253  Nobody Has Beaten the Real Tidal Wave
 254  Tunnel of Despair Was Nerfed
 255  Can You Pass A Driving Test
-256  Make a Cartoon
+256  A Long Flight
 257  +1 Venom Evolution
 258  +1 Anime Eyes
 259  Fortnite Pirate Shop Token Odds

@@ -1,6 +1,6 @@
 {
  "batch": 28,
- "note": "Kyouki, Cycles X, Tidal Wave invalid wins, Tunnel of Despair nerf, Driving Test, Make a Cartoon, +1 Venom Evolution, +1 Anime Eyes, Fortnite Pirate Shop odds, Jimothy",
+ "note": "Kyouki, Cycles X, Tidal Wave invalid wins, Tunnel of Despair nerf, Driving Test, A Long Flight, +1 Venom Evolution, +1 Anime Eyes, Fortnite Pirate Shop odds, Jimothy",
  "posting": "Z:/claudeprojects/roblox vids/batch-28/posting.txt",
  "episodes": [
   "episodes/roblox/251-kyouki-501997.json",
@@ -8,7 +8,7 @@
   "episodes/roblox/253-tidal-wave-invalid.json",
   "episodes/roblox/254-tunnel-of-despair-nerfed.json",
   "episodes/roblox/255-can-you-pass-a-driving-test.json",
-  "episodes/roblox/256-make-a-cartoon.json",
+  "episodes/roblox/256-a-long-flight.json",
   "episodes/roblox/257-plus-1-venom-evolution.json",
   "episodes/roblox/258-plus-1-anime-eyes.json",
   "episodes/roblox/259-fortnite-pirate-shop-odds.json",
@@ -148,28 +148,30 @@
    "len": 13
   },
   {
-   "name": "rb28-mc-a",
-   "url": "https://www.youtube.com/watch?v=jgMztOy8LTM",
-   "backup": [],
-   "section": "*0:00-0:20",
-   "cut": 0,
-   "len": 13
-  },
-  {
-   "name": "rb28-mc-b",
-   "url": "https://www.youtube.com/watch?v=cIMTQ6te-_k",
-   "backup": [],
-   "section": "*0:00-0:20",
-   "cut": 0,
-   "len": 13
-  },
-  {
-   "name": "rb28-mc-c",
-   "url": "https://www.youtube.com/watch?v=tHpmOG9FIYk",
+   "name": "rb28-lf-a",
+   "url": "https://www.youtube.com/watch?v=S6PlEUd-C5o",
    "backup": [
-    "https://www.youtube.com/watch?v=WYS6yQ3ARyw"
+    "https://www.youtube.com/watch?v=6P-G3GqQypc"
    ],
-   "section": "*1:00-1:20",
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb28-lf-b",
+   "url": "https://www.youtube.com/watch?v=S6PlEUd-C5o",
+   "backup": [],
+   "section": "*9:00-9:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb28-lf-c",
+   "url": "https://www.youtube.com/watch?v=uM8_5gEsXxY",
+   "backup": [
+    "https://www.youtube.com/watch?v=6P-G3GqQypc"
+   ],
+   "section": "*5:00-5:20",
    "cut": 0,
    "len": 13
   },
@@ -281,9 +283,9 @@
   },
   {
    "name": "tr28-jm-c",
-   "url": "https://www.youtube.com/watch?v=iVqdCEkw2-Y",
+   "url": "https://www.youtube.com/watch?v=Yu3RsjPrm_Y",
    "backup": [],
-   "section": "*2:25-2:45",
+   "section": "*0:20-0:40",
    "cut": 0,
    "len": 13
   },

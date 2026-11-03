@@ -91,7 +91,7 @@ ep(251, "kyouki-501997", "Kyouki Took 501,997 Attempts", FENRIR, "#ff1744",
    [L("501,997 attempts, on a level one person made alone.",
       CLIP("gd28-ky-a.mp4", "501,997\nATTEMPTS?", "FOR ONE LEVEL", 0, KYC, bs=130)),
     L("Kyouki is a solo level by Demishio. He built every part of it himself, then set out to beat it.",
-      CLIP("gd28-ky-c.mp4", "KYOUKI", "MADE BY ONE PERSON", 0, KYC)),
+      CLIP("gd28-ky-c.mp4", "KYOUKI", "MADE BY ONE PERSON", 4.0, KYC)),
     L("He played it for 175 days. His worst death was at 97 percent.",
       CLIP("gd28-ky-b.mp4", "97%", "175 DAYS", 0, KYC, bs=200)),
     L("In November 2022, he finally beat it, after 501,997 attempts. It went in at number 3, the hardest solo level ever made.",
@@ -109,9 +109,9 @@ ep(252, "cycles-x-53363", "Vortrox Turned an Easy Main Level Into an Extreme Dem
    [L("He took a main level from the original game, and made it one of the hardest levels ever.",
       CLIP("gd28-cx-a.mp4", "CYCLES...\nBUT WHY?", "CYCLES X", 0, CXC, bs=140)),
     L("Cycles X is Vortrox's super buffed remake of Cycles, part of his series turning main levels into extreme demons.",
-      CLIP("gd28-cx-c.mp4", "SUPER\nBUFFED", "A MAIN LEVEL REMADE", 0, CXC, bs=150)),
+      CLIP("gd28-cx-c.mp4", "SUPER\nBUFFED", "A MAIN LEVEL REMADE", 4.0, CXC, bs=150)),
     L("He died at 93 percent, then died at 93 again, in almost the exact same spot.",
-      CLIP("gd28-cx-c.mp4", "93%\n93%", "SAME SPOT", 8.0, CXC, bs=150)),
+      CLIP("gd28-cx-c.mp4", "93%\n93%", "SAME SPOT", 6.0, CXC, bs=150)),
     L("In July, after 64 live streams, he beat it, at 53,363 attempts.",
       CCOUNT("gd28-cx-b.mp4", 0, CXC, 53363, "ATTEMPTS")),
     ask("Which main level should get buffed next?", "WHICH LEVEL\nIS NEXT?", "gd28-cx-a.mp4", CXC),
@@ -129,7 +129,7 @@ ep(253, "tidal-wave-invalid", "Nobody Has Beaten the Real Tidal Wave", MIKE, "#2
     L("Zoink verified it in 2023, after 49,534 attempts, and it became the number 1 hardest level.",
       CCOUNT("gd28-tw-b.mp4", 0, TWC, 49534, "ATTEMPTS")),
     L("But when its creator, OniLink, moved the buffs over to the rated version, he added one more change.",
-      CLIP("gd28-tw-c.mp4", "ONE MORE\nCHANGE", "ONILINK", 0, TWC, bs=150)),
+      CLIP("gd28-tw-c.mp4", "ONE MORE\nCHANGE", "ONILINK", 6.0, TWC, bs=150)),
     L("That made every win technically invalid. Zoink, Trick and wPopoff beat version 1. Four others beat version 2. Nobody has beaten version 3.",
       CLIP("gd28-tw-b.mp4", "VERSION 3:\nNOBODY", "TECHNICALLY INVALID", 6.0, TWC, bs=140)),
     ask("Should their wins still count?", "SHOULD IT\nCOUNT?", "gd28-tw-a.mp4", TWC),
@@ -143,15 +143,15 @@ clip("gd28-td-c.mp4", "https://www.youtube.com/watch?v=8uDmKz5HB2I", "*0:30-0:50
 ep(254, "tunnel-of-despair-nerfed", "Tunnel of Despair Was Meant to Be Number 1 Then It Got Nerfed", SARAH, "#e53935",
    {"font": MF + "Anton-Regular.ttf", "size": 104, "hi": "#ff8a80", "stroke": 8},
    [L("This level was built to be the hardest in the game. Then it got nerfed.",
-      CLIP("gd28-td-a.mp4", "BUILT FOR #1...\nTHEN NERFED?", "TUNNEL OF DESPAIR", 0, TDC, bs=110)),
+      CLIP("gd28-td-b.mp4", "BUILT FOR #1...\nTHEN NERFED?", "TUNNEL OF DESPAIR", 0, TDC, bs=110)),
     L("Tunnel of Despair is a collab by Exen and ivyteal. Grey and black, with red pulses, and a famously long wave part.",
       CLIP("gd28-td-b.mp4", "THE LONG\nWAVE", "EXEN AND IVYTEAL", 0, TDC, bs=150)),
     L("It was aimed at the top of the Demonlist. But Zoink verified it in a nerfed version, after about 12,000 attempts.",
       CCOUNT("gd28-td-b.mp4", 6.0, TDC, 12000, "ATTEMPTS", fmt="~{:,.0f}")),
     L("Every player who beat it since, beat the easier one.",
       CLIP("gd28-td-c.mp4", "THE EASIER\nONE", "EVERY VICTOR", 0, TDC, bs=150)),
-    ask("Should levels ever get nerfed?", "NERF OR\nNO NERF?", "gd28-td-a.mp4", TDC),
-    subline("gd28-td-a.mp4", TDC, 3.0),
+    ask("Should levels ever get nerfed?", "NERF OR\nNO NERF?", "gd28-td-b.mp4", TDC),
+    subline("gd28-td-b.mp4", TDC, 3.0),
    ], pron=dict(GD_PRON), gd_player="Zoink", **GDE)
 
 # ============================================================ ROBLOX (live numbers, Nov 3) - "THIS NEW FUN GAME ON ROBLOX" hooks
@@ -172,21 +172,21 @@ ep(255, "can-you-pass-a-driving-test", "Can You Pass A Driving Test on Roblox", 
     ask("Would you pass the test?", "WOULD YOU\nPASS?", "rb28-dt-a.mp4", DTC),
    ])
 
-MCT = "Clips: Electracy; GeekBlud (Roblox gameplay, YouTube)"
-clip("rb28-mc-a.mp4", "https://www.youtube.com/watch?v=jgMztOy8LTM", "*0:00-0:20", cut=0)
-clip("rb28-mc-b.mp4", "https://www.youtube.com/watch?v=cIMTQ6te-_k", "*0:00-0:20", cut=0)
-clip("rb28-mc-c.mp4", "https://www.youtube.com/watch?v=tHpmOG9FIYk", "*1:00-1:20", cut=0, backup=["https://www.youtube.com/watch?v=WYS6yQ3ARyw"])
-ep(256, "make-a-cartoon", "Make a Cartoon Lets You Animate on Roblox", HEART, "#00e5ff",
-   {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#84ffff", "cy": 1470},
-   [L("This new fun game on Roblox turns you into an animator.",
-      CLIP("rb28-mc-a.mp4", NEW, "YOU'RE THE ANIMATOR", 0, MCT, bs=110)),
-    L("In Make a Cartoon, you add stick figures, animals and props, then drag their joints to pose them.",
-      CLIP("rb28-mc-b.mp4", "POSE\nTHEM", "DRAG THE JOINTS", 0, MCT, bs=150)),
-    L("Add a frame, move them a little, and press play. Then share it in the gallery.",
-      CLIP("rb28-mc-c.mp4", "PRESS\nPLAY", "FRAME BY FRAME", 0, MCT, bs=150)),
-    L("It came out in October, and it has over 4 million visits.",
-      CCOUNT("rb28-mc-b.mp4", 6.0, MCT, 4358225, "VISITS", bs=140)),
-    ask("What would your first cartoon be?", "WHAT WOULD\nYOU MAKE?", "rb28-mc-a.mp4", MCT),
+LFC = "Clips: Doodle and Alex; Sunny and Me (Roblox gameplay, YouTube)"
+clip("rb28-lf-a.mp4", "https://www.youtube.com/watch?v=S6PlEUd-C5o", "*2:00-2:20", cut=0, backup=["https://www.youtube.com/watch?v=6P-G3GqQypc"])
+clip("rb28-lf-b.mp4", "https://www.youtube.com/watch?v=S6PlEUd-C5o", "*9:00-9:20", cut=0)
+clip("rb28-lf-c.mp4", "https://www.youtube.com/watch?v=uM8_5gEsXxY", "*5:00-5:20", cut=0, backup=["https://www.youtube.com/watch?v=6P-G3GqQypc"])
+ep(256, "a-long-flight", "In A Long Flight You Fix a Plane to Escape the Desert", HEART, "#ffb300",
+   {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#ffe082", "cy": 1470},
+   [L("This new fun game on Roblox strands you in a desert, with nothing but a broken old plane.",
+      CLIP("rb28-lf-a.mp4", NEW, "STRANDED IN THE DESERT", 0, LFC, bs=110)),
+    L("In A Long Flight, you search abandoned places for parts and fuel, and fix your plane.",
+      CLIP("rb28-lf-b.mp4", "FIX THE\nPLANE", "PARTS AND FUEL", 0, LFC, bs=150)),
+    L("Start the engine, take off, and fly into the unknown. Just keep it in one piece.",
+      CLIP("rb28-lf-c.mp4", "TAKE OFF", "INTO THE UNKNOWN", 0, LFC, bs=180)),
+    L("It's about a month old, with over 14 million visits.",
+      CCOUNT("rb28-lf-b.mp4", 6.0, LFC, 14797259, "VISITS", bs=140)),
+    ask("Where would you fly first?", "WHERE WOULD\nYOU FLY?", "rb28-lf-a.mp4", LFC),
    ])
 
 VEC = "Clips: FoltynPlays; Bax (Roblox gameplay, YouTube)"
@@ -244,10 +244,10 @@ ep(259, "fortnite-pirate-shop-odds", "Your Odds of Finding the Fortnite Pirate S
    ], pron={"V-Bucks": "V Bucks"}, prop_clip="tr28-fp-b.mp4", edition="FORTNITE")
 
 # ============================================================ GAMING MEME OF THE WEEK: Jimothy (Wikipedia)
-JMC = "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)"
+JMC = "Clips: HAPP - Story; ViralHog; TiffyMissWiffy (Guild Wars 2); KTLA 5 (YouTube)"
 clip("tr28-jm-a.mp4", "https://www.youtube.com/watch?v=hrR5u5gb38I", "*0:03-0:23", cut=0)
 clip("tr28-jm-b.mp4", "https://www.youtube.com/watch?v=QXpCoMmoBbM", "*0:00-0:20", cut=0)
-clip("tr28-jm-c.mp4", "https://www.youtube.com/watch?v=iVqdCEkw2-Y", "*2:25-2:45", cut=0)
+clip("tr28-jm-c.mp4", "https://www.youtube.com/watch?v=Yu3RsjPrm_Y", "*0:20-0:40", cut=0)
 clip("tr28-jm-d.mp4", "https://www.youtube.com/watch?v=V15O_crWU-s", "*0:10-0:30", cut=0)
 ep(260, "jimothy-the-raccoon", "Jimothy the Raccoon Is in Video Games Now", PUCK, "#8d6e63",
    {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#ffcc80", "cy": 1470},
@@ -272,7 +272,7 @@ for e in RB:
     json.dump(e, open(os.path.join(ROOT, p), "w"), indent=1, ensure_ascii=False)
     paths.append(p)
     print(e["slug"], len(e["lines"]), "lines", words, "words")
-manifest = {"batch": 28, "note": "Kyouki, Cycles X, Tidal Wave invalid wins, Tunnel of Despair nerf, Driving Test, Make a Cartoon, +1 Venom Evolution, +1 Anime Eyes, Fortnite Pirate Shop odds, Jimothy",
+manifest = {"batch": 28, "note": "Kyouki, Cycles X, Tidal Wave invalid wins, Tunnel of Despair nerf, Driving Test, A Long Flight, +1 Venom Evolution, +1 Anime Eyes, Fortnite Pirate Shop odds, Jimothy",
             "posting": "Z:/claudeprojects/roblox vids/batch-28/posting.txt", "episodes": paths, "clips": CLIPS}
 json.dump(manifest, open(os.path.join(ROOT, "batches", "batch-28.json"), "w"), indent=1)
 print(len(CLIPS), "clips")

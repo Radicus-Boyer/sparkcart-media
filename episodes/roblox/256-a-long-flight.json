@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 256,
+ "slug": "256-a-long-flight",
+ "file": "256 In A Long Flight You Fix a Plane to Escape the Desert.mp4",
+ "target": 0,
+ "accent": "#ffb300",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffe082",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox strands you in a desert, with nothing but a broken old plane.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doodle and Alex; Sunny and Me (Roblox gameplay, YouTube)",
+     "clip": "rb28-lf-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "STRANDED IN THE DESERT",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In A Long Flight, you search abandoned places for parts and fuel, and fix your plane.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doodle and Alex; Sunny and Me (Roblox gameplay, YouTube)",
+     "clip": "rb28-lf-b.mp4",
+     "start": 0
+    },
+    "big": "FIX THE\nPLANE",
+    "sub": "PARTS AND FUEL",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Start the engine, take off, and fly into the unknown. Just keep it in one piece.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doodle and Alex; Sunny and Me (Roblox gameplay, YouTube)",
+     "clip": "rb28-lf-c.mp4",
+     "start": 0
+    },
+    "big": "TAKE OFF",
+    "sub": "INTO THE UNKNOWN",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's about a month old, with over 14 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doodle and Alex; Sunny and Me (Roblox gameplay, YouTube)",
+     "clip": "rb28-lf-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 14797259,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Where would you fly first?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doodle and Alex; Sunny and Me (Roblox gameplay, YouTube)",
+     "clip": "rb28-lf-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHERE WOULD\nYOU FLY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}
