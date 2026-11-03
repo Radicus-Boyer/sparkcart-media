@@ -202,7 +202,7 @@ ep(257, "plus-1-venom-evolution", "In Plus 1 Venom Evolution You Evolve Into a G
     L("Every win unlocks a new evolution, until you hit your max transformation.",
       CLIP("rb28-ve-c.mp4", "MAX\nFORM", "KEEP EVOLVING", 0, VEC, bs=170)),
     L("It came out in October, and it already has over 36 million visits.",
-      CCOUNT("rb28-ve-b.mp4", 6.0, VEC, 36477842, "VISITS", bs=140)),
+      CCOUNT("rb28-ve-a.mp4", 6.0, VEC, 36477842, "VISITS", bs=140)),
     ask("What would you evolve into?", "WHAT'S YOUR\nFINAL FORM?", "rb28-ve-a.mp4", VEC),
    ], mood="spooky")
 
