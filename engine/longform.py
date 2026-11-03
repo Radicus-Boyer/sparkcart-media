@@ -253,8 +253,16 @@ def render(ep, sheet=False):
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(SR)
         w.writeframes((mix[: int(END * SR)] * 32767).astype(np.int16).tobytes())
     final = OUT + ep["file"]
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", wav, "-map", "0:v", "-map", "1:a", "-c:v", "copy",
-                    "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", final], check=True)
+    # chapters also embedded in the MP4 (readable later with ffprobe -show_chapters from any copy)
+    meta = WORK + f"{ep['slug']}_meta.txt"
+    cps = [(0.0, "Intro")] + [(starts[i], ln["sc"]["chapter"].replace("\n", " ").title()) for i, ln in enumerate(lines) if ln["sc"].get("chapter")]
+    with open(meta, "w", encoding="utf-8") as f:
+        f.write(";FFMETADATA1\n")
+        for k, (a, name) in enumerate(cps):
+            b = cps[k + 1][0] if k + 1 < len(cps) else END
+            f.write(f"[CHAPTER]\nTIMEBASE=1/1000\nSTART={int(a * 1000)}\nEND={int(b * 1000)}\ntitle={name}\n")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", wav, "-i", meta, "-map", "0:v", "-map", "1:a", "-map_chapters", "2",
+                    "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", final], check=True)
     for p in segs:
         os.remove(p)
     print("done", final, f"{END:.1f}s")
