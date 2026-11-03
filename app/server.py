@@ -491,6 +491,13 @@ def job_schedule(job, bn, start_local, gap, dry):
             settings = {"__type": "youtube", "title": e["YT TITLE"], **posting.YT_SETTINGS, "tags": tags}
             content = posting.html(e["YT DESCRIPTION"]) + f"<p>{e['YT HASHTAGS']}</p>"
             comment = posting.html(e["YT COMMENT"]) if c["comments"] and e.get("YT COMMENT") else None
+            if e.get("YT THUMB"):  # custom thumbnail (long-form), file sits next to posting.txt
+                thp = os.path.join(os.path.dirname(os.path.join(ROOT, b["posting"])), e["YT THUMB"].strip())
+                if os.path.exists(thp):
+                    th = api.upload(thp)
+                    settings["thumbnail"] = {"id": th["id"], "path": th["path"]}
+                else:
+                    job.say(f"thumbnail not found: {thp}")
             api.schedule(c["youtube_id"], when, content, media, settings, comment)
             done.append(num)
         t += dt.timedelta(minutes=rnd.randint(*gap))

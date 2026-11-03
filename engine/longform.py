@@ -169,6 +169,11 @@ def render(ep, sheet=False):
     END = t + 1.0
     starts.append(END)
     print(f"timeline {END:.1f}s, {len(lines)} lines")
+    # YouTube chapters (description timestamps): 0:00 intro + every chapter card
+    chs = ["0:00 Intro"] + [f"{int(starts[i] // 60)}:{int(starts[i] % 60):02d} " + ln["sc"]["chapter"].replace("\n", " ").title()
+                            for i, ln in enumerate(lines) if ln["sc"].get("chapter")]
+    open(OUT + ep["slug"] + "_chapters.txt", "w", encoding="utf-8").write("\n".join(chs) + "\n")
+    print("\n".join(chs))
 
     # 2. video segments
     segs = []

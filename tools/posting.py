@@ -25,7 +25,7 @@ REPO = "Radicus-Boyer/sparkcart-media"
 YOUTUBE_ID = "cmvfrmynt0001nk8tlnohlmd0"   # SparkCart
 TIKTOK_ID = "cmups5usr0dsdqw0ypxeny3k7"    # sparkcart.co
 KEYS = ("FILE", "YT TITLE", "YT DESCRIPTION", "YT HASHTAGS", "YT TAGS", "TIKTOK TITLE", "TIKTOK CAPTION")
-OPTIONAL = ("YT COMMENT", "TIKTOK COMMENT")   # first comment posted by the channel under its own video
+OPTIONAL = ("YT COMMENT", "TIKTOK COMMENT", "YT THUMB")   # YT THUMB: image file next to posting.txt (long-form)   # first comment posted by the channel under its own video
 LIMITS = {"YT TITLE": 100, "TIKTOK TITLE": 90, "TIKTOK CAPTION": 2200, "YT DESCRIPTION": 4800}
 
 YT_SETTINGS = {"type": "public", "selfDeclaredMadeForKids": "no"}
