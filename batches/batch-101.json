@@ -1,0 +1,154 @@
+{
+ "batch": 101,
+ "note": "LONG-FORM #1: GRIEF (16:9)",
+ "posting": "Z:/claudeprojects/roblox vids/batch-101/posting.txt",
+ "episodes": [
+  "episodes/long/1001-grief-long.json"
+ ],
+ "clips": [
+  {
+   "name": "lf-97a",
+   "url": "https://www.youtube.com/watch?v=Emd2tWP2FkI",
+   "backup": [],
+   "section": "*1:20-3:54",
+   "cut": 0,
+   "len": 154,
+   "w": 1920
+  },
+  {
+   "name": "lf-97b",
+   "url": "https://www.youtube.com/watch?v=_nv9UsomBi0",
+   "backup": [],
+   "section": "*1:30-4:02",
+   "cut": 0,
+   "len": 152,
+   "w": 1920
+  },
+  {
+   "name": "lf-ver",
+   "url": "https://www.youtube.com/watch?v=gB8slBPlOjc",
+   "backup": [],
+   "section": "*0:00-8:40",
+   "cut": 0,
+   "len": 520,
+   "w": 1920
+  },
+  {
+   "name": "lf-show",
+   "url": "https://www.youtube.com/watch?v=Wd0DIyujh2g",
+   "backup": [],
+   "section": "*0:00-5:49",
+   "cut": 0,
+   "len": 349,
+   "w": 1920
+  },
+  {
+   "name": "lf-2023",
+   "url": "https://www.youtube.com/watch?v=bQXnREyaO34",
+   "backup": [],
+   "section": "*0:00-2:55",
+   "cut": 0,
+   "len": 175,
+   "w": 1920
+  },
+  {
+   "name": "lf-sh",
+   "url": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
+   "backup": [],
+   "section": "*0:00-2:27",
+   "cut": 0,
+   "len": 147,
+   "w": 1920
+  },
+  {
+   "name": "lf-osh",
+   "url": "https://www.youtube.com/watch?v=7W5bZJY2IPI",
+   "backup": [],
+   "section": "*0:00-1:23",
+   "cut": 0,
+   "len": 83,
+   "w": 1920
+  },
+  {
+   "name": "lf-pr1",
+   "url": "https://www.youtube.com/watch?v=BEXg8TGfNPM",
+   "backup": [],
+   "section": "*0:40-3:40",
+   "cut": 0,
+   "len": 180,
+   "w": 1920
+  },
+  {
+   "name": "lf-80",
+   "url": "https://www.youtube.com/watch?v=5gx07ZNiuJY",
+   "backup": [],
+   "section": "*0:00-2:53",
+   "cut": 0,
+   "len": 173,
+   "w": 1920
+  },
+  {
+   "name": "lf-83",
+   "url": "https://www.youtube.com/watch?v=mp8TSHLoW8Q",
+   "backup": [],
+   "section": "*0:00-3:03",
+   "cut": 0,
+   "len": 183,
+   "w": 1920
+  },
+  {
+   "name": "lf-84",
+   "url": "https://www.youtube.com/watch?v=VLqlssP1Dxw",
+   "backup": [],
+   "section": "*0:00-2:45",
+   "cut": 0,
+   "len": 165,
+   "w": 1920
+  },
+  {
+   "name": "lf-hb",
+   "url": "https://www.youtube.com/watch?v=SI6OSbCWgrU",
+   "backup": [],
+   "section": "*0:00-2:51",
+   "cut": 0,
+   "len": 171,
+   "w": 1920
+  },
+  {
+   "name": "lf-cbf",
+   "url": "https://www.youtube.com/watch?v=cwE1-29-530",
+   "backup": [],
+   "section": "*0:00-2:52",
+   "cut": 0,
+   "len": 172,
+   "w": 1920
+  },
+  {
+   "name": "lf-wp",
+   "url": "https://www.youtube.com/watch?v=WhP4bRHTR8A",
+   "backup": [],
+   "section": "*0:00-5:56",
+   "cut": 0,
+   "len": 356,
+   "w": 1920
+  },
+  {
+   "name": "lf-dr",
+   "url": "https://www.youtube.com/watch?v=0_e46M1PwwU",
+   "backup": [],
+   "section": "*0:00-8:06",
+   "cut": 0,
+   "len": 486,
+   "w": 1920
+  },
+  {
+   "name": "lf-ice",
+   "url": "https://www.youtube.com/watch?v=o6QLrB87jiU",
+   "backup": [],
+   "section": "*0:00-3:24",
+   "cut": 0,
+   "len": 204,
+   "w": 1920
+  }
+ ]
+}

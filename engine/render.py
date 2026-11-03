@@ -906,6 +906,10 @@ if __name__ == "__main__":
             env = dict(os.environ, NES_OUT=OUT)
             subprocess.run([sys.executable, D + "nes/engine.py", path] + (["sheet"] if a.sheet else []), env=env, check=True)
             continue
+        if json.load(open(path)).get("preset") == "long":
+            # Long-form 16:9 deep dives (Nov 2026): engine/longform.py
+            subprocess.run([sys.executable, D + "longform.py", path, "--out", OUT] + (["--sheet"] if a.sheet else []), check=True)
+            continue
         if json.load(open(path)).get("preset") == "popular":
             # 'Most Popular Games of the Internet' preset: motion graphics, one visual theme per game
             env = dict(os.environ, POP_OUT=OUT)

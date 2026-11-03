@@ -1,0 +1,629 @@
+{
+ "preset": "long",
+ "num": 1001,
+ "slug": "1001-grief-long",
+ "file": "1001 GRIEF - The Hardest Level in Geometry Dash.mp4",
+ "title": "GRIEF: The 436,879-Attempt Story of Geometry Dash's Hardest Level",
+ "voice": "am_michael",
+ "speed": 1.0,
+ "accent": "#ff5252",
+ "mood": "spooky",
+ "music_vol": 0.06,
+ "clip_vol": 0.1,
+ "pron": {
+  "icedcave": "iced cave",
+  "Greafer": "Gree-fer",
+  "Doggie's": "Doggie's",
+  "GRIEF": "Grief",
+  "Demonlist": "Demon list",
+  "wPopoff": "W Pop off",
+  "Zoink": "Zoynk",
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "",
+   "beat": 8.0,
+   "sc": {
+    "clip": "lf-97a.mp4",
+    "start": 37,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "Four hundred thirty-six thousand, eight hundred and seventy-nine attempts.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 120,
+    "credit": "Doggie",
+    "big": "436,879",
+    "sub": "ATTEMPTS"
+   }
+  },
+  {
+   "t": "Over nine hundred hours of streams. Almost two and a half years of one player's life.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 150,
+    "credit": "Doggie",
+    "big": "900+ HOURS"
+   }
+  },
+  {
+   "t": "And twice, he made it to ninety-seven percent... and died.",
+   "sc": {
+    "clip": "lf-97b.mp4",
+    "start": 29,
+    "credit": "Doggie",
+    "big": "97%",
+    "sub": "TWICE",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "This is the story of GRIEF, the hardest level in Geometry Dash, and Doggie, the player who refused to quit.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 20,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "But to understand GRIEF, we have to go back to a level called Slaughterhouse.",
+   "sc": {
+    "clip": "lf-osh.mp4",
+    "start": 10,
+    "credit": "icedcave"
+   }
+  },
+  {
+   "t": "In 2015, a creator named icedcave made an impossible level called Slaughterhouse. It was never meant to be beaten.",
+   "sc": {
+    "clip": "lf-osh.mp4",
+    "start": 20,
+    "credit": "icedcave",
+    "chapter": "THE LEVEL THAT\nSTARTED IT ALL",
+    "chn": 1
+   }
+  },
+  {
+   "t": "Years later, icedcave hosted a real, beatable version. In December 2021, after 79,170 attempts, Doggie beat it, and it was the number one hardest level in the game.",
+   "sc": {
+    "clip": "lf-sh.mp4",
+    "start": 30,
+    "credit": "Doggie",
+    "big": "79,170",
+    "sub": "ATTEMPTS ON SLAUGHTERHOUSE"
+   }
+  },
+  {
+   "t": "Another player had claimed to verify it first, but that run was later exposed as hacked. So Doggie's run is the one that counts.",
+   "sc": {
+    "clip": "lf-sh.mp4",
+    "start": 70,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "Right around then, icedcave had a new idea. A prequel to Slaughterhouse. His final attempt at bringing the level that made his name back to life. He called it GRIEF.",
+   "sc": {
+    "clip": "lf-2023.mp4",
+    "start": 8,
+    "credit": "icedcave",
+    "big": "GRIEF"
+   }
+  },
+  {
+   "t": "Doggie had always wanted to verify the hardest level in the game. When he saw GRIEF, he knew this was the one. He asked icedcave if he could verify it, and icedcave said yes.",
+   "sc": {
+    "clip": "lf-2023.mp4",
+    "start": 40,
+    "credit": "icedcave"
+   }
+  },
+  {
+   "t": "Quick explainer: before a level goes public, someone has to prove it's possible, by beating it from zero to one hundred in a single run. That's called verifying. And the creators usually can't do it themselves.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 60,
+    "credit": "Doggie",
+    "big": "VERIFYING",
+    "sub": "0% TO 100% IN ONE RUN"
+   }
+  },
+  {
+   "t": "The layout was finished in April 2022, and a lot of people hated it.",
+   "sc": {
+    "clip": "lf-hb.mp4",
+    "start": 10,
+    "credit": "Doggie",
+    "chapter": "BUILDING\nA MONSTER",
+    "chn": 2
+   }
+  },
+  {
+   "t": "Fourteen creators worked on the level. The decoration alone took sixteen months.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 90,
+    "credit": "Doggie",
+    "big": "14 CREATORS",
+    "sub": "16 MONTHS OF DECORATION"
+   }
+  },
+  {
+   "t": "In August 2023, it was finally shown off. Then the drama hit. One creator's part got replaced, there was a fight, and icedcave cancelled the whole level.",
+   "sc": {
+    "clip": "lf-2023.mp4",
+    "start": 75,
+    "credit": "icedcave",
+    "big": "CANCELLED",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "He brought it back. But then Doggie accidentally showed a link to the level file on stream, and an early version leaked to the public.",
+   "sc": {
+    "clip": "lf-2023.mp4",
+    "start": 110,
+    "credit": "icedcave",
+    "big": "LEAKED"
+   }
+  },
+  {
+   "t": "And then came the biggest problem of all. Update two point two.",
+   "sc": {
+    "clip": "lf-2023.mp4",
+    "start": 140,
+    "credit": "icedcave"
+   }
+  },
+  {
+   "t": "Update 2.2 changed how the game reads your clicks, locking the physics to 240 hertz. Doggie didn't like it, so he put the verification on hold.",
+   "sc": {
+    "clip": "lf-cbf.mp4",
+    "start": 10,
+    "credit": "Cast",
+    "chapter": "THE CLICK\nPROBLEM",
+    "chn": 3
+   },
+   "say": "Update two point two changed how the game reads your clicks, locking the physics to two hundred forty hertz. Doggie didn't like it, so he put the verification on hold."
+  },
+  {
+   "t": "In April 2024, a mod called Click Between Frames came out. It registers your click at the exact moment you press, not on the next frame. Doggie chose to verify with it, and the community argued about it for months.",
+   "sc": {
+    "clip": "lf-cbf.mp4",
+    "start": 45,
+    "credit": "Cast",
+    "big": "CLICK BETWEEN\nFRAMES",
+    "bs": 100
+   }
+  },
+  {
+   "t": "Then, in January 2026, RobTop added Click Between Frames to the real game. Argument over.",
+   "sc": {
+    "clip": "lf-cbf.mp4",
+    "start": 90,
+    "credit": "Cast",
+    "big": "ADDED TO\nTHE GAME",
+    "bs": 100
+   },
+   "say": "Then, in January 2026, Rob Top added Click Between Frames to the real game. Argument over."
+  },
+  {
+   "t": "May 1st, 2024. Stream one. Doggie starts grinding GRIEF, live.",
+   "sc": {
+    "clip": "lf-pr1.mp4",
+    "start": 10,
+    "credit": "Doggie",
+    "chapter": "STREAM ONE",
+    "chn": 4
+   }
+  },
+  {
+   "t": "GRIEF is almost three minutes long. That's huge for a top level. Every attempt is a three-minute test, where one mistake sends you back to zero.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 140,
+    "credit": "Doggie",
+    "big": "2:46",
+    "sub": "ONE MISTAKE = BACK TO 0%"
+   },
+   "say": "GRIEF is almost three minutes long. That's huge for a top level. Every attempt is a three minute test, where one mistake sends you back to zero."
+  },
+  {
+   "t": "By the end of the first month, he could already beat it in three pieces. Zero to 27. 25 to 66. And 65 to 100.",
+   "sc": {
+    "clip": "lf-pr1.mp4",
+    "start": 60,
+    "credit": "Doggie",
+    "big": "0-27  25-66  65-100",
+    "bs": 90
+   }
+  },
+  {
+   "t": "By November 2024, just six months in, he hit 80 percent. It looked like GRIEF would be done by Christmas.",
+   "sc": {
+    "clip": "lf-80.mp4",
+    "start": 100,
+    "credit": "Doggie",
+    "big": "80%",
+    "sub": "NOVEMBER 2024"
+   }
+  },
+  {
+   "t": "It was not done by Christmas.",
+   "sc": {
+    "clip": "lf-80.mp4",
+    "start": 140,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "The reason has a name. Greafer. It's the part from 65 to 75 percent, named after the creator who built it.",
+   "sc": {
+    "clip": "lf-hb.mp4",
+    "start": 110,
+    "credit": "Doggie",
+    "chapter": "GREAFER",
+    "chn": 5
+   }
+  },
+  {
+   "t": "It's only ten seconds long. But it's a wave section at four times speed, up to eight clicks per second, and you can barely see where you're going. With two full minutes of the level already behind you.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 200,
+    "credit": "Doggie",
+    "big": "4X SPEED",
+    "sub": "UP TO 8 CLICKS PER SECOND"
+   }
+  },
+  {
+   "t": "Doggie died in this part over sixty times before he ever got past 80 percent.",
+   "sc": {
+    "clip": "lf-hb.mp4",
+    "start": 118,
+    "credit": "Doggie",
+    "big": "60+ DEATHS"
+   }
+  },
+  {
+   "t": "And then something worse set in. A mindblock. When you fail the same spot over and over, it stops being your hands. It's your head.",
+   "sc": {
+    "clip": "lf-80.mp4",
+    "start": 40,
+    "credit": "Doggie",
+    "big": "MINDBLOCK",
+    "dark": 0.15
+   }
+  },
+  {
+   "t": "For most of 2025, he was stuck. In his own words, it became a question of if he could beat GRIEF, not when.",
+   "sc": {
+    "clip": "lf-80.mp4",
+    "start": 70,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "Then, on November 1st, 2025, after 342 days without a single new best...",
+   "sc": {
+    "clip": "lf-83.mp4",
+    "start": 118,
+    "credit": "Doggie",
+    "big": "342 DAYS",
+    "sub": "WITHOUT A NEW BEST"
+   }
+  },
+  {
+   "t": "",
+   "beat": 6.0,
+   "sc": {
+    "clip": "lf-83.mp4",
+    "start": 126,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "83 percent. Just three more percent, but he said it almost felt like verifying a new top one.",
+   "sc": {
+    "clip": "lf-83.mp4",
+    "start": 140,
+    "credit": "Doggie",
+    "big": "83%",
+    "bc": "#69f0ae"
+   }
+  },
+  {
+   "t": "But there was one more wall. A three-second wave part right after it, called Tacos, named after its creator, GrenadeofTacos.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 215,
+    "credit": "Doggie",
+    "chapter": "TACOS",
+    "chn": 6
+   },
+   "say": "But there was one more wall. A three second wave part right after it, called Tacos, named after its creator, Grenade of Tacos."
+  },
+  {
+   "t": "That part is why it took six more months to get 84 percent, in May 2026.",
+   "sc": {
+    "clip": "lf-84.mp4",
+    "start": 128,
+    "credit": "Doggie",
+    "big": "84%",
+    "sub": "MAY 2026"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf-84.mp4",
+    "start": 136,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "Now, finally, he could handle Greafer and Tacos from zero. The path to the end was clear. For real this time.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 240,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "June 14th, 2026. Stream 361. For the first time ever, Doggie gets through Tacos from zero.",
+   "sc": {
+    "clip": "lf-97a.mp4",
+    "start": 12,
+    "credit": "Doggie",
+    "chapter": "NINETY-SEVEN",
+    "chn": 7
+   }
+  },
+  {
+   "t": "90 percent. 95. 96...",
+   "sc": {
+    "clip": "lf-97a.mp4",
+    "start": 33,
+    "credit": "Doggie",
+    "nocap": true
+   },
+   "say": "Ninety percent. Ninety five. Ninety six."
+  },
+  {
+   "t": "",
+   "beat": 9.0,
+   "sc": {
+    "clip": "lf-97a.mp4",
+    "start": 40,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "97 percent. Three percent away from beating the hardest level in the game. And it's back to zero.",
+   "sc": {
+    "clip": "lf-97a.mp4",
+    "start": 52,
+    "credit": "Doggie",
+    "big": "97%",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "He uploaded the clip with one line in the description: the end is here.",
+   "sc": {
+    "clip": "lf-97a.mp4",
+    "start": 70,
+    "credit": "Doggie",
+    "big": "\"the end is here.\"",
+    "bs": 90
+   }
+  },
+  {
+   "t": "Three months later. September 21st. Stream 390.",
+   "sc": {
+    "clip": "lf-97b.mp4",
+    "start": 10,
+    "credit": "Doggie",
+    "big": "STREAM 390"
+   }
+  },
+  {
+   "t": "",
+   "beat": 9.0,
+   "sc": {
+    "clip": "lf-97b.mp4",
+    "start": 33,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "97. Again. And in the same stream, he got a 91.",
+   "sc": {
+    "clip": "lf-97b.mp4",
+    "start": 46,
+    "credit": "Doggie",
+    "big": "97% x2",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "To show how rare these runs were: most attempts died in the first ten percent. In over four hundred thousand tries, he'd passed 75 percent only about forty times.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 30,
+    "credit": "Doggie",
+    "big": "~40 RUNS",
+    "sub": "PAST 75% IN 400,000+ TRIES"
+   }
+  },
+  {
+   "t": "But everyone could feel it. GRIEF was finally close.",
+   "sc": {
+    "clip": "lf-97b.mp4",
+    "start": 80,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "October 4th, 2026. Stream 396. Attempt 436,879.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 60,
+    "credit": "Doggie",
+    "chapter": "THE RUN",
+    "chn": 8
+   }
+  },
+  {
+   "t": "Greafer. Passed. Tacos. Passed.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 210,
+    "credit": "Doggie",
+    "nocap": true
+   }
+  },
+  {
+   "t": "",
+   "beat": 12.0,
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 280,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "GRIEF. Verified. At nine fifty-one PM, with somewhere between forty and fifty thousand people watching live.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 300,
+    "credit": "Doggie",
+    "big": "VERIFIED",
+    "bc": "#69f0ae"
+   },
+   "say": "GRIEF. Verified. At nine fifty one PM, with somewhere between forty and fifty thousand people watching live."
+  },
+  {
+   "t": "The verification video hit one million views in seven hours. So many people tried to download the level that players reported the servers going down.",
+   "sc": {
+    "clip": "lf-ice.mp4",
+    "start": 30,
+    "credit": "icedcave",
+    "big": "1,000,000 VIEWS",
+    "sub": "IN 7 HOURS"
+   }
+  },
+  {
+   "t": "GRIEF went straight to number one on the Demonlist, replacing Society. It's the longest verification of any number one level, ever.",
+   "sc": {
+    "clip": "lf-ice.mp4",
+    "start": 70,
+    "credit": "icedcave",
+    "big": "#1",
+    "sub": "DEMONLIST"
+   },
+   "say": "GRIEF went straight to number one on the Demon list, replacing Society. It's the longest verification of any number one level, ever."
+  },
+  {
+   "t": "Doggie wrote that GRIEF is the hardest thing he will ever do, and told anyone chasing something to never give up on their dreams.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 400,
+    "credit": "Doggie"
+   }
+  },
+  {
+   "t": "Now the level is public, and the best players in the world are racing to beat it next.",
+   "sc": {
+    "clip": "lf-wp.mp4",
+    "start": 20,
+    "credit": "wPopoff",
+    "chapter": "THE FIRST\nVICTOR",
+    "chn": 9
+   }
+  },
+  {
+   "t": "And on November 2nd, wPopoff did it. The first victor, in 30,747 attempts.",
+   "sc": {
+    "clip": "lf-wp.mp4",
+    "start": 60,
+    "credit": "wPopoff",
+    "big": "30,747",
+    "sub": "ATTEMPTS"
+   },
+   "say": "And on November second, W Pop off did it. The first victor, in 30,747 attempts."
+  },
+  {
+   "t": "",
+   "beat": 9.0,
+   "sc": {
+    "clip": "lf-wp.mp4",
+    "start": 150,
+    "credit": "wPopoff"
+   }
+  },
+  {
+   "t": "That's about fourteen times fewer attempts than Doggie. But that's how verifying works. The verifier has to figure out every part with no proof it's even possible. Everyone after him already knows it is.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 280,
+    "credit": "Doggie",
+    "big": "14x FEWER"
+   }
+  },
+  {
+   "t": "And Doggie was watching, reacting live as someone else finished the level he gave two and a half years to.",
+   "sc": {
+    "clip": "lf-dr.mp4",
+    "start": 60,
+    "credit": "MYKE [GD] / Doggie"
+   }
+  },
+  {
+   "t": "Players like Zoink are already at 82 percent. The race for second victor is on.",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 300,
+    "credit": "Doggie",
+    "big": "NEXT?"
+   },
+   "say": "Players like Zoynk are already at eighty two percent. The race for second victor is on."
+  },
+  {
+   "t": "436,879 attempts. Two 97s. One perfect run.",
+   "sc": {
+    "clip": "lf-ver.mp4",
+    "start": 320,
+    "credit": "Doggie",
+    "big": "436,879",
+    "sub": "TWO 97s. ONE RUN."
+   },
+   "say": "Four hundred thirty-six thousand, eight hundred seventy-nine attempts. Two ninety-sevens. One perfect run."
+  },
+  {
+   "t": "So be honest. Would you have kept going after the second 97? Tell me in the comments.",
+   "sc": {
+    "clip": "lf-97b.mp4",
+    "start": 33,
+    "credit": "Doggie",
+    "big": "WOULD YOU\nKEEP GOING?",
+    "bs": 110
+   },
+   "say": "So be honest. Would you have kept going after the second ninety-seven? Tell me in the comments."
+  },
+  {
+   "t": "And if you liked this story, subscribe. Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "clip": "lf-show.mp4",
+    "start": 330,
+    "credit": "Doggie",
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS"
+   }
+  }
+ ]
+}
