@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 255,
+ "slug": "255-can-you-pass-a-driving-test",
+ "file": "255 Can You Pass A Driving Test on Roblox.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffff00",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox makes you pass a driving test, before you're allowed to drive. Yes, really.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zonko; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb28-dt-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "YOU NEED A LICENSE",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Real traffic, real road rules. Pass the test, and you get your license.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zonko; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb28-dt-b.mp4",
+     "start": 0
+    },
+    "big": "REAL ROAD\nRULES",
+    "sub": "PASS THE TEST",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then do driving jobs. Deliver pizzas, drive VIPs, haul trailers, and save up for the hypercar on the roof.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zonko; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb28-dt-c.mp4",
+     "start": 0
+    },
+    "big": "THE HYPERCAR\nON THE ROOF",
+    "sub": "DRIVING JOBS",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October, and it already has over 3 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zonko; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb28-dt-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 3111139,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you pass the test?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zonko; MBT (Roblox gameplay, YouTube)",
+     "clip": "rb28-dt-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD YOU\nPASS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

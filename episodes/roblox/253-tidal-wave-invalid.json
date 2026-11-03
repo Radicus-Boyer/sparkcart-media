@@ -1,0 +1,148 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 253,
+ "slug": "253-tidal-wave-invalid",
+ "file": "253 Nobody Has Beaten the Real Tidal Wave.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#82b1ff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "Every player who beat Tidal Wave beat an older version. Not the one that's in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; switched to (YouTube)",
+     "clip": "gd28-tw-a.mp4",
+     "start": 0
+    },
+    "big": "0 REAL\nVICTORS?",
+    "sub": "TIDAL WAVE",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Zoink verified it in 2023, after 49,534 attempts, and it became the number 1 hardest level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; switched to (YouTube)",
+     "clip": "gd28-tw-b.mp4",
+     "start": 0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 49534,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "But when its creator, OniLink, moved the buffs over to the rated version, he added one more change.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; switched to (YouTube)",
+     "clip": "gd28-tw-c.mp4",
+     "start": 0
+    },
+    "big": "ONE MORE\nCHANGE",
+    "sub": "ONILINK",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "That made every win technically invalid. Zoink, Trick and wPopoff beat version 1. Four others beat version 2. Nobody has beaten version 3.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; switched to (YouTube)",
+     "clip": "gd28-tw-b.mp4",
+     "start": 6.0
+    },
+    "big": "VERSION 3:\nNOBODY",
+    "sub": "TECHNICALLY INVALID",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Should their wins still count?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; switched to (YouTube)",
+     "clip": "gd28-tw-a.mp4",
+     "start": 0.0
+    },
+    "big": "SHOULD IT\nCOUNT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; switched to (YouTube)",
+     "clip": "gd28-tw-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

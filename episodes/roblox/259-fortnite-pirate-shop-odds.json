@@ -1,0 +1,136 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 259,
+ "slug": "259-fortnite-pirate-shop-odds",
+ "file": "259 Your Odds of Finding the Fortnite Pirate Shop Token.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {
+  "V-Bucks": "V Bucks"
+ },
+ "lines": [
+  {
+   "t": "Your odds of finding Fortnite's free Item Shop token? About 1 in 700,000.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tomato; TRAIL-TT; TG Plays; EveryDay FN (YouTube)",
+     "clip": "tr28-fp-a.mp4",
+     "start": 0
+    },
+    "big": "1 IN\n700,000?",
+    "sub": "PIRATE SHOP TOKEN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The Pirate Shop token drops from Treasure Hunt chests. Find it, and anything you'd buy with V-Bucks is free for 14 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tomato; TRAIL-TT; TG Plays; EveryDay FN (YouTube)",
+     "clip": "tr28-fp-b.mp4",
+     "start": 0
+    },
+    "big": "14 DAYS\nFREE",
+    "sub": "THE PIRATE SHOP",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "1 in 700,000 is the first reported estimate. Epic hasn't shared the real odds.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tomato; TRAIL-TT; TG Plays; EveryDay FN (YouTube)",
+     "clip": "tr28-fp-d.mp4",
+     "start": 0
+    },
+    "sub": "CHESTS PER TOKEN",
+    "bs": 120,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 700000,
+     "fmt": "1 in {:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Players say the best spot is The Chest, with about 34 buried chests. The event ends December 5th.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tomato; TRAIL-TT; TG Plays; EveryDay FN (YouTube)",
+     "clip": "tr28-fp-c.mp4",
+     "start": 0
+    },
+    "big": "THE CHEST",
+    "sub": "34 BURIED CHESTS",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you open 700,000 chests for it?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tomato; TRAIL-TT; TG Plays; EveryDay FN (YouTube)",
+     "clip": "tr28-fp-a.mp4",
+     "start": 0.0
+    },
+    "big": "700,000\nCHESTS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Tomato; TRAIL-TT; TG Plays; EveryDay FN (YouTube)",
+     "clip": "tr28-fp-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr28-fp-b.mp4",
+ "edition": "FORTNITE"
+}

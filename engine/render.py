@@ -726,7 +726,18 @@ def clip_audio_track(ep, starts, end):
     if not got:
         return None
     pk = np.max(np.abs(a)) or 1
-    return (a / max(pk, 0.8) * 0.8)[: int(end * sr)]
+    a = a / max(pk, 0.8) * 0.8
+    # v2.2 (user, Nov 3): clip sound clashed with the TTS. Full volume only for the hook (before the narrator
+    # speaks), then held low under the voice for the rest of the Short ("clip_duck", default 0.12 = about -18 dB).
+    duck = ep.get("clip_duck", 0.12)
+    if duck < 1:
+        t0, ramp = ep.get("lead", 0.3), int(0.25 * sr)
+        g = np.full(len(a), duck, np.float32)
+        p0 = int(t0 * sr)
+        g[:p0] = 1.0
+        g[p0:p0 + ramp] = np.linspace(1.0, duck, len(g[p0:p0 + ramp]))
+        a *= g
+    return a[: int(end * sr)]
 
 
 def sfx_track(starts, end):

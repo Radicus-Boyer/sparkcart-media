@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 260,
+ "slug": "260-jimothy-the-raccoon",
+ "file": "260 Jimothy the Raccoon Is in Video Games Now.mp4",
+ "target": 0,
+ "accent": "#8d6e63",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffcc80",
+  "cy": 1470
+ },
+ "pron": {
+  "Jimothy": "Jim-oh-thee"
+ },
+ "lines": [
+  {
+   "t": "This is Jimothy, the round raccoon that broke the internet. And now he's in video games.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)",
+     "clip": "tr28-jm-a.mp4",
+     "start": 0
+    },
+    "big": "WHO IS\nJIMOTHY?",
+    "sub": "THE ROUND RACCOON",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In July, a woman in Seattle filmed him, and said he just looked like a Jimothy. Millions of views later, he was everywhere.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)",
+     "clip": "tr28-jm-b.mp4",
+     "start": 0
+    },
+    "big": "SEATTLE",
+    "sub": "JULY 2026",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then gaming adopted him. Guild Wars 2 added him as a pet. Blizzard and RuneScape made tributes. There are Skyrim and Stardew Valley mods.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)",
+     "clip": "tr28-jm-c.mp4",
+     "start": 0
+    },
+    "big": "GAMING\nADOPTED HIM",
+    "sub": "GUILD WARS 2, SKYRIM, STARDEW",
+    "bs": 130,
+    "ss": 42,
+    "by": 300
+   }
+  },
+  {
+   "t": "He even got an honorary degree, and his own night at a Mariners game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)",
+     "clip": "tr28-jm-d.mp4",
+     "start": 0
+    },
+    "big": "JIMOTHY\nNIGHT",
+    "sub": "HONORARY DEGREE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What game should Jimothy be in next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)",
+     "clip": "tr28-jm-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH GAME\nIS NEXT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: HAPP - Story; ViralHog; Casual Geographic; KTLA 5 (YouTube)",
+     "clip": "tr28-jm-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "prop_clip": "tr28-jm-b.mp4",
+ "edition": "MEME LORE"
+}

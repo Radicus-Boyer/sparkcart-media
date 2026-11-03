@@ -1,0 +1,147 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 252,
+ "slug": "252-cycles-x-53363",
+ "file": "252 Vortrox Turned an Easy Main Level Into an Extreme Demon.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#69f0ae",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "He took a main level from the original game, and made it one of the hardest levels ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vortrox; VortroxTwo (YouTube)",
+     "clip": "gd28-cx-a.mp4",
+     "start": 0
+    },
+    "big": "CYCLES...\nBUT WHY?",
+    "sub": "CYCLES X",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Cycles X is Vortrox's super buffed remake of Cycles, part of his series turning main levels into extreme demons.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vortrox; VortroxTwo (YouTube)",
+     "clip": "gd28-cx-c.mp4",
+     "start": 0
+    },
+    "big": "SUPER\nBUFFED",
+    "sub": "A MAIN LEVEL REMADE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He died at 93 percent, then died at 93 again, in almost the exact same spot.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vortrox; VortroxTwo (YouTube)",
+     "clip": "gd28-cx-c.mp4",
+     "start": 8.0
+    },
+    "big": "93%\n93%",
+    "sub": "SAME SPOT",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In July, after 64 live streams, he beat it, at 53,363 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vortrox; VortroxTwo (YouTube)",
+     "clip": "gd28-cx-b.mp4",
+     "start": 0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 53363,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Which main level should get buffed next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vortrox; VortroxTwo (YouTube)",
+     "clip": "gd28-cx-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH LEVEL\nIS NEXT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vortrox; VortroxTwo (YouTube)",
+     "clip": "gd28-cx-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Vortrox",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

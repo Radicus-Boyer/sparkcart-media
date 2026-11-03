@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 257,
+ "slug": "257-plus-1-venom-evolution",
+ "file": "257 In Plus 1 Venom Evolution You Evolve Into a Giant Symbiote.mp4",
+ "target": 0,
+ "accent": "#212121",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/BlackOpsOne-Regular.ttf",
+  "size": 92,
+  "fill": "#ffffff",
+  "hi": "#e0e0e0",
+  "stroke": 8
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox lets you grow into a giant black goo monster.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Bax (Roblox gameplay, YouTube)",
+     "clip": "rb28-ve-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "BECOME THE MONSTER",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In Plus 1 Venom Evolution, you train, fight enemies, and clear stages to collect wins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Bax (Roblox gameplay, YouTube)",
+     "clip": "rb28-ve-b.mp4",
+     "start": 0
+    },
+    "big": "TRAIN.\nFIGHT. WIN.",
+    "sub": "+1 EVERY TIME",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Every win unlocks a new evolution, until you hit your max transformation.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Bax (Roblox gameplay, YouTube)",
+     "clip": "rb28-ve-c.mp4",
+     "start": 0
+    },
+    "big": "MAX\nFORM",
+    "sub": "KEEP EVOLVING",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October, and it already has over 36 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Bax (Roblox gameplay, YouTube)",
+     "clip": "rb28-ve-b.mp4",
+     "start": 6.0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 36477842,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What would you evolve into?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Bax (Roblox gameplay, YouTube)",
+     "clip": "rb28-ve-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT'S YOUR\nFINAL FORM?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "mood": "spooky"
+}
