@@ -169,3 +169,4 @@ rb19-*/gd19-*/ml19-*/tr19-* clips    short (<=13 s) YouTube clips cut for commen
 # Batch 26 (#231-240): clips gd26-*, rb26-*, tr26-* with audio (temporary, deleted after render); sources in batches/batch-26.json and batch-26/posting.txt.
 # Batch 27 (#241-250): clips gd27-*, rb27-*, tr27-* with audio (temporary, deleted after render); sources in batches/batch-27.json and batch-27/posting.txt.
 # Batch 28 (#251-260): clips gd28-*, rb28-*, tr28-* with audio (temporary, deleted after render); sources in batches/batch-28.json and batch-28/posting.txt.
+Long #1 GRIEF: Doggie (gB8slBPlOjc, Emd2tWP2FkI, _nv9UsomBi0, mp8TSHLoW8Q, VLqlssP1Dxw, 5gx07ZNiuJY, BEXg8TGfNPM, kpcF1-QAHQc), DoggieClips (Wd0DIyujh2g, SI6OSbCWgrU), icedcave (bQXnREyaO34, 7W5bZJY2IPI, o6QLrB87jiU), Cast (cwE1-29-530), Toogit (WhP4bRHTR8A), MYKE [GD] (0_e46M1PwwU)
