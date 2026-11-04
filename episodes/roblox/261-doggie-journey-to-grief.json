@@ -1,0 +1,198 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 261,
+ "slug": "261-doggie-journey-to-grief",
+ "file": "261 Doggie Spent Two Years on One Level.mp4",
+ "target": 0,
+ "accent": "#ff5252",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Anton-Regular.ttf",
+  "size": 104,
+  "hi": "#ff8a80",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "He has beaten the hardest levels in Geometry Dash, but one level took four hundred thousand attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-j97.mp4",
+     "start": 5.0
+    },
+    "big": "THE JOURNEY\nOF DOGGIE",
+    "sub": "400,000 ATTEMPTS",
+    "bs": 125,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2020, he beat Tartarus, the number one level at the time, in 52,550 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-jta.mp4",
+     "start": 0
+    },
+    "big": "TARTARUS",
+    "sub": "2020: 52,550 ATTEMPTS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2021, Slaughterhouse. It took 79,170 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-jsh.mp4",
+     "start": 0
+    },
+    "sub": "SLAUGHTERHOUSE",
+    "bs": 170,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 79170,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Then came GRIEF. Two and a half years. Over nine hundred hours of streams. And two deaths at 97 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-j97.mp4",
+     "start": 5.0
+    },
+    "big": "97%\nTWICE",
+    "sub": "2.5 YEARS OF GRIEF",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "On October 4th, he finally did it, on attempt 436,879.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-ver.mp4",
+     "start": 0
+    },
+    "sub": "ATTEMPTS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 436879,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "I made the full eight minute story of GRIEF. It's on this channel, go watch it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-ver.mp4",
+     "start": 5.0
+    },
+    "big": "FULL STORY\nON MY CHANNEL",
+    "sub": "8 MINUTES",
+    "bs": 120,
+    "popup": {
+     "img": "grief-long-thumb.jpg",
+     "len": "8:38",
+     "d": 0.35,
+     "y": 1175
+    },
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you have kept going after the second 97?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-j97.mp4",
+     "start": 5.0
+    },
+    "big": "KEEP GOING\nAFTER 97%?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300,
+    "popup": {
+     "img": "grief-long-thumb.jpg",
+     "len": "8:38",
+     "d": 0.0,
+     "y": 1175
+    }
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; DoggieClips; icedcave (YouTube)",
+     "clip": "gd29-j97.mp4",
+     "start": 5.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Doggie",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

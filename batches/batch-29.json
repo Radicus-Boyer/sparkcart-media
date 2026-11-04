@@ -1,0 +1,172 @@
+{
+ "batch": 29,
+ "note": "Doggie journey (GRIEF long-video popup), wPopoff first GRIEF victor, DONT SPLASH, Throw Food For Animals, Bug Evolution",
+ "posting": "Z:/claudeprojects/roblox vids/batch-29/posting.txt",
+ "episodes": [
+  "episodes/roblox/261-doggie-journey-to-grief.json",
+  "episodes/roblox/262-wpopoff-first-grief-victor.json",
+  "episodes/roblox/263-dont-splash.json",
+  "episodes/roblox/264-throw-food-for-animals.json",
+  "episodes/roblox/265-bug-evolution.json"
+ ],
+ "clips": [
+  {
+   "name": "gd29-j97",
+   "url": "https://www.youtube.com/watch?v=Emd2tWP2FkI",
+   "backup": [],
+   "section": "*1:15-1:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd29-jta",
+   "url": "https://www.youtube.com/watch?v=5sFyHlBdkyE",
+   "backup": [],
+   "section": "*0:00-0:18",
+   "cut": 0,
+   "len": 17
+  },
+  {
+   "name": "gd29-jsh",
+   "url": "https://www.youtube.com/watch?v=kpcF1-QAHQc",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd29-ver",
+   "url": "https://www.youtube.com/watch?v=gB8slBPlOjc",
+   "backup": [],
+   "section": "*3:15-3:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd29-wp-a",
+   "url": "https://www.youtube.com/watch?v=WhP4bRHTR8A",
+   "backup": [],
+   "section": "*2:35-2:55",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd29-wp-b",
+   "url": "https://www.youtube.com/watch?v=WhP4bRHTR8A",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd29-wp-d",
+   "url": "https://www.youtube.com/watch?v=0_e46M1PwwU",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-ds-a",
+   "url": "https://www.youtube.com/watch?v=K2RZJqwQ138",
+   "backup": [
+    "https://www.youtube.com/watch?v=xIXpJ38iS7o"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-ds-b",
+   "url": "https://www.youtube.com/watch?v=Bqi5Y8a-EDk",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-ds-c",
+   "url": "https://www.youtube.com/watch?v=xIXpJ38iS7o",
+   "backup": [],
+   "section": "*3:30-3:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-ds-d",
+   "url": "https://www.youtube.com/watch?v=K2RZJqwQ138",
+   "backup": [],
+   "section": "*5:30-5:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-tf-a",
+   "url": "https://www.youtube.com/watch?v=55cCOFQ6pzk",
+   "backup": [
+    "https://www.youtube.com/watch?v=D6wVp6vArzU"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-tf-b",
+   "url": "https://www.youtube.com/watch?v=5FmPR1EN_Ec",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-tf-c",
+   "url": "https://www.youtube.com/watch?v=D6wVp6vArzU",
+   "backup": [],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-tf-d",
+   "url": "https://www.youtube.com/watch?v=55cCOFQ6pzk",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-be-a",
+   "url": "https://www.youtube.com/watch?v=NKPQejjYbkQ",
+   "backup": [
+    "https://www.youtube.com/watch?v=9pgArp2WrNI"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-be-b",
+   "url": "https://www.youtube.com/watch?v=9pgArp2WrNI",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-be-c",
+   "url": "https://www.youtube.com/watch?v=gk1TqT1TA4g",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb29-be-d",
+   "url": "https://www.youtube.com/watch?v=NKPQejjYbkQ",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

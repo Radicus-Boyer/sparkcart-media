@@ -507,6 +507,46 @@ class ClipReader:
         return img
 
 
+_POP = {}
+
+
+def popup_card(pp):
+    """v2.3 (Nov 4): 'related video' pop-up that plugs a long-form video: thumbnail + 'WATCH THE FULL STORY' + length."""
+    k = json.dumps(pp, sort_keys=True)
+    if k not in _POP:
+        cw, ch = 940, 250
+        card = Image.new("RGBA", (cw, ch), (0, 0, 0, 0))
+        d = ImageDraw.Draw(card)
+        d.rounded_rectangle([0, 0, cw - 1, ch - 1], 34, fill=(18, 18, 30, 235), outline=(255, 255, 255, 255), width=6)
+        th = Image.open(ROOT + "episodes/assets/" + pp["img"]).convert("RGB").resize((356, 200), Image.LANCZOS)
+        m = Image.new("L", th.size, 0)
+        ImageDraw.Draw(m).rounded_rectangle([0, 0, th.width - 1, th.height - 1], 20, fill=255)
+        card.paste(th, (26, 25), m)
+        d.rounded_rectangle([26 + 356 - 108, 25 + 200 - 52, 26 + 356 - 12, 25 + 200 - 12], 12, fill=(0, 0, 0, 215))
+        t = text_img(pp.get("len", "8:38"), 34, (255, 255, 255), ST["sub_font"], 3)
+        card.alpha_composite(t, (26 + 356 - 108 + (96 - t.width) // 2, 25 + 200 - 52 + (40 - t.height) // 2 - 2))
+        t1 = text_img(pp.get("l1", "WATCH THE"), 54, (255, 230, 60), ST["title_font"], 6, 500)
+        t2 = text_img(pp.get("l2", "FULL STORY"), 76, (255, 255, 255), ST["title_font"], 7, 500)
+        t3 = text_img(pp.get("l3", "ON THIS CHANNEL"), 38, (255, 90, 90), ST["sub_font"], 4, 500)
+        x0 = 420 + (500 - max(t1.width, t2.width, t3.width)) // 2
+        card.alpha_composite(t1, (420 + (500 - t1.width) // 2, 30))
+        card.alpha_composite(t2, (420 + (500 - t2.width) // 2, 88))
+        card.alpha_composite(t3, (420 + (500 - t3.width) // 2, 178))
+        _POP[k] = card
+    return _POP[k]
+
+
+def draw_popup(img, pp, lt):
+    c = popup_card(pp)
+    t = lt - pp.get("d", 0.5)
+    if t <= 0:
+        return
+    k = ease(t / 0.4)
+    y = int(pp.get("y", 1200) + (1 - k) * 420)
+    bob = int(5 * math.sin(lt * 5)) if k >= 1 else 0
+    img.alpha_composite(c, ((W - c.width) // 2, y + bob))
+
+
 def camera(img, lt, dur, i, strong=False):
     """Movement on every scene: a fast punch-in, then a slow push and a sideways drift."""
     z = 1 + 0.10 * (1 - ease(lt / 0.28)) + (0.09 if strong else 0.045) * min(1.0, lt / max(1.0, dur))
@@ -813,6 +853,8 @@ def render(ep, sheet=False):
         if ep.get("motion", True):
             img = camera(img, lt, nxt - starts[i], i, bool(fu) and not fu.get("clip"))
         draw_texts(img, sc, lt, ep)
+        if sc.get("popup"):
+            draw_popup(img, sc["popup"], lt)
         img.alpha_composite(hdr, (0, 0))
         ln = ep["lines"][i]
         t0, t1 = timing[i]

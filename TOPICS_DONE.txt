@@ -321,3 +321,8 @@ Check new ideas against this list to avoid repeats: python3 tools/topics.py chec
 259  Fortnite Pirate Shop Token Odds
 260  Jimothy the Raccoon
 1001 (LONG) GRIEF full story: Doggie 436,879 attempts, 97% x2, wPopoff first victor (Nov 4, 2026)
+261 Doggie journey to GRIEF (popup plug)
+262 wPopoff first GRIEF victor
+263 DONT SPLASH (Roblox)
+264 Throw Food For Animals (Roblox)
+265 Bug Evolution (Roblox)

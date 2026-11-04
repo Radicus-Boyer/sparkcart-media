@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 263,
+ "slug": "263-dont-splash",
+ "file": "263 Dont Splash on Roblox Or the Monster Hears You.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox is a horror game where you must not make a splash. Because it hears you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; SSundee; UnoTwo (Roblox gameplay, YouTube)",
+     "clip": "rb29-ds-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "DON'T MAKE A SPLASH",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You cross flooded rooms, called the Poolrooms, without touching the water. One splash, and the blind monster comes for you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; SSundee; UnoTwo (Roblox gameplay, YouTube)",
+     "clip": "rb29-ds-b.mp4",
+     "start": 0
+    },
+    "big": "ONE SPLASH\nAND IT HEARS",
+    "sub": "THE MONSTER IS BLIND",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It launched with four rooms. Now there are nine, and the harder modes bring more monsters.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; SSundee; UnoTwo (Roblox gameplay, YouTube)",
+     "clip": "rb29-ds-c.mp4",
+     "start": 0
+    },
+    "big": "NINE ROOMS",
+    "sub": "MORE MONSTERS ON HARD",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out on October 17th, and it already has over 180 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; SSundee; UnoTwo (Roblox gameplay, YouTube)",
+     "clip": "rb29-ds-d.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 184896409,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Could you cross the Poolrooms without a splash?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; SSundee; UnoTwo (Roblox gameplay, YouTube)",
+     "clip": "rb29-ds-a.mp4",
+     "start": 0.0
+    },
+    "big": "NO SPLASH\nCHALLENGE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

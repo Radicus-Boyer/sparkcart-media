@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 264,
+ "slug": "264-throw-food-for-animals",
+ "file": "264 Throw Food For Animals Is a Roblox Hit With 120000 Players.mp4",
+ "target": 0,
+ "accent": "#ff9100",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab40",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox is about throwing food as far as you can, to feed wild animals. Yes, that's the whole game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; BachaBlox; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb29-tf-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "THROW FOOD. GET ANIMALS.",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Throw food, and you attract animals from different areas. Buy better food, and you attract rarer animals.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; BachaBlox; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb29-tf-b.mp4",
+     "start": 0
+    },
+    "big": "BETTER FOOD,\nRARER ANIMALS",
+    "sub": "THE RARE ONES ARE WORTH IT",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Your animals earn you money, and you train on pull-up stands to throw even farther.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; BachaBlox; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb29-tf-c.mp4",
+     "start": 0
+    },
+    "big": "PULL-UPS\nFOR POWER",
+    "sub": "THROW FARTHER",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in September, and over 120,000 people are playing it right now. It has over 55 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; BachaBlox; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb29-tf-d.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 55446388,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What's the rarest animal you'd want?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; BachaBlox; CaylusBlox (Roblox gameplay, YouTube)",
+     "clip": "rb29-tf-a.mp4",
+     "start": 0.0
+    },
+    "big": "RAREST\nANIMAL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}
