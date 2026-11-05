@@ -1,0 +1,128 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 275,
+ "slug": "275-fortnite-finishing-moves-leak-denied",
+ "file": "275 Fortnite Finishing Moves Leak and Epic Said No.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "A leak said Fortnite was getting finishing moves. Then Epic replied: this isn't true.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite; FireflyFN; theSmashAsh (Apex Legends) (YouTube)",
+     "clip": "tr30-fn-a.mp4",
+     "start": 0
+    },
+    "big": "FINISHING\nMOVES?",
+    "sub": "\"THIS ISN'T TRUE\"",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "On November 3rd, leaker HYPEX posted that Chapter 8 would add synced finishing moves, like in Apex Legends.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite; FireflyFN; theSmashAsh (Apex Legends) (YouTube)",
+     "clip": "tr30-fn-b.mp4",
+     "start": 0
+    },
+    "big": "LIKE\nAPEX?",
+    "sub": "LEAKED BY HYPEX",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "There were even supposed to be quests for finishing downed players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite; FireflyFN; theSmashAsh (Apex Legends) (YouTube)",
+     "clip": "tr30-fn-c.mp4",
+     "start": 0
+    },
+    "big": "FINISH\nDOWNED PLAYERS",
+    "sub": "LEAKED QUESTS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "But Epic answered him directly: This isn't true. We are not doing this.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite; FireflyFN; theSmashAsh (Apex Legends) (YouTube)",
+     "clip": "tr30-fn-a.mp4",
+     "start": 8.0
+    },
+    "big": "\"WE ARE NOT\nDOING THIS\"",
+    "sub": "EPIC GAMES",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Do you want finishing moves in Fortnite?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite; FireflyFN; theSmashAsh (Apex Legends) (YouTube)",
+     "clip": "tr30-fn-a.mp4",
+     "start": 0.0
+    },
+    "big": "FINISHERS IN\nFORTNITE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Fortnite; FireflyFN; theSmashAsh (Apex Legends) (YouTube)",
+     "clip": "tr30-fn-a.mp4",
+     "start": 3.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "FORTNITE"
+}

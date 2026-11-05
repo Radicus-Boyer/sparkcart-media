@@ -1,0 +1,297 @@
+{
+ "batch": 30,
+ "note": "Yatagarasu, Avernus, The Golden, Silent Clubstep, Orbit, Survive Your Ideas, 30 Floors Up, Depth Incremental, Sell a Million Sushi, Fortnite finishers leak",
+ "posting": "Z:/claudeprojects/roblox vids/batch-30/posting.txt",
+ "episodes": [
+  "episodes/roblox/266-yatagarasu-made-robtop-add-extreme-demons.json",
+  "episodes/roblox/267-avernus-27732-vs-270000.json",
+  "episodes/roblox/268-the-golden-host-died-at-97.json",
+  "episodes/roblox/269-silent-clubstep-the-impossible-level.json",
+  "episodes/roblox/270-zoink-beat-orbit-after-99.json",
+  "episodes/roblox/271-survive-your-ideas.json",
+  "episodes/roblox/272-30-floors-up.json",
+  "episodes/roblox/273-depth-incremental.json",
+  "episodes/roblox/274-sell-a-million-sushi.json",
+  "episodes/roblox/275-fortnite-finishing-moves-leak-denied.json"
+ ],
+ "clips": [
+  {
+   "name": "gd30-ya-a",
+   "url": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
+   "backup": [],
+   "section": "*5:40-6:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-ya-b",
+   "url": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-ya-c",
+   "url": "https://www.youtube.com/watch?v=AnlW9Z6aVrM",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-av-a",
+   "url": "https://www.youtube.com/watch?v=16Zh8jssanc",
+   "backup": [],
+   "section": "*1:25-1:45",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-av-b",
+   "url": "https://www.youtube.com/watch?v=16Zh8jssanc",
+   "backup": [],
+   "section": "*0:15-0:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-av-c",
+   "url": "https://www.youtube.com/watch?v=JL30R7f-iBE",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-go-a",
+   "url": "https://www.youtube.com/watch?v=wpS5PSHmji0",
+   "backup": [],
+   "section": "*9:20-9:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-go-b",
+   "url": "https://www.youtube.com/watch?v=wpS5PSHmji0",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-go-c",
+   "url": "https://www.youtube.com/watch?v=v0zrzanZh6M",
+   "backup": [],
+   "section": "*0:00-0:20",
+   "cut": 0,
+   "len": 20
+  },
+  {
+   "name": "gd30-sc-a",
+   "url": "https://www.youtube.com/watch?v=GR4OMkS3SN8",
+   "backup": [],
+   "section": "*3:15-3:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-sc-b",
+   "url": "https://www.youtube.com/watch?v=GR4OMkS3SN8",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-sc-c",
+   "url": "https://www.youtube.com/watch?v=0NUyQIltlfo",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-or-a",
+   "url": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
+   "backup": [],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-or-b",
+   "url": "https://www.youtube.com/watch?v=VVMRwjf9aPw",
+   "backup": [],
+   "section": "*3:20-3:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd30-or-c",
+   "url": "https://www.youtube.com/watch?v=HWg8dtItGCA",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-sy-a",
+   "url": "https://www.youtube.com/watch?v=ElgqCbbsDHk",
+   "backup": [
+    "https://www.youtube.com/watch?v=74v0WSlfxK8"
+   ],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-sy-b",
+   "url": "https://www.youtube.com/watch?v=8xbqua9DXYw",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-sy-c",
+   "url": "https://www.youtube.com/watch?v=74v0WSlfxK8",
+   "backup": [],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-sy-d",
+   "url": "https://www.youtube.com/watch?v=ElgqCbbsDHk",
+   "backup": [],
+   "section": "*7:00-7:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-fu-a",
+   "url": "https://www.youtube.com/watch?v=MxuYDwMfCzk",
+   "backup": [
+    "https://www.youtube.com/watch?v=n9vIQCjZqmg"
+   ],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-fu-b",
+   "url": "https://www.youtube.com/watch?v=n9vIQCjZqmg",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-fu-c",
+   "url": "https://www.youtube.com/watch?v=0k4fZWjk0Dc",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-fu-d",
+   "url": "https://www.youtube.com/watch?v=MxuYDwMfCzk",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-di-a",
+   "url": "https://www.youtube.com/watch?v=4LS7UEkxKKs",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-di-b",
+   "url": "https://www.youtube.com/watch?v=4LS7UEkxKKs",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-di-c",
+   "url": "https://www.youtube.com/watch?v=4LS7UEkxKKs",
+   "backup": [],
+   "section": "*15:00-15:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-di-d",
+   "url": "https://www.youtube.com/watch?v=4LS7UEkxKKs",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-su-a",
+   "url": "https://www.youtube.com/watch?v=Doz4QljSFE0",
+   "backup": [
+    "https://www.youtube.com/watch?v=1NDAKURd0Z8"
+   ],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-su-b",
+   "url": "https://www.youtube.com/watch?v=g_93rpwxDus",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-su-c",
+   "url": "https://www.youtube.com/watch?v=1NDAKURd0Z8",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb30-su-d",
+   "url": "https://www.youtube.com/watch?v=1NDAKURd0Z8",
+   "backup": [],
+   "section": "*30:00-30:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr30-fn-a",
+   "url": "https://www.youtube.com/watch?v=rFHOT4Mb_yI",
+   "backup": [],
+   "section": "*0:05-0:25",
+   "cut": 0,
+   "len": 20
+  },
+  {
+   "name": "tr30-fn-b",
+   "url": "https://www.youtube.com/watch?v=OfuiZNzJCFg",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr30-fn-c",
+   "url": "https://www.youtube.com/watch?v=jCVIzYQbKUs",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

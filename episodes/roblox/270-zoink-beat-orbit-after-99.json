@@ -1,0 +1,148 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 270,
+ "slug": "270-zoink-beat-orbit-after-99",
+ "file": "270 Zoink Died at 99 Percent on Orbit Then Beat It.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#84ffff",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "MindCap": "Mind cap"
+ },
+ "lines": [
+  {
+   "t": "He died at 99 percent. Then he came back and beat it. But the level doesn't even tell you if you won.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; MindCap (YouTube)",
+     "clip": "gd30-or-a.mp4",
+     "start": 0
+    },
+    "big": "DID HE\nWIN?",
+    "sub": "ORBIT",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Remember Zoink dying at 99 percent on Orbit? It's an extreme demon made by MindCap.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; MindCap (YouTube)",
+     "clip": "gd30-or-b.mp4",
+     "start": 0
+    },
+    "big": "99%",
+    "sub": "THE DEATH WE ALL SAW",
+    "bs": 200,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The last click is frame perfect, with no visual cue. Off by one frame, and the run is over.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; MindCap (YouTube)",
+     "clip": "gd30-or-c.mp4",
+     "start": 0
+    },
+    "big": "ONE FRAME",
+    "sub": "NO VISUAL CUE",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then a pit fills with failed cubes. You only know you won when yours stays out. Zoink beat it in about 30,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; MindCap (YouTube)",
+     "clip": "gd30-or-a.mp4",
+     "start": 8.0
+    },
+    "sub": "ATTEMPTS (ABOUT)",
+    "bs": 150,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 30000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you trust that last click?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; MindCap (YouTube)",
+     "clip": "gd30-or-a.mp4",
+     "start": 0.0
+    },
+    "big": "ONE FRAME,\nNO CUE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; MindCap (YouTube)",
+     "clip": "gd30-or-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

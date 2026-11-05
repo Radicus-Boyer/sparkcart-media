@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 267,
+ "slug": "267-avernus-27732-vs-270000",
+ "file": "267 Avernus Took Zoink 27732 Attempts and Another Player 270000.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/RussoOne-Regular.ttf",
+  "size": 92,
+  "hi": "#ffab40",
+  "stroke": 8
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Avernus": "Ah-vur-nus",
+  "Johnlikediamond": "John like diamond"
+ },
+ "lines": [
+  {
+   "t": "One player beat this level in under twenty-eight thousand attempts. Another needed two hundred seventy thousand.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; Yourcraft GD (YouTube)",
+     "clip": "gd30-av-a.mp4",
+     "start": 0
+    },
+    "big": "SAME LEVEL,\n10X THE PAIN",
+    "sub": "27,732 vs 270,000",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "This is Avernus. Zoink verified it on March 22nd, 2023, and it became the number one hardest level in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; Yourcraft GD (YouTube)",
+     "clip": "gd30-av-b.mp4",
+     "start": 0
+    },
+    "big": "AVERNUS",
+    "sub": "#1 HARDEST LEVEL",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Players hated it at first. They called it unfair and badly optimized. Now most of them like it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; Yourcraft GD (YouTube)",
+     "clip": "gd30-av-c.mp4",
+     "start": 0
+    },
+    "big": "HATED AT\nFIRST",
+    "sub": "\"UNFAIR\"",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Zoink needed 27,732 attempts. Johnlikediamond needed around 270,000. And wPopoff beat it in just six days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; Yourcraft GD (YouTube)",
+     "clip": "gd30-av-b.mp4",
+     "start": 10.0
+    },
+    "sub": "JOHNLIKEDIAMOND'S ATTEMPTS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 270000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "How many attempts would it take you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; Yourcraft GD (YouTube)",
+     "clip": "gd30-av-a.mp4",
+     "start": 0.0
+    },
+    "big": "HOW MANY\nFOR YOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro; Yourcraft GD (YouTube)",
+     "clip": "gd30-av-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

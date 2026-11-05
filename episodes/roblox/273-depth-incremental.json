@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 273,
+ "slug": "273-depth-incremental",
+ "file": "273 Depth Incremental on Roblox Is a Pit With No Bottom.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "af_sarah",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox is a pit. And the only goal is to go deeper.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RussoPlays; BemmyBlock (Roblox gameplay, YouTube)",
+     "clip": "rb30-di-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "HOW DEEP CAN YOU GO?",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You buy steps, one at a time, and walk down into the dark.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RussoPlays; BemmyBlock (Roblox gameplay, YouTube)",
+     "clip": "rb30-di-b.mp4",
+     "start": 0
+    },
+    "big": "BUY STEPS",
+    "sub": "ONE AT A TIME",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Every layer hides something new. And something more dangerous.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RussoPlays; BemmyBlock (Roblox gameplay, YouTube)",
+     "clip": "rb30-di-c.mp4",
+     "start": 0
+    },
+    "big": "EVERY LAYER\nGETS WORSE",
+    "sub": "SOMETHING IS DOWN THERE",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October, and over 20,000 people are digging right now. It has over 6 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RussoPlays; BemmyBlock (Roblox gameplay, YouTube)",
+     "clip": "rb30-di-d.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 6151112,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What do you think is at the bottom?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RussoPlays; BemmyBlock (Roblox gameplay, YouTube)",
+     "clip": "rb30-di-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT'S AT\nTHE BOTTOM?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 271,
+ "slug": "271-survive-your-ideas",
+ "file": "271 Survive Your Ideas on Roblox Makes Any Word Come to Life.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox lets you type any word. And then it actually happens.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Carlforthewin352; the randombloxian; Shawnplayz (Roblox gameplay, YouTube)",
+     "clip": "rb30-sy-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "TYPE ANY WORD",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Each round, one random player writes a word, and it comes to life. A tsunami. A dinosaur. A nuke. Tacos.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Carlforthewin352; the randombloxian; Shawnplayz (Roblox gameplay, YouTube)",
+     "clip": "rb30-sy-b.mp4",
+     "start": 0
+    },
+    "big": "TSUNAMI?\nDINOSAUR?",
+    "sub": "TACOS?",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The words stack up, the chaos keeps growing, and the last player alive wins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Carlforthewin352; the randombloxian; Shawnplayz (Roblox gameplay, YouTube)",
+     "clip": "rb30-sy-c.mp4",
+     "start": 0
+    },
+    "big": "LAST ONE\nALIVE WINS",
+    "sub": "THE CHAOS STACKS UP",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October, and it already has over 2 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Carlforthewin352; the randombloxian; Shawnplayz (Roblox gameplay, YouTube)",
+     "clip": "rb30-sy-d.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 2443704,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What word would you type?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Carlforthewin352; the randombloxian; Shawnplayz (Roblox gameplay, YouTube)",
+     "clip": "rb30-sy-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHAT WORD\nWOULD YOU TYPE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}
