@@ -1,0 +1,100 @@
+{
+ "batch": 102,
+ "note": "LONG-FORM #2: spaceuk (16:9)",
+ "posting": "Z:/claudeprojects/roblox vids/batch-102/posting.txt",
+ "episodes": [
+  "episodes/long/1002-spaceuk-long.json"
+ ],
+ "clips": [
+  {
+   "name": "lf2-exp",
+   "url": "https://www.youtube.com/watch?v=I2RTFwn_zho",
+   "backup": [],
+   "section": "*0:00-3:17",
+   "cut": 0,
+   "len": 197,
+   "w": 1920
+  },
+  {
+   "name": "lf2-rise",
+   "url": "https://www.youtube.com/watch?v=sRcPmfHrL3s",
+   "backup": [],
+   "section": "*0:00-8:01",
+   "cut": 0,
+   "len": 481,
+   "w": 1920
+  },
+  {
+   "name": "lf2-sh",
+   "url": "https://www.youtube.com/watch?v=CC7zfHByLSk",
+   "backup": [],
+   "section": "*0:00-1:56",
+   "cut": 0,
+   "len": 116,
+   "w": 1920
+  },
+  {
+   "name": "lf2-ach",
+   "url": "https://www.youtube.com/watch?v=0CSFakL3Hl8",
+   "backup": [],
+   "section": "*0:00-9:42",
+   "cut": 0,
+   "len": 582,
+   "w": 1920
+  },
+  {
+   "name": "lf2-gold",
+   "url": "https://www.youtube.com/watch?v=nLDsfM3jU2Q",
+   "backup": [],
+   "section": "*0:00-5:30",
+   "cut": 0,
+   "len": 330,
+   "w": 1920
+  },
+  {
+   "name": "lf2-kolo",
+   "url": "https://www.youtube.com/watch?v=rJInicacHbg",
+   "backup": [],
+   "section": "*0:00-3:12",
+   "cut": 0,
+   "len": 192,
+   "w": 1920
+  },
+  {
+   "name": "lf2-k2t",
+   "url": "https://www.youtube.com/watch?v=Q44jULOFSyE",
+   "backup": [],
+   "section": "*0:00-3:32",
+   "cut": 0,
+   "len": 212,
+   "w": 1920
+  },
+  {
+   "name": "lf2-sw",
+   "url": "https://www.youtube.com/watch?v=yyxhoFOVTec",
+   "backup": [],
+   "section": "*0:00-4:03",
+   "cut": 0,
+   "len": 243,
+   "w": 1920
+  },
+  {
+   "name": "lf2-ts2",
+   "url": "https://www.youtube.com/watch?v=ZX-RMpUNcWc",
+   "backup": [],
+   "section": "*0:00-0:21",
+   "cut": 0,
+   "len": 21,
+   "w": 1920
+  },
+  {
+   "name": "lf2-cakes",
+   "url": "https://www.youtube.com/watch?v=cpoP7W_Mm2U",
+   "backup": [],
+   "section": "*0:00-7:39",
+   "cut": 0,
+   "len": 459,
+   "w": 1920
+  }
+ ]
+}

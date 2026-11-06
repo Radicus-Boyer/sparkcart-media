@@ -1,0 +1,631 @@
+{
+ "preset": "long",
+ "num": 1002,
+ "slug": "1002-spaceuk-long",
+ "file": "1002 spaceuk - From Number 1 to Exposed to Legit.mp4",
+ "title": "spaceuk: From #1 Player, to Exposed, to Legit",
+ "voice": "am_michael",
+ "speed": 1.0,
+ "accent": "#ffd600",
+ "mood": "spooky",
+ "music_vol": 0.06,
+ "clip_vol": 0.1,
+ "pron": {
+  "spaceuk": "space U K",
+  "spaceuk's": "space U K's",
+  "zBot": "Z bot",
+  "paqoe": "Pack-o",
+  "Demonlist": "Demon list",
+  "nSwish": "En swish",
+  "Mumzy": "Mum-zee",
+  "Kolo": "Koh-lo",
+  "RobTop": "Rob Top",
+  "BenCar": "Ben Car",
+  "ItsCakes": "Its Cakes",
+  "noclipping": "no clipping",
+  "noclip": "no clip"
+ },
+ "lines": [
+  {
+   "t": "",
+   "beat": 6.0,
+   "sc": {
+    "clip": "lf2-sh.mp4",
+    "start": 95,
+    "credit": "spaceuk"
+   }
+  },
+  {
+   "t": "He was the best Geometry Dash player in the world. He beat the hardest levels in the game, one after another, sometimes one a day.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 30,
+    "credit": "Vortrox",
+    "big": "THE BEST\nIN THE WORLD"
+   }
+  },
+  {
+   "t": "He won Best Player at the Geometry Dash Awards. Twice.",
+   "sc": {
+    "clip": "lf2-sh.mp4",
+    "start": 60,
+    "credit": "spaceuk",
+    "big": "BEST PLAYER",
+    "sub": "2021 + 2022"
+   }
+  },
+  {
+   "t": "And almost all of it was fake.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 20,
+    "credit": "paqoe",
+    "big": "FAKE",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "This is the story of spaceuk. How he got to the top, how he got caught, and how he came back and did it for real.",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 560,
+    "credit": "spaceuk"
+   }
+  },
+  {
+   "t": "spaceuk, who used to go by Mumzy, is a player from England. He made his YouTube channel in 2015, but he didn't really start posting until August 2020.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 60,
+    "credit": "Vortrox",
+    "chapter": "THE RISE",
+    "chn": 1
+   },
+   "say": "Space U K, who used to go by Mumzy, is a player from England. He made his YouTube channel in 2015, but he didn't really start posting until August 2020."
+  },
+  {
+   "t": "And then he got good. Really good. Really fast. So fast that some people doubted him right away.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 90,
+    "credit": "Vortrox",
+    "big": "TOO FAST?"
+   }
+  },
+  {
+   "t": "In December 2020, he beat The Golden. It was only his fifth demon, and it was number two on the Demonlist.",
+   "sc": {
+    "clip": "lf2-gold.mp4",
+    "start": 300,
+    "credit": "spaceuk",
+    "big": "THE GOLDEN",
+    "sub": "HIS 5TH DEMON"
+   }
+  },
+  {
+   "t": "Going from easy demons to the second hardest level in the game that quickly is almost unheard of. His fame exploded.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 120,
+    "credit": "Vortrox",
+    "big": "#2 HARDEST"
+   }
+  },
+  {
+   "t": "After that, he beat the top levels in record time, averaging about one a day.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 150,
+    "credit": "Vortrox",
+    "big": "ONE A DAY"
+   }
+  },
+  {
+   "t": "In October 2021, he joined the race to beat Slaughterhouse, the number one hardest level.",
+   "sc": {
+    "clip": "lf2-sh.mp4",
+    "start": 10,
+    "credit": "spaceuk",
+    "chapter": "NUMBER ONE",
+    "chn": 2
+   }
+  },
+  {
+   "t": "He finished it in just over a week, on October 24th.",
+   "sc": {
+    "clip": "lf2-sh.mp4",
+    "start": 100,
+    "credit": "spaceuk",
+    "big": "OCT 24, 2021",
+    "sub": "SLAUGHTERHOUSE"
+   }
+  },
+  {
+   "t": "On May 7th, 2022, he beat Sephiroth, which meant he had beaten the entire main Demonlist. Only one player had done that before him: nSwish.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 200,
+    "credit": "Vortrox",
+    "big": "THE WHOLE\nMAIN LIST"
+   },
+   "say": "On May seventh, 2022, he beat Sephiroth, which meant he had beaten the entire main Demon list. Only one player had done that before him: En swish."
+  },
+  {
+   "t": "He won Best Player at the Geometry Dash Awards in 2021 and again in 2022. As far as everyone knew, he was the best.",
+   "sc": {
+    "clip": "lf2-k2t.mp4",
+    "start": 30,
+    "credit": "K2T",
+    "big": "BEST PLAYER\nx2"
+   }
+  },
+  {
+   "t": "But there were strange moments.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 240,
+    "credit": "Vortrox",
+    "chapter": "WARNING SIGNS",
+    "chn": 3
+   }
+  },
+  {
+   "t": "On June 19th, 2022, he suddenly made most of his videos private, deactivated his Twitter, and asked for his Demonlist profile to be removed.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 255,
+    "credit": "Vortrox",
+    "big": "JUNE 19, 2022",
+    "sub": "EVERYTHING PRIVATE"
+   }
+  },
+  {
+   "t": "After the backlash, he put everything back the very next day.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 270,
+    "credit": "Vortrox",
+    "big": "THE NEXT DAY"
+   }
+  },
+  {
+   "t": "A player named Kolo noticed something wrong in spaceuk's Slaughterhouse videos. Click delays. Parts that looked cut. He uploaded two videos about it.",
+   "sc": {
+    "clip": "lf2-kolo.mp4",
+    "start": 40,
+    "credit": "Kolo [GD]",
+    "big": "CLICK DELAYS",
+    "sub": "SUSPECTED CUTS"
+   },
+   "say": "A player named Kolo noticed something wrong in Space U K's Slaughterhouse videos. Click delays. Parts that looked cut. He uploaded two videos about it."
+  },
+  {
+   "t": "The community brushed him off. The Demonlist team said there wasn't enough evidence, and one moderator messaged him: You are wrong.",
+   "sc": {
+    "clip": "lf2-kolo.mp4",
+    "start": 100,
+    "credit": "Kolo [GD]",
+    "big": "\"YOU ARE\nWRONG\"",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "Meanwhile, spaceuk kept going. He was reportedly the first victor of Aerial Gleam, Abyss of Darkness and Acheron, and claimed the lowest attempt count on Kyouki, around 13,500.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 300,
+    "credit": "Vortrox",
+    "big": "FIRST VICTOR",
+    "sub": "ACHERON + MORE"
+   },
+   "say": "Meanwhile, Space U K kept going. He was reportedly the first victor of Aerial Gleam, Abyss of Darkness and Acheron, and claimed the lowest attempt count on Kyouki, around 13,500."
+  },
+  {
+   "t": "In early 2023, he was picked to verify Banshee, an old impossible level from 2014. On March 28th, he posted a 60 percent run.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 330,
+    "credit": "Vortrox",
+    "big": "BANSHEE",
+    "sub": "60%"
+   }
+  },
+  {
+   "t": "Then on April 1st, his progress videos were unlisted, and he said he was quitting the level. People thought it was an April Fools joke.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 345,
+    "credit": "Vortrox",
+    "big": "APRIL 1ST?"
+   }
+  },
+  {
+   "t": "That same month, someone contacted spaceuk, said they knew him, and claimed he was hacking.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 10,
+    "credit": "paqoe",
+    "chapter": "THE INVESTIGATION",
+    "chn": 4
+   },
+   "say": "That same month, someone contacted Space U K, said they knew him, and claimed he was hacking."
+  },
+  {
+   "t": "paqoe, a head moderator on the Demonlist, started checking his videos with the rest of the team.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 30,
+    "credit": "paqoe",
+    "big": "PAQOE",
+    "sub": "DEMONLIST MODERATOR"
+   },
+   "say": "Pack-o, a head moderator on the Demon list, started checking his videos with the rest of the team."
+  },
+  {
+   "t": "They couldn't find the hacking method the person described. But they found something else.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 45,
+    "credit": "paqoe"
+   }
+  },
+  {
+   "t": "In his Acheron video, the sound of his clicks didn't match what his icon was doing on screen.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 60,
+    "credit": "paqoe",
+    "big": "CLICKS\nDON'T MATCH"
+   }
+  },
+  {
+   "t": "His records were removed. Then, a few hours later, they were put back. There just wasn't enough proof yet.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 75,
+    "credit": "paqoe",
+    "big": "REMOVED...",
+    "sub": "THEN RESTORED"
+   }
+  },
+  {
+   "t": "But paqoe kept digging, and found the same problem in his other videos, like The Hallucination.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 90,
+    "credit": "paqoe"
+   },
+   "say": "But Pack-o kept digging, and found the same problem in his other videos, like The Hallucination."
+  },
+  {
+   "t": "On April 25th, 2023, paqoe posted a video called Exposing SpaceUK.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 2,
+    "credit": "paqoe",
+    "chapter": "EXPOSED",
+    "chn": 5,
+    "big": "APRIL 25, 2023"
+   },
+   "say": "On April twenty-fifth, 2023, Pack-o posted a video called Exposing Space U K."
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 110,
+    "credit": "paqoe"
+   }
+  },
+  {
+   "t": "spaceuk confessed on Twitter. He said he used a bot called zBot for every completion after Sephiroth, in May 2022. He said he got bored of the game and wanted to see how far he could go.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 125,
+    "credit": "paqoe",
+    "big": "ZBOT",
+    "sub": "\"HOW FAR HE COULD GO\""
+   },
+   "say": "Space U K confessed on Twitter. He said he used a bot called Z bot for every completion after Sephiroth, in May 2022. He said he got bored of the game and wanted to see how far he could go."
+  },
+  {
+   "t": "But that wasn't true either. paqoe showed zBot in his recordings all the way back to March 2021.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 140,
+    "credit": "paqoe",
+    "big": "MARCH 2021",
+    "bc": "#ff5252"
+   },
+   "say": "But that wasn't true either. Pack-o showed Z bot in his recordings all the way back to March 2021."
+  },
+  {
+   "t": "In the end, he admitted to cheating on practically every record since The Golden.",
+   "sc": {
+    "clip": "lf2-gold.mp4",
+    "start": 120,
+    "credit": "spaceuk",
+    "big": "SINCE\nTHE GOLDEN"
+   }
+  },
+  {
+   "t": "So how did he fool everyone for two years?",
+   "sc": {
+    "clip": "lf2-k2t.mp4",
+    "start": 60,
+    "credit": "K2T",
+    "chapter": "HOW HE DID IT",
+    "chn": 6
+   }
+  },
+  {
+   "t": "The Demonlist had ways to catch bots. But spaceuk used a trick so simple it got past the whole team. He made real clicking noises over the bot.",
+   "sc": {
+    "clip": "lf2-k2t.mp4",
+    "start": 80,
+    "credit": "K2T",
+    "big": "FAKE CLICKS"
+   }
+  },
+  {
+   "t": "And zBot left a hidden watermark. On the Level Complete screen, the text was 940 pixels wide instead of 1004.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 160,
+    "credit": "paqoe",
+    "big": "940 PX",
+    "sub": "NORMAL: 1004 PX"
+   }
+  },
+  {
+   "t": "Only the people who made zBot knew about it. Nobody checked, because nobody thought a player that good would ever use a bot.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 175,
+    "credit": "paqoe"
+   }
+  },
+  {
+   "t": "According to other top players, his real hardest level was Kenos. He only started hacking after that, and he later confirmed it in an interview.",
+   "sc": {
+    "clip": "lf2-sw.mp4",
+    "start": 30,
+    "credit": "Secret Way 2",
+    "big": "REAL HARDEST:\nKENOS"
+   }
+  },
+  {
+   "t": "And Kolo? The Demonlist admitted he had been right all along, and apologized to him.",
+   "sc": {
+    "clip": "lf2-kolo.mp4",
+    "start": 150,
+    "credit": "Kolo [GD]",
+    "big": "KOLO WAS\nRIGHT"
+   }
+  },
+  {
+   "t": "After he was exposed, spaceuk deleted his YouTube channel and deactivated his Twitter.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 380,
+    "credit": "Vortrox",
+    "chapter": "THE FALLOUT",
+    "chn": 7
+   },
+   "say": "After he was exposed, Space U K deleted his YouTube channel and deactivated his Twitter."
+  },
+  {
+   "t": "Later, he came back to Twitter with a long apology. He said he wasn't asking for sympathy. He wanted to clear everything up, and apologize to the players he held back.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 400,
+    "credit": "Vortrox",
+    "big": "THE APOLOGY"
+   }
+  },
+  {
+   "t": "Titles went back to the players who had really earned them.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 420,
+    "credit": "Vortrox",
+    "big": "TITLES\nRETURNED"
+   }
+  },
+  {
+   "t": "Most people thought that was the end of spaceuk. It wasn't.",
+   "sc": {
+    "clip": "lf2-gold.mp4",
+    "start": 10,
+    "credit": "spaceuk",
+    "chapter": "THE COMEBACK",
+    "chn": 8
+   },
+   "say": "Most people thought that was the end of Space U K. It wasn't."
+  },
+  {
+   "t": "He made a new YouTube channel and uploaded a legit completion of The Golden, with the full stream footage as proof.",
+   "sc": {
+    "clip": "lf2-gold.mp4",
+    "start": 280,
+    "credit": "spaceuk",
+    "big": "THE GOLDEN",
+    "sub": "LEGIT, WITH FULL STREAM"
+   }
+  },
+  {
+   "t": "On May 14th, 2023, he legitimately beat Tartarus. His new real hardest.",
+   "sc": {
+    "clip": "lf2-gold.mp4",
+    "start": 200,
+    "credit": "spaceuk",
+    "big": "TARTARUS",
+    "sub": "MAY 14, 2023"
+   }
+  },
+  {
+   "t": "In June 2024, he got 33 percent on Kyouki, and some people were angry. They wanted him to quit the game for good.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 440,
+    "credit": "Vortrox",
+    "big": "33%",
+    "sub": "KYOUKI"
+   }
+  },
+  {
+   "t": "In January 2025, he beat Down Bass and Sonic Wave. The comments were split. Some were cynical. Others wanted to give him a chance.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 460,
+    "credit": "Vortrox",
+    "big": "SECOND\nCHANCE?"
+   }
+  },
+  {
+   "t": "In September 2025, he did an interview with BenCar from Secret Way. He said he felt guilty for hacking.",
+   "sc": {
+    "clip": "lf2-sw.mp4",
+    "start": 60,
+    "credit": "Secret Way 2",
+    "big": "\"GUILTY\""
+   }
+  },
+  {
+   "t": "He said what he regrets most is noclipping The Golden. He really thought he had beaten it at first, and when he found out he hadn't, he uploaded the noclip anyway.",
+   "sc": {
+    "clip": "lf2-sw.mp4",
+    "start": 100,
+    "credit": "Secret Way 2",
+    "big": "THE NOCLIP"
+   }
+  },
+  {
+   "t": "And he made one more claim. He said paqoe, the player who exposed him, might have hacked Silent Clubstep. But he also said it was very likely untrue.",
+   "sc": {
+    "clip": "lf2-cakes.mp4",
+    "start": 60,
+    "credit": "ItsCakes",
+    "big": "\"VERY LIKELY\nUNTRUE\""
+   },
+   "say": "And he made one more claim. He said Pack-o, the player who exposed him, might have hacked Silent Clubstep. But he also said it was very likely untrue."
+  },
+  {
+   "t": "ItsCakes made a video about it, and paqoe responded. Most people did not buy it.",
+   "sc": {
+    "clip": "lf2-cakes.mp4",
+    "start": 120,
+    "credit": "ItsCakes"
+   },
+   "say": "Its Cakes made a video about it, and Pack-o responded. Most people did not buy it."
+  },
+  {
+   "t": "Then he went back to the level that started his whole downfall. Acheron.",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 20,
+    "credit": "spaceuk",
+    "chapter": "LEGIT",
+    "chn": 9
+   }
+  },
+  {
+   "t": "In September 2025, he got a 79 to 100 run on Thinking Space 2. Then he got a new keyboard and started streaming Acheron again.",
+   "sc": {
+    "clip": "lf2-ts2.mp4",
+    "start": 0,
+    "credit": "spaceuk",
+    "big": "79-100",
+    "sub": "THINKING SPACE II"
+   }
+  },
+  {
+   "t": "68 percent. Then 30 to 100. Then 72 percent. By October, he was already around 88,000 attempts.",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 200,
+    "credit": "spaceuk",
+    "big": "~88,000",
+    "sub": "ATTEMPTS BY OCTOBER"
+   }
+  },
+  {
+   "t": "The level he once faked, he was now grinding for real, live, where everyone could see every click.",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 300,
+    "credit": "spaceuk",
+    "big": "EVERY CLICK\nON STREAM"
+   }
+  },
+  {
+   "t": "",
+   "beat": 6.0,
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 540,
+    "credit": "spaceuk"
+   }
+  },
+  {
+   "t": "On January 3rd, 2026, spaceuk legitimately beat Acheron. After about 125,000 attempts.",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 565,
+    "credit": "spaceuk",
+    "big": "125,000",
+    "sub": "ACHERON - LEGIT"
+   },
+   "say": "On January third, 2026, Space U K legitimately beat Acheron. After about one hundred twenty-five thousand attempts."
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 572,
+    "credit": "spaceuk"
+   }
+  },
+  {
+   "t": "Since then, he's been playing levels like Subterminal Point and Tidal Wave. Legit, on stream.",
+   "sc": {
+    "clip": "lf2-rise.mp4",
+    "start": 470,
+    "credit": "Vortrox"
+   }
+  },
+  {
+   "t": "From number one, to the biggest scandal in Geometry Dash, to beating Acheron for real.",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 575,
+    "credit": "spaceuk",
+    "big": "#1 TO EXPOSED\nTO LEGIT",
+    "bs": 100
+   }
+  },
+  {
+   "t": "So what do you think? Should spaceuk be forgiven? Tell me in the comments.",
+   "sc": {
+    "clip": "lf2-exp.mp4",
+    "start": 20,
+    "credit": "paqoe",
+    "big": "FORGIVE\nHIM?",
+    "bs": 120
+   },
+   "say": "So what do you think? Should Space U K be forgiven? Tell me in the comments."
+  },
+  {
+   "t": "And if you liked this story, subscribe. Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "clip": "lf2-ach.mp4",
+    "start": 578,
+    "credit": "spaceuk",
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS"
+   }
+  }
+ ]
+}
