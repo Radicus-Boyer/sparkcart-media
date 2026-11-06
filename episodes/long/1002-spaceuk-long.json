@@ -445,7 +445,24 @@
    "say": "Most people thought that was the end of Space U K. It wasn't."
   },
   {
-   "t": "He made a new YouTube channel and uploaded a legit completion of The Golden, with the full stream footage as proof.",
+   "t": "He made a new YouTube channel, called spaceuk, with the handle bird U K. Today it has over 90,000 subscribers.",
+   "sc": {
+    "clip": "lf2-gold.mp4",
+    "start": 260,
+    "credit": "spaceuk",
+    "big": "THE NEW CHANNEL",
+    "bs": 100,
+    "card": {
+     "img": "spaceuk-channel-card.png",
+     "y": 620,
+     "w": 1100
+    },
+    "dark": 0.35
+   },
+   "say": "He made a new YouTube channel, called Space U K, with the handle bird U K. Today it has over ninety thousand subscribers."
+  },
+  {
+   "t": "And he uploaded a legit completion of The Golden, with the full stream footage as proof.",
    "sc": {
     "clip": "lf2-gold.mp4",
     "start": 280,
@@ -613,7 +630,13 @@
     "start": 20,
     "credit": "paqoe",
     "big": "FORGIVE\nHIM?",
-    "bs": 120
+    "bs": 120,
+    "card": {
+     "img": "spaceuk-channel-card.png",
+     "y": 700,
+     "w": 900
+    },
+    "dark": 0.35
    },
    "say": "So what do you think? Should Space U K be forgiven? Tell me in the comments."
   },

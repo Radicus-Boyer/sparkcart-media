@@ -57,6 +57,15 @@ def overlay_png(path, sc, accent):
         y += (len(sc["big"].split("\n")) - 1) * (sc.get("bs", 120) + 14)
     if sc.get("sub"):
         art.paste_center(im, _txt(sc["sub"], sc.get("ss", 56), sc.get("subc", accent), CAP_FONT, 7), W / 2, y + sc.get("bs", 120) * 0.5 + 60)
+    if sc.get("card"):  # screenshot card (e.g. a channel header) centred with an accent border
+        cd = sc["card"]
+        ci = Image.open(ROOT + "episodes/assets/" + cd["img"]).convert("RGBA")
+        cw = cd.get("w", 1100)
+        ci = ci.resize((cw, int(ci.height * cw / ci.width)))
+        b = 10
+        fr = Image.new("RGBA", (ci.width + 2 * b, ci.height + 2 * b), rgb(accent) + (255,))
+        fr.alpha_composite(ci, (b, b))
+        art.paste_center(im, fr, W / 2, cd.get("y", 600))
     if sc.get("credit"):
         t = _txt("footage: " + sc["credit"], 30, "#ffffff", CAP_FONT, 4, 900)
         t = t.copy()
