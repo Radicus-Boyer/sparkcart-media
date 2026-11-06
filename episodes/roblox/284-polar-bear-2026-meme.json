@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 284,
+ "slug": "284-polar-bear-2026-meme",
+ "file": "284 The Polar Bear 2026 Meme Explained.mp4",
+ "target": 0,
+ "accent": "#80d8ff",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Years ago, someone posted a meme and said: this is a November meme from 2026. You won't understand yet.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-a.mp4",
+     "start": 0
+    },
+    "big": "A MEME FROM\nNOVEMBER 2026",
+    "sub": "\"YOU WON'T UNDERSTAND YET\"",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Well. It's November 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-c.mp4",
+     "start": 0
+    },
+    "big": "IT'S\nNOVEMBER 2026",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It was a creepy picture of a polar bear, first posted by a Russian TikToker.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-b.mp4",
+     "start": 0
+    },
+    "big": "THE POLAR\nBEAR",
+    "sub": "FROM A RUSSIAN TIKTOK",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Nobody knows if it's AI. People made up stories about it, and compared it to Sid from Ice Age.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-a.mp4",
+     "start": 6.0
+    },
+    "big": "AI OR\nNOT?",
+    "sub": "SID FROM ICE AGE?",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The trend uses a song called Cumbia Masonica, the one that sounds like a little girl saying yo yo yo.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-b.mp4",
+     "start": 10.0
+    },
+    "big": "CUMBIA\nMASONICA",
+    "sub": "\"YO YO YO\"",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So... do you get it now?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-a.mp4",
+     "start": 0.0
+    },
+    "big": "DO YOU\nGET IT NOW?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: gh0st; polar bear; брынза1945 (YouTube)",
+     "clip": "tr31-pb-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

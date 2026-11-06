@@ -1,0 +1,166 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 276,
+ "slug": "276-reapavon-unnerfed-slaughterhouse",
+ "file": "276 ReapaVON Is Verifying a Super Buffed Slaughterhouse.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "ReapaVON": "Reapa von",
+  "Slaughterhouse": "Slaughter house"
+ },
+ "lines": [
+  {
+   "t": "This Canadian player is trying to verify a level that could be top 4 in the world. And almost nobody knows his name.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-a.mp4",
+     "start": 0
+    },
+    "big": "[TOP 4?] UNNERFED\nSLAUGHTERHOUSE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He's ReapaVON. Two months ago, he beat Slaughterhouse, his new hardest level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-d.mp4",
+     "start": 0
+    },
+    "big": "[NEW HARDEST]\nSLAUGHTERHOUSE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Now he's verifying Unnerfed Slaughterhouse, a super buffed version. He has died at 86 percent three times.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-a.mp4",
+     "start": 6.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 86,
+     "fmt": "{:,.0f}%",
+     "dur": 1.3
+    },
+    "sub": "UNNERFED SLH  x3"
+   }
+  },
+  {
+   "t": "He calls it the hardest achievement in Canada. He also has a 23 to 100 run.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-b.mp4",
+     "start": 0
+    },
+    "big": "[23-100]\nVERIFYING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He even got 3 percent on GRIEF, the new number one. He has 535 subscribers. Go show him some love.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-c.mp4",
+     "start": 0
+    },
+    "big": "[@ReapaVON]\nGRIEF 3%",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Will he verify it?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-a.mp4",
+     "start": 0.0
+    },
+    "big": "WILL HE\nVERIFY IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ReapaVON (YouTube)",
+     "clip": "gd31-rp-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "ReapaVON",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

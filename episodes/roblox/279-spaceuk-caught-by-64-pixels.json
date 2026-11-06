@@ -1,0 +1,151 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 279,
+ "slug": "279-spaceuk-caught-by-64-pixels",
+ "file": "279 spaceuk Got Caught Because of 64 Pixels.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "spaceuk": "space U K",
+  "zBot": "Z bot",
+  "paqoe": "Pack-o"
+ },
+ "lines": [
+  {
+   "t": "The best Geometry Dash player in the world got caught because of 64 pixels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; K2T; Vortrox (YouTube)",
+     "clip": "gd31-wm-a.mp4",
+     "start": 0
+    },
+    "big": "[64 PIXELS]\nSPACEUK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "spaceuk used a bot called zBot. And he made clicking noises over it, so nobody would notice.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; K2T; Vortrox (YouTube)",
+     "clip": "gd31-wm-b.mp4",
+     "start": 0
+    },
+    "big": "[ZBOT]\nFAKE CLICKS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But zBot left a hidden watermark. The Level Complete text was 940 pixels wide, instead of 1004.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; K2T; Vortrox (YouTube)",
+     "clip": "gd31-wm-a.mp4",
+     "start": 8.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 940,
+     "fmt": "{:,.0f} PX",
+     "dur": 1.3
+    },
+    "sub": "NORMAL: 1004 PX"
+   }
+  },
+  {
+   "t": "Only the makers of zBot knew about it. In April 2023, paqoe exposed him.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; K2T; Vortrox (YouTube)",
+     "clip": "gd31-wm-c.mp4",
+     "start": 0
+    },
+    "big": "[EXPOSED]\nBY PAQOE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Would you have noticed?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; K2T; Vortrox (YouTube)",
+     "clip": "gd31-wm-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD YOU\nNOTICE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; K2T; Vortrox (YouTube)",
+     "clip": "gd31-wm-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "spaceuk",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

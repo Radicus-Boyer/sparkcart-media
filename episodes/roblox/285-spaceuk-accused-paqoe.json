@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 285,
+ "slug": "285-spaceuk-accused-paqoe",
+ "file": "285 The Player Who Exposed spaceuk Got Accused by spaceuk.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "spaceuk": "space U K",
+  "paqoe": "Pack-o",
+  "ItsCakes": "Its cakes"
+ },
+ "lines": [
+  {
+   "t": "The player who exposed spaceuk for hacking got accused of hacking. By spaceuk.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ItsCakes; Secret Way 2; paqoe (YouTube)",
+     "clip": "gd31-pq-a.mp4",
+     "start": 0
+    },
+    "big": "[ACCUSED]\nPAQOE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "paqoe exposed spaceuk in 2023. She also verified Silent Clubstep, the level called impossible.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ItsCakes; Secret Way 2; paqoe (YouTube)",
+     "clip": "gd31-pq-c.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIER]\nSILENT CLUBSTEP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In a 2025 interview, spaceuk said paqoe might have hacked it. But he also said it was very likely untrue.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ItsCakes; Secret Way 2; paqoe (YouTube)",
+     "clip": "gd31-pq-b.mp4",
+     "start": 0
+    },
+    "big": "\"VERY LIKELY\nUNTRUE\"",
+    "bs": 100,
+    "by": 250,
+    "ss": 50
+   }
+  },
+  {
+   "t": "YouTuber ItsCakes made a video about it. And paqoe has responded.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ItsCakes; Secret Way 2; paqoe (YouTube)",
+     "clip": "gd31-pq-a.mp4",
+     "start": 8.0
+    },
+    "big": "[PAQOE]\nRESPONDED",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Do you believe him?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ItsCakes; Secret Way 2; paqoe (YouTube)",
+     "clip": "gd31-pq-a.mp4",
+     "start": 0.0
+    },
+    "big": "BELIEVE\nHIM?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ItsCakes; Secret Way 2; paqoe (YouTube)",
+     "clip": "gd31-pq-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "paqoe",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

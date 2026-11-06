@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 281,
+ "slug": "281-south-hell",
+ "file": "281 South Hell on Roblox Locks You in a School Basement.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox starts with you waking up in a school basement. The doors are locked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; CatPlay (Roblox gameplay, YouTube)",
+     "clip": "rb31-sh-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "THE DOORS ARE LOCKED",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And he is hunting you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; CatPlay (Roblox gameplay, YouTube)",
+     "clip": "rb31-sh-b.mp4",
+     "start": 0
+    },
+    "big": "HE IS\nHUNTING YOU",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's best with headphones and voice chat on, so you can hear him coming.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; CatPlay (Roblox gameplay, YouTube)",
+     "clip": "rb31-sh-c.mp4",
+     "start": 0
+    },
+    "big": "WEAR\nHEADPHONES",
+    "sub": "VOICE CHAT ON",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out on October 18th, and it already has over 2 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; CatPlay (Roblox gameplay, YouTube)",
+     "clip": "rb31-sh-d.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 2337711,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you play this alone?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: UnoTwo; CatPlay (Roblox gameplay, YouTube)",
+     "clip": "rb31-sh-a.mp4",
+     "start": 0.0
+    },
+    "big": "PLAY IT\nALONE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

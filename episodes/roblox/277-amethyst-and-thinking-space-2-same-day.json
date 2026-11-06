@@ -1,0 +1,164 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 277,
+ "slug": "277-amethyst-and-thinking-space-2-same-day",
+ "file": "277 Two Future Number 1 Levels Were Verified on the Same Day.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "On the same day, two different players verified two levels that would both become number one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-a.mp4",
+     "start": 0
+    },
+    "big": "[SAME DAY]\nTWO #1 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "May 25th, 2025. wPopoff verified Amethyst, after about 115,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-c.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 115000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "AMETHYST - WPOPOFF"
+   }
+  },
+  {
+   "t": "And on that same day, Zoink verified Thinking Space 2.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-b.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIED]\nTHINKING SPACE II",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Amethyst went to number one in June, passing Tidal Wave.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-c.mp4",
+     "start": 8.0
+    },
+    "big": "[TOP 1]\nAMETHYST",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then in September, Thinking Space 2 took the top spot from it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-d.mp4",
+     "start": 0
+    },
+    "big": "[NEW TOP 1]\nTHINKING SPACE II",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Which one is harder?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH IS\nHARDER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Zoink (YouTube)",
+     "clip": "gd31-am-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "wPopoff",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

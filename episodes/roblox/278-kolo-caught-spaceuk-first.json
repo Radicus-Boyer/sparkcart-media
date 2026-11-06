@@ -1,0 +1,159 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 278,
+ "slug": "278-kolo-caught-spaceuk-first",
+ "file": "278 The Player Who Caught spaceuk First Was Told You Are Wrong.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "spaceuk": "space U K",
+  "Kolo": "Koh-lo"
+ },
+ "lines": [
+  {
+   "t": "One player caught the best player in the world faking. And the Demonlist told him: you are wrong.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-a.mp4",
+     "start": 0
+    },
+    "big": "[CAUGHT HIM FIRST]\nKOLO",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 2021, spaceuk beat Slaughterhouse in just over a week.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-c.mp4",
+     "start": 0
+    },
+    "big": "[TOP 1]\nSLAUGHTERHOUSE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "A player named Kolo uploaded videos showing click delays and cuts in spaceuk's runs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-a.mp4",
+     "start": 8.0
+    },
+    "big": "[CLICK DELAYS]\n[VIDEO CUTS]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Demonlist team denied it. A moderator even messaged him: You are wrong. Thumbs up.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-b.mp4",
+     "start": 0
+    },
+    "big": "\"YOU ARE\nWRONG\"",
+    "bs": 110,
+    "by": 250,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In April 2023, spaceuk was exposed for hacking. And the Demonlist apologized to Kolo.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-b.mp4",
+     "start": 8.0
+    },
+    "big": "[EXPOSED]\nAPRIL 2023",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Should Kolo get the credit?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-a.mp4",
+     "start": 0.0
+    },
+    "big": "CREDIT\nTO KOLO?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kolo [GD]; paqoe; Spaceuk Archive (YouTube)",
+     "clip": "gd31-ko-a.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Kolo",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
