@@ -102,8 +102,8 @@ def MCAP(hi):
     return dict(MEMECAP, hi=hi)
 
 # ---------------------------------------------------------------- 286 MEME: Snow Leopard Paws at You (Know Your Meme)
-SLC = "Clips: Kuch Bhi Haat; fofobi (YouTube)"
-clip("tr32-sl-a.mp4", "https://www.youtube.com/watch?v=Els3CVl_-cE", "*0:15-0:35", cut=0)
+SLC = "Clips: Taffylicious; fofobi (YouTube)"
+clip("tr32-sl-a.mp4", "https://www.youtube.com/watch?v=xEaihl9SpGc", "*1:00-1:20", cut=0)
 clip("tr32-sl-b.mp4", "https://www.youtube.com/watch?v=CETHQkNnlBM", "*1:00-1:20", cut=0)
 clip("tr32-sl-c.mp4", "https://www.youtube.com/watch?v=fpVq9bvApwk", "*2:00-2:20", cut=0)
 ep(286, "snow-leopard-paws-at-you", "The Snow Leopard Paws at You Meme Explained", HEART, "#b388ff", MCAP("#e1bee7"),
@@ -116,16 +116,16 @@ ep(286, "snow-leopard-paws-at-you", "The Snow Leopard Paws at You Meme Explained
     L("Add the words, paws at you, and it's a friend begging you to hop online.",
       CLIP("tr32-sl-c.mp4", "\"HOP\nONLINE\"", "", 0, SLC, bs=150)),
     L("One post got 1.4 million views in a day. Even Epic Games posted it.",
-      CCOUNT("tr32-sl-a.mp4", 12.0, SLC, 1400000, "VIEWS IN ONE DAY", bs=140)),
+      CCOUNT("tr32-sl-a.mp4", 7.0, SLC, 1400000, "VIEWS IN ONE DAY", bs=140)),
     ask("Who keeps pawing at YOU to hop on?", "WHO PAWS\nAT YOU?", "tr32-sl-a.mp4", SLC),
     subline("tr32-sl-b.mp4", SLC, 8.0),
    ], pron={"Himmel": "Him-mel", "Mei Mei": "May May"}, edition="MEME LORE")
 
 # ---------------------------------------------------------------- 287 MEME: The Last Dance trend (Know Your Meme)
-LDC = "Clips: Torial; Memes ok; zoe. 0 (YouTube)"
+LDC = "Clips: Torial; Sanpor Animates; SophieHoney (YouTube)"
 clip("tr32-ld-a.mp4", "https://www.youtube.com/watch?v=-83fztV7Ix0", "*0:30-0:50", cut=0)
-clip("tr32-ld-b.mp4", "https://www.youtube.com/watch?v=AJ1awkJrtJk", "*0:20-0:40", cut=0)
-clip("tr32-ld-c.mp4", "https://www.youtube.com/watch?v=tZz3cFOwnKY", "*0:40-1:00", cut=0)
+clip("tr32-ld-b.mp4", "https://www.youtube.com/watch?v=Hmn3Uc-hRKU", "*0:02-0:22", cut=0)
+clip("tr32-ld-c.mp4", "https://www.youtube.com/watch?v=uHGMU8AW9uE", "*0:02-0:22", cut=0)
 ep(287, "the-last-dance-trend", "The Last Dance Song Is From 2014", LIAM, "#ff4081", MCAP("#ff80ab"),
    [L("This song is everywhere on TikTok. It came out in 2014, and almost nobody heard it.",
       CLIP("tr32-ld-a.mp4", "\"THE LAST\nDANCE\"", "A SONG FROM 2014", 0, LDC, bs=140)),
@@ -156,15 +156,15 @@ ep(288, "randy-marsh-whats-up-brah", "Why Randy Marsh Is Fighting Every Villain"
     L("Back in 2012, people put him next to Bane, like he was about to wrestle him.",
       CLIP("tr32-rm-c.mp4", "RANDY\nVS BANE", "THE 2012 MEME", 0, RMC, bs=150)),
     L("In October, TikTok brought it back. Now he's squaring up with Minecraft Steve, Omni-Man, and more. He never backs down.",
-      CLIP("tr32-rm-c.mp4", "NEVER\nBACKS DOWN", "STEVE - OMNI-MAN - MORE", 8.0, RMC, bs=140)),
+      CLIP("tr32-rm-c.mp4", "NEVER\nBACKS DOWN", "STEVE - OMNI-MAN - MORE", 4.0, RMC, bs=140)),
     ask("Who should Randy fight next?", "WHO'S\nNEXT?", "tr32-rm-a.mp4", RMC),
-    subline("tr32-rm-a.mp4", RMC, 12.0),
+    subline("tr32-rm-a.mp4", RMC, 8.0),
    ], pron={"Omni-Man": "Omni Man"}, edition="MEME LORE")
 
 # ---------------------------------------------------------------- 289 GD: Zoink beat GRIEF (wiki.gg, Nov 6 2026)
 GRC = "Clips: Hao; Toogit; Yuric (YouTube)"
 clip("gd32-gr-a.mp4", "https://www.youtube.com/watch?v=A-sK7146cK8", "*0:02-0:22", cut=0)
-clip("gd32-gr-b.mp4", "https://www.youtube.com/watch?v=qUQZg6qd8SY", "*9:30-9:50", cut=0)
+clip("gd32-gr-b.mp4", "https://www.youtube.com/watch?v=7892WirowY4", "*3:01-3:21", cut=0)
 clip("gd32-gr-c.mp4", "https://www.youtube.com/watch?v=qUQZg6qd8SY", "*4:00-4:20", cut=0)
 clip("gd32-gr-d.mp4", "https://www.youtube.com/watch?v=7892WirowY4", "*3:00-3:20", cut=0)
 ep(289, "zoink-beat-grief", "Zoink Died at 98 Percent on GRIEF Then Beat It", MIKE, "#ff1744", GDCAP,
@@ -184,21 +184,21 @@ ep(289, "zoink-beat-grief", "Zoink Died at 98 Percent on GRIEF Then Beat It", MI
 
 # ---------------------------------------------------------------- 290 GD: Green Bullet, 3 verifiers (wiki.gg)
 GBC = "Clips: nickname; Viprin (YouTube)"
-clip("gd32-gb-a.mp4", "https://www.youtube.com/watch?v=JG-qcvVkZFw", "*2:40-3:00", cut=0)
+clip("gd32-gb-a.mp4", "https://www.youtube.com/watch?v=JG-qcvVkZFw", "*2:20-2:40", cut=0)
 clip("gd32-gb-b.mp4", "https://www.youtube.com/watch?v=JG-qcvVkZFw", "*0:40-1:00", cut=0)
 clip("gd32-gb-c.mp4", "https://www.youtube.com/watch?v=5pbCgDdA2mQ", "*1:00-1:20", cut=0)
 ep(290, "green-bullet-three-verifiers", "Two Players Quit This Level Then the Third Took 105,000 Attempts", LIAM, "#00e676", GDCAP,
    [L("Two players quit this level. The third one beat it, after 105,000 attempts.",
-      H("gd32-gb-a.mp4", "[3 VERIFIERS]\nGREEN BULLET", 0, GBC)),
+      H("gd32-gb-c.mp4", "[3 VERIFIERS]\nGREEN BULLET", 0, GBC)),
     L("It's Green Bullet, built by Cherry Team, a group of more than ten creators.",
-      H("gd32-gb-c.mp4", "[CHERRY TEAM]\nGREEN BULLET", 0, GBC)),
+      H("gd32-gb-c.mp4", "[CHERRY TEAM]\nGREEN BULLET", 7.0, GBC)),
     L("SerVax was picked to verify it. He stepped down. Then Trick took over.",
       H("gd32-gb-b.mp4", "[QUIT]\nSERVAX - TRICK", 0, GBC)),
     L("Then a player called nickname took the job. He died at 89 percent.",
       H("gd32-gb-b.mp4", "[89%]\nNICKNAME", 8.0, GBC)),
     L("On June 16th, he finally verified it. It's now number 8 on the Demonlist.",
       HC("gd32-gb-a.mp4", 8.0, GBC, 105000, "GREEN BULLET - VERIFIED")),
-    ask("Would you have quit too?", "WOULD YOU\nQUIT?", "gd32-gb-a.mp4", GBC),
+    ask("Would you have quit too?", "WOULD YOU\nQUIT?", "gd32-gb-c.mp4", GBC),
     subline("gd32-gb-c.mp4", GBC, 8.0),
    ], pron=dict(GD_PRON, SerVax="Sir Vax"), gd_player="nickname", **GDE)
 
@@ -209,16 +209,16 @@ clip("gd32-al-b.mp4", "https://www.youtube.com/watch?v=_M3D5xP0w7c", "*1:30-1:50
 clip("gd32-al-c.mp4", "https://www.youtube.com/watch?v=Ii25Ypw_Cjs", "*0:30-0:50", cut=0)
 ep(291, "antarctic-lights-381058-attempts", "He Took 381,058 Attempts Then a Showcase Got the Views", PUCK, "#00e5ff", GDCAP,
    [L("This player spent 381,058 attempts on one level. Then someone else got the views.",
-      H("gd32-al-a.mp4", "[381,058]\nANTARCTIC LIGHTS", 0, ALC)),
+      H("gd32-al-c.mp4", "[381,058]\nANTARCTIC LIGHTS", 0, ALC)),
     L("It's Antarctic Lights. Most of it is wave, at quadruple speed.",
-      H("gd32-al-c.mp4", "[4X SPEED]\nWAVE", 0, ALC)),
+      H("gd32-al-c.mp4", "[4X SPEED]\nWAVE", 5.0, ALC)),
     L("Axinity grinded it for over a year. 70 percent. 85. 90. Then 92.",
       H("gd32-al-b.mp4", "[92%]\nVERIFYING", 0, ALC)),
     L("In July 2026, he verified it. It went in at number 8, the hardest Nine Circles level ever.",
-      HC("gd32-al-a.mp4", 8.0, ALC, 381058, "ATTEMPTS - VERIFIED")),
+      HC("gd32-al-a.mp4", 4.0, ALC, 381058, "ATTEMPTS - VERIFIED")),
     L("Then a showcase channel uploaded it with verified in the title. And people said it stole his views.",
-      H("gd32-al-c.mp4", "[SHOWCASE]\n\"STOLE HIS VIEWS\"", 8.0, ALC)),
-    ask("Are showcase channels fair?", "IS THAT\nFAIR?", "gd32-al-a.mp4", ALC),
+      H("gd32-al-c.mp4", "[SHOWCASE]\n\"STOLE HIS VIEWS\"", 2.0, ALC)),
+    ask("Are showcase channels fair?", "IS THAT\nFAIR?", "gd32-al-c.mp4", ALC),
     subline("gd32-al-b.mp4", ALC, 8.0),
    ], pron=dict(GD_PRON, Axinity="Ax-in-ity"), gd_player="Axinity", **GDE)
 
@@ -226,7 +226,7 @@ ep(291, "antarctic-lights-381058-attempts", "He Took 381,058 Attempts Then a Sho
 FNC = "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)"
 clip("tr32-fn-a.mp4", "https://www.youtube.com/watch?v=NMPsjlNEF4o", "*0:20-0:40", cut=0)
 clip("tr32-fn-b.mp4", "https://www.youtube.com/watch?v=EfYC0IOlR1c", "*1:00-1:20", cut=0)
-clip("tr32-fn-c.mp4", "https://www.youtube.com/watch?v=8NIYlMaYMnc", "*0:15-0:35", cut=0)
+clip("tr32-fn-c.mp4", "https://www.youtube.com/watch?v=8NIYlMaYMnc", "*0:50-1:10", cut=0)
 clip("tr32-fn-d.mp4", "https://www.youtube.com/watch?v=Bph3jJW_79s", "*2:00-2:20", cut=0)
 ep(292, "fortnite-pirate-shop-dev-hour", "Fortnite Pirate Shop Access and Dev Hour Explained", MIKE, "#ffd600",
    {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#ffff8d", "cy": 1470},
@@ -235,13 +235,13 @@ ep(292, "fortnite-pirate-shop-dev-hour", "Fortnite Pirate Shop Access and Dev Ho
     L("It's Pirate Shop Access. Any chest on Crossbones Isle can drop it.",
       CLIP("tr32-fn-d.mp4", "ANY CHEST", "CROSSBONES ISLE", 0, FNC, bs=150)),
     L("Find it, and you get two 14 day windows, one now and one in 2027, to claim V-Bucks items for free.",
-      CLIP("tr32-fn-a.mp4", "2 x 14\nDAYS", "NOW + 2027", 8.0, FNC, bs=150)),
+      CLIP("tr32-fn-a.mp4", "2 x 14\nDAYS", "NOW + 2027", 5.0, FNC, bs=150)),
     L("Players are opening thousands of chests. One account with it was reportedly listed for 10,000 dollars.",
       CCOUNT("tr32-fn-b.mp4", 0, FNC, 10000, "REPORTED LISTING", fmt="${:,.0f}", bs=140)),
     L("So what's dev hour? A fan theory that Epic will boost the drop on November 19th, when GTA 6 comes out. Epic has not confirmed it.",
       CLIP("tr32-fn-c.mp4", "\"DEV HOUR\"", "FAN THEORY - NOT CONFIRMED", 0, FNC, bs=140)),
     L("What's real: Treasure Hours, with boosted chest rewards. And you have until December 15th to activate it.",
-      CLIP("tr32-fn-c.mp4", "TREASURE\nHOURS", "ACTIVATE BY DEC 15", 8.0, FNC, bs=140)),
+      CLIP("tr32-fn-c.mp4", "TREASURE\nHOURS", "ACTIVATE BY DEC 15", 6.0, FNC, bs=140)),
     ask("Have you found it yet?", "FOUND IT\nYET?", "tr32-fn-a.mp4", FNC),
     subline("tr32-fn-b.mp4", FNC, 8.0),
    ], pron={"V-Bucks": "V bucks", "GTA": "G T A"}, edition="FORTNITE")
@@ -265,7 +265,7 @@ ep(293, "roblox-copies-needle-in-a-haystack", "This Roblox Game Copied a Game Th
     L("It happened before. When PEAK blew up, a Roblox copy called CLIFF got millions of visits. PEAK's devs said they'd rather you pirate their game.",
       CLIP("rb32-cp-c.mp4", "PEAK VS\nCLIFF", "\"RATHER YOU PIRATE IT\"", 0, CPC, bs=150)),
     L("So the real creator made a joke mode: find the original game in a pile of clones.",
-      CLIP("rb32-cp-b.mp4", "FIND THE\nORIGINAL", "", 10.0, CPC, bs=150)),
+      CLIP("rb32-cp-b.mp4", "FIND THE\nORIGINAL", "", 7.0, CPC, bs=150)),
     ask("Is copying a game ever okay?", "IS IT\nOKAY?", "rb32-cp-a.mp4", CPC),
    ], pron={"PEAK": "Peak", "CLIFF": "Cliff"})
 
@@ -291,8 +291,8 @@ ep(294, "say-cheese-story", "Say Cheese on Roblox Makes You Spread Panic", HEART
 # ---------------------------------------------------------------- 295 GD PLUG (posted LAST): Zoink's curse -> full Zoink story (long #3)
 ZCC = "Clips: Zoink; random guy (YouTube)"
 clip("gd32-zc-a.mp4", "https://www.youtube.com/watch?v=KIWapVa-Bxg", "*0:05-0:25", cut=0)
-clip("gd32-zc-b.mp4", "https://www.youtube.com/watch?v=9fsZ014qB3s", "*3:30-3:50", cut=0)
-clip("gd32-zc-c.mp4", "https://www.youtube.com/watch?v=9fsZ014qB3s", "*1:00-1:20", cut=0)
+clip("gd32-zc-b.mp4", "https://www.youtube.com/watch?v=9fsZ014qB3s", "*2:50-3:10", cut=0)
+clip("gd32-zc-c.mp4", "https://www.youtube.com/watch?v=9fsZ014qB3s", "*1:40-2:00", cut=0)
 ZPOP = dict(img="zoink-long-thumb.jpg", len="FULL STORY", d=0.35, y=1175)
 ep(295, "zoinks-curse-plug", "Four Players Died at 95 Percent on the Same Level", MIKE, "#2979ff", GDCAP,
    [L("Four of the best players in the world died at 95 percent on the same level. They call it Zoink's curse.",
@@ -304,7 +304,7 @@ ep(295, "zoinks-curse-plug", "Four Players Died at 95 Percent on the Same Level"
     L("Zoink beat it on September 9th, 2023, with 25 fails past 73 percent.",
       HC("gd32-zc-b.mp4", 0, ZCC, 49534, "ATTEMPTS - TIDAL WAVE")),
     L("And that's one chapter. He verified seven of the fifteen hardest levels. The full Zoink story is on my channel.",
-      H("gd32-zc-b.mp4", "[FULL STORY]\nON MY CHANNEL", 8.0, ZCC, popup=ZPOP)),
+      H("gd32-zc-b.mp4", "[FULL STORY]\nON MY CHANNEL", 5.0, ZCC, popup=ZPOP)),
     ask("Is Zoink the best ever?", "THE BEST\nEVER?", "gd32-zc-a.mp4", ZCC),
     subline("gd32-zc-c.mp4", ZCC, 8.0),
    ], pron=dict(GD_PRON), gd_player="Zoink", **GDE)

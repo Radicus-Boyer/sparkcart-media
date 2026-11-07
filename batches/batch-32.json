@@ -17,9 +17,9 @@
  "clips": [
   {
    "name": "tr32-sl-a",
-   "url": "https://www.youtube.com/watch?v=Els3CVl_-cE",
+   "url": "https://www.youtube.com/watch?v=xEaihl9SpGc",
    "backup": [],
-   "section": "*0:15-0:35",
+   "section": "*1:00-1:20",
    "cut": 0,
    "len": 13
   },
@@ -49,17 +49,17 @@
   },
   {
    "name": "tr32-ld-b",
-   "url": "https://www.youtube.com/watch?v=AJ1awkJrtJk",
+   "url": "https://www.youtube.com/watch?v=Hmn3Uc-hRKU",
    "backup": [],
-   "section": "*0:20-0:40",
+   "section": "*0:02-0:22",
    "cut": 0,
    "len": 13
   },
   {
    "name": "tr32-ld-c",
-   "url": "https://www.youtube.com/watch?v=tZz3cFOwnKY",
+   "url": "https://www.youtube.com/watch?v=uHGMU8AW9uE",
    "backup": [],
-   "section": "*0:40-1:00",
+   "section": "*0:02-0:22",
    "cut": 0,
    "len": 13
   },
@@ -97,9 +97,9 @@
   },
   {
    "name": "gd32-gr-b",
-   "url": "https://www.youtube.com/watch?v=qUQZg6qd8SY",
+   "url": "https://www.youtube.com/watch?v=7892WirowY4",
    "backup": [],
-   "section": "*9:30-9:50",
+   "section": "*3:01-3:21",
    "cut": 0,
    "len": 13
   },
@@ -123,7 +123,7 @@
    "name": "gd32-gb-a",
    "url": "https://www.youtube.com/watch?v=JG-qcvVkZFw",
    "backup": [],
-   "section": "*2:40-3:00",
+   "section": "*2:20-2:40",
    "cut": 0,
    "len": 13
   },
@@ -187,7 +187,7 @@
    "name": "tr32-fn-c",
    "url": "https://www.youtube.com/watch?v=8NIYlMaYMnc",
    "backup": [],
-   "section": "*0:15-0:35",
+   "section": "*0:50-1:10",
    "cut": 0,
    "len": 13
   },
@@ -277,7 +277,7 @@
    "name": "gd32-zc-b",
    "url": "https://www.youtube.com/watch?v=9fsZ014qB3s",
    "backup": [],
-   "section": "*3:30-3:50",
+   "section": "*2:50-3:10",
    "cut": 0,
    "len": 13
   },
@@ -285,7 +285,7 @@
    "name": "gd32-zc-c",
    "url": "https://www.youtube.com/watch?v=9fsZ014qB3s",
    "backup": [],
-   "section": "*1:00-1:20",
+   "section": "*1:40-2:00",
    "cut": 0,
    "len": 13
   }
