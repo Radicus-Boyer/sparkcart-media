@@ -177,8 +177,8 @@ ep(289, "zoink-beat-grief", "Zoink Died at 98 Percent on GRIEF Then Beat It", MI
     L("Then came the 98. In the final monster.",
       H("gd32-gr-a.mp4", "[98%]\nTHE FINAL MONSTER", 6.0, GRC)),
     L("And on November 6th... he did it. About 37,000 attempts, and 67 hours of playtime.",
-      HC("gd32-gr-b.mp4", 0, GRC, 37000, "GRIEF - ZOINK 100%")),
-    ask("Who's better: Zoink or wPopoff?", "ZOINK OR\nWPOPOFF?", "gd32-gr-b.mp4", GRC, 8.0),
+      HC("gd32-gr-b.mp4", 7.5, GRC, 37000, "GRIEF - ZOINK 100%")),
+    ask("Who's better: Zoink or wPopoff?", "ZOINK OR\nWPOPOFF?", "gd32-gr-b.mp4", GRC, 10.5),
     subline("gd32-gr-d.mp4", GRC),
    ], pron=dict(GD_PRON), gd_player="Zoink", **GDE)
 
