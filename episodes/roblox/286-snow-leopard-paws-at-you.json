@@ -1,0 +1,152 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 286,
+ "slug": "286-snow-leopard-paws-at-you",
+ "file": "286 The Snow Leopard Paws at You Meme Explained.mp4",
+ "target": 0,
+ "accent": "#b388ff",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#e1bee7",
+  "cy": 1470
+ },
+ "pron": {
+  "Himmel": "Him-mel",
+  "Mei Mei": "May May"
+ },
+ "lines": [
+  {
+   "t": "This snow leopard is all over your feed right now. And it is pawing at you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-a.mp4",
+     "start": 0
+    },
+    "big": "*PAWS\nAT YOU*",
+    "sub": "THE SNOW LEOPARD MEME",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He's real. His name is Himmel, and he lives at a zoo in Japan.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-b.mp4",
+     "start": 0
+    },
+    "big": "HE'S\nREAL",
+    "sub": "HIMMEL - ISHIKAWA ZOO, JAPAN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "A visitor photographed him in 2024. Then in October 2026, someone used AI to give him the face of Mei Mei, a famous cat.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-a.mp4",
+     "start": 6.0
+    },
+    "big": "+ AI CAT\nFACE",
+    "sub": "MEI MEI THE CAT",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Add the words, paws at you, and it's a friend begging you to hop online.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-c.mp4",
+     "start": 0
+    },
+    "big": "\"HOP\nONLINE\"",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "One post got 1.4 million views in a day. Even Epic Games posted it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-a.mp4",
+     "start": 12.0
+    },
+    "sub": "VIEWS IN ONE DAY",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 1400000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Who keeps pawing at YOU to hop on?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHO PAWS\nAT YOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kuch Bhi Haat; fofobi (YouTube)",
+     "clip": "tr32-sl-b.mp4",
+     "start": 8.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

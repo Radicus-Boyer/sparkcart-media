@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 294,
+ "slug": "294-say-cheese-story",
+ "file": "294 Say Cheese on Roblox Makes You Spread Panic.mp4",
+ "target": 0,
+ "accent": "#ffea00",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffff8d",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox makes you a reporter. And your job is to cause panic.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox Master Guides; BrosClanYt (Roblox gameplay, YouTube)",
+     "clip": "rb32-sc-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "YOUR JOB: CAUSE PANIC",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Big Media hires you to spread chaos in a peaceful park, so billions keep watching the news.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox Master Guides; BrosClanYt (Roblox gameplay, YouTube)",
+     "clip": "rb32-sc-b.mp4",
+     "start": 0
+    },
+    "big": "BIG\nMEDIA",
+    "sub": "NO MATTER THE COST",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's a story game, and players have found 12 different endings.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox Master Guides; BrosClanYt (Roblox gameplay, YouTube)",
+     "clip": "rb32-sc-c.mp4",
+     "start": 0
+    },
+    "big": "12\nENDINGS",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out on October 19th, and it already has over 17 million visits. And chapter 2 just dropped.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox Master Guides; BrosClanYt (Roblox gameplay, YouTube)",
+     "clip": "rb32-sc-d.mp4",
+     "start": 0
+    },
+    "sub": "VISITS - CHAPTER 2 OUT",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 17600000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Would you do it, no matter the cost?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox Master Guides; BrosClanYt (Roblox gameplay, YouTube)",
+     "clip": "rb32-sc-a.mp4",
+     "start": 0.0
+    },
+    "big": "WOULD\nYOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

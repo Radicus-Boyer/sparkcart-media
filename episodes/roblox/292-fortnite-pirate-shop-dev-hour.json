@@ -1,0 +1,170 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 292,
+ "slug": "292-fortnite-pirate-shop-dev-hour",
+ "file": "292 Fortnite Pirate Shop Access and Dev Hour Explained.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffff8d",
+  "cy": 1470
+ },
+ "pron": {
+  "V-Bucks": "V bucks",
+  "GTA": "G T A"
+ },
+ "lines": [
+  {
+   "t": "Fortnite hid one item that makes almost the whole Item Shop free. And Epic won't say how rare it is.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-a.mp4",
+     "start": 0
+    },
+    "big": "A FREE\nITEM SHOP",
+    "sub": "PIRATE SHOP ACCESS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's Pirate Shop Access. Any chest on Crossbones Isle can drop it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-d.mp4",
+     "start": 0
+    },
+    "big": "ANY CHEST",
+    "sub": "CROSSBONES ISLE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Find it, and you get two 14 day windows, one now and one in 2027, to claim V-Bucks items for free.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-a.mp4",
+     "start": 8.0
+    },
+    "big": "2 x 14\nDAYS",
+    "sub": "NOW + 2027",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Players are opening thousands of chests. One account with it was reportedly listed for 10,000 dollars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-b.mp4",
+     "start": 0
+    },
+    "sub": "REPORTED LISTING",
+    "bs": 140,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 10000,
+     "fmt": "${:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "So what's dev hour? A fan theory that Epic will boost the drop on November 19th, when GTA 6 comes out. Epic has not confirmed it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-c.mp4",
+     "start": 0
+    },
+    "big": "\"DEV HOUR\"",
+    "sub": "FAN THEORY - NOT CONFIRMED",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's real: Treasure Hours, with boosted chest rewards. And you have until December 15th to activate it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-c.mp4",
+     "start": 8.0
+    },
+    "big": "TREASURE\nHOURS",
+    "sub": "ACTIVATE BY DEC 15",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Have you found it yet?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-a.mp4",
+     "start": 0.0
+    },
+    "big": "FOUND IT\nYET?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SypherPK; tmnglv; NOOB NOOB FRUIT (YouTube)",
+     "clip": "tr32-fn-b.mp4",
+     "start": 8.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "FORTNITE"
+}

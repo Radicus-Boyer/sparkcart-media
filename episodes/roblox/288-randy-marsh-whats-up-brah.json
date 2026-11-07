@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 288,
+ "slug": "288-randy-marsh-whats-up-brah",
+ "file": "288 Why Randy Marsh Is Fighting Every Villain.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd180",
+  "cy": 1470
+ },
+ "pron": {
+  "Omni-Man": "Omni Man"
+ },
+ "lines": [
+  {
+   "t": "Randy Marsh is fighting every villain on the internet right now. And he always says the same thing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-a.mp4",
+     "start": 0
+    },
+    "big": "RANDY VS\nEVERYONE",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's up, brah?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-a.mp4",
+     "start": 5.0
+    },
+    "big": "\"WHAT'S UP\nBRAH?\"",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's from a 2011 South Park episode called Broadway Bro Down.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-b.mp4",
+     "start": 0
+    },
+    "big": "BROADWAY\nBRO DOWN",
+    "sub": "SOUTH PARK - 2011",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Back in 2012, people put him next to Bane, like he was about to wrestle him.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-c.mp4",
+     "start": 0
+    },
+    "big": "RANDY\nVS BANE",
+    "sub": "THE 2012 MEME",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In October, TikTok brought it back. Now he's squaring up with Minecraft Steve, Omni-Man, and more. He never backs down.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-c.mp4",
+     "start": 8.0
+    },
+    "big": "NEVER\nBACKS DOWN",
+    "sub": "STEVE - OMNI-MAN - MORE",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Who should Randy fight next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHO'S\nNEXT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ConquerRecap; xCYMAx; Baix (YouTube)",
+     "clip": "tr32-rm-a.mp4",
+     "start": 12.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

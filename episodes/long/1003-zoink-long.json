@@ -1,0 +1,656 @@
+{
+ "preset": "long",
+ "num": 1003,
+ "slug": "1003-zoink-long",
+ "file": "1003 Zoink - The Best Geometry Dash Player.mp4",
+ "title": "Zoink: The Best Geometry Dash Player in the World",
+ "voice": "am_michael",
+ "speed": 1.0,
+ "accent": "#2979ff",
+ "mood": "spooky",
+ "music_vol": 0.06,
+ "clip_vol": 0.1,
+ "pron": {
+  "Zoink": "Zoynk",
+  "Zoink's": "Zoynks",
+  "Demonlist": "Demon list",
+  "nSwish": "En swish",
+  "wPopoff": "W Pop off",
+  "Netermind": "Neter-mind",
+  "MindCap": "Mind Cap",
+  "spaceuk": "space U K",
+  "Nullscapes": "Null scapes",
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf3-98.mp4",
+    "start": 2,
+    "credit": "Hao"
+   }
+  },
+  {
+   "t": "98 percent. On the hardest level in Geometry Dash. Most players would break their keyboard.",
+   "sc": {
+    "clip": "lf3-98.mp4",
+    "start": 8,
+    "credit": "Hao",
+    "big": "98%",
+    "sub": "GRIEF - THE NEW TOP 1",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "Zoink just kept going. And on November 6th, 2026, he beat it.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 560,
+    "credit": "Toogit",
+    "big": "GRIEF 100%"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 575,
+    "credit": "Toogit"
+   }
+  },
+  {
+   "t": "Today he is the number one player on the Demonlist. He has verified seven of the fifteen hardest levels in the game.",
+   "sc": {
+    "clip": "lf3-art.mp4",
+    "start": 150,
+    "credit": "Zoink",
+    "big": "7 OF THE\nTOP 15"
+   }
+  },
+  {
+   "t": "This is the story of Zoink. How a player nobody knew skipped straight to the top, and stayed there.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 200,
+    "credit": "Zoink"
+   }
+  },
+  {
+   "t": "Zoink is a player from the United States. He made his YouTube channel in 2018, but his first Geometry Dash video didn't come until December 2020.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 10,
+    "credit": "Zoink",
+    "chapter": "THE JUMP",
+    "chn": 1
+   }
+  },
+  {
+   "t": "His first video was Cold Sweat, using speed hacks to play the wave part without sliding on the blocks.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 25,
+    "credit": "Zoink",
+    "big": "COLD SWEAT",
+    "sub": "DEC 2020"
+   }
+  },
+  {
+   "t": "In March 2021, he verified a remake of Jumper called Bruhmper, on a secret account. That account doesn't even exist anymore.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 30,
+    "credit": "Zoink",
+    "big": "BRUHMPER"
+   }
+  },
+  {
+   "t": "In 2021, he started posting progress on Sonic Wave. 55 to 94. Then 75 percent.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 40,
+    "credit": "Zoink",
+    "big": "SONIC WAVE",
+    "sub": "75%"
+   }
+  },
+  {
+   "t": "Then he tried something almost nobody does. His hardest level was Bloodbath. And he jumped straight to Zodiac.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 70,
+    "credit": "Zoink",
+    "big": "BLOODBATH\n> ZODIAC"
+   }
+  },
+  {
+   "t": "In June, he got 50 percent on it. Then he kept posting runs, month after month.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 100,
+    "credit": "Zoink",
+    "big": "50%",
+    "sub": "ZODIAC - JUNE 2021"
+   }
+  },
+  {
+   "t": "On October 24th, 2021, he beat it. His first list demon was a former number one.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 200,
+    "credit": "Zoink",
+    "big": "OCT 24, 2021",
+    "sub": "ZODIAC"
+   }
+  },
+  {
+   "t": "Three days later he beat WOW. In December, Sonic Wave. Nobody climbs that fast.",
+   "sc": {
+    "clip": "lf3-zod.mp4",
+    "start": 150,
+    "credit": "Zoink",
+    "big": "NOBODY\nCLIMBS THAT FAST"
+   }
+  },
+  {
+   "t": "Next, he went for the number one: Slaughterhouse.",
+   "sc": {
+    "clip": "lf3-slh.mp4",
+    "start": 20,
+    "credit": "Zoink",
+    "chapter": "FIRST VICTOR",
+    "chn": 2
+   }
+  },
+  {
+   "t": "On January 4th, 2022, he got 51 percent. And in the same month, he beat Cold Sweat, Calculator Core, and Bloodlust. On the side.",
+   "sc": {
+    "clip": "lf3-slh.mp4",
+    "start": 40,
+    "credit": "Zoink",
+    "big": "51%",
+    "sub": "+ 3 DEMONS ON THE SIDE"
+   }
+  },
+  {
+   "t": "He played it for four months. He died at 92. Then 93.",
+   "sc": {
+    "clip": "lf3-slh.mp4",
+    "start": 60,
+    "credit": "Zoink",
+    "big": "92%... 93%"
+   }
+  },
+  {
+   "t": "",
+   "beat": 4.0,
+   "sc": {
+    "clip": "lf3-slh.mp4",
+    "start": 225,
+    "credit": "Zoink"
+   }
+  },
+  {
+   "t": "And after 76,004 attempts, Zoink became the first player ever to beat Slaughterhouse.",
+   "sc": {
+    "clip": "lf3-slh.mp4",
+    "start": 232,
+    "credit": "Zoink",
+    "big": "76,004",
+    "sub": "FIRST VICTOR - SLAUGHTERHOUSE"
+   }
+  },
+  {
+   "t": "Right after that, he beat Tartarus, the number 4 level at the time, in just 13,909 attempts.",
+   "sc": {
+    "clip": "lf3-slh.mp4",
+    "start": 140,
+    "credit": "Zoink",
+    "big": "13,909",
+    "sub": "TARTARUS"
+   }
+  },
+  {
+   "t": "Beating levels wasn't enough. Zoink started verifying them, which means beating them first, before anyone else has.",
+   "sc": {
+    "clip": "lf3-ach.mp4",
+    "start": 10,
+    "credit": "Zoink",
+    "chapter": "THREE TOP 1s",
+    "chn": 3
+   }
+  },
+  {
+   "t": "On August 23rd, 2022, he verified Acheron, after 72,808 attempts and a fail at 97 percent. It went straight to number one.",
+   "sc": {
+    "clip": "lf3-ach.mp4",
+    "start": 90,
+    "credit": "Zoink",
+    "big": "ACHERON",
+    "sub": "72,808 ATTEMPTS"
+   }
+  },
+  {
+   "t": "Along the way, he failed at 96 percent and had to take a break from it. But he came back.",
+   "sc": {
+    "clip": "lf3-ach.mp4",
+    "start": 50,
+    "credit": "Zoink",
+    "big": "96%"
+   }
+  },
+  {
+   "t": "In January 2023, he passed spaceuk to become the top player on the Demonlist stats viewer. Months later, spaceuk was exposed as a cheater.",
+   "sc": {
+    "clip": "lf3-av.mp4",
+    "start": 10,
+    "credit": "Zoink",
+    "big": "PASSED\nSPACEUK"
+   },
+   "say": "In January 2023, he passed Space U K to become the top player on the Demon list stats viewer. Months later, Space U K was exposed as a cheater."
+  },
+  {
+   "t": "In March, he verified his own buffed version of Avernus, in 27,732 attempts.",
+   "sc": {
+    "clip": "lf3-av.mp4",
+    "start": 60,
+    "credit": "Zoink",
+    "big": "AVERNUS",
+    "sub": "27,732 ATTEMPTS"
+   }
+  },
+  {
+   "t": "In April, he became only the second player ever to beat the entire main list, after nSwish.",
+   "sc": {
+    "clip": "lf3-tod.mp4",
+    "start": 20,
+    "credit": "Zoink",
+    "big": "THE WHOLE\nMAIN LIST"
+   },
+   "say": "In April, he became only the second player ever to beat the entire main list, after En swish."
+  },
+  {
+   "t": "He also became the first victor of Deimos, fluking from 78 percent, and later verified the unnerfed version of Yatagarasu.",
+   "sc": {
+    "clip": "lf3-tod.mp4",
+    "start": 70,
+    "credit": "Zoink",
+    "big": "DEIMOS",
+    "sub": "FIRST VICTOR"
+   }
+  },
+  {
+   "t": "And in June, he verified Tunnel of Despair in about 12,000 attempts. But he said he was working on a secret project.",
+   "sc": {
+    "clip": "lf3-tod.mp4",
+    "start": 120,
+    "credit": "Zoink",
+    "big": "SECRET\nPROJECT"
+   }
+  },
+  {
+   "t": "The secret was Tidal Wave.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 10,
+    "credit": "Zoink",
+    "chapter": "TIDAL WAVE",
+    "chn": 4
+   }
+  },
+  {
+   "t": "He revealed it on July 22nd, 2023, after struggling with it for two weeks.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 30,
+    "credit": "Zoink",
+    "big": "JULY 22, 2023"
+   }
+  },
+  {
+   "t": "It took him 25,000 attempts just to reach 50 percent. Around 39,000 attempts, he hit 90.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 60,
+    "credit": "Zoink",
+    "big": "25,000",
+    "sub": "JUST TO GET 50%"
+   }
+  },
+  {
+   "t": "Then he died at 95 percent. Later, three of the next players to beat it, wPopoff, Trick and Netermind, all died at 95 too. People call it Zoink's curse.",
+   "sc": {
+    "clip": "lf3-95.mp4",
+    "start": 20,
+    "credit": "random guy",
+    "big": "ZOINK'S\nCURSE",
+    "sub": "95% x4"
+   },
+   "say": "Then he died at 95 percent. Later, three of the next players to beat it, W Pop off, Trick and Neter-mind, all died at 95 too. People call it Zoink's curse."
+  },
+  {
+   "t": "94. 93. 92. 91. 25 fails past 73 percent.",
+   "sc": {
+    "clip": "lf3-95.mp4",
+    "start": 90,
+    "credit": "random guy",
+    "big": "25 FAILS\nPAST 73%"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 225,
+    "credit": "Zoink"
+   }
+  },
+  {
+   "t": "On September 9th, 2023, after 49,534 attempts, Zoink verified Tidal Wave.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 232,
+    "credit": "Zoink",
+    "big": "49,534",
+    "sub": "TIDAL WAVE - VERIFIED"
+   }
+  },
+  {
+   "t": "That made him the first player to verify three number one levels in a row.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 160,
+    "credit": "Zoink",
+    "big": "3 TOP 1s\nIN A ROW"
+   }
+  },
+  {
+   "t": "After that, he took a break. In early 2024, he barely played.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 10,
+    "credit": "Zoink",
+    "chapter": "THE GRIND",
+    "chn": 5
+   }
+  },
+  {
+   "t": "Then he came back and verified Nullscapes, after more than 90,000 attempts and six months. He called it his hardest mental challenge.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 30,
+    "credit": "Zoink",
+    "big": "NULLSCAPES",
+    "sub": "90,000+ ATTEMPTS"
+   }
+  },
+  {
+   "t": "He became the first victor of Jigsaw in about 4,400 attempts. And he verified Ashley Wave Trials using a click mod, so it couldn't even be rated until RobTop added that feature to the game.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 60,
+    "credit": "Zoink",
+    "big": "CLICK BETWEEN\nFRAMES"
+   }
+  },
+  {
+   "t": "On May 24th, 2025, after 80,000 attempts and 31 streams, he verified Thinking Space 2. It later became number one.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 140,
+    "credit": "Zoink",
+    "big": "THINKING\nSPACE II",
+    "sub": "80,000 ATTEMPTS"
+   }
+  },
+  {
+   "t": "He had 83 attempts that reached the ending. He later posted a compilation of the best moments, over an hour long.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 120,
+    "credit": "Zoink",
+    "big": "83 ENDING\nATTEMPTS"
+   }
+  },
+  {
+   "t": "In August, he became the first victor of Amethyst, another future number one. 45,717 attempts.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 100,
+    "credit": "Zoink",
+    "big": "AMETHYST",
+    "sub": "FIRST VICTOR"
+   }
+  },
+  {
+   "t": "In November, he beat Flamewall. Cuatrocientos took 221,703 attempts to verify it. Zoink beat it in 11,745.",
+   "sc": {
+    "clip": "lf3-ts2.mp4",
+    "start": 150,
+    "credit": "Zoink",
+    "big": "11,745",
+    "sub": "FLAMEWALL"
+   },
+   "say": "In November, he beat Flamewall. Kwatro-see-entos took 221,703 attempts to verify it. Zoink beat it in 11,745."
+  },
+  {
+   "t": "Then MindCap, a famous level creator, picked him to verify ORBIT.",
+   "sc": {
+    "clip": "lf3-orb.mp4",
+    "start": 20,
+    "credit": "Zoink",
+    "chapter": "ORBIT",
+    "chn": 6
+   },
+   "say": "Then Mind Cap, a famous level creator, picked him to verify ORBIT."
+  },
+  {
+   "t": "In January 2026, he almost beat it. His icon fell into the ball pit at the very end.",
+   "sc": {
+    "clip": "lf3-orb.mp4",
+    "start": 120,
+    "credit": "Zoink",
+    "big": "SO CLOSE"
+   }
+  },
+  {
+   "t": "On February 10th, he verified it. About 30,000 attempts. He even buffed it on the way, from a top 15 level to number 5.",
+   "sc": {
+    "clip": "lf3-orb.mp4",
+    "start": 240,
+    "credit": "Zoink",
+    "big": "ORBIT",
+    "sub": "BUFFED TO TOP 5"
+   }
+  },
+  {
+   "t": "In March, he beat BOOBAWAMBA in 7,946 attempts. By far the fewest anyone has ever needed. That meant he had beaten the entire top 25.",
+   "sc": {
+    "clip": "lf3-orb.mp4",
+    "start": 200,
+    "credit": "Zoink",
+    "big": "7,946",
+    "sub": "BOOBAWAMBA - WHOLE TOP 25"
+   },
+   "say": "In March, he beat Boo-ba-wam-ba in 7,946 attempts. By far the fewest anyone has ever needed. That meant he had beaten the entire top 25."
+  },
+  {
+   "t": "MindCap put a 10,700 dollar bounty on his next level, Heliopolis. Within four days, Zoink could beat it in three runs.",
+   "sc": {
+    "clip": "lf3-hel.mp4",
+    "start": 30,
+    "credit": "Zoink",
+    "big": "$10,700",
+    "sub": "BOUNTY - HELIOPOLIS"
+   },
+   "say": "Mind Cap put a ten thousand seven hundred dollar bounty on his next level, Heliopolis. Within four days, Zoink could beat it in three runs."
+  },
+  {
+   "t": "A few days later, he did 37 to 100. Basically the whole level in two runs. In 25,581 attempts.",
+   "sc": {
+    "clip": "lf3-hel.mp4",
+    "start": 120,
+    "credit": "Zoink",
+    "big": "37-100",
+    "sub": "HELIOPOLIS"
+   }
+  },
+  {
+   "t": "He still found time for fun. He beat a GRIEF parody called GREFG, and a brainrot level called Tung Tung Sahurcles.",
+   "sc": {
+    "clip": "lf3-hel.mp4",
+    "start": 150,
+    "credit": "Zoink",
+    "big": "TUNG TUNG\nSAHURCLES"
+   }
+  },
+  {
+   "t": "In July, he became the first victor of Society, a number one level. And in September, he verified Artemis 13, which is now number two.",
+   "sc": {
+    "clip": "lf3-art.mp4",
+    "start": 100,
+    "credit": "Zoink",
+    "big": "ARTEMIS 13",
+    "sub": "NOW #2"
+   }
+  },
+  {
+   "t": "Artemis 13 was verified before GRIEF, so for a moment in history, it was the hardest level in the game.",
+   "sc": {
+    "clip": "lf3-art.mp4",
+    "start": 160,
+    "credit": "Zoink",
+    "big": "RETRO\nTOP 1"
+   }
+  },
+  {
+   "t": "And then came GRIEF.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 20,
+    "credit": "Toogit",
+    "chapter": "GRIEF",
+    "chn": 7
+   }
+  },
+  {
+   "t": "Doggie spent two and a half years verifying it. It became the new number one, and every top player started racing to beat it first.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 60,
+    "credit": "Toogit",
+    "big": "THE RACE"
+   }
+  },
+  {
+   "t": "Zoink started playing it on October 7th. On his 10th stream, he got a 21 to 100 run.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 120,
+    "credit": "Toogit",
+    "big": "21-100"
+   }
+  },
+  {
+   "t": "He reached greafer's part three times. 68. 68 again. Then 72.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 150,
+    "credit": "Toogit",
+    "big": "68... 68... 72"
+   }
+  },
+  {
+   "t": "In the next stream, he was the first player in the race to reach GrenadeofTacos's part, at 79 percent.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 170,
+    "credit": "Toogit",
+    "big": "79%"
+   },
+   "say": "In the next stream, he was the first player in the race to reach Grenade of Tacos's part, at 79 percent."
+  },
+  {
+   "t": "On November 2nd, he tied his best of 82 percent. That same day, wPopoff beat GRIEF and won the race.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 200,
+    "credit": "Toogit",
+    "big": "WPOPOFF\nWINS"
+   },
+   "say": "On November second, he tied his best of 82 percent. That same day, W Pop off beat GRIEF and won the race."
+  },
+  {
+   "t": "Zoink didn't stop. Four days later, he died at 98 percent. In the final monster.",
+   "sc": {
+    "clip": "lf3-98.mp4",
+    "start": 4,
+    "credit": "Hao",
+    "big": "98%",
+    "bc": "#ff5252"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 540,
+    "credit": "Toogit"
+   }
+  },
+  {
+   "t": "And then, on November 6th, after about 37,000 attempts and 67 hours, Zoink became the second player ever to beat GRIEF.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 560,
+    "credit": "Toogit",
+    "big": "SECOND VICTOR",
+    "sub": "~37,000 ATTEMPTS - 67 HOURS"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 580,
+    "credit": "Toogit"
+   }
+  },
+  {
+   "t": "From a Bloodbath to Zodiac jump, to the top player on the Demonlist, with seven of the top fifteen verified.",
+   "sc": {
+    "clip": "lf3-tw.mp4",
+    "start": 238,
+    "credit": "Zoink",
+    "big": "BLOODBATH TO\nTHE TOP",
+    "bs": 100
+   }
+  },
+  {
+   "t": "So what do you think? Is Zoink the greatest Geometry Dash player of all time? Tell me in the comments.",
+   "sc": {
+    "clip": "lf3-grief.mp4",
+    "start": 600,
+    "credit": "Toogit",
+    "big": "THE GREATEST\nEVER?",
+    "bs": 110
+   }
+  },
+  {
+   "t": "And if you liked this story, subscribe. Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "clip": "lf3-art.mp4",
+    "start": 190,
+    "credit": "Zoink",
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS"
+   }
+  }
+ ]
+}

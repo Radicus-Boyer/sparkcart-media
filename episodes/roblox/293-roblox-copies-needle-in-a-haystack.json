@@ -1,0 +1,151 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 293,
+ "slug": "293-roblox-copies-needle-in-a-haystack",
+ "file": "293 This Roblox Game Copied a Game That Isnt Even Out Yet.mp4",
+ "target": 0,
+ "accent": "#ff5252",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {
+  "PEAK": "Peak",
+  "CLIFF": "Cliff"
+ },
+ "lines": [
+  {
+   "t": "This Roblox game got over 122 million visits, by copying a game that isn't even out yet.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-a.mp4",
+     "start": 0
+    },
+    "big": "122 MILLION\nVISITS",
+    "sub": "COPYING AN UNRELEASED GAME",
+    "bs": 120,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In August, a video of a game about finding one needle in a haystack got over 50 million views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-b.mp4",
+     "start": 0
+    },
+    "big": "THE\nORIGINAL",
+    "sub": "NEEDLE IN A HAYSTACK SIMULATOR",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The real game still isn't out. But copies showed up right away, on Steam and on Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-d.mp4",
+     "start": 0
+    },
+    "big": "COPIES\nEVERYWHERE",
+    "sub": "STEAM + ROBLOX",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Search For The Needle came out on Roblox in August. Now it has over 122 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-a.mp4",
+     "start": 8.0
+    },
+    "sub": "VISITS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 122520000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It happened before. When PEAK blew up, a Roblox copy called CLIFF got millions of visits. PEAK's devs said they'd rather you pirate their game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-c.mp4",
+     "start": 0
+    },
+    "big": "PEAK VS\nCLIFF",
+    "sub": "\"RATHER YOU PIRATE IT\"",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So the real creator made a joke mode: find the original game in a pile of clones.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-b.mp4",
+     "start": 10.0
+    },
+    "big": "FIND THE\nORIGINAL",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Is copying a game ever okay?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: FoltynPlays; Ready To Wishlist; Navi (YouTube)",
+     "clip": "rb32-cp-a.mp4",
+     "start": 0.0
+    },
+    "big": "IS IT\nOKAY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

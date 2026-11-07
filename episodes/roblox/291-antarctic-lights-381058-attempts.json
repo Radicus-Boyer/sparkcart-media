@@ -1,0 +1,165 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 291,
+ "slug": "291-antarctic-lights-381058-attempts",
+ "file": "291 He Took 381,058 Attempts Then a Showcase Got the Views.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Axinity": "Ax-in-ity"
+ },
+ "lines": [
+  {
+   "t": "This player spent 381,058 attempts on one level. Then someone else got the views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-a.mp4",
+     "start": 0
+    },
+    "big": "[381,058]\nANTARCTIC LIGHTS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's Antarctic Lights. Most of it is wave, at quadruple speed.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-c.mp4",
+     "start": 0
+    },
+    "big": "[4X SPEED]\nWAVE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Axinity grinded it for over a year. 70 percent. 85. 90. Then 92.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-b.mp4",
+     "start": 0
+    },
+    "big": "[92%]\nVERIFYING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In July 2026, he verified it. It went in at number 8, the hardest Nine Circles level ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-a.mp4",
+     "start": 8.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 381058,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - VERIFIED"
+   }
+  },
+  {
+   "t": "Then a showcase channel uploaded it with verified in the title. And people said it stole his views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-c.mp4",
+     "start": 8.0
+    },
+    "big": "[SHOWCASE]\n\"STOLE HIS VIEWS\"",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Are showcase channels fair?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-a.mp4",
+     "start": 0.0
+    },
+    "big": "IS THAT\nFAIR?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Axinity; Newly Rated Extremes (YouTube)",
+     "clip": "gd32-al-b.mp4",
+     "start": 8.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Axinity",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

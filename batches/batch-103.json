@@ -1,0 +1,127 @@
+{
+ "batch": 103,
+ "note": "LONG-FORM #3: Zoink (16:9)",
+ "posting": "Z:/claudeprojects/roblox vids/batch-103/posting.txt",
+ "episodes": [
+  "episodes/long/1003-zoink-long.json"
+ ],
+ "clips": [
+  {
+   "name": "lf3-grief",
+   "url": "https://www.youtube.com/watch?v=qUQZg6qd8SY",
+   "backup": [],
+   "section": "*0:00-10:40",
+   "cut": 0,
+   "len": 640,
+   "w": 1920
+  },
+  {
+   "name": "lf3-98",
+   "url": "https://www.youtube.com/watch?v=A-sK7146cK8",
+   "backup": [],
+   "section": "*0:00-0:24",
+   "cut": 0,
+   "len": 24,
+   "w": 1920
+  },
+  {
+   "name": "lf3-zod",
+   "url": "https://www.youtube.com/watch?v=v1Gj1iRg3cY",
+   "backup": [],
+   "section": "*0:00-3:44",
+   "cut": 0,
+   "len": 224,
+   "w": 1920
+  },
+  {
+   "name": "lf3-slh",
+   "url": "https://www.youtube.com/watch?v=KaA6csT7Zo8",
+   "backup": [],
+   "section": "*0:00-4:06",
+   "cut": 0,
+   "len": 246,
+   "w": 1920
+  },
+  {
+   "name": "lf3-ach",
+   "url": "https://www.youtube.com/watch?v=sBKR6aUorzA",
+   "backup": [],
+   "section": "*0:00-1:46",
+   "cut": 0,
+   "len": 106,
+   "w": 1920
+  },
+  {
+   "name": "lf3-av",
+   "url": "https://www.youtube.com/watch?v=16Zh8jssanc",
+   "backup": [],
+   "section": "*0:00-1:20",
+   "cut": 0,
+   "len": 80,
+   "w": 1920
+  },
+  {
+   "name": "lf3-tod",
+   "url": "https://www.youtube.com/watch?v=LpS4JREhW98",
+   "backup": [],
+   "section": "*0:00-2:18",
+   "cut": 0,
+   "len": 138,
+   "w": 1920
+  },
+  {
+   "name": "lf3-tw",
+   "url": "https://www.youtube.com/watch?v=9fsZ014qB3s",
+   "backup": [],
+   "section": "*0:00-4:05",
+   "cut": 0,
+   "len": 245,
+   "w": 1920
+  },
+  {
+   "name": "lf3-95",
+   "url": "https://www.youtube.com/watch?v=KIWapVa-Bxg",
+   "backup": [],
+   "section": "*0:00-2:48",
+   "cut": 0,
+   "len": 168,
+   "w": 1920
+  },
+  {
+   "name": "lf3-ts2",
+   "url": "https://www.youtube.com/watch?v=CELNmHwln_c",
+   "backup": [],
+   "section": "*0:00-2:43",
+   "cut": 0,
+   "len": 163,
+   "w": 1920
+  },
+  {
+   "name": "lf3-orb",
+   "url": "https://www.youtube.com/watch?v=QKcv8DkNPd0",
+   "backup": [],
+   "section": "*0:00-4:20",
+   "cut": 0,
+   "len": 260,
+   "w": 1920
+  },
+  {
+   "name": "lf3-hel",
+   "url": "https://www.youtube.com/watch?v=gO1nQECPU2I",
+   "backup": [],
+   "section": "*0:00-2:49",
+   "cut": 0,
+   "len": 169,
+   "w": 1920
+  },
+  {
+   "name": "lf3-art",
+   "url": "https://www.youtube.com/watch?v=FgjOM0ef1N8",
+   "backup": [],
+   "section": "*0:00-3:19",
+   "cut": 0,
+   "len": 199,
+   "w": 1920
+  }
+ ]
+}
