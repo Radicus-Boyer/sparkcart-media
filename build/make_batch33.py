@@ -207,7 +207,7 @@ ep(300, "the-bloop-zoink-underrated", "Zoink Said This Level Was Top 75 Then It 
     L("It's The Bloop, built by murkkat and more than 20 creators.",
       H("gd33-bl-c.mp4", "[20+ CREATORS]\nMURKKAT", 0, BLC)),
     L("Zoink went from 28 percent to 71 in about a week. Then he buffed it.",
-      H("gd33-bl-c.mp4", "[28% > 71%]\nIN A WEEK", 7.0, BLC)),
+      H("gd33-bl-a.mp4", "[28% > 71%]\nIN A WEEK", 7.0, BLC)),
     L("83. 95. And on March 15th, 2026, he verified it.",
       H("gd33-bl-b.mp4", "[VERIFIED]\nMARCH 15, 2026", 0, BLC)),
     L("He guessed top 20 to 75. It was placed at number 10.",
@@ -248,14 +248,14 @@ clip("rb33-tr-b.mp4", "https://www.youtube.com/watch?v=2aGKeyGzbL4", "*8:00-8:20
 clip("rb33-tr-c.mp4", "https://www.youtube.com/watch?v=kdQVst-Xs0g", "*5:00-5:20", cut=0)
 ep(303, "tesla-roadster-chase", "Steal the Roadster and Escape the Police on Roblox", FENRIR, "#ff1744", RCAP("#ff8a80"),
    [L("This new fun game on Roblox lets you steal a brand new Roadster, right off the showroom stage.",
-      CLIP("rb33-tr-a.mp4", NEW, "STEAL IT OFF THE STAGE", 0, TRC, bs=110)),
+      CLIP("rb33-tr-c.mp4", NEW, "STEAL IT OFF THE STAGE", 0, TRC, bs=110)),
     L("Then the police come for you.",
       CLIP("rb33-tr-b.mp4", "THE COPS\nARE COMING", "", 0, TRC, bs=150)),
     L("Weave through traffic on the highway, back roads and shortcuts, with cops on your tail.",
-      CLIP("rb33-tr-c.mp4", "LOSE\nTHE COPS", "HIGHWAY - BACK ROADS - SHORTCUTS", 0, TRC, bs=150)),
+      CLIP("rb33-tr-c.mp4", "LOSE\nTHE COPS", "HIGHWAY - BACK ROADS - SHORTCUTS", 6.0, TRC, bs=150)),
     L("It came out on October 21st, and it already has over 19 million visits.",
       CCOUNT("rb33-tr-b.mp4", 7.0, TRC, 19608009, "VISITS", bs=130)),
-    ask("Could you escape the cops?", "COULD YOU\nESCAPE?", "rb33-tr-a.mp4", TRC),
+    ask("Could you escape the cops?", "COULD YOU\nESCAPE?", "rb33-tr-c.mp4", TRC),
    ])
 
 NRC = "Clips: ProjectSupreme 2; On1yMar (Roblox gameplay, YouTube)"
@@ -264,11 +264,11 @@ clip("rb33-nr-b.mp4", "https://www.youtube.com/watch?v=DWKpFUvmoec", "*9:00-9:20
 clip("rb33-nr-c.mp4", "https://www.youtube.com/watch?v=-daE8mzjNr0", "*2:00-2:20", cut=0)
 ep(304, "night-rider", "Night Rider on Roblox Is an Endless Highway at Crazy Speed", MIKE, "#7c4dff", RCAP("#b388ff"),
    [L("This new fun game on Roblox puts you on a motorcycle, on a highway that never ends.",
-      CLIP("rb33-nr-a.mp4", NEW, "THE HIGHWAY NEVER ENDS", 0, NRC, bs=110)),
+      CLIP("rb33-nr-b.mp4", NEW, "THE HIGHWAY NEVER ENDS", 0, NRC, bs=110)),
     L("Swerve through traffic at crazy speeds, past the city, farms and suburbs.",
-      CLIP("rb33-nr-b.mp4", "CRAZY\nSPEEDS", "", 0, NRC, bs=150)),
+      CLIP("rb33-nr-c.mp4", "CRAZY\nSPEEDS", "", 0, NRC, bs=150)),
     L("Pop wheelies and do tricks. But watch out for the death wobble.",
-      CLIP("rb33-nr-c.mp4", "DEATH\nWOBBLE", "", 0, NRC, bs=150)),
+      CLIP("rb33-nr-b.mp4", "DEATH\nWOBBLE", "", 6.0, NRC, bs=150)),
     L("It's still in testing, and it already has over 20 million visits.",
       CCOUNT("rb33-nr-a.mp4", 7.0, NRC, 20032070, "VISITS", bs=130)),
     ask("How far could you ride?", "HOW FAR?", "rb33-nr-b.mp4", NRC),
