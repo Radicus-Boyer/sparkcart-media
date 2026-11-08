@@ -45,10 +45,10 @@ clip("lf3-art", "https://www.youtube.com/watch?v=FgjOM0ef1N8", "*0:00-3:19", 199
 # ---------------------------------------------------------------- cold open
 BEAT(5.0, S("lf3-98", 2, HA))
 L("98 percent. On the hardest level in Geometry Dash. Most players would break their keyboard.", S("lf3-98", 8, HA, big="98%", sub="GRIEF - THE NEW TOP 1", bc="#ff5252"))
-L("Zoink just kept going. And on November 6th, 2026, he beat it.", S("lf3-grief", 560, TG, big="GRIEF 100%"))
-BEAT(5.0, S("lf3-grief", 575, TG))
+L("Zoink just kept going. And on November 6th, 2026, he beat it.", S("lf3-grief", 185, TG, big="GRIEF 100%"))
+BEAT(5.0, S("lf3-grief", 196, TG))
 L("Today he is the number one player on the Demonlist. He has verified seven of the fifteen hardest levels in the game.", S("lf3-art", 150, ZO, big="7 OF THE\nTOP 15"))
-L("This is the story of Zoink. How a player nobody knew skipped straight to the top, and stayed there.", S("lf3-tw", 200, ZO))
+L("This is the story of Zoink. How a player nobody knew skipped straight to the top, and stayed there.", S("lf3-tw", 160, ZO))
 
 # ---------------------------------------------------------------- 1
 L("Zoink is a player from the United States. He made his YouTube channel in 2018, but his first Geometry Dash video didn't come until December 2020.",
@@ -86,9 +86,9 @@ L("It took him 25,000 attempts just to reach 50 percent. Around 39,000 attempts,
 L("Then he died at 95 percent. Later, three of the next players to beat it, wPopoff, Trick and Netermind, all died at 95 too. People call it Zoink's curse.",
   S("lf3-95", 20, RG, big="ZOINK'S\nCURSE", sub="95% x4"), say="Then he died at 95 percent. Later, three of the next players to beat it, W Pop off, Trick and Neter-mind, all died at 95 too. People call it Zoink's curse.")
 L("94. 93. 92. 91. 25 fails past 73 percent.", S("lf3-95", 90, RG, big="25 FAILS\nPAST 73%"))
-BEAT(5.0, S("lf3-tw", 225, ZO))
-L("On September 9th, 2023, after 49,534 attempts, Zoink verified Tidal Wave.", S("lf3-tw", 232, ZO, big="49,534", sub="TIDAL WAVE - VERIFIED"))
-L("That made him the first player to verify three number one levels in a row.", S("lf3-tw", 160, ZO, big="3 TOP 1s\nIN A ROW"))
+BEAT(5.0, S("lf3-tw", 170, ZO))
+L("On September 9th, 2023, after 49,534 attempts, Zoink verified Tidal Wave.", S("lf3-tw", 178, ZO, big="49,534", sub="TIDAL WAVE - VERIFIED"))
+L("That made him the first player to verify three number one levels in a row.", S("lf3-tw", 150, ZO, big="3 TOP 1s\nIN A ROW"))
 
 # ---------------------------------------------------------------- 5
 L("After that, he took a break. In early 2024, he barely played.", S("lf3-ts2", 10, ZO, chapter="THE GRIND", chn=5))
@@ -111,20 +111,20 @@ L("In July, he became the first victor of Society, a number one level. And in Se
 L("Artemis 13 was verified before GRIEF, so for a moment in history, it was the hardest level in the game.", S("lf3-art", 160, ZO, big="RETRO\nTOP 1"))
 
 # ---------------------------------------------------------------- 7
-L("And then came GRIEF.", S("lf3-grief", 20, TG, chapter="GRIEF", chn=7))
-L("Doggie spent two and a half years verifying it. It became the new number one, and every top player started racing to beat it first.", S("lf3-grief", 60, TG, big="THE RACE"))
-L("Zoink started playing it on October 7th. On his 10th stream, he got a 21 to 100 run.", S("lf3-grief", 120, TG, big="21-100"))
-L("He reached greafer's part three times. 68. 68 again. Then 72.", S("lf3-grief", 150, TG, big="68... 68... 72"))
+L("And then came GRIEF.", S("lf3-grief", 250, TG, chapter="GRIEF", chn=7))
+L("Doggie spent two and a half years verifying it. It became the new number one, and every top player started racing to beat it first.", S("lf3-grief", 270, TG, big="THE RACE"))
+L("Zoink started playing it on October 7th. On his 10th stream, he got a 21 to 100 run.", S("lf3-grief", 290, TG, big="21-100"))
+L("He reached greafer's part three times. 68. 68 again. Then 72.", S("lf3-grief", 140, TG, big="68... 68... 72"))
 L("In the next stream, he was the first player in the race to reach GrenadeofTacos's part, at 79 percent.", S("lf3-grief", 170, TG, big="79%"), say="In the next stream, he was the first player in the race to reach Grenade of Tacos's part, at 79 percent.")
-L("On November 2nd, he tied his best of 82 percent. That same day, wPopoff beat GRIEF and won the race.", S("lf3-grief", 200, TG, big="WPOPOFF\nWINS"), say="On November second, he tied his best of 82 percent. That same day, W Pop off beat GRIEF and won the race.")
+L("On November 2nd, he tied his best of 82 percent. That same day, wPopoff beat GRIEF and won the race.", S("lf3-grief", 60, TG, big="WPOPOFF\nWINS"), say="On November second, he tied his best of 82 percent. That same day, W Pop off beat GRIEF and won the race.")
 L("Zoink didn't stop. Four days later, he died at 98 percent. In the final monster.", S("lf3-98", 4, HA, big="98%", bc="#ff5252"))
-BEAT(5.0, S("lf3-grief", 540, TG))
-L("And then, on November 6th, after about 37,000 attempts and 67 hours, Zoink became the second player ever to beat GRIEF.", S("lf3-grief", 560, TG, big="SECOND VICTOR", sub="~37,000 ATTEMPTS - 67 HOURS"))
-BEAT(5.0, S("lf3-grief", 580, TG))
+BEAT(5.0, S("lf3-grief", 186, TG))
+L("And then, on November 6th, after about 37,000 attempts and 67 hours, Zoink became the second player ever to beat GRIEF.", S("lf3-grief", 197, TG, big="SECOND VICTOR", sub="~37,000 ATTEMPTS - 67 HOURS"))
+BEAT(5.0, S("lf3-grief", 199, TG))
 
 # ---------------------------------------------------------------- outro
-L("From a Bloodbath to Zodiac jump, to the top player on the Demonlist, with seven of the top fifteen verified.", S("lf3-tw", 238, ZO, big="BLOODBATH TO\nTHE TOP", bs=100))
-L("So what do you think? Is Zoink the greatest Geometry Dash player of all time? Tell me in the comments.", S("lf3-grief", 600, TG, big="THE GREATEST\nEVER?", bs=110))
+L("From a Bloodbath to Zodiac jump, to the top player on the Demonlist, with seven of the top fifteen verified.", S("lf3-tw", 175, ZO, big="BLOODBATH TO\nTHE TOP", bs=100))
+L("So what do you think? Is Zoink the greatest Geometry Dash player of all time? Tell me in the comments.", S("lf3-grief", 200, TG, big="THE GREATEST\nEVER?", bs=110))
 L("And if you liked this story, subscribe. Help a small creator hit 500 subs by Christmas!", S("lf3-art", 190, ZO, big="SUBSCRIBE", sub="HELP US HIT 500 BY CHRISTMAS"))
 
 EP = {"preset": "long", "num": 1003, "slug": "1003-zoink-long", "file": "1003 Zoink - The Best Geometry Dash Player.mp4",
