@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 303,
+ "slug": "303-tesla-roadster-chase",
+ "file": "303 Steal the Roadster and Escape the Police on Roblox.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox lets you steal a brand new Roadster, right off the showroom stage.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Andy Plays; ProjectSupreme 2 (Roblox gameplay, YouTube)",
+     "clip": "rb33-tr-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "STEAL IT OFF THE STAGE",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then the police come for you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Andy Plays; ProjectSupreme 2 (Roblox gameplay, YouTube)",
+     "clip": "rb33-tr-b.mp4",
+     "start": 0
+    },
+    "big": "THE COPS\nARE COMING",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Weave through traffic on the highway, back roads and shortcuts, with cops on your tail.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Andy Plays; ProjectSupreme 2 (Roblox gameplay, YouTube)",
+     "clip": "rb33-tr-c.mp4",
+     "start": 0
+    },
+    "big": "LOSE\nTHE COPS",
+    "sub": "HIGHWAY - BACK ROADS - SHORTCUTS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out on October 21st, and it already has over 19 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Andy Plays; ProjectSupreme 2 (Roblox gameplay, YouTube)",
+     "clip": "rb33-tr-b.mp4",
+     "start": 7.0
+    },
+    "sub": "VISITS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 19608009,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Could you escape the cops?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Andy Plays; ProjectSupreme 2 (Roblox gameplay, YouTube)",
+     "clip": "rb33-tr-a.mp4",
+     "start": 0.0
+    },
+    "big": "COULD YOU\nESCAPE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

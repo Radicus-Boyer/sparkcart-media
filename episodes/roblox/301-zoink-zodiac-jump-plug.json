@@ -1,0 +1,169 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 301,
+ "slug": "301-zoink-zodiac-jump-plug",
+ "file": "301 Zoink Skipped Straight From Bloodbath to Zodiac.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "His hardest level was Bloodbath. So he went straight for Zodiac. Almost nobody does that.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-a.mp4",
+     "start": 0
+    },
+    "big": "[BLOODBATH > ZODIAC]\nZOINK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Zoink got 50 percent in June 2021. Then he kept grinding, month after month.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-b.mp4",
+     "start": 0
+    },
+    "big": "[50%]\nJUNE 2021",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "On October 24th, 2021, he beat it. His first list demon was a former number one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-a.mp4",
+     "start": 6.0
+    },
+    "big": "[100%]\nZODIAC",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Today he's the number one player in the world. And he just beat GRIEF.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-c.mp4",
+     "start": 0
+    },
+    "big": "[#1 PLAYER]\nGRIEF 100%",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The full Zoink story drops on my channel today at 2:30. Don't miss it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-c.mp4",
+     "start": 7.0
+    },
+    "big": "[FULL STORY]\nTODAY 2:30 PM",
+    "popup": {
+     "img": "zoink-long-thumb.jpg",
+     "len": "FULL STORY",
+     "d": 0.35,
+     "y": 1175
+    },
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you skip that many levels?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-a.mp4",
+     "start": 0.0
+    },
+    "big": "COULD\nYOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300,
+    "popup": {
+     "img": "zoink-long-thumb.jpg",
+     "len": "FULL STORY",
+     "d": 0.0,
+     "y": 1175
+    }
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink (YouTube)",
+     "clip": "gd33-zd-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

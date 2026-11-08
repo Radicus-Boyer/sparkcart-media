@@ -1,0 +1,166 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 299,
+ "slug": "299-every-end-looks-like-2013",
+ "file": "299 This Level Looks Like 2013 But Its a Top 15 Demon.mp4",
+ "target": 0,
+ "accent": "#ffc400",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Hqmy": "H Q M Y",
+  "MindCap": "Mind Cap"
+ },
+ "lines": [
+  {
+   "t": "This level looks like it's from 2013. It's one of the hardest levels in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-a.mp4",
+     "start": 0
+    },
+    "big": "[TOP 15]\nEVERY END",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Every End is only the cube, at normal speed. Old school 1.0 style.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-c.mp4",
+     "start": 0
+    },
+    "big": "[CUBE ONLY]\nNORMAL SPEED",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But it has more objects than ORBIT. Because of the crazy background.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-a.mp4",
+     "start": 7.0
+    },
+    "big": "[MORE OBJECTS]\nTHAN ORBIT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Two verifiers dropped it. Then Hqmy took over and died at 79 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-c.mp4",
+     "start": 7.0
+    },
+    "big": "[2 QUIT]\nHQMY - 79%",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In March 2025, he verified it, after about 29,890 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-b.mp4",
+     "start": 6.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 29890,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "EVERY END - VERIFIED"
+   }
+  },
+  {
+   "t": "Old style or new style: which is harder?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-a.mp4",
+     "start": 0.0
+    },
+    "big": "OLD OR\nNEW?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MindCap; TIAGC[GD] (YouTube)",
+     "clip": "gd33-ee-c.mp4",
+     "start": 4.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Hqmy",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

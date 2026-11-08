@@ -1,0 +1,165 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 300,
+ "slug": "300-the-bloop-zoink-underrated",
+ "file": "300 Zoink Said This Level Was Top 75 Then It Went Top 10.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "murkkat": "murk cat"
+ },
+ "lines": [
+  {
+   "t": "Zoink said this level was maybe top 75. The Demonlist put it at number 10.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-a.mp4",
+     "start": 0
+    },
+    "big": "[TOP 75?]\nTHE BLOOP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's The Bloop, built by murkkat and more than 20 creators.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-c.mp4",
+     "start": 0
+    },
+    "big": "[20+ CREATORS]\nMURKKAT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Zoink went from 28 percent to 71 in about a week. Then he buffed it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-c.mp4",
+     "start": 7.0
+    },
+    "big": "[28% > 71%]\nIN A WEEK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "83. 95. And on March 15th, 2026, he verified it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-b.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIED]\nMARCH 15, 2026",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He guessed top 20 to 75. It was placed at number 10.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-b.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 10,
+     "fmt": "#{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "DEMONLIST PLACEMENT"
+   }
+  },
+  {
+   "t": "Is Zoink just too good?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-a.mp4",
+     "start": 0.0
+    },
+    "big": "TOO\nGOOD?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Neiro (YouTube)",
+     "clip": "gd33-bl-c.mp4",
+     "start": 4.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

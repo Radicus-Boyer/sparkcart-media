@@ -1,0 +1,129 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 298,
+ "slug": "298-rumpelstiltskin-tip-toe-meme",
+ "file": "298 Why Rumpelstiltskin Is Tip Toeing in His Jordans.mp4",
+ "target": 0,
+ "accent": "#d500f9",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ea80fc",
+  "cy": 1470
+ },
+ "pron": {
+  "Rumpelstiltskin": "Rumple-stilt-skin"
+ },
+ "lines": [
+  {
+   "t": "Rumpelstiltskin is tip toeing in his Jordans. And it's making everyone uncomfortable.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nunya Bizness; Official Dj.Solomo; Miss_Chiph (YouTube)",
+     "clip": "tr33-rp-a.mp4",
+     "start": 0
+    },
+    "big": "TIP TOEIN'",
+    "sub": "IN HIS JORDANS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "This isn't from a real movie. It's AI, made to look like an 80s fantasy film.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nunya Bizness; Official Dj.Solomo; Miss_Chiph (YouTube)",
+     "clip": "tr33-rp-b.mp4",
+     "start": 0
+    },
+    "big": "100%\nAI",
+    "sub": "AN 80s FANTASY THAT NEVER EXISTED",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It was posted in August. Then in September, someone put it to a Riff Raff song, with a caption about taking too much melatonin.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nunya Bizness; Official Dj.Solomo; Miss_Chiph (YouTube)",
+     "clip": "tr33-rp-a.mp4",
+     "start": 6.0
+    },
+    "big": "TOO MUCH\nMELATONIN",
+    "sub": "+ RIFF RAFF",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Now the dance means one thing: you're trolling. And people swap him with other characters.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nunya Bizness; Official Dj.Solomo; Miss_Chiph (YouTube)",
+     "clip": "tr33-rp-c.mp4",
+     "start": 0
+    },
+    "big": "TROLL\nMODE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Who should do the dance next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nunya Bizness; Official Dj.Solomo; Miss_Chiph (YouTube)",
+     "clip": "tr33-rp-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHO'S\nNEXT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nunya Bizness; Official Dj.Solomo; Miss_Chiph (YouTube)",
+     "clip": "tr33-rp-b.mp4",
+     "start": 6.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

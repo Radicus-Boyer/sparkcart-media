@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 297,
+ "slug": "297-black-cat-clapping-meme",
+ "file": "297 Where the Clapping Cat Meme Came From.mp4",
+ "target": 0,
+ "accent": "#ffea00",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffff8d",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This cat has human hands. And it will not stop clapping.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kitty POVs; flappy (YouTube)",
+     "clip": "tr33-bc-a.mp4",
+     "start": 0
+    },
+    "big": "HUMAN\nHANDS",
+    "sub": "THE CLAPPING CAT",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's from a comedy video by an Instagram creator. He gives his cat food, and the cat smiles, claps, and tries to shake his hand.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kitty POVs; flappy (YouTube)",
+     "clip": "tr33-bc-b.mp4",
+     "start": 0
+    },
+    "big": "IT TRIES TO\nSHAKE HANDS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's AI. And it got millions of views.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kitty POVs; flappy (YouTube)",
+     "clip": "tr33-bc-a.mp4",
+     "start": 7.0
+    },
+    "sub": "VIEWS... AND COUNTING",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 1000000,
+     "fmt": "{:,.0f}+",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Now it's a green screen meme. The cat claps in the best and worst moments, like skipping class in a bathroom stall.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kitty POVs; flappy (YouTube)",
+     "clip": "tr33-bc-c.mp4",
+     "start": 0
+    },
+    "big": "BEST AND\nWORST MOMENTS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Is the clapping cat cute or cursed?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kitty POVs; flappy (YouTube)",
+     "clip": "tr33-bc-a.mp4",
+     "start": 0.0
+    },
+    "big": "CUTE OR\nCURSED?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Kitty POVs; flappy (YouTube)",
+     "clip": "tr33-bc-c.mp4",
+     "start": 6.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

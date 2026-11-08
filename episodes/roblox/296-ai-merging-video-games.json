@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 296,
+ "slug": "296-ai-merging-video-games",
+ "file": "296 AI Is Merging Video Games Into One.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Someone used AI to merge Call of Duty and Minecraft into one game. And people say you can actually play it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-a.mp4",
+     "start": 0
+    },
+    "big": "COD +\nMINECRAFT",
+    "sub": "ONE GAME?",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It started on X, with a user who kept merging the Skate games with other games.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-b.mp4",
+     "start": 0
+    },
+    "big": "SKATE +\nEVERYTHING",
+    "sub": "WHERE IT STARTED",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then he dropped Call of Duty mixed with Minecraft. And the internet lost it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-c.mp4",
+     "start": 0
+    },
+    "big": "THE INTERNET\nLOST IT",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It looks like an AI video. But it's supposedly a playable game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-a.mp4",
+     "start": 7.0
+    },
+    "big": "PLAYABLE?",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Now people are merging games old and new, and it's a little bit scary.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-c.mp4",
+     "start": 7.0
+    },
+    "big": "A LITTLE\nBIT SCARY",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Which two games should be merged next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHICH TWO\nGAMES?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrToucan Explains; Chrispreds3 (YouTube)",
+     "clip": "tr33-am-b.mp4",
+     "start": 8.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

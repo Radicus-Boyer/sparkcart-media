@@ -1,0 +1,113 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 304,
+ "slug": "304-night-rider",
+ "file": "304 Night Rider on Roblox Is an Endless Highway at Crazy Speed.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b388ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox puts you on a motorcycle, on a highway that never ends.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ProjectSupreme 2; On1yMar (Roblox gameplay, YouTube)",
+     "clip": "rb33-nr-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "THE HIGHWAY NEVER ENDS",
+    "bs": 110,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Swerve through traffic at crazy speeds, past the city, farms and suburbs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ProjectSupreme 2; On1yMar (Roblox gameplay, YouTube)",
+     "clip": "rb33-nr-b.mp4",
+     "start": 0
+    },
+    "big": "CRAZY\nSPEEDS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Pop wheelies and do tricks. But watch out for the death wobble.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ProjectSupreme 2; On1yMar (Roblox gameplay, YouTube)",
+     "clip": "rb33-nr-c.mp4",
+     "start": 0
+    },
+    "big": "DEATH\nWOBBLE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's still in testing, and it already has over 20 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ProjectSupreme 2; On1yMar (Roblox gameplay, YouTube)",
+     "clip": "rb33-nr-a.mp4",
+     "start": 7.0
+    },
+    "sub": "VISITS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 20032070,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "How far could you ride?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ProjectSupreme 2; On1yMar (Roblox gameplay, YouTube)",
+     "clip": "rb33-nr-b.mp4",
+     "start": 0.0
+    },
+    "big": "HOW FAR?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

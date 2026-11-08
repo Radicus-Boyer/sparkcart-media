@@ -1,0 +1,125 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 302,
+ "slug": "302-blatantly-just-not-me-nan",
+ "file": "302 Youre Blatantly Just Not Me Nan Meme Explained.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab40",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "You're blatantly just not me nan.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrTamozi; Meme Academy; Hypothetical Salam (YouTube)",
+     "clip": "tr33-nn-a.mp4",
+     "start": 0
+    },
+    "big": "\"BLATANTLY\nNOT ME NAN\"",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's from a skit. What if Little Red Riding Hood happened for real?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrTamozi; Meme Academy; Hypothetical Salam (YouTube)",
+     "clip": "tr33-nn-b.mp4",
+     "start": 0
+    },
+    "big": "LITTLE RED\nRIDING HOOD",
+    "sub": "BUT REAL",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He walks into his nan's house, sees a wolf in her bed, and says it. That line went viral.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrTamozi; Meme Academy; Hypothetical Salam (YouTube)",
+     "clip": "tr33-nn-c.mp4",
+     "start": 0
+    },
+    "big": "A WOLF\nIN HER BED",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Now people put it over dogs dressed up as grandmas. Or anyone who's clearly an imposter.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrTamozi; Meme Academy; Hypothetical Salam (YouTube)",
+     "clip": "tr33-nn-b.mp4",
+     "start": 7.0
+    },
+    "big": "DOGS AS\nGRANDMAS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Who in your life is blatantly an imposter?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrTamozi; Meme Academy; Hypothetical Salam (YouTube)",
+     "clip": "tr33-nn-a.mp4",
+     "start": 0.0
+    },
+    "big": "WHO'S THE\nIMPOSTER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MrTamozi; Meme Academy; Hypothetical Salam (YouTube)",
+     "clip": "tr33-nn-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}
