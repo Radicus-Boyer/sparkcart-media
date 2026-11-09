@@ -157,12 +157,12 @@ ep(308, "brookhaven-almost-90-billion", "Brookhaven Is About to Hit 90 Billion V
    [L("The most visited game on Roblox is about to hit 90 billion visits.",
       CCOUNT("rb34-bk-a.mp4", 0, BKC, 89368300790, "VISITS - BROOKHAVEN", bs=120)),
     L("It's Brookhaven. It came out in April 2020, made by a creator called Wolfpaq.",
-      CLIP("rb34-bk-b.mp4", "BROOKHAVEN", "BY WOLFPAQ - 2020", 0, BKC, bs=150)),
+      CLIP("rb34-bk-c.mp4", "BROOKHAVEN", "BY WOLFPAQ - 2020", 6.0, BKC, bs=150)),
     L("In February 2025, Wolfpaq sold it to a company called Voldex. Back then it had about 60 billion visits.",
       CLIP("rb34-bk-c.mp4", "SOLD", "AT ~60 BILLION VISITS", 0, BKC, bs=160)),
     L("Since then? Almost 30 billion more. And right now, almost 400,000 people are playing it.",
       CLIP("rb34-bk-a.mp4", "+30 BILLION", "~400,000 PLAYING NOW", 7.0, BKC, bs=140)),
-    ask("What's your house in Brookhaven?", "YOUR\nHOUSE?", "rb34-bk-b.mp4", BKC),
+    ask("What's your house in Brookhaven?", "YOUR\nHOUSE?", "rb34-bk-a.mp4", BKC),
     subline("rb34-bk-c.mp4", BKC, 7.0),
    ], pron={"Wolfpaq": "Wolf pack", "Voldex": "Vol dex"})
 
@@ -211,14 +211,14 @@ clip("gd34-bb-b.mp4", "https://www.youtube.com/watch?v=20fYiqLAo_E", "*0:40-1:00
 clip("gd34-bb-c.mp4", "https://www.youtube.com/watch?v=DXV7CVkos7I", "*36:00-36:20", cut=0)
 ep(311, "boobawamba-175282-attempts", "It Took 175,282 Attempts Then Zoink Did It in 7,946", MIKE, "#00e676", GDCAP,
    [L("It took one player 175,282 attempts to verify this level. Then Zoink beat it in 7,946.",
-      H("gd34-bb-a.mp4", "[175,282]\nBOOBAWAMBA", 0, BBC)),
+      H("gd34-bb-b.mp4", "[175,282]\nBOOBAWAMBA", 0, BBC)),
     L("It's BOOBAWAMBA. It's green and grey, so you can barely see what's coming.",
-      H("gd34-bb-b.mp4", "[CAN'T SEE]\nGREEN + GREY", 0, BBC)),
+      H("gd34-bb-b.mp4", "[CAN'T SEE]\nGREEN + GREY", 6.0, BBC)),
     L("EastShark1 verified it in October 2024. Then nobody else beat it for over 430 days.",
-      H("gd34-bb-b.mp4", "[430 DAYS]\nNO ONE BEAT IT", 7.0, BBC)),
+      H("gd34-bb-a.mp4", "[430 DAYS]\nNO ONE BEAT IT", 0, BBC)),
     L("And in March 2026, Zoink did it. By far the fewest attempts ever.",
       HC("gd34-bb-c.mp4", 0, BBC, 7946, "ZOINK - ATTEMPTS")),
-    ask("How is Zoink this good?", "HOW?!", "gd34-bb-a.mp4", BBC),
+    ask("How is Zoink this good?", "HOW?!", "gd34-bb-b.mp4", BBC),
     subline("gd34-bb-c.mp4", BBC, 7.0),
    ], pron=dict(GD_PRON, BOOBAWAMBA="Boo-ba-wam-ba", EastShark1="East Shark one"), gd_player="EastShark1", **GDE)
 
@@ -233,7 +233,7 @@ ep(312, "quanteuse-processing-worst-level", "One of the Worst Levels of 2025 Is 
     L("Quanteuse processing is a joke remake of Quantum Processing. Made way harder.",
       H("gd34-qp-c.mp4", "[JOKE REMAKE]\nQUANTUM PROCESSING", 0, QPC, bs=64)),
     L("Zoink verified it. Then it sat unrated for almost a year, until he asked RobTop on stream.",
-      H("gd34-qp-b.mp4", "[UNRATED]\nALMOST 1 YEAR", 0, QPC)),
+      H("gd34-qp-c.mp4", "[UNRATED]\nALMOST 1 YEAR", 6.0, QPC)),
     L("It went in at number 6, and kicked Silent Clubstep out of the top 10, after three and a half years.",
       HC("gd34-qp-a.mp4", 7.0, QPC, 6, "DEMONLIST PLACEMENT", fmt="#{:,.0f}")),
     ask("Bad level, or just hard?", "BAD OR\nHARD?", "gd34-qp-a.mp4", QPC),
