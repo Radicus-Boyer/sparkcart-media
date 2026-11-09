@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 307,
+ "slug": "307-jailbreak-guinness-record",
+ "file": "307 Jailbreak Has a Guinness World Record.mp4",
+ "target": 0,
+ "accent": "#ff9100",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd180",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game is in the Guinness World Records. And it was made by just two people.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Denis; KreekCraft; VeD_DeV (Roblox gameplay, YouTube)",
+     "clip": "rb34-jb-a.mp4",
+     "start": 0
+    },
+    "big": "A WORLD\nRECORD",
+    "sub": "MADE BY 2 PEOPLE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's Jailbreak. Cops versus robbers. Escape the prison, rob the bank, and drive away.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Denis; KreekCraft; VeD_DeV (Roblox gameplay, YouTube)",
+     "clip": "rb34-jb-b.mp4",
+     "start": 0
+    },
+    "big": "COPS VS\nROBBERS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In March 2020, it had over 3.3 million likes. The most likes for any game made in Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Denis; KreekCraft; VeD_DeV (Roblox gameplay, YouTube)",
+     "clip": "rb34-jb-a.mp4",
+     "start": 7.0
+    },
+    "sub": "LIKES - GUINNESS RECORD",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 3373726,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Today it has over 8 billion visits. And people still break out of that prison every day.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Denis; KreekCraft; VeD_DeV (Roblox gameplay, YouTube)",
+     "clip": "rb34-jb-c.mp4",
+     "start": 0
+    },
+    "big": "8 BILLION\nVISITS",
+    "sub": "STILL PLAYED TODAY",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Cop or criminal?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Denis; KreekCraft; VeD_DeV (Roblox gameplay, YouTube)",
+     "clip": "rb34-jb-a.mp4",
+     "start": 0.0
+    },
+    "big": "COP OR\nCRIMINAL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Denis; KreekCraft; VeD_DeV (Roblox gameplay, YouTube)",
+     "clip": "rb34-jb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

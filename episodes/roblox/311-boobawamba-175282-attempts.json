@@ -1,0 +1,150 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 311,
+ "slug": "311-boobawamba-175282-attempts",
+ "file": "311 It Took 175,282 Attempts Then Zoink Did It in 7,946.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "BOOBAWAMBA": "Boo-ba-wam-ba",
+  "EastShark1": "East Shark one"
+ },
+ "lines": [
+  {
+   "t": "It took one player 175,282 attempts to verify this level. Then Zoink beat it in 7,946.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd34-bb-a.mp4",
+     "start": 0
+    },
+    "big": "[175,282]\nBOOBAWAMBA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's BOOBAWAMBA. It's green and grey, so you can barely see what's coming.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd34-bb-b.mp4",
+     "start": 0
+    },
+    "big": "[CAN'T SEE]\nGREEN + GREY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "EastShark1 verified it in October 2024. Then nobody else beat it for over 430 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd34-bb-b.mp4",
+     "start": 7.0
+    },
+    "big": "[430 DAYS]\nNO ONE BEAT IT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And in March 2026, Zoink did it. By far the fewest attempts ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd34-bb-c.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 7946,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ZOINK - ATTEMPTS"
+   }
+  },
+  {
+   "t": "How is Zoink this good?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd34-bb-a.mp4",
+     "start": 0.0
+    },
+    "big": "HOW?!",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: EastShark1; Zoink (YouTube)",
+     "clip": "gd34-bb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "EastShark1",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

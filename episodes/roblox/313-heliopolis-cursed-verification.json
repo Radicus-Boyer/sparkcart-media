@@ -1,0 +1,152 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 313,
+ "slug": "313-heliopolis-cursed-verification",
+ "file": "313 Five Players Tried to Verify This Level and None Finished.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "MindCap": "Mind Cap",
+  "Pablohh": "Pablo",
+  "Thnnder": "Thunder",
+  "Heliopolis": "Heel-ee-op-olis"
+ },
+ "lines": [
+  {
+   "t": "Five players have tried to verify this level. Not one of them has finished it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; MindCap; Zoink (YouTube)",
+     "clip": "gd34-hl-a.mp4",
+     "start": 0
+    },
+    "big": "[5 VERIFIERS]\nHELIOPOLIS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Heliopolis is a pure timing level by MindCap. Pablohh dropped it. Jif got kicked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; MindCap; Zoink (YouTube)",
+     "clip": "gd34-hl-b.mp4",
+     "start": 0
+    },
+    "big": "[DROPPED]\nPABLOHH - JIF",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Thnnder spent over 108,000 attempts on it, then had to quit for health reasons.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; MindCap; Zoink (YouTube)",
+     "clip": "gd34-hl-b.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 108000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "THNNDER - ATTEMPTS"
+   }
+  },
+  {
+   "t": "MindCap put a 10,700 dollar bounty on it. Zoink's best is 85 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; MindCap; Zoink (YouTube)",
+     "clip": "gd34-hl-c.mp4",
+     "start": 0
+    },
+    "big": "[$10,700]\nZOINK 85%",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Is this level cursed?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; MindCap; Zoink (YouTube)",
+     "clip": "gd34-hl-a.mp4",
+     "start": 0.0
+    },
+    "big": "CURSED?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; MindCap; Zoink (YouTube)",
+     "clip": "gd34-hl-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Thnnder",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

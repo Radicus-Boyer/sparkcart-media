@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 310,
+ "slug": "310-crossroads-2007-still-played",
+ "file": "310 This Roblox Game Is From 2007 and People Still Play It.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffff8d",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game was made in 2007, by Roblox itself. And people are still playing it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Rob6304; Wurtel99; Roblox (YouTube)",
+     "clip": "rb34-cr-a.mp4",
+     "start": 0
+    },
+    "big": "FROM\n2007",
+    "sub": "MADE BY ROBLOX",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's Crossroads. A sword fighting map from the very early days of Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Rob6304; Wurtel99; Roblox (YouTube)",
+     "clip": "rb34-cr-c.mp4",
+     "start": 0
+    },
+    "big": "CROSSROADS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It has almost 40 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Rob6304; Wurtel99; Roblox (YouTube)",
+     "clip": "rb34-cr-b.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 39943413,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "When I checked, 14 people were in there. Still fighting, 19 years later.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Rob6304; Wurtel99; Roblox (YouTube)",
+     "clip": "rb34-cr-a.mp4",
+     "start": 7.0
+    },
+    "big": "14 PLAYERS",
+    "sub": "19 YEARS LATER",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's the oldest Roblox game you played?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Rob6304; Wurtel99; Roblox (YouTube)",
+     "clip": "rb34-cr-b.mp4",
+     "start": 0.0
+    },
+    "big": "YOUR\nOLDEST?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Rob6304; Wurtel99; Roblox (YouTube)",
+     "clip": "rb34-cr-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

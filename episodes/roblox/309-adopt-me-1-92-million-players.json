@@ -1,0 +1,154 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 309,
+ "slug": "309-adopt-me-1-92-million-players",
+ "file": "309 Adopt Me Once Had 1.92 Million Players at Once.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ccff90",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "A Roblox game about adopting pets once had more players than the biggest game on Steam.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-a.mp4",
+     "start": 0
+    },
+    "big": "BIGGER\nTHAN STEAM",
+    "sub": "ADOPT ME!",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In April 2020, Adopt Me hit 680,000 players. Three times more than the top game on Steam.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-b.mp4",
+     "start": 0
+    },
+    "sub": "PLAYERS - APRIL 2020",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 680000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "A year later, it hit its record. 1.92 million players at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-c.mp4",
+     "start": 0
+    },
+    "sub": "PLAYERS AT ONCE - RECORD",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 1920000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "One six year old in Australia spent 8,000 dollars on it, on an iPad.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-a.mp4",
+     "start": 7.0
+    },
+    "big": "$8,000",
+    "sub": "ONE 6-YEAR-OLD - AUSTRALIA",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Today it has over 45 billion visits, and over 200,000 people still play it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-b.mp4",
+     "start": 7.0
+    },
+    "big": "45 BILLION\nVISITS",
+    "sub": "200,000+ STILL PLAYING",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's your best pet?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-a.mp4",
+     "start": 0.0
+    },
+    "big": "BEST\nPET?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Alaska Violet; Cookie Cutter (Roblox gameplay, YouTube)",
+     "clip": "rb34-ad-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}
