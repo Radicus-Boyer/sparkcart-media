@@ -138,15 +138,15 @@ ep(317, "subsuming-vortex-made-as-a-joke", "This Level Was Made as a Joke Then T
    [L("This level was made as a joke in 2018. It took seven years for anyone to verify it.",
       H("gd35-sv-c.mp4", "[A JOKE]\nSUBSUMING VORTEX", 0, SVC)),
     L("Subsuming Vortex was made to make fun of all the generic Nine Circles top 1 levels.",
-      H("gd35-sv-b.mp4", "[NINE CIRCLES]\nPARODY", 0, SVC)),
+      H("gd35-sv-c.mp4", "[NINE CIRCLES]\nPARODY", 4.0, SVC)),
     L("Then it became the hardest impossible level on the impossible levels list.",
-      H("gd35-sv-b.mp4", "[IMPOSSIBLE]\nTOP 1", 7.0, SVC)),
+      H("gd35-sv-c.mp4", "[IMPOSSIBLE]\nTOP 1", 8.0, SVC)),
     L("Cursed crashed past 53 percent 296 times. His worst fail was 96.",
       HC("gd35-sv-c.mp4", 7.0, SVC, 296, "CRASHES PAST 53%")),
     L("On November 10th, 2025, after about 85,000 attempts, he verified it. Exactly one year ago.",
       H("gd35-sv-a.mp4", "[VERIFIED]\nNOV 10, 2025", 0, SVC)),
     ask("Is it still a joke?", "STILL A\nJOKE?", "gd35-sv-c.mp4", SVC),
-    subline("gd35-sv-b.mp4", SVC, 4.0),
+    subline("gd35-sv-a.mp4", SVC, 4.0),
    ], pron=dict(GD_PRON), gd_player="Cursed", **GDE)
 
 # ---------------------------------------------------------------- 318 GD: Penumbral (wiki.gg)
@@ -194,9 +194,9 @@ clip("gd35-sh-b.mp4", "https://www.youtube.com/watch?v=CC7zfHByLSk", "*1:30-1:50
 clip("gd35-sh-c.mp4", "https://www.youtube.com/watch?v=qUQZg6qd8SY", "*2:50-3:10", cut=0)
 ep(320, "slaughterhouse-number-1-to-40", "This Was the Hardest Level in Geometry Dash Now Its Number 40", HEART, "#ff5252", GDCAP,
    [L("This was the hardest level in Geometry Dash. Today, it's number 40.",
-      H("gd35-sh-a.mp4", "[#1 > #40]\nSLAUGHTERHOUSE", 0, SHC2)),
+      H("gd35-sh-b.mp4", "[#1 > #40]\nSLAUGHTERHOUSE", 0, SHC2)),
     L("In 2021, spaceuk claimed the verification. It was later found out he hacked it.",
-      H("gd35-sh-b.mp4", "[HACKED]\nSPACEUK", 0, SHC2)),
+      H("gd35-sh-b.mp4", "[HACKED]\nSPACEUK", 6.0, SHC2)),
     L("So the title went to Doggie, who really beat it in December 2021. It was number one for most of 2022.",
       H("gd35-sh-a.mp4", "[REAL VERIFIER]\nDOGGIE", 7.0, SHC2)),
     L("Then newer levels kept pushing it down. Out of the top 20. Out of the top 25.",
@@ -214,14 +214,14 @@ clip("gd35-an-b.mp4", "https://www.youtube.com/watch?v=_uKwmjHmySI", "*1:30-1:50
 clip("gd35-an-c.mp4", "https://www.youtube.com/watch?v=LFcX3d1w8dk", "*0:30-0:50", cut=0)
 ep(321, "anathema-6-years-to-make", "This Level Took 6 Years to Make and Got Cancelled", LIAM, "#e040fb", GDCAP,
    [L("This level took six years to make. It got cancelled along the way.",
-      H("gd35-an-c.mp4", "[6 YEARS]\nANATHEMA", 0, ANC)),
+      H("gd35-an-b.mp4", "[6 YEARS]\nANATHEMA", 0, ANC)),
     L("Anathema started in 2017. The host cancelled it, and it was handed to someone else.",
-      H("gd35-an-b.mp4", "[CANCELLED]\n2017-2023", 0, ANC)),
+      H("gd35-an-c.mp4", "[CANCELLED]\n2017-2023", 3.0, ANC)),
     L("Then it came back, and got buffed way past its first top 20 difficulty. Some players hated that.",
       H("gd35-an-b.mp4", "[BUFFED]\nPAST TOP 20", 7.0, ANC)),
     L("Whizkid05 verified it. Today it's number 24 on the Demonlist.",
       HC("gd35-an-a.mp4", 0, ANC, 24, "DEMONLIST - ANATHEMA", fmt="#{:,.0f}")),
-    ask("Was 6 years worth it?", "WORTH\nIT?", "gd35-an-c.mp4", ANC),
+    ask("Was 6 years worth it?", "WORTH\nIT?", "gd35-an-b.mp4", ANC),
     subline("gd35-an-a.mp4", ANC, 7.0),
    ], pron=dict(GD_PRON, Anathema="Uh-nath-uh-muh", Whizkid05="Whiz kid oh five"), gd_player="Whizkid05", **GDE)
 
@@ -276,7 +276,7 @@ ep(324, "blox-fruits-was-blox-piece", "Blox Fruits Used to Have a Different Name
     L("Today it has over 65 billion visits.",
       CCOUNT("rb35-bf-a.mp4", 7.0, BFC, 65408602949, "VISITS", bs=120)),
     L("And over 260,000 people were playing it when I checked.",
-      CLIP("rb35-bf-c.mp4", "260,000+\nPLAYING", "", 0, BFC, bs=150)),
+      CLIP("rb35-bf-b.mp4", "260,000+\nPLAYING", "", 7.0, BFC, bs=150)),
     ask("What's your favorite fruit?", "BEST\nFRUIT?", "rb35-bf-a.mp4", BFC),
    ])
 
