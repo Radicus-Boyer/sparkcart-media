@@ -1,0 +1,164 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 316,
+ "slug": "316-kyouki-501997-attempts",
+ "file": "316 One Player Took 501,997 Attempts on a Level He Made Himself.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "One player spent half a million attempts on a level he built all by himself.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-c.mp4",
+     "start": 0
+    },
+    "big": "[501,997]\nKYOUKI",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Demishio made Kyouki solo. Every single part.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-b.mp4",
+     "start": 0
+    },
+    "big": "[100% SOLO]\nDEMISHIO",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He played it for 175 days. He died at 97 percent.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-b.mp4",
+     "start": 7.0
+    },
+    "big": "[175 DAYS]\n97% DEATH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In November 2022, he finally verified it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-a.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 501997,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - KYOUKI"
+   }
+  },
+  {
+   "t": "It went in at number 3. The hardest solo level in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-a.mp4",
+     "start": 7.0
+    },
+    "big": "[#3]\nHARDEST SOLO LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you play one level for 175 days?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-c.mp4",
+     "start": 0.0
+    },
+    "big": "175\nDAYS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Demishio; Spaceuk Archive (YouTube)",
+     "clip": "gd35-ky-b.mp4",
+     "start": 4.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Demishio",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

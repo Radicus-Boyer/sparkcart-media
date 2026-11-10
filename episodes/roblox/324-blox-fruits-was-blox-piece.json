@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 324,
+ "slug": "324-blox-fruits-was-blox-piece",
+ "file": "324 Blox Fruits Used to Have a Different Name.mp4",
+ "target": 0,
+ "accent": "#ff9100",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd180",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "One of the biggest Roblox games ever used to have a different name. And it had to change it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WinterKloudz; Gamer Robot (Roblox gameplay, YouTube)",
+     "clip": "rb35-bf-a.mp4",
+     "start": 0
+    },
+    "big": "A DIFFERENT\nNAME",
+    "sub": "BLOX FRUITS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "When it came out in January 2019, it was called Blox Piece. Inspired by One Piece.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WinterKloudz; Gamer Robot (Roblox gameplay, YouTube)",
+     "clip": "rb35-bf-b.mp4",
+     "start": 0
+    },
+    "big": "BLOX\nPIECE",
+    "sub": "JANUARY 2019",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "By the end of 2019, it was renamed Blox Fruits, reportedly because of copyright pressure.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WinterKloudz; Gamer Robot (Roblox gameplay, YouTube)",
+     "clip": "rb35-bf-b.mp4",
+     "start": 7.0
+    },
+    "big": "RENAMED",
+    "sub": "DECEMBER 2019",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Today it has over 65 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WinterKloudz; Gamer Robot (Roblox gameplay, YouTube)",
+     "clip": "rb35-bf-a.mp4",
+     "start": 7.0
+    },
+    "sub": "VISITS",
+    "bs": 120,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 65408602949,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "And over 260,000 people were playing it when I checked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WinterKloudz; Gamer Robot (Roblox gameplay, YouTube)",
+     "clip": "rb35-bf-c.mp4",
+     "start": 0
+    },
+    "big": "260,000+\nPLAYING",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's your favorite fruit?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WinterKloudz; Gamer Robot (Roblox gameplay, YouTube)",
+     "clip": "rb35-bf-a.mp4",
+     "start": 0.0
+    },
+    "big": "BEST\nFRUIT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

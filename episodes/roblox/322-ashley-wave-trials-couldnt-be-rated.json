@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 322,
+ "slug": "322-ashley-wave-trials-couldnt-be-rated",
+ "file": "322 Zoink Beat This Level but It Couldnt Be Rated.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "Zoink verified this level. And it still couldn't be rated.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Nexus [GD] (YouTube)",
+     "clip": "gd35-aw-c.mp4",
+     "start": 0
+    },
+    "big": "[UNRATED]\nASHLEY WAVE TRIALS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Ashley Wave Trials started as an impossible wave level. With a cartoon girl watching you the whole time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Nexus [GD] (YouTube)",
+     "clip": "gd35-aw-b.mp4",
+     "start": 0
+    },
+    "big": "[IMPOSSIBLE]\nWAVE LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It sat in open verification with barely any progress. Until Zoink came back from a break in 2024.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Nexus [GD] (YouTube)",
+     "clip": "gd35-aw-b.mp4",
+     "start": 7.0
+    },
+    "big": "[ZOINK]\nIS BACK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He verified it in November 2024, using a click mod. So it couldn't be rated until RobTop added that feature to the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Nexus [GD] (YouTube)",
+     "clip": "gd35-aw-a.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 13677,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - VERIFIED"
+   }
+  },
+  {
+   "t": "Should mods be allowed?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Nexus [GD] (YouTube)",
+     "clip": "gd35-aw-c.mp4",
+     "start": 0.0
+    },
+    "big": "MODS\nOK?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Nexus [GD] (YouTube)",
+     "clip": "gd35-aw-a.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

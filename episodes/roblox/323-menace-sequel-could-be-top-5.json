@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 323,
+ "slug": "323-menace-sequel-could-be-top-5",
+ "file": "323 The Sequel to This Level Could Be Top 5.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Whizkid05": "Whiz kid oh five"
+ },
+ "lines": [
+  {
+   "t": "This level is already one of the 30 hardest. Its sequel could be top 5.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05 (YouTube)",
+     "clip": "gd35-mn-b.mp4",
+     "start": 0
+    },
+    "big": "[TOP 30]\nMENACE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Menace was one of the first top demons built around update 2.2. Swing duals. Robot sections.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05 (YouTube)",
+     "clip": "gd35-mn-c.mp4",
+     "start": 0
+    },
+    "big": "[2.2]\nSWING DUALS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Whizkid05 verified it after 45,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05 (YouTube)",
+     "clip": "gd35-mn-a.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 45000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - MENACE"
+   }
+  },
+  {
+   "t": "Now there's a sequel called Glass Chapel. It's projected top 5.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05 (YouTube)",
+     "clip": "gd35-mn-a.mp4",
+     "start": 7.0
+    },
+    "big": "[SEQUEL]\nGLASS CHAPEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Would you play the sequel?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05 (YouTube)",
+     "clip": "gd35-mn-b.mp4",
+     "start": 0.0
+    },
+    "big": "SEQUEL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05 (YouTube)",
+     "clip": "gd35-mn-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Whizkid05",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

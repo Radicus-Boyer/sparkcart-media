@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 318,
+ "slug": "318-penumbral-verified-in-12-days",
+ "file": "318 He Verified a Top 10 Level in 12 Days.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "w3rty": "wur-tee"
+ },
+ "lines": [
+  {
+   "t": "Most top levels take months to verify. This player did a top 10 level in 12 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty; Arth GD (YouTube)",
+     "clip": "gd35-pn-c.mp4",
+     "start": 0
+    },
+    "big": "[12 DAYS]\nPENUMBRAL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's Penumbral, verified by w3rty.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty; Arth GD (YouTube)",
+     "clip": "gd35-pn-b.mp4",
+     "start": 0
+    },
+    "big": "[VERIFYING]\nW3RTY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was supposed to be around top 10. And it pushed Slaughterhouse out of the top 25, after four and a half years.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty; Arth GD (YouTube)",
+     "clip": "gd35-pn-c.mp4",
+     "start": 6.0
+    },
+    "big": "[GOODBYE]\nSLAUGHTERHOUSE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Twelve days. That's it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty; Arth GD (YouTube)",
+     "clip": "gd35-pn-a.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 12,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "DAYS TO VERIFY"
+   }
+  },
+  {
+   "t": "How long would it take you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty; Arth GD (YouTube)",
+     "clip": "gd35-pn-a.mp4",
+     "start": 7.0
+    },
+    "big": "HOW\nLONG?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: w3rty; Arth GD (YouTube)",
+     "clip": "gd35-pn-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "w3rty",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

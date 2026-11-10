@@ -1,0 +1,157 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 319,
+ "slug": "319-wpopoff-slaughterhouse-to-grief",
+ "file": "319 3 Years Ago His Hardest Was Slaughterhouse Now He Beat GRIEF First.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "Three years ago, his hardest level was Slaughterhouse. This month, he beat the hardest level in the game. First.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-a.mp4",
+     "start": 0
+    },
+    "big": "[FIRST VICTOR]\nGRIEF",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "wPopoff made his YouTube channel in October 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-b.mp4",
+     "start": 0
+    },
+    "big": "[2022]\nWPOPOFF",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 2023, he beat Slaughterhouse, Acheron, and Kenos. Kenos took him just three days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-b.mp4",
+     "start": 7.0
+    },
+    "big": "[3 DAYS]\nKENOS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then he verified Amethyst and Society. Both became number one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-c.mp4",
+     "start": 0
+    },
+    "big": "[2 TOP 1s]\nAMETHYST + SOCIETY",
+    "bs": 64,
+    "by": 250,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And on November 2nd, he beat GRIEF before anyone else. He's now the number 2 player in the world.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-a.mp4",
+     "start": 7.0
+    },
+    "big": "[#2 PLAYER]\nIN THE WORLD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "wPopoff or Zoink?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-a.mp4",
+     "start": 0.0
+    },
+    "big": "WPOPOFF OR\nZOINK?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: wPopoff; Toogit (YouTube)",
+     "clip": "gd35-wp-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "wPopoff",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

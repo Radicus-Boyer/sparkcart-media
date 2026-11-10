@@ -1,0 +1,150 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 321,
+ "slug": "321-anathema-6-years-to-make",
+ "file": "321 This Level Took 6 Years to Make and Got Cancelled.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Anathema": "Uh-nath-uh-muh",
+  "Whizkid05": "Whiz kid oh five"
+ },
+ "lines": [
+  {
+   "t": "This level took six years to make. It got cancelled along the way.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05; MrWafflz (YouTube)",
+     "clip": "gd35-an-c.mp4",
+     "start": 0
+    },
+    "big": "[6 YEARS]\nANATHEMA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Anathema started in 2017. The host cancelled it, and it was handed to someone else.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05; MrWafflz (YouTube)",
+     "clip": "gd35-an-b.mp4",
+     "start": 0
+    },
+    "big": "[CANCELLED]\n2017-2023",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then it came back, and got buffed way past its first top 20 difficulty. Some players hated that.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05; MrWafflz (YouTube)",
+     "clip": "gd35-an-b.mp4",
+     "start": 7.0
+    },
+    "big": "[BUFFED]\nPAST TOP 20",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Whizkid05 verified it. Today it's number 24 on the Demonlist.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05; MrWafflz (YouTube)",
+     "clip": "gd35-an-a.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 24,
+     "fmt": "#{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "DEMONLIST - ANATHEMA"
+   }
+  },
+  {
+   "t": "Was 6 years worth it?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05; MrWafflz (YouTube)",
+     "clip": "gd35-an-c.mp4",
+     "start": 0.0
+    },
+    "big": "WORTH\nIT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Whizkid05; MrWafflz (YouTube)",
+     "clip": "gd35-an-a.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Whizkid05",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

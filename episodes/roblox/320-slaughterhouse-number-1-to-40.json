@@ -1,0 +1,165 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 320,
+ "slug": "320-slaughterhouse-number-1-to-40",
+ "file": "320 This Was the Hardest Level in Geometry Dash Now Its Number 40.mp4",
+ "target": 0,
+ "accent": "#ff5252",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "spaceuk": "space U K"
+ },
+ "lines": [
+  {
+   "t": "This was the hardest level in Geometry Dash. Today, it's number 40.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-a.mp4",
+     "start": 0
+    },
+    "big": "[#1 > #40]\nSLAUGHTERHOUSE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 2021, spaceuk claimed the verification. It was later found out he hacked it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-b.mp4",
+     "start": 0
+    },
+    "big": "[HACKED]\nSPACEUK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "So the title went to Doggie, who really beat it in December 2021. It was number one for most of 2022.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-a.mp4",
+     "start": 7.0
+    },
+    "big": "[REAL VERIFIER]\nDOGGIE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then newer levels kept pushing it down. Out of the top 20. Out of the top 25.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-b.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 40,
+     "fmt": "#{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "DEMONLIST - SLAUGHTERHOUSE"
+   }
+  },
+  {
+   "t": "And the new number one? GRIEF. A remake of the 2015 Slaughterhouse. Verified by Doggie.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-c.mp4",
+     "start": 0
+    },
+    "big": "[NEW TOP 1]\nGRIEF",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Is Slaughterhouse still hard to you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-a.mp4",
+     "start": 0.0
+    },
+    "big": "STILL\nHARD?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Doggie; Spaceuk Archive; Toogit (YouTube)",
+     "clip": "gd35-sh-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Doggie",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
