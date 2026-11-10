@@ -228,15 +228,14 @@ ep(321, "anathema-6-years-to-make", "This Level Took 6 Years to Make and Got Can
 # ---------------------------------------------------------------- 322 GD: Ashley Wave Trials (wiki.gg)
 AWC = "Clips: Zoink; Nexus [GD] (YouTube)"
 clip("gd35-aw-a.mp4", "https://www.youtube.com/watch?v=aTxt76U3e2Q", "*2:00-2:20", cut=0)
-clip("gd35-aw-b.mp4", "https://www.youtube.com/watch?v=aTxt76U3e2Q", "*0:30-0:50", cut=0)
 clip("gd35-aw-c.mp4", "https://www.youtube.com/watch?v=KrdMngKSLKc", "*0:40-1:00", cut=0)
 ep(322, "ashley-wave-trials-couldnt-be-rated", "Zoink Beat This Level but It Couldnt Be Rated", FENRIR, "#ff4081", GDCAP,
    [L("Zoink verified this level. And it still couldn't be rated.",
       H("gd35-aw-c.mp4", "[UNRATED]\nASHLEY WAVE TRIALS", 0, AWC)),
     L("Ashley Wave Trials started as an impossible wave level. With a cartoon girl watching you the whole time.",
-      H("gd35-aw-b.mp4", "[IMPOSSIBLE]\nWAVE LEVEL", 0, AWC)),
+      H("gd35-aw-c.mp4", "[IMPOSSIBLE]\nWAVE LEVEL", 6.0, AWC)),
     L("It sat in open verification with barely any progress. Until Zoink came back from a break in 2024.",
-      H("gd35-aw-b.mp4", "[ZOINK]\nIS BACK", 7.0, AWC)),
+      H("gd35-aw-a.mp4", "[ZOINK]\nIS BACK", 7.0, AWC)),
     L("He verified it in November 2024, using a click mod. So it couldn't be rated until RobTop added that feature to the game.",
       HC("gd35-aw-a.mp4", 0, AWC, 13677, "ATTEMPTS - VERIFIED")),
     ask("Should mods be allowed?", "MODS\nOK?", "gd35-aw-c.mp4", AWC),
