@@ -204,7 +204,7 @@ ep(330, "build-a-boat-5-billion", "This Roblox Game From 2016 Has Over 5 Billion
       CCOUNT("rb36-bb-c.mp4", 0, BBC, 8570000, "FAVORITES", bs=130)),
     L("And almost 9,000 people were playing it when I checked.",
       CLIP("rb36-bb-a.mp4", "9,000\nPLAYING", "RIGHT NOW", 7.0, BBC, bs=150)),
-    ask("What's the biggest boat you ever built?", "BIGGEST\nBOAT?", "rb36-bb-b.mp4", BBC, 7.0),
+    ask("What's the biggest boat you ever built?", "BIGGEST\nBOAT?", "rb36-bb-c.mp4", BBC, 0.0),
    ])
 
 # ---------------------------------------------------------------- 331 ROBLOX: Epic Minigames
