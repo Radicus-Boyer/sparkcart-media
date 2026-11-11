@@ -1,0 +1,150 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 329,
+ "slug": "329-defeated-circles-9000-attempts",
+ "file": "329 Zoink Beat the Top Nine Circles Level in 5 Days.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Galaxium": "Guh-lax-ee-um",
+  "GXQ": "G X Q"
+ },
+ "lines": [
+  {
+   "t": "Zoink beat the hardest Nine Circles level in just five days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Cosmo (YouTube)",
+     "clip": "gd36-dc-c.mp4",
+     "start": 0
+    },
+    "big": "[5 DAYS]\nDEFEATED CIRCLES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Nine Circles is one of the most famous levels in Geometry Dash. This is a mega collab redecor of it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Cosmo (YouTube)",
+     "clip": "gd36-dc-b.mp4",
+     "start": 0
+    },
+    "big": "[NINE CIRCLES]\nMEGA COLLAB",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was published by GXQ. And made by Galaxium and a huge team.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Cosmo (YouTube)",
+     "clip": "gd36-dc-a.mp4",
+     "start": 0
+    },
+    "big": "[GXQ]\nGALAXIUM",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Zoink verified it in May 2025. After about 9,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Cosmo (YouTube)",
+     "clip": "gd36-dc-a.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 9000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - VERIFIED"
+   }
+  },
+  {
+   "t": "Is Nine Circles the best level ever?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Cosmo (YouTube)",
+     "clip": "gd36-dc-c.mp4",
+     "start": 0.0
+    },
+    "big": "BEST\nLEVEL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Cosmo (YouTube)",
+     "clip": "gd36-dc-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

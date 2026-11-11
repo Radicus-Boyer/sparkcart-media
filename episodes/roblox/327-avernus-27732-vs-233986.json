@@ -1,0 +1,166 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 327,
+ "slug": "327-avernus-27732-vs-233986",
+ "file": "327 Zoink Beat This Level in 27,732 Attempts The Next Player Needed 233,986.mp4",
+ "target": 0,
+ "accent": "#ff5722",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Avernus": "Uh-vern-us",
+  "Acheron": "Ack-er-on"
+ },
+ "lines": [
+  {
+   "t": "Zoink beat this level in about 27,000 attempts. The next player to beat it needed over 233,000.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-a.mp4",
+     "start": 0
+    },
+    "big": "[27,732 VS 233,986]\nAVERNUS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Avernus is known for fast waves, mode switches and brutal timings.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-b.mp4",
+     "start": 0
+    },
+    "big": "[FAST WAVES]\nBRUTAL TIMINGS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Zoink verified it in March 2023. It became the hardest level in the game, passing Acheron.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-a.mp4",
+     "start": 7.0
+    },
+    "big": "[#1]\nHARDEST LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Diamond was the second person to beat it. It took him 233,986 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-c.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 233986,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - DIAMOND"
+   }
+  },
+  {
+   "t": "Then wPopoff beat it in just six days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-c.mp4",
+     "start": 7.0
+    },
+    "big": "[6 DAYS]\nWPOPOFF",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "How many attempts would you need?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-a.mp4",
+     "start": 0.0
+    },
+    "big": "HOW MANY\nATTEMPTS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zoink; Diamond (YouTube)",
+     "clip": "gd36-av-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zoink",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

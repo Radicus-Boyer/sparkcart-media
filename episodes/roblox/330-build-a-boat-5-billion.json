@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 330,
+ "slug": "330-build-a-boat-5-billion",
+ "file": "330 This Roblox Game From 2016 Has Over 5 Billion Visits.mp4",
+ "target": 0,
+ "accent": "#29b6f6",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b3e5fc",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game came out in 2016. And it has over five billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-bb-a.mp4",
+     "start": 0
+    },
+    "big": "5 BILLION\nVISITS",
+    "sub": "BUILD A BOAT",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's Build A Boat For Treasure. You build a boat, then sail through dangerous waters to find treasure.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-bb-b.mp4",
+     "start": 0
+    },
+    "big": "BUILD A BOAT",
+    "sub": "FOR TREASURE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "More than 8 million people have favorited it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-bb-c.mp4",
+     "start": 0
+    },
+    "sub": "FAVORITES",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 8570000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "And almost 9,000 people were playing it when I checked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-bb-a.mp4",
+     "start": 7.0
+    },
+    "big": "9,000\nPLAYING",
+    "sub": "RIGHT NOW",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's the biggest boat you ever built?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-bb-b.mp4",
+     "start": 7.0
+    },
+    "big": "BIGGEST\nBOAT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

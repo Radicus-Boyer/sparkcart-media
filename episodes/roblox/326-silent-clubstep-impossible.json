@@ -1,0 +1,166 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 326,
+ "slug": "326-silent-clubstep-impossible",
+ "file": "326 This Level Was Called Humanly Impossible.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "paqoe": "Pack-oh",
+  "Clubstep": "Club step"
+ },
+ "lines": [
+  {
+   "t": "For years, players said this level was humanly impossible.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-c.mp4",
+     "start": 0
+    },
+    "big": "[IMPOSSIBLE]\nSILENT CLUBSTEP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's a silent remake of Clubstep. With a section players call the eight jumps of hell.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-b.mp4",
+     "start": 0
+    },
+    "big": "[8 JUMPS]\nOF HELL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 2020 it got a nerf, which took out the timings only possible at high FPS.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-c.mp4",
+     "start": 7.0
+    },
+    "big": "[2020]\nNERFED",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In July 2022, paqoe finally verified it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-a.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIED]\nJULY 2022",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It took over 138,000 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-a.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 138000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - SILENT CLUBSTEP"
+   }
+  },
+  {
+   "t": "Is it still impossible?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-c.mp4",
+     "start": 0.0
+    },
+    "big": "STILL\nIMPOSSIBLE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: paqoe; fnm04 (YouTube)",
+     "clip": "gd36-sc-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "paqoe",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

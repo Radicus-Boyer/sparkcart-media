@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 332,
+ "slug": "332-mad-city-2-billion-visits-76-playing",
+ "file": "332 This Roblox Game Has 2.6 Billion Visits But 76 Players.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This Roblox game has over two and a half billion visits. And only 76 people were playing it when I checked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-mc-a.mp4",
+     "start": 0
+    },
+    "big": "76\nPLAYING",
+    "sub": "MAD CITY",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Mad City came out in 2017. You pick a side. Criminal, or hero.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-mc-b.mp4",
+     "start": 0
+    },
+    "big": "CRIMINAL\nOR HERO",
+    "sub": "2017",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It has 2.6 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-mc-c.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 120,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 2615038411,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "And almost 6 million favorites.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-mc-a.mp4",
+     "start": 7.0
+    },
+    "big": "5.8 MILLION\nFAVORITES",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you play Mad City?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox gameplay (YouTube)",
+     "clip": "rb36-mc-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nPLAY IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

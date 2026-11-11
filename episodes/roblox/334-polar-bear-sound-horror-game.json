@@ -1,0 +1,128 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 334,
+ "slug": "334-polar-bear-sound-horror-game",
+ "file": "334 The Creepy Polar Bear Song Comes From a Horror Game.mp4",
+ "target": 0,
+ "accent": "#80deea",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#e0f7fa",
+  "cy": 1470
+ },
+ "pron": {
+  "Cumbia": "Koom-bee-uh",
+  "Masonica": "Mah-sonn-ih-kuh"
+ },
+ "lines": [
+  {
+   "t": "The creepy sound in the polar bear meme comes from a horror game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: polar bear 2026 meme videos (YouTube)",
+     "clip": "tr36-pb-a.mp4",
+     "start": 0
+    },
+    "big": "THE CREEPY\nSOUND",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's called Cumbia Masonica. It came out in 2017, and it was used in the game Hello Charlotte, episode 3.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: polar bear 2026 meme videos (YouTube)",
+     "clip": "tr36-pb-b.mp4",
+     "start": 0
+    },
+    "big": "CUMBIA\nMASONICA",
+    "sub": "HELLO CHARLOTTE",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In September 2023, videos using it started spreading with the polar bear. It sounds like a girl repeating yo yo yo.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: polar bear 2026 meme videos (YouTube)",
+     "clip": "tr36-pb-c.mp4",
+     "start": 0
+    },
+    "big": "YO YO YO",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Now every polar bear video has it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: polar bear 2026 meme videos (YouTube)",
+     "clip": "tr36-pb-b.mp4",
+     "start": 7.0
+    },
+    "big": "EVERY\nPOLAR BEAR",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did this song give you chills?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: polar bear 2026 meme videos (YouTube)",
+     "clip": "tr36-pb-a.mp4",
+     "start": 0.0
+    },
+    "big": "CHILLS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: polar bear 2026 meme videos (YouTube)",
+     "clip": "tr36-pb-c.mp4",
+     "start": 6.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}
