@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 340,
+ "slug": "340-john-doe-march-18",
+ "file": "340 This Roblox Account Was Supposed to Hack Roblox on March 18.mp4",
+ "target": 0,
+ "accent": "#ff5252",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 118,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "cy": 1470
+ },
+ "pron": {
+  "Baszucki": "Bah-zoo-key"
+ },
+ "lines": [
+  {
+   "t": "This Roblox account was last online on March 18th. And players thought he'd come back on that day to hack Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-c.mp4",
+     "start": 0
+    },
+    "big": "[GAME MYSTERIES]\nJOHN DOE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "John Doe and Jane Doe are two of the oldest accounts on Roblox. John is user number 2.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-a.mp4",
+     "start": 0
+    },
+    "big": "[USER #2]\nJOHN DOE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In 2017, a rumor spread that they would hack Roblox on March 18. Clickbait videos made it huge.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-b.mp4",
+     "start": 0
+    },
+    "big": "[MARCH 18]\nTHE HACK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Players were scared to log in. Then March 18 came, and nothing happened.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NOTHING\nHAPPENED]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The truth? Roblox's founders made them in 2005, as test accounts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-b.mp4",
+     "start": 7.0
+    },
+    "big": "[2005]\nTEST ACCOUNTS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Every March 18, players still dress up like John and Jane Doe.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-c.mp4",
+     "start": 7.0
+    },
+    "big": "[EVERY\nMARCH 18]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Were you scared of March 18?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Roblox videos - RageElixir; BeepinHam (YouTube)",
+     "clip": "rb37-jd-c.mp4",
+     "start": 0.0
+    },
+    "big": "SCARED?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAME MYSTERIES",
+ "mood": "ambience",
+ "music_vol": 0.4
+}

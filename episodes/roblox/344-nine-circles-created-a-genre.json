@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 344,
+ "slug": "344-nine-circles-created-a-genre",
+ "file": "344 This Hard Demon Created a Whole New Type of Level.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Zobros": "Zoh-bros"
+ },
+ "lines": [
+  {
+   "t": "This is only a Hard Demon. But it created a whole new type of level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zobros; Nexus [GD] (YouTube)",
+     "clip": "gd37-nc-b.mp4",
+     "start": 0
+    },
+    "big": "[HARD DEMON]\nNINE CIRCLES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Nine Circles, by Zobros. A super fast wave section, and strobing visuals.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zobros; Nexus [GD] (YouTube)",
+     "clip": "gd37-nc-a.mp4",
+     "start": 0
+    },
+    "big": "[ZOBROS]\nFAST WAVE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Players remade it thousands of times. These became known as Nine Circles levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zobros; Nexus [GD] (YouTube)",
+     "clip": "gd37-nc-c.mp4",
+     "start": 0
+    },
+    "big": "[THOUSANDS]\nOF REMAKES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Sonic Wave, Poltergeist, and Jawbreaker all came from it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zobros; Nexus [GD] (YouTube)",
+     "clip": "gd37-nc-b.mp4",
+     "start": 7.0
+    },
+    "big": "[SONIC WAVE]\nCAME FROM THIS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What's the best Nine Circles level?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zobros; Nexus [GD] (YouTube)",
+     "clip": "gd37-nc-c.mp4",
+     "start": 7.0
+    },
+    "big": "BEST\nONE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Zobros; Nexus [GD] (YouTube)",
+     "clip": "gd37-nc-a.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Zobros",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

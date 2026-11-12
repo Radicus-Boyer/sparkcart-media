@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 338,
+ "slug": "338-pt-part-1",
+ "file": "338 The Scariest Free Game Was Made by a Studio That Didnt Exist Part 1.mp4",
+ "target": 0,
+ "accent": "#b71c1c",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 118,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "cy": 1470
+ },
+ "pron": {
+  "P.T.": "P T",
+  "7780s": "seventy seven eighty's"
+ },
+ "lines": [
+  {
+   "t": "In 2014, a free horror game appeared on PlayStation. From a studio nobody had ever heard of.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-a.mp4",
+     "start": 0
+    },
+    "big": "[GAME MYSTERIES #2]\nP.T.",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was called P.T. You walk down one hallway. Over and over. And every loop, something changes.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-b.mp4",
+     "start": 0
+    },
+    "big": "[ONE HALLWAY]\nFOREVER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "A radio talks about a family murder. A voice keeps repeating the same numbers.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-a.mp4",
+     "start": 7.0
+    },
+    "big": "[204863]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And a ghost named Lisa follows you. If she catches you, you start over.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-c.mp4",
+     "start": 0
+    },
+    "big": "[LISA]\nIS BEHIND YOU",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The studio was called 7780s Studio. It didn't exist.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-d.mp4",
+     "start": 0
+    },
+    "big": "[7780s STUDIO]\nDIDN'T EXIST",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "When players finally solved the last puzzle, they found out who really made it. It was",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-b.mp4",
+     "start": 7.0
+    },
+    "big": "[WHO MADE IT?]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Part 2 is on my page.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-c.mp4",
+     "start": 7.0
+    },
+    "big": "PART 2",
+    "sub": "ON MY PAGE",
+    "bs": 190,
+    "ss": 64,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.3,
+ "clip_audio": true,
+ "edition": "GAME MYSTERIES",
+ "mood": "ambience",
+ "music_vol": 0.45,
+ "clip_duck": 0.18
+}

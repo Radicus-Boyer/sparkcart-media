@@ -1,0 +1,251 @@
+{
+ "batch": 37,
+ "note": "Game Mysteries 2-parters (Polybius, P.T.), John Doe, pack.png, half A press, Spectre, Nine Circles, Yatagarasu",
+ "posting": "Z:/claudeprojects/roblox vids/batch-37/posting.txt",
+ "episodes": [
+  "episodes/roblox/336-polybius-part-1.json",
+  "episodes/roblox/337-polybius-part-2.json",
+  "episodes/roblox/338-pt-part-1.json",
+  "episodes/roblox/339-pt-part-2.json",
+  "episodes/roblox/340-john-doe-march-18.json",
+  "episodes/roblox/341-minecraft-pack-png-seed.json",
+  "episodes/roblox/342-half-an-a-press.json",
+  "episodes/roblox/343-spectre-106017-vs-5582.json",
+  "episodes/roblox/344-nine-circles-created-a-genre.json",
+  "episodes/roblox/345-yatagarasu-new-difficulty.json"
+ ],
+ "clips": [
+  {
+   "name": "my37-pb-a",
+   "url": "https://www.youtube.com/watch?v=XHhMcJHYtBU",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pb-b",
+   "url": "https://www.youtube.com/watch?v=TD1MBrkfEM0",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pb-c",
+   "url": "https://www.youtube.com/watch?v=4gLypLPTljg",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pb-d",
+   "url": "https://www.youtube.com/watch?v=4gLypLPTljg",
+   "backup": [],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pb-e",
+   "url": "https://www.youtube.com/watch?v=4gLypLPTljg",
+   "backup": [],
+   "section": "*5:30-5:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pt-a",
+   "url": "https://www.youtube.com/watch?v=YbaTFXlBllI",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pt-b",
+   "url": "https://www.youtube.com/watch?v=YbaTFXlBllI",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pt-c",
+   "url": "https://www.youtube.com/watch?v=zNdKnJg9dEY",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pt-d",
+   "url": "https://www.youtube.com/watch?v=zNdKnJg9dEY",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pt-e",
+   "url": "https://www.youtube.com/watch?v=YbaTFXlBllI",
+   "backup": [],
+   "section": "*21:00-21:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "my37-pt-f",
+   "url": "https://www.youtube.com/watch?v=0bGI3ut3vBg",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb37-jd-a",
+   "url": "https://www.youtube.com/watch?v=e7FqUsrX4Vs",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb37-jd-b",
+   "url": "https://www.youtube.com/watch?v=e7FqUsrX4Vs",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb37-jd-c",
+   "url": "https://www.youtube.com/watch?v=Q0nujJ1g88E",
+   "backup": [],
+   "section": "*0:00-0:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc37-pk-a",
+   "url": "https://www.youtube.com/watch?v=ea6py9q46QU",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc37-pk-b",
+   "url": "https://www.youtube.com/watch?v=ea6py9q46QU",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc37-pk-c",
+   "url": "https://www.youtube.com/watch?v=fr4Iw74ZWxk",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "im37-ab-a",
+   "url": "https://www.youtube.com/watch?v=kpk2tdsPh0A",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "im37-ab-b",
+   "url": "https://www.youtube.com/watch?v=kpk2tdsPh0A",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "im37-ab-c",
+   "url": "https://www.youtube.com/watch?v=X-zAWbM50JM",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-sp-a",
+   "url": "https://www.youtube.com/watch?v=MzsSLKJrLSI",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-sp-b",
+   "url": "https://www.youtube.com/watch?v=MzsSLKJrLSI",
+   "backup": [],
+   "section": "*2:20-2:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-sp-c",
+   "url": "https://www.youtube.com/watch?v=D0tp4U1sUWs",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-nc-a",
+   "url": "https://www.youtube.com/watch?v=4WCgpSYz-ug",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-nc-b",
+   "url": "https://www.youtube.com/watch?v=4WCgpSYz-ug",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-nc-c",
+   "url": "https://www.youtube.com/watch?v=dOdPoU1ncOc",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-yt-a",
+   "url": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-yt-b",
+   "url": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd37-yt-c",
+   "url": "https://www.youtube.com/watch?v=AnlW9Z6aVrM",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

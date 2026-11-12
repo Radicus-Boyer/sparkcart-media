@@ -898,7 +898,7 @@ def render(ep, sheet=False):
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", vid, "-i", WORK + f"{ep['slug']}_voice.wav",
                         "-i", WORK + f"{ep['slug']}_music.wav", "-i", WORK + f"{ep['slug']}_sfx.wav",
                         "-i", WORK + f"{ep['slug']}_clipaudio.wav", "-filter_complex",
-                        "[1:a]aresample=44100,volume=1.5,asplit=3[vo1][vo2][vo3];[2:a]volume=0.15[mu];"
+                        f"[1:a]aresample=44100,volume=1.5,asplit=3[vo1][vo2][vo3];[2:a]volume={ep.get('music_vol', 0.15)}[mu];"
                         f"[4:a]volume={cv}[ca];"
                         "[mu][vo1]sidechaincompress=threshold=0.05:ratio=6:attack=20:release=300[md];"
                         "[ca][vo3]sidechaincompress=threshold=0.03:ratio=12:attack=10:release=250[cd];"

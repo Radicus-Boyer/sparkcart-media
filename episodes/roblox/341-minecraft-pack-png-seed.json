@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 341,
+ "slug": "341-minecraft-pack-png-seed",
+ "file": "341 It Took 8 Months to Find Where This Minecraft Picture Was Taken.mp4",
+ "target": 0,
+ "accent": "#66bb6a",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b9f6ca",
+  "cy": 1470
+ },
+ "pron": {
+  "SalC1": "Sal C 1",
+  "pack.png": "pack P N G"
+ },
+ "lines": [
+  {
+   "t": "This picture has been in Minecraft for years. It took 8 months to find out where it was taken.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; 07 Archives (YouTube)",
+     "clip": "mc37-pk-a.mp4",
+     "start": 0
+    },
+    "big": "8 MONTHS",
+    "sub": "PACK.PNG",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's called pack.png. The default pack icon. A screenshot from one old Minecraft world.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; 07 Archives (YouTube)",
+     "clip": "mc37-pk-b.mp4",
+     "start": 0
+    },
+    "big": "PACK.PNG",
+    "sub": "ONE SCREENSHOT",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In January 2020, the YouTuber SalC1 asked a simple question. What world is this? Seed hunters got to work.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; 07 Archives (YouTube)",
+     "clip": "mc37-pk-c.mp4",
+     "start": 0
+    },
+    "big": "WHAT WORLD\nIS THIS?",
+    "sub": "JANUARY 2020",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Checking every possible seed would take almost a year and a half of computing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; 07 Archives (YouTube)",
+     "clip": "mc37-pk-b.mp4",
+     "start": 7.0
+    },
+    "big": "1.5 YEARS",
+    "sub": "OF COMPUTING",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "On September 5th, 2020, the alarm went off. The seed was in the last 5 percent they checked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; 07 Archives (YouTube)",
+     "clip": "mc37-pk-a.mp4",
+     "start": 7.0
+    },
+    "big": "FOUND",
+    "sub": "SEPTEMBER 5, 2020",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you visit the pack.png world?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; 07 Archives (YouTube)",
+     "clip": "mc37-pk-c.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD YOU\nVISIT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

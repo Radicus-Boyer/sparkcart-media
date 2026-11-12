@@ -1,0 +1,172 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 343,
+ "slug": "343-spectre-106017-vs-5582",
+ "file": "343 He Took 106,017 Attempts Then Someone Beat It in 5,582.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "PersonHuman42": "Person Human forty two"
+ },
+ "lines": [
+  {
+   "t": "He took over 106,000 attempts to verify this level. Six days later, someone beat it in 5,582.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-b.mp4",
+     "start": 0
+    },
+    "big": "[106,017 VS 5,582]\nSPECTRE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Spectre is a giant mega collab. A spiritual successor to Zodiac. Rainbow colors and flow gameplay.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-a.mp4",
+     "start": 0
+    },
+    "big": "[RAINBOW]\nZODIAC SUCCESSOR",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "PersonHuman42 verified it in October 2024.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-b.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 106017,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - VERIFIER"
+   }
+  },
+  {
+   "t": "Then Trick beat it six days later. In just 5,582 attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-c.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 5582,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "ATTEMPTS - TRICK"
+   }
+  },
+  {
+   "t": "It went in at number 6 on the Demonlist.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-c.mp4",
+     "start": 7.0
+    },
+    "big": "[#6]\nDEMONLIST",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Who's more impressive?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-b.mp4",
+     "start": 0.0
+    },
+    "big": "WHO'S\nBETTER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: PersonHuman42; Trick (YouTube)",
+     "clip": "gd37-sp-a.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "PersonHuman42",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

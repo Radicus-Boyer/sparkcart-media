@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 336,
+ "slug": "336-polybius-part-1",
+ "file": "336 The Arcade Game That Vanished in 1981 Part 1.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 118,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "cy": 1470
+ },
+ "pron": {
+  "Polybius": "Puh-libby-us"
+ },
+ "lines": [
+  {
+   "t": "In 1981, an arcade game showed up in Portland, Oregon. Then it vanished.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-a.mp4",
+     "start": 0
+    },
+    "big": "[GAME MYSTERIES #1]\nPOLYBIUS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was called Polybius. A black cabinet, with strange flashing shapes.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-b.mp4",
+     "start": 0
+    },
+    "big": "[1981]\nPORTLAND, OREGON",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Kids lined up to play it. Then the stories started. Seizures. Nightmares. Memory loss.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-a.mp4",
+     "start": 7.0
+    },
+    "big": "[SEIZURES]\nNIGHTMARES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "At night, men in black suits came to the machines. They didn't take the coins. They took data.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-c.mp4",
+     "start": 0
+    },
+    "big": "[MEN IN BLACK]\nTOOK THE DATA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Within weeks, every machine was gone. No company. No record. Nothing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-d.mp4",
+     "start": 0
+    },
+    "big": "[GONE]\nNO RECORD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But in 1981, something real did happen at those arcades. And it started with",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-a.mp4",
+     "start": 4.0
+    },
+    "big": "[WHAT REALLY\nHAPPENED?]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Part 2 is on my page.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-b.mp4",
+     "start": 7.0
+    },
+    "big": "PART 2",
+    "sub": "ON MY PAGE",
+    "bs": 190,
+    "ss": 64,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.3,
+ "clip_audio": true,
+ "edition": "GAME MYSTERIES",
+ "mood": "ambience",
+ "music_vol": 0.45,
+ "clip_duck": 0.18
+}

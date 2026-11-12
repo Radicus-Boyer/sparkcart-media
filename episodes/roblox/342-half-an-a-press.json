@@ -1,0 +1,147 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 342,
+ "slug": "342-half-an-a-press",
+ "file": "342 This Mario Level Was Beaten With Half a Jump.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#fff59d",
+  "cy": 1470
+ },
+ "pron": {
+  "pannenkoek2012": "pannen cook twenty twelve"
+ },
+ "lines": [
+  {
+   "t": "This Mario level was beaten with half a jump.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-c.mp4",
+     "start": 0
+    },
+    "big": "HALF\nA JUMP",
+    "sub": "SUPER MARIO 64",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In Super Mario 64, pannenkoek2012 tries to beat levels pressing the jump button as few times as possible.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-a.mp4",
+     "start": 0
+    },
+    "big": "FEWEST\nJUMPS",
+    "sub": "THE A BUTTON CHALLENGE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2016 he beat Watch for Rolling Rocks in half an A press. He was already holding the button from the level before.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-b.mp4",
+     "start": 0
+    },
+    "big": "0.5 A\nPRESSES",
+    "sub": "2016",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "To do it, Mario builds up so much speed he moves through parallel universes. The first plan took over 14 hours.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-c.mp4",
+     "start": 7.0
+    },
+    "big": "PARALLEL\nUNIVERSES",
+    "sub": "14+ HOURS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then in 2023, someone beat it with zero A presses.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-a.mp4",
+     "start": 7.0
+    },
+    "big": "ZERO",
+    "sub": "2023",
+    "bs": 190,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Could you beat Mario without jumping?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-b.mp4",
+     "start": 7.0
+    },
+    "big": "NO\nJUMPING?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: pannenkoek2012 (YouTube)",
+     "clip": "im37-ab-c.mp4",
+     "start": 4.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "IMPOSSIBLE FEATS"
+}

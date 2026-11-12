@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 345,
+ "slug": "345-yatagarasu-new-difficulty",
+ "file": "345 This Level Was So Hard Geometry Dash Added a New Difficulty.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Yatagarasu": "Yah-tah-gah-rah-soo",
+  "TrusTa": "Trust-uh",
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "This level was so hard, Geometry Dash added a new difficulty three days later.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TrusTa; Vortex RBR (YouTube)",
+     "clip": "gd37-yt-b.mp4",
+     "start": 0
+    },
+    "big": "[NEW DIFFICULTY]\nYATAGARASU",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Yatagarasu. A hell themed mega collab, named after a three legged crow from Japanese myth.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TrusTa; Vortex RBR (YouTube)",
+     "clip": "gd37-yt-a.mp4",
+     "start": 0
+    },
+    "big": "[3-LEGGED CROW]\nJAPANESE MYTH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "TrusTa verified it on January 13, 2017. It went straight to number 1.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TrusTa; Vortex RBR (YouTube)",
+     "clip": "gd37-yt-c.mp4",
+     "start": 0
+    },
+    "big": "[#1]\nTRUSTA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Players said RobTop needed a harder rating. Three days later, update 2.1 added Extreme Demons.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TrusTa; Vortex RBR (YouTube)",
+     "clip": "gd37-yt-b.mp4",
+     "start": 7.0
+    },
+    "big": "[2.1]\nEXTREME DEMONS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Should there be a rating harder than Extreme?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TrusTa; Vortex RBR (YouTube)",
+     "clip": "gd37-yt-a.mp4",
+     "start": 7.0
+    },
+    "big": "HARDER\nTHAN EXTREME?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TrusTa; Vortex RBR (YouTube)",
+     "clip": "gd37-yt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "TrusTa",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

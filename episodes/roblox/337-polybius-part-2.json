@@ -1,0 +1,168 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 337,
+ "slug": "337-polybius-part-2",
+ "file": "337 The Arcade Game That Vanished in 1981 Part 2.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 118,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "cy": 1470
+ },
+ "pron": {
+  "Polybius": "Puh-libby-us"
+ },
+ "lines": [
+  {
+   "t": "Part 2. Polybius vanished. But real things happened in Portland in 1981.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-a.mp4",
+     "start": 0.0
+    },
+    "big": "[PART 2]\nPOLYBIUS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "A teenager got a migraine playing Tempest, and was found passed out in a stranger's yard.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-c.mp4",
+     "start": 7.0
+    },
+    "big": "[TEMPEST]\nPASSED OUT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Another kid played Asteroids for 28 hours straight for a record, and got sick.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-d.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 28,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "HOURS OF ASTEROIDS"
+   }
+  },
+  {
+   "t": "Ten days later, the FBI raided Portland arcades. Agents watched the machines and wrote down high scores.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-e.mp4",
+     "start": 0
+    },
+    "big": "[FBI RAIDS]\nPORTLAND",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "They were hunting illegal gambling machines. So the men in black were real. Just not who people thought.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-e.mp4",
+     "start": 7.0
+    },
+    "big": "[THE MEN\nIN BLACK]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And Polybius? No 1980s newspaper ever mentioned it. The first trace is a website note around 2000. Anyone heard of this game?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-b.mp4",
+     "start": 0
+    },
+    "big": "[NO RECORD]\nUNTIL 2000",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Do you think Polybius was real?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-a.mp4",
+     "start": 0.0
+    },
+    "big": "REAL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Push Square; Nostalgia Nerd; Gaming Historian (YouTube)",
+     "clip": "my37-pb-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAME MYSTERIES",
+ "mood": "ambience",
+ "music_vol": 0.45,
+ "clip_duck": 0.18
+}

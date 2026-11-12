@@ -1,0 +1,154 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 339,
+ "slug": "339-pt-part-2",
+ "file": "339 The Scariest Free Game Was Made by a Studio That Didnt Exist Part 2.mp4",
+ "target": 0,
+ "accent": "#b71c1c",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 118,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff5252",
+  "cy": 1470
+ },
+ "pron": {
+  "P.T.": "P T",
+  "Kojima": "Ko-jee-ma",
+  "Reedus": "Ree-dus"
+ },
+ "lines": [
+  {
+   "t": "Part 2. P.T. came from a fake studio. And the real answer shocked everyone.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-c.mp4",
+     "start": 0.0
+    },
+    "big": "[PART 2]\nP.T.",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was a teaser for a new Silent Hill game. Silent Hills. By Hideo Kojima and Guillermo del Toro, starring Norman Reedus.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-e.mp4",
+     "start": 0
+    },
+    "big": "[SILENT HILLS]\nKOJIMA + DEL TORO",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Over a million people downloaded it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-a.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 1000000,
+     "fmt": "{:,.0f}+",
+     "dur": 1.3
+    },
+    "sub": "DOWNLOADS"
+   }
+  },
+  {
+   "t": "Then in April 2015, Silent Hills was cancelled. And P.T. was pulled from the PlayStation Store.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-f.mp4",
+     "start": 0
+    },
+    "big": "[CANCELLED]\nAPRIL 2015",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Now you can't download it again. PS4s with P.T. still installed were listed on eBay for over 1,000 dollars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-d.mp4",
+     "start": 0
+    },
+    "big": "[$1,000+]\nFOR A PS4",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Would you play P.T. alone at night?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-c.mp4",
+     "start": 0.0
+    },
+    "big": "ALONE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: P.T. gameplay - Shirrako; Outstar; SVG (YouTube)",
+     "clip": "my37-pt-b.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAME MYSTERIES",
+ "mood": "ambience",
+ "music_vol": 0.45,
+ "clip_duck": 0.18
+}
