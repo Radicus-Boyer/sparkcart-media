@@ -228,14 +228,14 @@ clip("tr38-gt-c.mp4", "https://www.youtube.com/watch?v=wiW1mpHZb_Y", "*2:00-2:20
 ep(352, "gta-6-police-remember-you", "In GTA 6 the Police Remember What You Wore", MIKE, "#ff4081",
    {"font": MF + "Bangers-Regular.ttf", "size": 120, "mode": "word", "fill": "#ffffff", "hi": "#ff80ab", "cy": 1470},
    [L("In GTA 6, the police remember what you were wearing.",
-      CLIP("tr38-gt-a.mp4", "THEY\nREMEMBER", "GTA 6", 0, GTC, bs=150)),
+      CLIP("tr38-gt-c.mp4", "THEY\nREMEMBER", "GTA 6", 0, GTC, bs=150)),
     L("Rockstar showed it in a 26 minute gameplay video. Cops remember your clothes and your car.",
-      CLIP("tr38-gt-b.mp4", "CLOTHES\n+ CAR", "26 MIN GAMEPLAY", 0, GTC, bs=150)),
+      CLIP("tr38-gt-b.mp4", "CLOTHES\n+ CAR", "26 MIN GAMEPLAY", 6.0, GTC, bs=150)),
     L("So to escape, you have to change your look. There's even a six star wanted level.",
-      CLIP("tr38-gt-c.mp4", "6 STAR\nWANTED", "", 0, GTC, bs=150)),
+      CLIP("tr38-gt-a.mp4", "6 STAR\nWANTED", "", 7.0, GTC, bs=150)),
     L("GTA 6 comes out November 19th. That's six days away.",
       CLIP("tr38-gt-a.mp4", "NOV 19", "6 DAYS", 7.0, GTC, bs=190)),
-    ask("Are you buying it on day one?", "DAY\nONE?", "tr38-gt-b.mp4", GTC, 7.0),
+    ask("Are you buying it on day one?", "DAY\nONE?", "tr38-gt-c.mp4", GTC, 0.0),
     subline("tr38-gt-c.mp4", GTC, 7.0),
    ], edition="GAMING NEWS")
 
@@ -287,10 +287,10 @@ ep(355, "low-taper-fade-sad-song", "The Low Taper Fade Meme Started in a Sad Son
       CLIP("tr38-lt-a.mp4", "JAN 5, 2024", "TWITCH", 6.0, LTC, bs=150),
       say="In January 2024, Eric D O A was freestyling on Twitch. The stream got emotional. So he sang the funniest thing he could think of."),
     L("Eight days later, Ninja actually got the haircut.",
-      CLIP("tr38-lt-b.mp4", "HE DID IT", "JAN 13", 0, LTC, bs=160)),
+      CLIP("tr38-lt-c.mp4", "HE DID IT", "JAN 13", 5.0, LTC, bs=160)),
     L("And then he kept calling the meme massive. For months.",
-      CLIP("tr38-lt-c.mp4", "STILL\nMASSIVE", "", 0, LTC, bs=160)),
-    ask("The full story is on my channel. Is it still massive?", "STILL\nMASSIVE?", "tr38-lt-c.mp4", LTC, 8.0),
+      CLIP("tr38-lt-c.mp4", "STILL\nMASSIVE", "", 10.0, LTC, bs=160)),
+    ask("The full story is on my channel. Is it still massive?", "STILL\nMASSIVE?", "tr38-lt-a.mp4", LTC, 0.0),
    ], edition="MEME LORE")
 
 # ================================================================== write
