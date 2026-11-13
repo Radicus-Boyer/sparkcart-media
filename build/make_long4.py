@@ -31,7 +31,7 @@ def BEAT(sec, sc):
 ED, NJ, CL = "ericdoa", "Ninja", "clip pages"
 clip("lf4-line", "https://www.youtube.com/watch?v=ok5XRYhgH9Q", "*0:00-0:16", 16)       # the line itself
 clip("lf4-vod", "https://www.youtube.com/watch?v=jwA9RAvcxuw", "*23:30-27:30", 240)      # ericdoa 2-hour Twitch freestyle (vault re-upload)
-clip("lf4-orig", "https://www.youtube.com/watch?v=zloi-MI3DuY", "*0:00-1:42", 102)       # Ninja got a low taper fade, original TikToks
+clip("lf4-cut", "https://www.youtube.com/watch?v=aLlrv2KJreQ", "*0:00-0:24", 24)        # Ninja low taper fade original clip (haircut)
 clip("lf4-comp", "https://www.youtube.com/watch?v=jIdbfXDKGNE", "*0:00-2:24", 144)       # Ninja low taper fade compilation
 clip("lf4-drag", "https://www.youtube.com/watch?v=ryNMM5pMPr0", "*0:00-0:18", 18)        # Ninja dragging the meme
 clip("lf4-dragc", "https://www.youtube.com/watch?v=8-KJdIV3w6Q", "*0:00-6:00", 360)      # dragging edits compilation
@@ -43,8 +43,8 @@ clip("lf4-say", "https://www.youtube.com/watch?v=yqSkmtGQxR0", "*0:00-3:04", 184
 # ---------------------------------------------------------------- cold open
 BEAT(4.0, S("lf4-line", 0, ED))
 L("In January 2024, a singer sang one sentence on a Twitch stream.", S("lf4-vod", 30, ED, big="ONE\nSENTENCE"))
-L("Eight days later, one of the biggest streamers on the planet walked into a barbershop because of it.", S("lf4-orig", 10, NJ, big="8 DAYS LATER"))
-L("And then the internet did something even weirder. It turned the joke around, and made fun of him for loving it too much.", S("lf4-drag", 2, CL))
+L("Eight days later, one of the biggest streamers on the planet walked into a barbershop because of it.", S("lf4-comp", 20, NJ, big="8 DAYS LATER"))
+L("And then the internet did something even weirder. It turned the joke around, and made fun of him for loving it too much.", S("lf4-drag", 4, CL))
 BEAT(4.0, S("lf4-drag", 6, CL))
 L("So how does a haircut become one of the biggest memes of 2024? It starts somewhere nobody expected. In the middle of a sad song.", S("lf4-vod", 60, ED, big="IT STARTED\nSAD"))
 
@@ -70,14 +70,14 @@ L("Why did it work? It's short. It's sung like a heartfelt ballad, about a hairc
 L("Then the brands showed up. The Brooklyn Nets used the sound. NFL on CBS posted, prophecy fulfilled. Rolling Loud posted, imagine no more.", S("lf4-comp", 80, CL, big="THE BRANDS\nJOINED"))
 L("ericdoa's own clip page even posted him reacting to the Brooklyn Nets using his audio.", S("lf4-comp", 95, CL), say="Eric D O A's own clip page even posted him reacting to the Brooklyn Nets using his audio.")
 L("By January 19th, Rolling Stone had written a whole article about him, called Meet ericdoa, the reason why Ninja got a low taper fade.", S("lf4-vod", 180, ED, big="ROLLING STONE", sub="JAN 19, 2024"), say="By January 19th, Rolling Stone had written a whole article about him, called Meet Eric D O A, the reason why Ninja got a low taper fade.")
-L("But there was one person everybody was waiting on.", S("lf4-orig", 2, NJ, big="NINJA?"))
+L("But there was one person everybody was waiting on.", S("lf4-comp", 35, NJ, big="NINJA?"))
 
 # ---------------------------------------------------------------- 3 Ninja
-L("On January 12th, Ninja posted his first reaction. And the next day, January 13th, he did it.", S("lf4-orig", 8, NJ, chapter="THE PROPHECY", chn=3))
-L("He actually got the haircut.", S("lf4-orig", 20, NJ, big="HE DID IT"))
-BEAT(5.0, S("lf4-orig", 24, NJ))
-L("His reveal, set to ericdoa's sound, got 5.4 million views in three days.", S("lf4-orig", 40, NJ, big="5.4 MILLION", sub="IN 3 DAYS"), say="His reveal, set to Eric D O A's sound, got 5.4 million views in three days.")
-L("The internet imagined it. Ninja made it real. Story over, right?", S("lf4-orig", 60, NJ, big="THE END?"))
+L("On January 12th, Ninja posted his first reaction. And the next day, January 13th, he did it.", S("lf4-comp", 50, NJ, chapter="THE PROPHECY", chn=3))
+L("He actually got the haircut.", S("lf4-cut", 2, NJ, big="HE DID IT"))
+BEAT(5.0, S("lf4-cut", 8, NJ))
+L("His reveal, set to ericdoa's sound, got 5.4 million views in three days.", S("lf4-cut", 14, NJ, big="5.4 MILLION", sub="IN 3 DAYS"), say="His reveal, set to Eric D O A's sound, got 5.4 million views in three days.")
+L("The internet imagined it. Ninja made it real. Story over, right?", S("lf4-comp", 65, NJ, big="THE END?"))
 L("The peak came the week of January 21st. By then it had escaped TikTok and Twitch, and people saw the line everywhere.", S("lf4-comp", 110, CL, big="PEAK WEEK", sub="JAN 21-27"))
 L("Not even close. Because Ninja kept talking about it. On stream. Over and over.", S("lf4-say", 20, NJ))
 BEAT(5.0, S("lf4-say", 40, NJ))
@@ -108,9 +108,9 @@ L("Starting in February 2024, artists redrew characters from games, anime and ca
 
 # ---------------------------------------------------------------- 6 legacy
 L("So why did this one stick, when most memes die in a week? Because it had three lives.", S("lf4-comp", 100, CL, chapter="THE LEGACY", chn=6))
-L("A sincere line, sung in a sad moment. A creator who actually did what the internet asked. And a creator who loved it so much, he became the next joke.", S("lf4-orig", 70, NJ, big="3 LIVES"))
+L("A sincere line, sung in a sad moment. A creator who actually did what the internet asked. And a creator who loved it so much, he became the next joke.", S("lf4-comp", 80, NJ, big="3 LIVES"))
 L("For ericdoa, it followed him everywhere. He's said that no matter what he posts, the comments say the same thing.", S("lf4-vod", 235, ED, big="IMAGINE IF..."), say="For Eric D O A, it followed him everywhere. He's said that no matter what he posts, the comments say the same thing.")
-L("And for Ninja, it became part of who he is online. Not just the Fortnite guy. The low taper fade guy.", S("lf4-orig", 90, NJ, big="THE LOW\nTAPER FADE GUY"))
+L("And for Ninja, it became part of who he is online. Not just the Fortnite guy. The low taper fade guy.", S("lf4-comp", 125, NJ, big="THE LOW\nTAPER FADE GUY"))
 L("And the strangest part? Even this video is proof. Because, you know what's crazy?", S("lf4-say", 100, NJ))
 BEAT(4.0, S("lf4-drag", 8, CL))
 L("Which meme do you think is still massive? Tell me in the comments.", S("lf4-comp", 120, CL, big="STILL\nMASSIVE?", bs=110))
