@@ -1,0 +1,127 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 353,
+ "slug": "353-fortnite-pirate-token-squad",
+ "file": "353 If Your Friend Finds This Fortnite Token You Get It Too.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#fff59d",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "If your friend finds this Fortnite token, you get it too.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Premfn; Osky (YouTube)",
+     "clip": "tr38-ps-a.mp4",
+     "start": 0
+    },
+    "big": "YOU GET\nIT TOO",
+    "sub": "PIRATE SHOP TOKEN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's the Pirate Shop token. It makes the whole Item Shop free for 14 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Premfn; Osky (YouTube)",
+     "clip": "tr38-ps-b.mp4",
+     "start": 0
+    },
+    "big": "FREE SHOP",
+    "sub": "14 DAYS",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And it's shared. If anyone in your party opens the chest, the whole squad gets it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Premfn; Osky (YouTube)",
+     "clip": "tr38-ps-c.mp4",
+     "start": 0
+    },
+    "big": "WHOLE\nSQUAD",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So playing in a squad of four means four times the chances. You also get a second token for 2027.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Premfn; Osky (YouTube)",
+     "clip": "tr38-ps-a.mp4",
+     "start": 7.0
+    },
+    "big": "4X\nCHANCES",
+    "sub": "+ A 2027 TOKEN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Who's in your squad?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Premfn; Osky (YouTube)",
+     "clip": "tr38-ps-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nSQUAD?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Premfn; Osky (YouTube)",
+     "clip": "tr38-ps-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAMING NEWS"
+}

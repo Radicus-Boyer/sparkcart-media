@@ -1,0 +1,110 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 355,
+ "slug": "355-low-taper-fade-sad-song",
+ "file": "355 The Low Taper Fade Meme Started in a Sad Song.mp4",
+ "target": 0,
+ "accent": "#ffb300",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffe082",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "The low taper fade meme started in the middle of a sad song.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr38-lt-a.mp4",
+     "start": 0
+    },
+    "big": "IT STARTED\nSAD",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In January 2024, ericdoa was freestyling on Twitch. The stream got emotional. So he sang the funniest thing he could think of.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr38-lt-a.mp4",
+     "start": 6.0
+    },
+    "big": "JAN 5, 2024",
+    "sub": "TWITCH",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   },
+   "say": "In January 2024, Eric D O A was freestyling on Twitch. The stream got emotional. So he sang the funniest thing he could think of."
+  },
+  {
+   "t": "Eight days later, Ninja actually got the haircut.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr38-lt-b.mp4",
+     "start": 0
+    },
+    "big": "HE DID IT",
+    "sub": "JAN 13",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And then he kept calling the meme massive. For months.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr38-lt-c.mp4",
+     "start": 0
+    },
+    "big": "STILL\nMASSIVE",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The full story is on my channel. Is it still massive?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr38-lt-c.mp4",
+     "start": 8.0
+    },
+    "big": "STILL\nMASSIVE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

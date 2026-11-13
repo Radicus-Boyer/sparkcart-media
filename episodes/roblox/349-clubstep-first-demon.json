@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 349,
+ "slug": "349-clubstep-first-demon",
+ "file": "349 This Was the First Demon Ever in Geometry Dash.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Clubstep": "Club step"
+ },
+ "lines": [
+  {
+   "t": "Before Bloodbath. Before Sonic Wave. This was the first demon in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles (YouTube)",
+     "clip": "gd38-cb-a.mp4",
+     "start": 0
+    },
+    "big": "[THE FIRST DEMON]\nCLUBSTEP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Clubstep is the 14th main level. And you can't even play it at first.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles (YouTube)",
+     "clip": "gd38-cb-b.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 14]\nLOCKED",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You have to collect 10 secret coins just to unlock it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles (YouTube)",
+     "clip": "gd38-cb-c.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 10,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "SECRET COINS TO UNLOCK"
+   }
+  },
+  {
+   "t": "Then it hits you with fake spikes, fading blocks and gravity flips. For a lot of players, it was their first demon ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles (YouTube)",
+     "clip": "gd38-cb-a.mp4",
+     "start": 7.0
+    },
+    "big": "[FAKE SPIKES]\nFIRST DEMON",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Was Clubstep your first demon?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles (YouTube)",
+     "clip": "gd38-cb-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR FIRST\nDEMON?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles (YouTube)",
+     "clip": "gd38-cb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

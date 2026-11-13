@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 347,
+ "slug": "347-killstealer-only-3-people",
+ "file": "347 Only 3 People Have Ever Beaten This Level.mp4",
+ "target": 0,
+ "accent": "#d50000",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "kloone": "Kloon",
+  "zLevii": "Z Levy",
+  "Wain": "Wayne",
+  "KILLSTEALER": "Kill stealer"
+ },
+ "lines": [
+  {
+   "t": "Only three people in the world have ever beaten this level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: kloone (YouTube)",
+     "clip": "gd38-ks-a.mp4",
+     "start": 0
+    },
+    "big": "[ONLY 3 PEOPLE]\nKILLSTEALER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's called Killstealer. It's number 22 on the Demonlist.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: kloone (YouTube)",
+     "clip": "gd38-ks-c.mp4",
+     "start": 0
+    },
+    "big": "[#22]\nDEMONLIST",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "kloone verified it. And it went in as a top 15 level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: kloone (YouTube)",
+     "clip": "gd38-ks-b.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIED]\nKLOONE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Since then, only two more players have beaten it. zLevii, and Wain.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: kloone (YouTube)",
+     "clip": "gd38-ks-a.mp4",
+     "start": 7.0
+    },
+    "big": "[ZLEVII]\n+ WAIN",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you be number 4?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: kloone (YouTube)",
+     "clip": "gd38-ks-b.mp4",
+     "start": 7.0
+    },
+    "big": "NUMBER\n4?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: kloone (YouTube)",
+     "clip": "gd38-ks-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "kloone",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

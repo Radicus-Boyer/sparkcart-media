@@ -1,0 +1,148 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 348,
+ "slug": "348-andromeda-top-5-to-21",
+ "file": "348 This Level Was Top 5 Now 29 People Have Beaten It.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "This level was one of the five hardest in Geometry Dash. Now 29 people have beaten it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Taiago; Neiro (YouTube)",
+     "clip": "gd38-an-a.mp4",
+     "start": 0
+    },
+    "big": "[TOP 5]\nANDROMEDA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Andromeda was verified by Taiago. And it went straight into the top 5.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Taiago; Neiro (YouTube)",
+     "clip": "gd38-an-c.mp4",
+     "start": 0
+    },
+    "big": "[NEW TOP 5]\nTAIAGO",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The first player to beat it after him? Zoink.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Taiago; Neiro (YouTube)",
+     "clip": "gd38-an-b.mp4",
+     "start": 0
+    },
+    "big": "[FIRST VICTOR]\nZOINK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Today it's number 21. With 29 victors on the Demonlist.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Taiago; Neiro (YouTube)",
+     "clip": "gd38-an-b.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 29,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "VICTORS - NOW #21"
+   }
+  },
+  {
+   "t": "Should old top 5s still count as hard?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Taiago; Neiro (YouTube)",
+     "clip": "gd38-an-a.mp4",
+     "start": 7.0
+    },
+    "big": "STILL\nHARD?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Taiago; Neiro (YouTube)",
+     "clip": "gd38-an-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "Taiago",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

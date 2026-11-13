@@ -1,0 +1,113 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 350,
+ "slug": "350-rivals-season-4-tonight",
+ "file": "350 RIVALS Season 4 Starts Tonight.mp4",
+ "target": 0,
+ "accent": "#ff3d00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab91",
+  "cy": 1470
+ },
+ "pron": {
+  "RIVALS": "Rivals",
+  "Nosniy": "Noz-nee"
+ },
+ "lines": [
+  {
+   "t": "RIVALS Season 4 starts tonight. And every rank is getting reset.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RoBros; Mud (Roblox gameplay, YouTube)",
+     "clip": "rb38-rv-a.mp4",
+     "start": 0
+    },
+    "big": "SEASON 4\nTONIGHT",
+    "sub": "RIVALS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's called The Standard Season. It starts Friday, November 13th, at 9 PM Eastern.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RoBros; Mud (Roblox gameplay, YouTube)",
+     "clip": "rb38-rv-b.mp4",
+     "start": 0
+    },
+    "big": "THE STANDARD\nSEASON",
+    "sub": "NOV 13 - 9 PM ET",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "A new battle pass. A rank reset. Exclusive rewards. And changes to ranked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RoBros; Mud (Roblox gameplay, YouTube)",
+     "clip": "rb38-rv-c.mp4",
+     "start": 0
+    },
+    "big": "RANK\nRESET",
+    "sub": "NEW BATTLE PASS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In past updates, a free reward only went to players who joined in the first hour. So be there early.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RoBros; Mud (Roblox gameplay, YouTube)",
+     "clip": "rb38-rv-a.mp4",
+     "start": 7.0
+    },
+    "big": "FIRST\nHOUR",
+    "sub": "FREE REWARD",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What rank are you going for?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RoBros; Mud (Roblox gameplay, YouTube)",
+     "clip": "rb38-rv-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nRANK?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

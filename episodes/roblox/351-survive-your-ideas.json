@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 351,
+ "slug": "351-survive-your-ideas",
+ "file": "351 In This Roblox Game Every Word You Type Comes to Life.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox makes every word you type come to life.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CaylusBlox; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb38-sy-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "SURVIVE YOUR IDEAS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Every round, one random player types a word. Tsunami. Dinosaur. Nuke. And it happens.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CaylusBlox; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb38-sy-b.mp4",
+     "start": 0
+    },
+    "big": "TYPE ANY\nWORD",
+    "sub": "IT HAPPENS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Then everyone has to survive it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CaylusBlox; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb38-sy-c.mp4",
+     "start": 0
+    },
+    "big": "SURVIVE",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October. It already has almost 75 million visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CaylusBlox; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb38-sy-a.mp4",
+     "start": 7.0
+    },
+    "sub": "VISITS",
+    "bs": 120,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 74875209,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "What word would you type?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CaylusBlox; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb38-sy-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nWORD?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

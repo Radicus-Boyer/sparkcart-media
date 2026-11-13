@@ -1,0 +1,127 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 352,
+ "slug": "352-gta-6-police-remember-you",
+ "file": "352 In GTA 6 the Police Remember What You Wore.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In GTA 6, the police remember what you were wearing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TGG; Hollow (YouTube)",
+     "clip": "tr38-gt-a.mp4",
+     "start": 0
+    },
+    "big": "THEY\nREMEMBER",
+    "sub": "GTA 6",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Rockstar showed it in a 26 minute gameplay video. Cops remember your clothes and your car.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TGG; Hollow (YouTube)",
+     "clip": "tr38-gt-b.mp4",
+     "start": 0
+    },
+    "big": "CLOTHES\n+ CAR",
+    "sub": "26 MIN GAMEPLAY",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So to escape, you have to change your look. There's even a six star wanted level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TGG; Hollow (YouTube)",
+     "clip": "tr38-gt-c.mp4",
+     "start": 0
+    },
+    "big": "6 STAR\nWANTED",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "GTA 6 comes out November 19th. That's six days away.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TGG; Hollow (YouTube)",
+     "clip": "tr38-gt-a.mp4",
+     "start": 7.0
+    },
+    "big": "NOV 19",
+    "sub": "6 DAYS",
+    "bs": 190,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Are you buying it on day one?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TGG; Hollow (YouTube)",
+     "clip": "tr38-gt-b.mp4",
+     "start": 7.0
+    },
+    "big": "DAY\nONE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TGG; Hollow (YouTube)",
+     "clip": "tr38-gt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAMING NEWS"
+}

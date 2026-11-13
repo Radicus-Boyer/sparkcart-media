@@ -1,0 +1,112 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 354,
+ "slug": "354-minecraft-title-screen-seed",
+ "file": "354 Nobody Knew What World the Minecraft Title Screen Was.mp4",
+ "target": 0,
+ "accent": "#66bb6a",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b9f6ca",
+  "cy": 1470
+ },
+ "pron": {
+  "SalC1": "Sal C 1"
+ },
+ "lines": [
+  {
+   "t": "For years, nobody knew what world the Minecraft title screen was.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Quiff (YouTube)",
+     "clip": "mc38-ts-a.mp4",
+     "start": 0
+    },
+    "big": "WHAT\nWORLD?",
+    "sub": "TITLE SCREEN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "That spinning background was used from Beta 1.8 all the way to 1.13.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Quiff (YouTube)",
+     "clip": "mc38-ts-b.mp4",
+     "start": 0
+    },
+    "big": "BETA 1.8\nTO 1.13",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2020, a group called Minecraft at Home threw thousands of computers at it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Quiff (YouTube)",
+     "clip": "mc38-ts-c.mp4",
+     "start": 0
+    },
+    "big": "MINECRAFT\n@HOME",
+    "sub": "2020",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Less than 24 hours later, on July 18th, they found it. About 93 days of computing, done in one day.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Quiff (YouTube)",
+     "clip": "mc38-ts-a.mp4",
+     "start": 7.0
+    },
+    "big": "FOUND",
+    "sub": "JULY 18, 2020",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you play on the title screen world?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SalC1; Quiff (YouTube)",
+     "clip": "mc38-ts-b.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD YOU\nPLAY IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

@@ -1,0 +1,259 @@
+{
+ "batch": 38,
+ "note": "Old Orochi, KILLSTEALER, andromeda, Clubstep, RIVALS S4, Survive Your Ideas, GTA 6 police, Pirate token squad, MC title screen, Low Taper Fade plug",
+ "posting": "Z:/claudeprojects/roblox vids/batch-38/posting.txt",
+ "episodes": [
+  "episodes/roblox/346-old-orochi-only-one-person.json",
+  "episodes/roblox/347-killstealer-only-3-people.json",
+  "episodes/roblox/348-andromeda-top-5-to-21.json",
+  "episodes/roblox/349-clubstep-first-demon.json",
+  "episodes/roblox/350-rivals-season-4-tonight.json",
+  "episodes/roblox/351-survive-your-ideas.json",
+  "episodes/roblox/352-gta-6-police-remember-you.json",
+  "episodes/roblox/353-fortnite-pirate-token-squad.json",
+  "episodes/roblox/354-minecraft-title-screen-seed.json",
+  "episodes/roblox/355-low-taper-fade-sad-song.json"
+ ],
+ "clips": [
+  {
+   "name": "gd38-oo-a",
+   "url": "https://www.youtube.com/watch?v=YxtFAQtLYQY",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-oo-b",
+   "url": "https://www.youtube.com/watch?v=YxtFAQtLYQY",
+   "backup": [],
+   "section": "*1:50-2:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-oo-c",
+   "url": "https://www.youtube.com/watch?v=fQVVwFZJIE0",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-ks-a",
+   "url": "https://www.youtube.com/watch?v=uhH4oqWrsfo",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-ks-b",
+   "url": "https://www.youtube.com/watch?v=uhH4oqWrsfo",
+   "backup": [],
+   "section": "*7:30-7:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-ks-c",
+   "url": "https://www.youtube.com/watch?v=mm5ue1n-cuQ",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-an-a",
+   "url": "https://www.youtube.com/watch?v=mk3TDemdkC0",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-an-b",
+   "url": "https://www.youtube.com/watch?v=mk3TDemdkC0",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-an-c",
+   "url": "https://www.youtube.com/watch?v=fFtQxxepyDo",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-cb-a",
+   "url": "https://www.youtube.com/watch?v=VInQkeec188",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-cb-b",
+   "url": "https://www.youtube.com/watch?v=VInQkeec188",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd38-cb-c",
+   "url": "https://www.youtube.com/watch?v=gok5ShDXxg4",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb38-rv-a",
+   "url": "https://www.youtube.com/watch?v=2ygXBCpvQX4",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb38-rv-b",
+   "url": "https://www.youtube.com/watch?v=2ygXBCpvQX4",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb38-rv-c",
+   "url": "https://www.youtube.com/watch?v=gh-L6GhXay4",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb38-sy-a",
+   "url": "https://www.youtube.com/watch?v=mytlurN0Z4w",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb38-sy-b",
+   "url": "https://www.youtube.com/watch?v=mytlurN0Z4w",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb38-sy-c",
+   "url": "https://www.youtube.com/watch?v=NwdhA09eSQo",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-gt-a",
+   "url": "https://www.youtube.com/watch?v=FgJRIzc6LPw",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-gt-b",
+   "url": "https://www.youtube.com/watch?v=FgJRIzc6LPw",
+   "backup": [],
+   "section": "*4:00-4:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-gt-c",
+   "url": "https://www.youtube.com/watch?v=wiW1mpHZb_Y",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-ps-a",
+   "url": "https://www.youtube.com/watch?v=ctd7HwxpbTg",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-ps-b",
+   "url": "https://www.youtube.com/watch?v=ctd7HwxpbTg",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-ps-c",
+   "url": "https://www.youtube.com/watch?v=kSGabojsC4I",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc38-ts-a",
+   "url": "https://www.youtube.com/watch?v=GaRurhiK-Lk",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc38-ts-b",
+   "url": "https://www.youtube.com/watch?v=GaRurhiK-Lk",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc38-ts-c",
+   "url": "https://www.youtube.com/watch?v=-6ed0zOCZFA",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-lt-a",
+   "url": "https://www.youtube.com/watch?v=ok5XRYhgH9Q",
+   "backup": [],
+   "section": "*0:00-0:16",
+   "cut": 0,
+   "len": 15
+  },
+  {
+   "name": "tr38-lt-b",
+   "url": "https://www.youtube.com/watch?v=zloi-MI3DuY",
+   "backup": [],
+   "section": "*0:15-0:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr38-lt-c",
+   "url": "https://www.youtube.com/watch?v=ryNMM5pMPr0",
+   "backup": [],
+   "section": "*0:00-0:18",
+   "cut": 0,
+   "len": 17
+  }
+ ]
+}
