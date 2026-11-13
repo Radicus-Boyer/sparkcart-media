@@ -31,7 +31,7 @@ def BEAT(sec, sc):
 ED, NJ, CL = "ericdoa", "Ninja", "clip pages"
 clip("lf4-line", "https://www.youtube.com/watch?v=ok5XRYhgH9Q", "*0:00-0:16", 16)       # the line itself
 clip("lf4-vod", "https://www.youtube.com/watch?v=jwA9RAvcxuw", "*23:30-27:30", 240)      # ericdoa 2-hour Twitch freestyle (vault re-upload)
-clip("lf4-cut", "https://www.youtube.com/watch?v=aLlrv2KJreQ", "*0:00-0:24", 24)        # Ninja low taper fade original clip (haircut)
+clip("lf4-cut", "https://www.youtube.com/watch?v=7Hfpam7Hfws", "*0:00-0:16", 16)        # ninja gets the low taper fade (DOA VODS)
 clip("lf4-comp", "https://www.youtube.com/watch?v=jIdbfXDKGNE", "*0:00-2:24", 144)       # Ninja low taper fade compilation
 clip("lf4-drag", "https://www.youtube.com/watch?v=ryNMM5pMPr0", "*0:00-0:18", 18)        # Ninja dragging the meme
 clip("lf4-dragc", "https://www.youtube.com/watch?v=8-KJdIV3w6Q", "*0:00-6:00", 360)      # dragging edits compilation
@@ -75,8 +75,8 @@ L("But there was one person everybody was waiting on.", S("lf4-comp", 35, NJ, bi
 # ---------------------------------------------------------------- 3 Ninja
 L("On January 12th, Ninja posted his first reaction. And the next day, January 13th, he did it.", S("lf4-comp", 50, NJ, chapter="THE PROPHECY", chn=3))
 L("He actually got the haircut.", S("lf4-cut", 2, NJ, big="HE DID IT"))
-BEAT(5.0, S("lf4-cut", 8, NJ))
-L("His reveal, set to ericdoa's sound, got 5.4 million views in three days.", S("lf4-cut", 14, NJ, big="5.4 MILLION", sub="IN 3 DAYS"), say="His reveal, set to Eric D O A's sound, got 5.4 million views in three days.")
+BEAT(5.0, S("lf4-cut", 6, NJ))
+L("His reveal, set to ericdoa's sound, got 5.4 million views in three days.", S("lf4-cut", 11, NJ, big="5.4 MILLION", sub="IN 3 DAYS"), say="His reveal, set to Eric D O A's sound, got 5.4 million views in three days.")
 L("The internet imagined it. Ninja made it real. Story over, right?", S("lf4-comp", 65, NJ, big="THE END?"))
 L("The peak came the week of January 21st. By then it had escaped TikTok and Twitch, and people saw the line everywhere.", S("lf4-comp", 110, CL, big="PEAK WEEK", sub="JAN 21-27"))
 L("Not even close. Because Ninja kept talking about it. On stream. Over and over.", S("lf4-say", 20, NJ))
