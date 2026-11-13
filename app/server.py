@@ -461,12 +461,14 @@ def probe_secs(path):
 
 
 # ---------------------------------------------------------------- schedule
-def job_schedule(job, bn, start_local, gap, dry):
+def job_schedule(job, bn, start_local, gap, dry, only=None):
     import posting
     from postiz import Postiz
     c = cfg()
     b = get_batch(bn)
     eps = posting.parse(os.path.join(ROOT, b["posting"]))
+    if only:  # re-post just some episodes (e.g. after a failed upload)
+        eps = [e for e in eps if int(e["FILE"].split(" ")[0]) in set(int(x) for x in only)]
     tz = ZoneInfo(c["timezone"])
     t = dt.datetime.strptime(start_local, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
     rnd = random.Random()
@@ -596,7 +598,7 @@ class H(BaseHTTPRequestHandler):
                 return self.send({"job": start_job(f"Save videos, batch {d['batch']}", job_publish, d["batch"]).id})
             if p == "/api/schedule":
                 return self.send({"job": start_job(("Preview" if d.get("dry") else "Schedule") + f" batch {d['batch']}", job_schedule,
-                                                   d["batch"], d["start"], (d["gap_min"], d["gap_max"]), d.get("dry", False)).id})
+                                                   d["batch"], d["start"], (d["gap_min"], d["gap_max"]), d.get("dry", False), d.get("only")).id})
             if p == "/api/clean":
                 clean_clips(d["batch"])
                 return self.send({"ok": True})
