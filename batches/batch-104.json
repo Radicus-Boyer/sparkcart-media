@@ -1,0 +1,100 @@
+{
+ "batch": 104,
+ "note": "LONG-FORM #4: Low Taper Fade (16:9)",
+ "posting": "Z:/claudeprojects/roblox vids/batch-104/posting.txt",
+ "episodes": [
+  "episodes/long/1004-low-taper-fade-long.json"
+ ],
+ "clips": [
+  {
+   "name": "lf4-line",
+   "url": "https://www.youtube.com/watch?v=ok5XRYhgH9Q",
+   "backup": [],
+   "section": "*0:00-0:16",
+   "cut": 0,
+   "len": 16,
+   "w": 1920
+  },
+  {
+   "name": "lf4-vod",
+   "url": "https://www.youtube.com/watch?v=jwA9RAvcxuw",
+   "backup": [],
+   "section": "*23:30-27:30",
+   "cut": 0,
+   "len": 240,
+   "w": 1920
+  },
+  {
+   "name": "lf4-orig",
+   "url": "https://www.youtube.com/watch?v=zloi-MI3DuY",
+   "backup": [],
+   "section": "*0:00-1:42",
+   "cut": 0,
+   "len": 102,
+   "w": 1920
+  },
+  {
+   "name": "lf4-comp",
+   "url": "https://www.youtube.com/watch?v=jIdbfXDKGNE",
+   "backup": [],
+   "section": "*0:00-2:24",
+   "cut": 0,
+   "len": 144,
+   "w": 1920
+  },
+  {
+   "name": "lf4-drag",
+   "url": "https://www.youtube.com/watch?v=ryNMM5pMPr0",
+   "backup": [],
+   "section": "*0:00-0:18",
+   "cut": 0,
+   "len": 18,
+   "w": 1920
+  },
+  {
+   "name": "lf4-dragc",
+   "url": "https://www.youtube.com/watch?v=8-KJdIV3w6Q",
+   "backup": [],
+   "section": "*0:00-6:00",
+   "cut": 0,
+   "len": 360,
+   "w": 1920
+  },
+  {
+   "name": "lf4-react",
+   "url": "https://www.youtube.com/watch?v=gygzu88OEAs",
+   "backup": [],
+   "section": "*0:00-6:00",
+   "cut": 0,
+   "len": 360,
+   "w": 1920
+  },
+  {
+   "name": "lf4-tfue",
+   "url": "https://www.youtube.com/watch?v=JhIcb3jvA94",
+   "backup": [],
+   "section": "*0:00-0:52",
+   "cut": 0,
+   "len": 52,
+   "w": 1920
+  },
+  {
+   "name": "lf4-mass",
+   "url": "https://www.youtube.com/watch?v=gDKDvS4W8k4",
+   "backup": [],
+   "section": "*0:00-0:24",
+   "cut": 0,
+   "len": 24,
+   "w": 1920
+  },
+  {
+   "name": "lf4-say",
+   "url": "https://www.youtube.com/watch?v=yqSkmtGQxR0",
+   "backup": [],
+   "section": "*0:00-3:04",
+   "cut": 0,
+   "len": 184,
+   "w": 1920
+  }
+ ]
+}

@@ -1,0 +1,595 @@
+{
+ "preset": "long",
+ "num": 1004,
+ "slug": "1004-low-taper-fade-long",
+ "file": "1004 The Low Taper Fade Meme - The Complete Story.mp4",
+ "title": "The Low Taper Fade Meme Is Still MASSIVE: The Complete Story",
+ "voice": "am_michael",
+ "speed": 1.02,
+ "accent": "#ffb300",
+ "mood": "happy",
+ "music_vol": 0.06,
+ "clip_vol": 0.1,
+ "pron": {
+  "ericdoa": "Eric D O A",
+  "ericdoa's": "Eric D O A's",
+  "Tfue": "Tee-fyoo",
+  "Blevins": "Bleh-vins"
+ },
+ "lines": [
+  {
+   "t": "",
+   "beat": 4.0,
+   "sc": {
+    "clip": "lf4-line.mp4",
+    "start": 0,
+    "credit": "ericdoa"
+   }
+  },
+  {
+   "t": "In January 2024, a singer sang one sentence on a Twitch stream.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 30,
+    "credit": "ericdoa",
+    "big": "ONE\nSENTENCE"
+   }
+  },
+  {
+   "t": "Eight days later, one of the biggest streamers on the planet walked into a barbershop because of it.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 10,
+    "credit": "Ninja",
+    "big": "8 DAYS LATER"
+   }
+  },
+  {
+   "t": "And then the internet did something even weirder. It turned the joke around, and made fun of him for loving it too much.",
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 2,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "",
+   "beat": 4.0,
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 6,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "So how does a haircut become one of the biggest memes of 2024? It starts somewhere nobody expected. In the middle of a sad song.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 60,
+    "credit": "ericdoa",
+    "big": "IT STARTED\nSAD"
+   }
+  },
+  {
+   "t": "Meet ericdoa. Real name Eric Lopez, a 21 year old hyperpop artist.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 90,
+    "credit": "ericdoa",
+    "chapter": "THE LINE",
+    "chn": 1
+   },
+   "say": "Meet Eric D O A. Real name Eric Lopez, a 21 year old hyperpop artist."
+  },
+  {
+   "t": "On January 5th, 2024, he went live on Twitch and freestyled for about an hour.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 110,
+    "credit": "ericdoa",
+    "big": "JAN 5, 2024",
+    "sub": "TWITCH FREESTYLE"
+   }
+  },
+  {
+   "t": "And this was not a joke stream. Right before the famous line, he was singing about his grandfather passing away.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 140,
+    "credit": "ericdoa",
+    "dark": 0.35
+   }
+  },
+  {
+   "t": "The stream was getting heavy. So, to stop himself from getting too emotional, he reached for the funniest thing he could think of.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 170,
+    "credit": "ericdoa"
+   }
+  },
+  {
+   "t": "And what he came up with was this.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 200,
+    "credit": "ericdoa",
+    "big": "..."
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf4-line.mp4",
+    "start": 0,
+    "credit": "ericdoa"
+   }
+  },
+  {
+   "t": "He later told B R Gaming that was the whole point. A way out of a moment that was getting too sad. Chat lost it.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 215,
+    "credit": "ericdoa"
+   },
+   "say": "He later told B R Gaming that was the whole point. A way out of a moment that was getting too sad. Chat lost it."
+  },
+  {
+   "t": "For almost a week, nothing happened. The YouTube upload got about 4,000 views.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 225,
+    "credit": "ericdoa",
+    "big": "~4,000 VIEWS",
+    "sub": "FIRST WEEK"
+   }
+  },
+  {
+   "t": "Then on January 11th, a fan page called ericdoaclips posted just that one moment to TikTok.",
+   "sc": {
+    "clip": "lf4-line.mp4",
+    "start": 2,
+    "credit": "ericdoa",
+    "big": "JAN 11"
+   },
+   "say": "Then on January 11th, a fan page called Eric D O A clips posted just that one moment to TikTok."
+  },
+  {
+   "t": "1.4 million views in a single day. Over 6 million in under a week.",
+   "sc": {
+    "clip": "lf4-line.mp4",
+    "start": 6,
+    "credit": "ericdoa",
+    "big": "1.4 MILLION",
+    "sub": "IN ONE DAY"
+   }
+  },
+  {
+   "t": "The line was simple. Imagine if Ninja got a low taper fade. Sung twice, like the saddest love song ever written.",
+   "sc": {
+    "clip": "lf4-line.mp4",
+    "start": 10,
+    "credit": "ericdoa",
+    "big": "SUNG TWICE"
+   }
+  },
+  {
+   "t": "The same day it blew up, people started doing what the internet does best. Making things up.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 5,
+    "credit": "clip pages",
+    "chapter": "THE EXPLOSION",
+    "chn": 2
+   }
+  },
+  {
+   "t": "One TikToker told everyone the song was by Frank Ocean. 240,000 people watched that in a day.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 20,
+    "credit": "clip pages",
+    "big": "\"FRANK OCEAN\"",
+    "sub": "240K VIEWS"
+   }
+  },
+  {
+   "t": "Others made slideshows. Normal photos of Ninja, then a dramatic reveal of a stranger with a fresh fade.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 35,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "By January 12th it had turned into a prophecy. A Fortnite video showed a wall that said, Ninja with a low taper fade solves all world problems.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 50,
+    "credit": "clip pages",
+    "big": "SOLVES ALL\nWORLD PROBLEMS",
+    "sub": "679K VIEWS IN A DAY"
+   }
+  },
+  {
+   "t": "Why did it work? It's short. It's sung like a heartfelt ballad, about a haircut. And it asks you to imagine something, so everyone gets to make their own version.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 65,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "Then the brands showed up. The Brooklyn Nets used the sound. NFL on CBS posted, prophecy fulfilled. Rolling Loud posted, imagine no more.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 80,
+    "credit": "clip pages",
+    "big": "THE BRANDS\nJOINED"
+   }
+  },
+  {
+   "t": "ericdoa's own clip page even posted him reacting to the Brooklyn Nets using his audio.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 95,
+    "credit": "clip pages"
+   },
+   "say": "Eric D O A's own clip page even posted him reacting to the Brooklyn Nets using his audio."
+  },
+  {
+   "t": "By January 19th, Rolling Stone had written a whole article about him, called Meet ericdoa, the reason why Ninja got a low taper fade.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 180,
+    "credit": "ericdoa",
+    "big": "ROLLING STONE",
+    "sub": "JAN 19, 2024"
+   },
+   "say": "By January 19th, Rolling Stone had written a whole article about him, called Meet Eric D O A, the reason why Ninja got a low taper fade."
+  },
+  {
+   "t": "But there was one person everybody was waiting on.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 2,
+    "credit": "Ninja",
+    "big": "NINJA?"
+   }
+  },
+  {
+   "t": "On January 12th, Ninja posted his first reaction. And the next day, January 13th, he did it.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 8,
+    "credit": "Ninja",
+    "chapter": "THE PROPHECY",
+    "chn": 3
+   }
+  },
+  {
+   "t": "He actually got the haircut.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 20,
+    "credit": "Ninja",
+    "big": "HE DID IT"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 24,
+    "credit": "Ninja"
+   }
+  },
+  {
+   "t": "His reveal, set to ericdoa's sound, got 5.4 million views in three days.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 40,
+    "credit": "Ninja",
+    "big": "5.4 MILLION",
+    "sub": "IN 3 DAYS"
+   },
+   "say": "His reveal, set to Eric D O A's sound, got 5.4 million views in three days."
+  },
+  {
+   "t": "The internet imagined it. Ninja made it real. Story over, right?",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 60,
+    "credit": "Ninja",
+    "big": "THE END?"
+   }
+  },
+  {
+   "t": "The peak came the week of January 21st. By then it had escaped TikTok and Twitch, and people saw the line everywhere.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 110,
+    "credit": "clip pages",
+    "big": "PEAK WEEK",
+    "sub": "JAN 21-27"
+   }
+  },
+  {
+   "t": "Not even close. Because Ninja kept talking about it. On stream. Over and over.",
+   "sc": {
+    "clip": "lf4-say.mp4",
+    "start": 20,
+    "credit": "Ninja"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf4-say.mp4",
+    "start": 40,
+    "credit": "Ninja"
+   }
+  },
+  {
+   "t": "January 30th. Only 17 days after the haircut. A TikToker posted a clip from Ninja's stream with one caption.",
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 0,
+    "credit": "clip pages",
+    "chapter": "STILL MASSIVE",
+    "chn": 4
+   }
+  },
+  {
+   "t": "Ninja is dragging the low taper fade at this point.",
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 4,
+    "credit": "clip pages",
+    "big": "\"NINJA IS DRAGGING\nTHE LOW TAPER FADE\""
+   }
+  },
+  {
+   "t": "In the clip, Ninja sings low taper fade, and then says this. You know what's crazy? Is that that low taper fade meme is like, dude, it is still massive.",
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 6,
+    "credit": "clip pages",
+    "big": "\"IT IS STILL\nMASSIVE\""
+   }
+  },
+  {
+   "t": "",
+   "beat": 6.0,
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 8,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "And that's the funniest part of the whole story. The meme was a joke about Ninja. Then Ninja loved it so much that loving it became the new joke.",
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 20,
+    "credit": "clip pages",
+    "big": "THE JOKE\nFLIPPED"
+   }
+  },
+  {
+   "t": "That clip pulled about 4.3 million plays.",
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 40,
+    "credit": "clip pages",
+    "big": "4.3 MILLION"
+   }
+  },
+  {
+   "t": "TikTok ran with it. Edits showed Ninja still dragging the meme years in the future. As a baby. As different animals, in different lifetimes.",
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 70,
+    "credit": "clip pages",
+    "big": "DIFFERENT\nLIFETIMES"
+   }
+  },
+  {
+   "t": "People made AI voice versions of the whole speech.",
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 110,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "One edit even showed Ninja passing the haircut on to his pet bird.",
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 125,
+    "credit": "clip pages",
+    "big": "EVEN\nTHE BIRD"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 140,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "And Ninja watched them. He even reacted to compilations of people making fun of him for it.",
+   "sc": {
+    "clip": "lf4-react.mp4",
+    "start": 60,
+    "credit": "Ninja",
+    "big": "NINJA\nREACTS"
+   }
+  },
+  {
+   "t": "",
+   "beat": 5.0,
+   "sc": {
+    "clip": "lf4-react.mp4",
+    "start": 90,
+    "credit": "Ninja"
+   }
+  },
+  {
+   "t": "In June, someone tried to start a new one. Imagine if Tfue got a high taper fade.",
+   "sc": {
+    "clip": "lf4-tfue.mp4",
+    "start": 2,
+    "credit": "clip pages",
+    "chapter": "OUT OF CONTROL",
+    "chn": 5
+   }
+  },
+  {
+   "t": "It flopped. For four months. Then in October, a video saying Tfue was dragging the high taper fade got 2.3 million views in two days.",
+   "sc": {
+    "clip": "lf4-tfue.mp4",
+    "start": 12,
+    "credit": "clip pages",
+    "big": "2.3 MILLION",
+    "sub": "TFUE HIGH TAPER FADE"
+   }
+  },
+  {
+   "t": "A fake meme, about a fake meme, about a real meme.",
+   "sc": {
+    "clip": "lf4-tfue.mp4",
+    "start": 22,
+    "credit": "clip pages",
+    "big": "A FAKE MEME\nABOUT A FAKE MEME"
+   }
+  },
+  {
+   "t": "Then the word itself broke free.",
+   "sc": {
+    "clip": "lf4-mass.mp4",
+    "start": 0,
+    "credit": "clip pages",
+    "big": "MASSIVE"
+   }
+  },
+  {
+   "t": "",
+   "beat": 4.0,
+   "sc": {
+    "clip": "lf4-mass.mp4",
+    "start": 4,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "A you know what else is massive edit in November got 5.7 million views and 872,000 likes in two months.",
+   "sc": {
+    "clip": "lf4-mass.mp4",
+    "start": 10,
+    "credit": "clip pages",
+    "big": "5.7 MILLION",
+    "sub": "NOV 2024"
+   }
+  },
+  {
+   "t": "By January 2025 there was a parody song, a locked in Ninja remix, and a fan art trend of cartoon characters giving each other low taper fades.",
+   "sc": {
+    "clip": "lf4-dragc.mp4",
+    "start": 200,
+    "credit": "clip pages",
+    "big": "IT NEVER\nENDED"
+   }
+  },
+  {
+   "t": "Starting in February 2024, artists redrew characters from games, anime and cartoons in a barbershop, giving and getting low taper fades. Nobody was safe.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 130,
+    "credit": "clip pages",
+    "big": "NOBODY\nWAS SAFE"
+   }
+  },
+  {
+   "t": "So why did this one stick, when most memes die in a week? Because it had three lives.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 100,
+    "credit": "clip pages",
+    "chapter": "THE LEGACY",
+    "chn": 6
+   }
+  },
+  {
+   "t": "A sincere line, sung in a sad moment. A creator who actually did what the internet asked. And a creator who loved it so much, he became the next joke.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 70,
+    "credit": "Ninja",
+    "big": "3 LIVES"
+   }
+  },
+  {
+   "t": "For ericdoa, it followed him everywhere. He's said that no matter what he posts, the comments say the same thing.",
+   "sc": {
+    "clip": "lf4-vod.mp4",
+    "start": 235,
+    "credit": "ericdoa",
+    "big": "IMAGINE IF..."
+   },
+   "say": "For Eric D O A, it followed him everywhere. He's said that no matter what he posts, the comments say the same thing."
+  },
+  {
+   "t": "And for Ninja, it became part of who he is online. Not just the Fortnite guy. The low taper fade guy.",
+   "sc": {
+    "clip": "lf4-orig.mp4",
+    "start": 90,
+    "credit": "Ninja",
+    "big": "THE LOW\nTAPER FADE GUY"
+   }
+  },
+  {
+   "t": "And the strangest part? Even this video is proof. Because, you know what's crazy?",
+   "sc": {
+    "clip": "lf4-say.mp4",
+    "start": 100,
+    "credit": "Ninja"
+   }
+  },
+  {
+   "t": "",
+   "beat": 4.0,
+   "sc": {
+    "clip": "lf4-drag.mp4",
+    "start": 8,
+    "credit": "clip pages"
+   }
+  },
+  {
+   "t": "Which meme do you think is still massive? Tell me in the comments.",
+   "sc": {
+    "clip": "lf4-comp.mp4",
+    "start": 120,
+    "credit": "clip pages",
+    "big": "STILL\nMASSIVE?",
+    "bs": 110
+   }
+  },
+  {
+   "t": "And if you liked this story, subscribe. Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "clip": "lf4-line.mp4",
+    "start": 8,
+    "credit": "ericdoa",
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS"
+   }
+  }
+ ]
+}
