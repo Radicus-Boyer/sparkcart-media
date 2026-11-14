@@ -1,0 +1,111 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 363,
+ "slug": "363-gta-6-unlocks-in-5-days",
+ "file": "363 GTA 6 Is Already on Peoples Consoles but Nobody Can Play It.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "GTA 6 is already sitting on people's consoles. And nobody can play it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TmarTn2; Hollow (YouTube)",
+     "clip": "tr39-g6-a.mp4",
+     "start": 0
+    },
+    "big": "LOCKED",
+    "sub": "GTA 6",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Preloading is open. The files download, but they stay locked until launch day.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TmarTn2; Hollow (YouTube)",
+     "clip": "tr39-g6-b.mp4",
+     "start": 0
+    },
+    "big": "PRELOADED",
+    "sub": "STILL LOCKED",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It unlocks on November 19th. On PS5 and Xbox Series only. No PC version announced.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TmarTn2; Hollow (YouTube)",
+     "clip": "tr39-g6-c.mp4",
+     "start": 0
+    },
+    "big": "NOV 19",
+    "sub": "PS5 + XBOX ONLY",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "That's five days from now. After two delays.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TmarTn2; Hollow (YouTube)",
+     "clip": "tr39-g6-a.mp4",
+     "start": 7.0
+    },
+    "big": "5 DAYS",
+    "sub": "AFTER 2 DELAYS",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you preload it?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TmarTn2; Hollow (YouTube)",
+     "clip": "tr39-g6-b.mp4",
+     "start": 7.0
+    },
+    "big": "PRELOADED\nIT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAMING NEWS"
+}

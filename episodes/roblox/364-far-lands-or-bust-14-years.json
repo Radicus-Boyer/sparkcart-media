@@ -1,0 +1,119 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 364,
+ "slug": "364-far-lands-or-bust-14-years",
+ "file": "364 He Walked for 14 Years to Reach the Edge of Minecraft.mp4",
+ "target": 0,
+ "accent": "#66bb6a",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b9f6ca",
+  "cy": 1470
+ },
+ "pron": {
+  "KurtJMac": "Kurt J Mac"
+ },
+ "lines": [
+  {
+   "t": "This guy walked in one direction in Minecraft for 14 years.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
+     "clip": "mc39-fl-a.mp4",
+     "start": 0
+    },
+    "big": "14 YEARS",
+    "sub": "ONE DIRECTION",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In March 2011, Kurt J Mac started walking toward the Far Lands. The glitched edge of the old Minecraft world.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
+     "clip": "mc39-fl-b.mp4",
+     "start": 0
+    },
+    "big": "THE FAR\nLANDS",
+    "sub": "MARCH 2011",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   },
+   "say": "In March 2011, Kurt J Mac started walking toward the Far Lands. The glitched edge of the old Minecraft world."
+  },
+  {
+   "t": "They start about 12 and a half million blocks from spawn. He walked the whole way, live, raising money for charity.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
+     "clip": "mc39-fl-c.mp4",
+     "start": 0
+    },
+    "sub": "BLOCKS FROM SPAWN",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 12550821,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "On October 4th, 2025, he finally reached them. And raised over half a million dollars on the way.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
+     "clip": "mc39-fl-a.mp4",
+     "start": 8.0
+    },
+    "big": "HE MADE IT",
+    "sub": "$500K+ FOR CHARITY",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you walk 14 years for this?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
+     "clip": "mc39-fl-b.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD\nYOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

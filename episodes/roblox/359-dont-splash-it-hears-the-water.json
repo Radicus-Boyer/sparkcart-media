@@ -1,0 +1,113 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 359,
+ "slug": "359-dont-splash-it-hears-the-water",
+ "file": "359 In This Roblox Game the Monster Can Hear the Water.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#80d8ff",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox has one rule. Don't splash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; Kubz Scouts (Roblox gameplay, YouTube)",
+     "clip": "rb39-ds-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "DONT SPLASH",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You're stuck in the poolrooms. Endless tiled halls, full of water.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; Kubz Scouts (Roblox gameplay, YouTube)",
+     "clip": "rb39-ds-b.mp4",
+     "start": 0
+    },
+    "big": "THE\nPOOLROOMS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The monster is blind. But it can hear the water. Fall in, or land a jump badly, and it's coming for you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; Kubz Scouts (Roblox gameplay, YouTube)",
+     "clip": "rb39-ds-c.mp4",
+     "start": 0
+    },
+    "big": "IT HEARS\nTHE WATER",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It came out in October. It got over 160 million visits in its first 17 days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; Kubz Scouts (Roblox gameplay, YouTube)",
+     "clip": "rb39-ds-a.mp4",
+     "start": 7.0
+    },
+    "sub": "VISITS IN 17 DAYS",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 161900000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Could you make it out without a splash?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BemmyBlock; Kubz Scouts (Roblox gameplay, YouTube)",
+     "clip": "rb39-ds-b.mp4",
+     "start": 7.0
+    },
+    "big": "NO\nSPLASH?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

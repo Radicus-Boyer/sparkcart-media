@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 365,
+ "slug": "365-dash-level-took-6-years",
+ "file": "365 Geometry Dash Fans Waited 6 Years for This Level.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Fingerdash": "Finger dash"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash fans waited almost seven years for this one level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Felixitron (YouTube)",
+     "clip": "gd39-da-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 22]\nDASH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The last main level, Fingerdash, came out in January 2017. Then update 2.2 kept getting delayed. For years.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Felixitron (YouTube)",
+     "clip": "gd39-da-c.mp4",
+     "start": 0
+    },
+    "big": "[2017]\nFINGERDASH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Finally, on December 19th, 2023, update 2.2 dropped. With level 22, Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Felixitron (YouTube)",
+     "clip": "gd39-da-b.mp4",
+     "start": 0
+    },
+    "big": "[DEC 19, 2023]\nUPDATE 2.2",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's not a demon. But it was the first new main level in almost seven years.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Felixitron (YouTube)",
+     "clip": "gd39-da-a.mp4",
+     "start": 7.0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 22,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "MAIN LEVELS NOW"
+   }
+  },
+  {
+   "t": "Was Dash worth the wait?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Felixitron (YouTube)",
+     "clip": "gd39-da-b.mp4",
+     "start": 7.0
+    },
+    "big": "WORTH\nTHE WAIT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Felixitron (YouTube)",
+     "clip": "gd39-da-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

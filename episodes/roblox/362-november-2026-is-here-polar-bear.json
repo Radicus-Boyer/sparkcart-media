@@ -1,0 +1,126 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 362,
+ "slug": "362-november-2026-is-here-polar-bear",
+ "file": "362 It Is November 2026 and the Polar Bear Meme Came True.mp4",
+ "target": 0,
+ "accent": "#80d8ff",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b3e5fc",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "In 2023, this polar bear said it was a meme from November 2026. Well. It's November 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TikTok reposts; Flush (YouTube)",
+     "clip": "tr39-nv-a.mp4",
+     "start": 0
+    },
+    "big": "IT'S\nHERE",
+    "sub": "NOVEMBER 2026",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "A Russian TikToker posted it in March 2023. The caption said, you won't understand yet.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TikTok reposts; Flush (YouTube)",
+     "clip": "tr39-nv-b.mp4",
+     "start": 0
+    },
+    "big": "YOU WON'T\nUNDERSTAND",
+    "sub": "MARCH 2023",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "This August, someone made it sing. Remember, November 2026 is coming. Almost a million views in two weeks.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TikTok reposts; Flush (YouTube)",
+     "clip": "tr39-nv-a.mp4",
+     "start": 6.0
+    },
+    "big": "REMEMBER\nNOVEMBER",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And now that November is here, everyone is posting the bear. So it really did become a November 2026 meme.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TikTok reposts; Flush (YouTube)",
+     "clip": "tr39-nv-c.mp4",
+     "start": 0
+    },
+    "big": "IT CAME\nTRUE",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did the polar bear predict the future?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TikTok reposts; Flush (YouTube)",
+     "clip": "tr39-nv-a.mp4",
+     "start": 0.0
+    },
+    "big": "DID IT\nPREDICT IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: TikTok reposts; Flush (YouTube)",
+     "clip": "tr39-nv-b.mp4",
+     "start": 0.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

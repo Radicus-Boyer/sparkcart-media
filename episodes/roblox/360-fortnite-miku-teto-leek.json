@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 360,
+ "slug": "360-fortnite-miku-teto-leek",
+ "file": "360 You Can Now Fight With a Leek in Fortnite.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Teto": "Teh-toh",
+  "Kasane": "Kah-sah-neh",
+  "Miku": "Mee-koo"
+ },
+ "lines": [
+  {
+   "t": "Starting today, you can fight with a leek in Fortnite.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr39-mk-a.mp4",
+     "start": 0
+    },
+    "big": "A LEEK",
+    "sub": "FORTNITE",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Hatsune Miku and Kasane Teto just took over the island's resort. Miku is a pirate captain now.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr39-mk-b.mp4",
+     "start": 0
+    },
+    "big": "MIKU\n+ TETO",
+    "sub": "TODAY",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "They brought back returning weapons. Plus a leek you can actually use.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr39-mk-c.mp4",
+     "start": 0
+    },
+    "big": "WIELD\nTHE LEEK",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's week three of Treasure Hunters. And next week, Oscar sails in with his own ship.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr39-mk-a.mp4",
+     "start": 7.0
+    },
+    "big": "WEEK 3",
+    "sub": "NEXT: OSCAR",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you main the leek?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr39-mk-b.mp4",
+     "start": 7.0
+    },
+    "big": "MAIN THE\nLEEK?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr39-mk-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAMING NEWS"
+}

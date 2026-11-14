@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 358,
+ "slug": "358-theory-of-everything-2-locked",
+ "file": "358 This Geometry Dash Level Is Locked Until You Find 20 Coins.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "DJ-Nate": "D J Nate"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash level stays locked until you find 20 secret coins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; Cubeline (YouTube)",
+     "clip": "gd39-t2-a.mp4",
+     "start": 0
+    },
+    "big": "[LOCKED]\nTHEORY OF EVERYTHING 2",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Theory of Everything 2 was the second official demon. It came out in update 1.9.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; Cubeline (YouTube)",
+     "clip": "gd39-t2-c.mp4",
+     "start": 0
+    },
+    "big": "[DEMON #2]\nUPDATE 1.9",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Twice as many coins as Clubstep. And then it throws an invisible ball section at you that you have to memorize.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; Cubeline (YouTube)",
+     "clip": "gd39-t2-b.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 20,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "SECRET COINS TO UNLOCK"
+   }
+  },
+  {
+   "t": "Lots of players say it's harder than Clubstep. And the song is by DJ-Nate.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; Cubeline (YouTube)",
+     "clip": "gd39-t2-a.mp4",
+     "start": 7.0
+    },
+    "big": "[HARDER?]\nVS CLUBSTEP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Clubstep or Theory of Everything 2, which is harder?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; Cubeline (YouTube)",
+     "clip": "gd39-t2-b.mp4",
+     "start": 7.0
+    },
+    "big": "WHICH IS\nHARDER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; Cubeline (YouTube)",
+     "clip": "gd39-t2-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

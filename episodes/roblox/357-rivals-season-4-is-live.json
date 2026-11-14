@@ -1,0 +1,111 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 357,
+ "slug": "357-rivals-season-4-is-live",
+ "file": "357 RIVALS Season 4 Is Out and Everyone Is Back to Zero.mp4",
+ "target": 0,
+ "accent": "#ff3d00",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab91",
+  "cy": 1470
+ },
+ "pron": {
+  "RIVALS": "Rivals"
+ },
+ "lines": [
+  {
+   "t": "RIVALS Season 4 is out. And everyone just got sent back to zero.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia; MiloBlox (Roblox gameplay, YouTube)",
+     "clip": "rb39-r4-a.mp4",
+     "start": 0
+    },
+    "big": "BACK TO\nZERO",
+    "sub": "RIVALS SEASON 4",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Ranked got fully reset last night. Every player starts the climb again.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia; MiloBlox (Roblox gameplay, YouTube)",
+     "clip": "rb39-r4-b.mp4",
+     "start": 0
+    },
+    "big": "RANK\nRESET",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "There's a new battle pass, a new map called Brawl, and new skins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia; MiloBlox (Roblox gameplay, YouTube)",
+     "clip": "rb39-r4-c.mp4",
+     "start": 0
+    },
+    "big": "NEW MAP",
+    "sub": "BRAWL",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And this is only part one. A new weapon is coming next week.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia; MiloBlox (Roblox gameplay, YouTube)",
+     "clip": "rb39-r4-a.mp4",
+     "start": 7.0
+    },
+    "big": "NEW WEAPON",
+    "sub": "NEXT WEEK",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What rank did you hit so far?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia; MiloBlox (Roblox gameplay, YouTube)",
+     "clip": "rb39-r4-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nRANK?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

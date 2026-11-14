@@ -1,0 +1,110 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 356,
+ "slug": "356-low-taper-fade-still-massive",
+ "file": "356 Why Ninja Keeps Saying the Low Taper Fade Meme Is Massive.mp4",
+ "target": 0,
+ "accent": "#ffb300",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffe082",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Ninja said the low taper fade meme is massive. And then he never stopped saying it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr39-lm-a.mp4",
+     "start": 0
+    },
+    "big": "STILL\nMASSIVE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It started in January 2024. ericdoa was on stream and sang, imagine if Ninja got a low taper fade.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr39-lm-b.mp4",
+     "start": 0
+    },
+    "big": "IMAGINE IF...",
+    "sub": "JAN 2024",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   },
+   "say": "It started in January 2024. Eric D O A was on stream and sang, imagine if Ninja got a low taper fade."
+  },
+  {
+   "t": "Ninja actually got the haircut. Then he brought it up on stream, over and over.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr39-lm-c.mp4",
+     "start": 0
+    },
+    "big": "HE GOT IT",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Saying it was massive became the joke itself. Now people say it about everything.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr39-lm-a.mp4",
+     "start": 8.0
+    },
+    "big": "THE JOKE",
+    "sub": "MASSIVE",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The full story is on my channel now. Is it still massive?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: ericdoa; Ninja; clip pages (YouTube)",
+     "clip": "tr39-lm-a.mp4",
+     "start": 0.0
+    },
+    "big": "STILL\nMASSIVE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}
