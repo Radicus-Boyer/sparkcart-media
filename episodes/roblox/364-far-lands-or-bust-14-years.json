@@ -45,7 +45,7 @@
     "full": {
      "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
      "clip": "mc39-fl-b.mp4",
-     "start": 0
+     "start": 5.0
     },
     "big": "THE FAR\nLANDS",
     "sub": "MARCH 2011",
@@ -62,8 +62,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
-     "clip": "mc39-fl-c.mp4",
-     "start": 0
+     "clip": "mc39-fl-a.mp4",
+     "start": 7.0
     },
     "sub": "BLOCKS FROM SPAWN",
     "bs": 110,
@@ -84,8 +84,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
-     "clip": "mc39-fl-a.mp4",
-     "start": 8.0
+     "clip": "mc39-fl-c.mp4",
+     "start": 0
     },
     "big": "HE MADE IT",
     "sub": "$500K+ FOR CHARITY",
@@ -101,8 +101,8 @@
     "ground": "dark",
     "full": {
      "credit": "Clips: Far Lands or Bust; AntVenom (YouTube)",
-     "clip": "mc39-fl-b.mp4",
-     "start": 7.0
+     "clip": "mc39-fl-c.mp4",
+     "start": 6.0
     },
     "big": "WOULD\nYOU?",
     "sub": "COMMENT BELOW",
