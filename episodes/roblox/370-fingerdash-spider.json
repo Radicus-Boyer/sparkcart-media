@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 370,
+ "slug": "370-fingerdash-spider",
+ "file": "370 This Is the Only Geometry Dash Level With No Ball.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Fingerdash": "Finger dash"
+ },
+ "lines": [
+  {
+   "t": "This is the only main level in Geometry Dash with no ball form.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock (YouTube)",
+     "clip": "gd40-fd-a.mp4",
+     "start": 0
+    },
+    "big": "[NO BALL]\nFINGERDASH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Fingerdash is level 21. It came with update 2.1, and it brought the spider. Tap, and you teleport to the other side.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock (YouTube)",
+     "clip": "gd40-fd-c.mp4",
+     "start": 0
+    },
+    "big": "[NEW]\nTHE SPIDER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It also added dash orbs, which shoot you in a straight line while you hold.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock (YouTube)",
+     "clip": "gd40-fd-b.mp4",
+     "start": 0
+    },
+    "big": "[NEW]\nDASH ORBS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And it was the first main level where you collect little mini coins to earn a secret coin.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock (YouTube)",
+     "clip": "gd40-fd-a.mp4",
+     "start": 7.0
+    },
+    "big": "[MINI COINS]\nFIRST TIME",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Is Fingerdash your favorite main level?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock (YouTube)",
+     "clip": "gd40-fd-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nFAVORITE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock (YouTube)",
+     "clip": "gd40-fd-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

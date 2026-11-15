@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 375,
+ "slug": "375-blast-processing-first-wave",
+ "file": "375 This Is Where the Wave Started in Geometry Dash.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "This is the level where the wave started in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; Tru3P1ay3r (YouTube)",
+     "clip": "gd40-bp-a.mp4",
+     "start": 0
+    },
+    "big": "[THE FIRST WAVE]\nBLAST PROCESSING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Blast Processing is level 17. It's the first main level with the wave, in big open sections.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; Tru3P1ay3r (YouTube)",
+     "clip": "gd40-bp-c.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 17]\nTHE WAVE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It also brought 3D decorations, to make the level look deeper.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; Tru3P1ay3r (YouTube)",
+     "clip": "gd40-bp-b.mp4",
+     "start": 0
+    },
+    "big": "[NEW]\n3D DECO",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Today the wave is one of the hardest parts of extreme demons. And it all started here.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; Tru3P1ay3r (YouTube)",
+     "clip": "gd40-bp-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NOW]\nEXTREME DEMONS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Is wave the hardest game mode?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; Tru3P1ay3r (YouTube)",
+     "clip": "gd40-bp-b.mp4",
+     "start": 7.0
+    },
+    "big": "HARDEST\nMODE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; Tru3P1ay3r (YouTube)",
+     "clip": "gd40-bp-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

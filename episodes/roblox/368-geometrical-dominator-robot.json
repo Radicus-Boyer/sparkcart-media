@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 368,
+ "slug": "368-geometrical-dominator-robot",
+ "file": "368 This Geometry Dash Level Was Made Like a Mario Level.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Waterflame": "Water flame"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash level was built to look like a Mario level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; unidreamblade (YouTube)",
+     "clip": "gd40-gm-a.mp4",
+     "start": 0
+    },
+    "big": "[MARIO?]\nGEOMETRICAL DOMINATOR",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Geometrical Dominator is level 19. It's where the robot first showed up. Hold longer, jump higher.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; unidreamblade (YouTube)",
+     "clip": "gd40-gm-c.mp4",
+     "start": 0
+    },
+    "big": "[NEW]\nTHE ROBOT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Its song is by Waterflame, and it was the first main level song made just for Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; unidreamblade (YouTube)",
+     "clip": "gd40-gm-b.mp4",
+     "start": 0
+    },
+    "big": "[WATERFLAME]\nMADE FOR GD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It even has a memory part, where glowing stars flash where you need to go. Then they disappear.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; unidreamblade (YouTube)",
+     "clip": "gd40-gm-a.mp4",
+     "start": 7.0
+    },
+    "big": "[MEMORY]\nFOLLOW THE STARS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Robot or spider, which is better?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; unidreamblade (YouTube)",
+     "clip": "gd40-gm-b.mp4",
+     "start": 7.0
+    },
+    "big": "ROBOT OR\nSPIDER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; unidreamblade (YouTube)",
+     "clip": "gd40-gm-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

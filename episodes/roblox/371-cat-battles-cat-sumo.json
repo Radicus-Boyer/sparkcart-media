@@ -1,0 +1,114 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 371,
+ "slug": "371-cat-battles-cat-sumo",
+ "file": "371 In This Roblox Game You Sumo Wrestle as a Cat.mp4",
+ "target": 0,
+ "accent": "#ff80ab",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffcdd2",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "This new fun game on Roblox is sumo wrestling. But you're a cat.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Foltyn; SSundee; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb40-cb-a.mp4",
+     "start": 0
+    },
+    "big": "THIS NEW FUN\nGAME ON ROBLOX",
+    "sub": "CAT BATTLES",
+    "bs": 130,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "You push other cats out of the ring with abilities like Pounce, Hiss, and Hairball.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Foltyn; SSundee; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb40-cb-b.mp4",
+     "start": 0
+    },
+    "big": "HAIRBALL",
+    "sub": "POUNCE + HISS",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Win and you get coins for fur crates, to make your cat look even sillier.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Foltyn; SSundee; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb40-cb-c.mp4",
+     "start": 0
+    },
+    "big": "FUR\nCRATES",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It hit over 100 million visits in its first four weeks.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Foltyn; SSundee; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb40-cb-a.mp4",
+     "start": 7.0
+    },
+    "sub": "VISITS IN 4 WEEKS",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 108800000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Which ability would you pick?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Foltyn; SSundee; bunhat (Roblox gameplay, YouTube)",
+     "clip": "rb40-cb-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nABILITY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

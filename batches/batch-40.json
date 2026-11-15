@@ -1,0 +1,259 @@
+{
+ "batch": 40,
+ "note": "The Challenge, RoFront, Geometrical Dominator, Sell Fries, Fingerdash, Cat Battles, Cave Game, Electrodynamix, Steal a Brainrot record, Blast Processing",
+ "posting": "Z:/claudeprojects/roblox vids/batch-40/posting.txt",
+ "episodes": [
+  "episodes/roblox/366-the-challenge-secret-level.json",
+  "episodes/roblox/367-rofront-conquer-the-world.json",
+  "episodes/roblox/368-geometrical-dominator-robot.json",
+  "episodes/roblox/369-sell-fries-anomaly.json",
+  "episodes/roblox/370-fingerdash-spider.json",
+  "episodes/roblox/371-cat-battles-cat-sumo.json",
+  "episodes/roblox/372-minecraft-was-cave-game.json",
+  "episodes/roblox/373-electrodynamix-99-percent.json",
+  "episodes/roblox/374-steal-a-brainrot-beat-fortnite-record.json",
+  "episodes/roblox/375-blast-processing-first-wave.json"
+ ],
+ "clips": [
+  {
+   "name": "gd40-ch-a",
+   "url": "https://www.youtube.com/watch?v=RDO9w7Hc7ms",
+   "backup": [],
+   "section": "*0:05-0:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-ch-b",
+   "url": "https://www.youtube.com/watch?v=RDO9w7Hc7ms",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-ch-c",
+   "url": "https://www.youtube.com/watch?v=RDO9w7Hc7ms",
+   "backup": [],
+   "section": "*0:18-0:38",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-rf-a",
+   "url": "https://www.youtube.com/watch?v=uLVq1NIUTbY",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-rf-b",
+   "url": "https://www.youtube.com/watch?v=vQH-zICBSRQ",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-rf-c",
+   "url": "https://www.youtube.com/watch?v=xPjmX9RZJ7U",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-gm-a",
+   "url": "https://www.youtube.com/watch?v=hD5xRG7FPog",
+   "backup": [],
+   "section": "*0:15-0:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-gm-b",
+   "url": "https://www.youtube.com/watch?v=hD5xRG7FPog",
+   "backup": [],
+   "section": "*1:05-1:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-gm-c",
+   "url": "https://www.youtube.com/watch?v=F3WNNErd6bQ",
+   "backup": [],
+   "section": "*0:45-1:05",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-sf-a",
+   "url": "https://www.youtube.com/watch?v=PnFeNx23KM8",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-sf-b",
+   "url": "https://www.youtube.com/watch?v=PnFeNx23KM8",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-sf-c",
+   "url": "https://www.youtube.com/watch?v=ZwB4gRGrItQ",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-fd-a",
+   "url": "https://www.youtube.com/watch?v=ttxZNV9pSzs",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-fd-b",
+   "url": "https://www.youtube.com/watch?v=ttxZNV9pSzs",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-fd-c",
+   "url": "https://www.youtube.com/watch?v=HQ7Etf_oY4k",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-cb-a",
+   "url": "https://www.youtube.com/watch?v=xTS4ex1arLE",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-cb-b",
+   "url": "https://www.youtube.com/watch?v=5enGf8iEv3A",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-cb-c",
+   "url": "https://www.youtube.com/watch?v=5nNbN60vknA",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc40-cv-a",
+   "url": "https://www.youtube.com/watch?v=eUkZNk90rbQ",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc40-cv-b",
+   "url": "https://www.youtube.com/watch?v=eUkZNk90rbQ",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc40-cv-c",
+   "url": "https://www.youtube.com/watch?v=xz97w0299vs",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-ed-a",
+   "url": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-ed-b",
+   "url": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
+   "backup": [],
+   "section": "*1:08-1:28",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-ed-c",
+   "url": "https://www.youtube.com/watch?v=IA7WvEHXElI",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-sb-a",
+   "url": "https://www.youtube.com/watch?v=f2I8sbXrPnA",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-sb-b",
+   "url": "https://www.youtube.com/watch?v=f2I8sbXrPnA",
+   "backup": [],
+   "section": "*9:00-9:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb40-sb-c",
+   "url": "https://www.youtube.com/watch?v=ZqFgDAwthUM",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-bp-a",
+   "url": "https://www.youtube.com/watch?v=gxV_w6zf68k",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-bp-b",
+   "url": "https://www.youtube.com/watch?v=gxV_w6zf68k",
+   "backup": [],
+   "section": "*1:10-1:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd40-bp-c",
+   "url": "https://www.youtube.com/watch?v=PRgsJWzhxg0",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

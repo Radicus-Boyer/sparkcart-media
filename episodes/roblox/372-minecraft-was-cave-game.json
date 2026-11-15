@@ -1,0 +1,112 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 372,
+ "slug": "372-minecraft-was-cave-game",
+ "file": "372 Minecraft Was Originally Called Cave Game.mp4",
+ "target": 0,
+ "accent": "#66bb6a",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b9f6ca",
+  "cy": 1470
+ },
+ "pron": {
+  "Notch": "Notch"
+ },
+ "lines": [
+  {
+   "t": "Before it was Minecraft, it was called Cave Game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "clip": "mc40-cv-a.mp4",
+     "start": 0
+    },
+    "big": "CAVE\nGAME",
+    "sub": "2009",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In May 2009, Notch started a small project to test how caves could be generated. It only had grass and cobblestone.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "clip": "mc40-cv-b.mp4",
+     "start": 0
+    },
+    "big": "GRASS +\nCOBBLESTONE",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "On May 13th, he posted a video of it. He'd only been working on it for about two days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "clip": "mc40-cv-c.mp4",
+     "start": 0
+    },
+    "big": "2 DAYS",
+    "sub": "MAY 13, 2009",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Four days later, on May 17th, the first public version came out. Now it's the best-selling game ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "clip": "mc40-cv-a.mp4",
+     "start": 7.0
+    },
+    "big": "MAY 17",
+    "sub": "FIRST RELEASE",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would Cave Game have been a better name?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "clip": "mc40-cv-b.mp4",
+     "start": 7.0
+    },
+    "big": "BETTER\nNAME?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}
