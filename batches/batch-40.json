@@ -97,9 +97,9 @@
   },
   {
    "name": "rb40-sf-b",
-   "url": "https://www.youtube.com/watch?v=PnFeNx23KM8",
+   "url": "https://www.youtube.com/watch?v=I-ORzguJD1Q",
    "backup": [],
-   "section": "*20:00-20:20",
+   "section": "*1:00-1:20",
    "cut": 0,
    "len": 13
   },
@@ -176,14 +176,6 @@
    "len": 13
   },
   {
-   "name": "mc40-cv-c",
-   "url": "https://www.youtube.com/watch?v=xz97w0299vs",
-   "backup": [],
-   "section": "*2:00-2:20",
-   "cut": 0,
-   "len": 13
-  },
-  {
    "name": "gd40-ed-a",
    "url": "https://www.youtube.com/watch?v=bXH5zDZtb-Y",
    "backup": [],
@@ -216,14 +208,6 @@
    "len": 13
   },
   {
-   "name": "rb40-sb-b",
-   "url": "https://www.youtube.com/watch?v=f2I8sbXrPnA",
-   "backup": [],
-   "section": "*9:00-9:20",
-   "cut": 0,
-   "len": 13
-  },
-  {
    "name": "rb40-sb-c",
    "url": "https://www.youtube.com/watch?v=ZqFgDAwthUM",
    "backup": [],
@@ -249,7 +233,7 @@
   },
   {
    "name": "gd40-bp-c",
-   "url": "https://www.youtube.com/watch?v=PRgsJWzhxg0",
+   "url": "https://www.youtube.com/watch?v=gxV_w6zf68k",
    "backup": [],
    "section": "*0:50-1:10",
    "cut": 0,

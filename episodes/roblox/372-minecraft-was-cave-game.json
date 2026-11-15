@@ -26,7 +26,7 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "credit": "Clips: Notch's Cave Game test (re-upload, YouTube)",
      "clip": "mc40-cv-a.mp4",
      "start": 0
     },
@@ -43,7 +43,7 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
+     "credit": "Clips: Notch's Cave Game test (re-upload, YouTube)",
      "clip": "mc40-cv-b.mp4",
      "start": 0
     },
@@ -59,9 +59,9 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
-     "clip": "mc40-cv-c.mp4",
-     "start": 0
+     "credit": "Clips: Notch's Cave Game test (re-upload, YouTube)",
+     "clip": "mc40-cv-a.mp4",
+     "start": 6.0
     },
     "big": "2 DAYS",
     "sub": "MAY 13, 2009",
@@ -76,9 +76,9 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
-     "clip": "mc40-cv-a.mp4",
-     "start": 7.0
+     "credit": "Clips: Notch's Cave Game test (re-upload, YouTube)",
+     "clip": "mc40-cv-b.mp4",
+     "start": 8.0
     },
     "big": "MAY 17",
     "sub": "FIRST RELEASE",
@@ -93,9 +93,9 @@
     "bg": "night",
     "ground": "dark",
     "full": {
-     "credit": "Clips: Notch's Cave Game test (re-upload); Bacon (YouTube)",
-     "clip": "mc40-cv-b.mp4",
-     "start": 7.0
+     "credit": "Clips: Notch's Cave Game test (re-upload, YouTube)",
+     "clip": "mc40-cv-a.mp4",
+     "start": 10.0
     },
     "big": "BETTER\nNAME?",
     "sub": "COMMENT BELOW",
