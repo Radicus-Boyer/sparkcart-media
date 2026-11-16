@@ -1,0 +1,113 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 376,
+ "slug": "376-why-miku-holds-a-leek",
+ "file": "376 Why Hatsune Miku Always Holds a Leek.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku can fight with a leek in Fortnite now. But why a leek?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Leekspin (2006); Ievan Polkka cover; VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr41-lk-a.mp4",
+     "start": 0
+    },
+    "big": "WHY A\nLEEK?",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2006, a looping animation went viral. An anime girl from Bleach, spinning a leek, to a Finnish folk song called Ievan Polkka.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Leekspin (2006); Ievan Polkka cover; VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr41-lk-a.mp4",
+     "start": 5.0
+    },
+    "big": "LEEKSPIN",
+    "sub": "2006",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   },
+   "say": "In 2006, a looping animation went viral. An anime girl from Bleach, spinning a leek, to a Finnish folk song called Eevan Polka."
+  },
+  {
+   "t": "In 2007, someone made Hatsune Miku sing that song. And in the video, a tiny Miku shakes a leek.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Leekspin (2006); Ievan Polkka cover; VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr41-lk-b.mp4",
+     "start": 0
+    },
+    "big": "MIKU\nCOVER",
+    "sub": "2007",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It became one of her first big hits. And the leek stuck to her forever. Now it's in Fortnite.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Leekspin (2006); Ievan Polkka cover; VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr41-lk-d.mp4",
+     "start": 0
+    },
+    "big": "NOW IN\nFORTNITE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you know where the leek came from?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Leekspin (2006); Ievan Polkka cover; VALtheVAL; FireMonkey (YouTube)",
+     "clip": "tr41-lk-c.mp4",
+     "start": 0.0
+    },
+    "big": "DID YOU\nKNOW?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

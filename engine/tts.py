@@ -33,8 +33,37 @@ def normalize(t, extra=None):
     return t
 
 
+NARRATOR_URL = os.environ.get("NARRATOR_URL", "http://127.0.0.1:8791/tts")
+
+
+def _narrator(text, speed):
+    """User's own Chatterbox narrator (Z:/claudeprojects/voice-app, port 8791). Default settings on purpose:
+    the user found the first/default settings the most reliable (expressive re-records went metallic)."""
+    import json, subprocess, tempfile, urllib.request, wave
+    tmp = os.path.join(tempfile.gettempdir(), "narr_%d.wav" % abs(hash((text, speed))))
+    req = urllib.request.Request(NARRATOR_URL, json.dumps({"text": text, "out": tmp, "pause": 0.12}).encode())
+    urllib.request.urlopen(req, timeout=900).read()
+    out = tmp[:-4] + "_24k.wav"
+    af = "atempo=%.3f" % speed if abs(speed - 1) > 0.01 else "anull"
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp, "-ac", "1", "-ar", "24000", "-af", af, out], check=True)
+    with wave.open(out) as w:
+        a = np.frombuffer(w.readframes(w.getnframes()), np.int16).astype(np.float32) / 32768
+    for f in (tmp, out):
+        try:
+            os.remove(f)
+        except OSError:
+            pass
+    return a, 24000
+
+
 def say(text, voice="am_michael", speed=1.15, extra=None):
     global _k
+    if voice == "narrator":
+        a, sr = _narrator(normalize(text, extra), speed)
+        idx = np.where(np.abs(a) > 0.012)[0]
+        if len(idx):
+            a = a[max(idx[0] - 240, 0): idx[-1] + 720]
+        return a, sr
     if _k is None:
         from kokoro_onnx import Kokoro
         _k = Kokoro(D + "models/kokoro.onnx", D + "models/voices.bin")

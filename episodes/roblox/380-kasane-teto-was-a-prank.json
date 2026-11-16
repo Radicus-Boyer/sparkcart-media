@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 380,
+ "slug": "380-kasane-teto-was-a-prank",
+ "file": "380 This Fortnite Skin Started as a Prank.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {
+  "Teto": "Teh-toh",
+  "Kasane": "Kah-sah-neh",
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh"
+ },
+ "lines": [
+  {
+   "t": "This new Fortnite skin started out as a prank.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jaycob; Stealthy (YouTube)",
+     "clip": "tr41-tt-a.mp4",
+     "start": 0
+    },
+    "big": "A PRANK?",
+    "sub": "KASANE TETO",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2008, people on a Japanese forum made up a fake singing voice character to parody Hatsune Miku. Her name was Kasane Teto.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jaycob; Stealthy (YouTube)",
+     "clip": "tr41-tt-c.mp4",
+     "start": 0
+    },
+    "big": "FAKE",
+    "sub": "2008",
+    "bs": 190,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "But fans loved her so much, she got a real voice anyway. And she turned into a real star.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jaycob; Stealthy (YouTube)",
+     "clip": "tr41-tt-b.mp4",
+     "start": 0
+    },
+    "big": "SHE GOT\nREAL",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Now she has her own Music Pass in Fortnite. And you can find her with Captain Miku at Friendship Villa.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jaycob; Stealthy (YouTube)",
+     "clip": "tr41-tt-a.mp4",
+     "start": 7.0
+    },
+    "big": "FRIENDSHIP\nVILLA",
+    "sub": "+ CAP'N MIKU",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Teto or Miku, who's better?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jaycob; Stealthy (YouTube)",
+     "clip": "tr41-tt-b.mp4",
+     "start": 7.0
+    },
+    "big": "TETO OR\nMIKU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jaycob; Stealthy (YouTube)",
+     "clip": "tr41-tt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAMING NEWS"
+}

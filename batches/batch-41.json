@@ -1,0 +1,267 @@
+{
+ "batch": 41,
+ "note": "Narrator voice test: Miku leek, Stereo Madness, RIVALS zombie origin, Polargeist, Kasane Teto, Jumper, Admin Abuse War, Clutterfunk, Fortnite Ch7 end, Dry Out",
+ "posting": "Z:/claudeprojects/roblox vids/batch-41/posting.txt",
+ "episodes": [
+  "episodes/roblox/376-why-miku-holds-a-leek.json",
+  "episodes/roblox/377-stereo-madness-first-level.json",
+  "episodes/roblox/378-rivals-was-a-zombie-game.json",
+  "episodes/roblox/379-polargeist-ghost-pun.json",
+  "episodes/roblox/380-kasane-teto-was-a-prank.json",
+  "episodes/roblox/381-jumper-song-older-than-gd.json",
+  "episodes/roblox/382-admin-abuse-war-record.json",
+  "episodes/roblox/383-clutterfunk-saws-and-mini.json",
+  "episodes/roblox/384-fortnite-chapter-7-ending.json",
+  "episodes/roblox/385-dry-out-gravity-portal.json"
+ ],
+ "clips": [
+  {
+   "name": "tr41-lk-a",
+   "url": "https://www.youtube.com/watch?v=GCO62VNm67k",
+   "backup": [],
+   "section": "*0:00-0:15",
+   "cut": 0,
+   "len": 14
+  },
+  {
+   "name": "tr41-lk-b",
+   "url": "https://www.youtube.com/watch?v=widZEAJc0QM",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-lk-c",
+   "url": "https://www.youtube.com/watch?v=X-ChzEIfNPE",
+   "backup": [],
+   "section": "*2:20-2:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-lk-d",
+   "url": "https://www.youtube.com/watch?v=4AvUJHNAt3c",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-sm-a",
+   "url": "https://www.youtube.com/watch?v=E5L083YQzVE",
+   "backup": [],
+   "section": "*0:15-0:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-sm-b",
+   "url": "https://www.youtube.com/watch?v=E5L083YQzVE",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-sm-c",
+   "url": "https://www.youtube.com/watch?v=XL9Sd57vN8w",
+   "backup": [],
+   "section": "*0:00-0:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb41-rz-a",
+   "url": "https://www.youtube.com/watch?v=CzZ576X91Bs",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb41-rz-b",
+   "url": "https://www.youtube.com/watch?v=KQwxi7UL-0E",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb41-rz-c",
+   "url": "https://www.youtube.com/watch?v=8_5M4W6939M",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-pg-a",
+   "url": "https://www.youtube.com/watch?v=jKlSuCTxa3I",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-pg-b",
+   "url": "https://www.youtube.com/watch?v=jKlSuCTxa3I",
+   "backup": [],
+   "section": "*0:55-1:15",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-pg-c",
+   "url": "https://www.youtube.com/watch?v=2nYa0PHz-Eg",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-tt-a",
+   "url": "https://www.youtube.com/watch?v=rk3UMtB9r8A",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-tt-b",
+   "url": "https://www.youtube.com/watch?v=rk3UMtB9r8A",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-tt-c",
+   "url": "https://www.youtube.com/watch?v=FMcV4_Yihb4",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-jp-a",
+   "url": "https://www.youtube.com/watch?v=-LDnnx9zT4k",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-jp-b",
+   "url": "https://www.youtube.com/watch?v=-LDnnx9zT4k",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-jp-c",
+   "url": "https://www.youtube.com/watch?v=fYVpoOzPqeg",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb41-aw-a",
+   "url": "https://www.youtube.com/watch?v=SpCyuCUcDTE",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb41-aw-b",
+   "url": "https://www.youtube.com/watch?v=SpCyuCUcDTE",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb41-aw-c",
+   "url": "https://www.youtube.com/watch?v=q9OstAjbpGQ",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-cf-a",
+   "url": "https://www.youtube.com/watch?v=cOU2MOXxPSE",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-cf-b",
+   "url": "https://www.youtube.com/watch?v=cOU2MOXxPSE",
+   "backup": [],
+   "section": "*1:05-1:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-cf-c",
+   "url": "https://www.youtube.com/watch?v=ZMylCezzjao",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-fn-a",
+   "url": "https://www.youtube.com/watch?v=ZNc8t1gn0es",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-fn-b",
+   "url": "https://www.youtube.com/watch?v=CxZ96pSQRA4",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr41-fn-c",
+   "url": "https://www.youtube.com/watch?v=X-ChzEIfNPE",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-do-a",
+   "url": "https://www.youtube.com/watch?v=TevhzWHz3WE",
+   "backup": [],
+   "section": "*0:25-0:45",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-do-b",
+   "url": "https://www.youtube.com/watch?v=aOkvecS-6H0",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd41-do-c",
+   "url": "https://www.youtube.com/watch?v=TevhzWHz3WE",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

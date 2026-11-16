@@ -1,0 +1,120 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 382,
+ "slug": "382-admin-abuse-war-record",
+ "file": "382 Two Roblox Games Started a War and Broke a World Record.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ccff90",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Two Roblox games started a war. And it broke a world record.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vindooly; PietrekPlays (Roblox gameplay, YouTube)",
+     "clip": "rb41-aw-a.mp4",
+     "start": 0
+    },
+    "big": "ADMIN\nWAR",
+    "sub": "GROW A GARDEN VS BRAINROT",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Grow a Garden and Steal a Brainrot both held admin abuse events on the same weekend. August 23rd, 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vindooly; PietrekPlays (Roblox gameplay, YouTube)",
+     "clip": "rb41-aw-b.mp4",
+     "start": 0
+    },
+    "big": "SAME\nWEEKEND",
+    "sub": "AUG 23, 2025",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Together, the two games pulled in around 37 million players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vindooly; PietrekPlays (Roblox gameplay, YouTube)",
+     "clip": "rb41-aw-c.mp4",
+     "start": 0
+    },
+    "sub": "PLAYERS IN 2 GAMES",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 37000000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Roblox hit 47 point 4 million players at once. More than Steam's all time record.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vindooly; PietrekPlays (Roblox gameplay, YouTube)",
+     "clip": "rb41-aw-a.mp4",
+     "start": 7.0
+    },
+    "sub": "ON ROBLOX AT ONCE",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 47400000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Which side were you on?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vindooly; PietrekPlays (Roblox gameplay, YouTube)",
+     "clip": "rb41-aw-b.mp4",
+     "start": 7.0
+    },
+    "big": "WHICH\nSIDE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

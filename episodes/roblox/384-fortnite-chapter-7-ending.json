@@ -1,0 +1,128 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 384,
+ "slug": "384-fortnite-chapter-7-ending",
+ "file": "384 Fortnite Chapter 7 Is Ending in Less Than 3 Weeks.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#fff59d",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Fortnite Chapter 7 is ending in less than three weeks.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Evolve Jake; NOOB NOOB FRUIT; VALtheVAL (YouTube)",
+     "clip": "tr41-fn-a.mp4",
+     "start": 0
+    },
+    "big": "ENDING",
+    "sub": "CHAPTER 7",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The finale event is set for December 5th. That's when this whole pirate island wraps up.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Evolve Jake; NOOB NOOB FRUIT; VALtheVAL (YouTube)",
+     "clip": "tr41-fn-b.mp4",
+     "start": 0
+    },
+    "big": "DEC 5",
+    "sub": "FINALE EVENT",
+    "bs": 190,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Before that, Oscar sails in with his own ship. And the Gold Sprite drops on November 22nd.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Evolve Jake; NOOB NOOB FRUIT; VALtheVAL (YouTube)",
+     "clip": "tr41-fn-c.mp4",
+     "start": 0
+    },
+    "big": "GOLD\nSPRITE",
+    "sub": "NOV 22",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And today is Mastery Monday. Double Sprite XP, and more Sprite chests. Only two more after this.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Evolve Jake; NOOB NOOB FRUIT; VALtheVAL (YouTube)",
+     "clip": "tr41-fn-a.mp4",
+     "start": 7.0
+    },
+    "big": "2X SPRITE\nXP",
+    "sub": "TODAY",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What do you think Chapter 8 will be?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Evolve Jake; NOOB NOOB FRUIT; VALtheVAL (YouTube)",
+     "clip": "tr41-fn-b.mp4",
+     "start": 7.0
+    },
+    "big": "CHAPTER\n8?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Evolve Jake; NOOB NOOB FRUIT; VALtheVAL (YouTube)",
+     "clip": "tr41-fn-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GAMING NEWS"
+}

@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 377,
+ "slug": "377-stereo-madness-first-level",
+ "file": "377 Every Geometry Dash Player Started Here.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "Every single Geometry Dash player started right here.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd41-sm-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 1]\nSTEREO MADNESS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Stereo Madness is the first level. And it's the only level that teaches you two forms. The cube, and the ship.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd41-sm-b.mp4",
+     "start": 0
+    },
+    "big": "[CUBE + SHIP]\nTWO FORMS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Die on the first spike twice, and the game tells you, tap to jump over the spikes.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd41-sm-c.mp4",
+     "start": 0
+    },
+    "big": "[TAP TO JUMP]\nTHE TUTORIAL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's also the only level with no pads, no rings, and no portals that mess with you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd41-sm-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NO PADS]\nNO RINGS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "How many attempts did Stereo Madness take you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd41-sm-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nATTEMPTS?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd41-sm-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

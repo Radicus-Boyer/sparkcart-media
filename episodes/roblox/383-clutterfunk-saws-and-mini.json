@@ -1,0 +1,149 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 383,
+ "slug": "383-clutterfunk-saws-and-mini",
+ "file": "383 This Geometry Dash Level Brought the Saw Blades.mp4",
+ "target": 0,
+ "accent": "#e040fb",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Clutterfunk": "Clutter funk"
+ },
+ "lines": [
+  {
+   "t": "This is the level that brought saw blades to Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; JB (YouTube)",
+     "clip": "gd41-cf-a.mp4",
+     "start": 0
+    },
+    "big": "[SAW BLADES]\nCLUTTERFUNK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Clutterfunk is level 11. It brought the saws, and the size portal that shrinks you down.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; JB (YouTube)",
+     "clip": "gd41-cf-c.mp4",
+     "start": 0
+    },
+    "big": "[NEW]\nMINI PORTAL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It needs at least 125 jumps to beat. That's more than a lot of the harder levels after it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; JB (YouTube)",
+     "clip": "gd41-cf-b.mp4",
+     "start": 0
+    },
+    "big": null,
+    "by": 250,
+    "bs": 120,
+    "ss": 54,
+    "count": {
+     "from": 0,
+     "to": 125,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    },
+    "sub": "JUMPS MINIMUM"
+   }
+  },
+  {
+   "t": "Beat it, and you unlock a new ship. Only one other level does that.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; JB (YouTube)",
+     "clip": "gd41-cf-a.mp4",
+     "start": 7.0
+    },
+    "big": "[REWARD]\nA NEW SHIP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Mini cube or normal cube?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; JB (YouTube)",
+     "clip": "gd41-cf-b.mp4",
+     "start": 7.0
+    },
+    "big": "MINI OR\nNORMAL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; JB (YouTube)",
+     "clip": "gd41-cf-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

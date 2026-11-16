@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 381,
+ "slug": "381-jumper-song-older-than-gd",
+ "file": "381 This Geometry Dash Song Is Older Than the Game.mp4",
+ "target": 0,
+ "accent": "#ffab00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash song is older than the game itself.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock (YouTube)",
+     "clip": "gd41-jp-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 7]\nJUMPER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The song Jumper came out in 2005. That makes it the oldest song in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock (YouTube)",
+     "clip": "gd41-jp-c.mp4",
+     "start": 0
+    },
+    "big": "[2005]\nOLDEST SONG",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Before Geometry Dash, it was already in another famous game. Castle Crashers.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock (YouTube)",
+     "clip": "gd41-jp-b.mp4",
+     "start": 0
+    },
+    "big": "[ALSO IN]\nCASTLE CRASHERS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And Jumper was the first level rated harder. Before update 1.9, it was even insane.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock (YouTube)",
+     "clip": "gd41-jp-a.mp4",
+     "start": 7.0
+    },
+    "big": "[HARDER]\nWAS INSANE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you know it was in Castle Crashers?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock (YouTube)",
+     "clip": "gd41-jp-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nKNOW?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock (YouTube)",
+     "clip": "gd41-jp-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

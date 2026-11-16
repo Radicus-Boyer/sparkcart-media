@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 385,
+ "slug": "385-dry-out-gravity-portal",
+ "file": "385 This Geometry Dash Level Flipped Gravity First.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 124,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1000,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "This is the level that first flipped you upside down in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; Tru3P1ay3r (YouTube)",
+     "clip": "gd41-do-a.mp4",
+     "start": 0
+    },
+    "big": "[UPSIDE DOWN]\nDRY OUT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Dry Out is level 4. It brought the gravity portal, with a whole upside down cube part.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; Tru3P1ay3r (YouTube)",
+     "clip": "gd41-do-a.mp4",
+     "start": 5.0
+    },
+    "big": "[NEW]\nGRAVITY PORTAL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It has the fewest jump pads and rings of any level that uses them. Just five pads and two rings.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; Tru3P1ay3r (YouTube)",
+     "clip": "gd41-do-b.mp4",
+     "start": 0
+    },
+    "big": "[5 PADS]\n2 RINGS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was rated harder at first. Now it's a normal level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; Tru3P1ay3r (YouTube)",
+     "clip": "gd41-do-c.mp4",
+     "start": 0
+    },
+    "big": "[HARDER]\nTO NORMAL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Upside down or right side up, which is harder?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; Tru3P1ay3r (YouTube)",
+     "clip": "gd41-do-b.mp4",
+     "start": 7.0
+    },
+    "big": "WHICH IS\nHARDER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; Tru3P1ay3r (YouTube)",
+     "clip": "gd41-do-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
