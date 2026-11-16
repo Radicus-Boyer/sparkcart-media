@@ -6,8 +6,8 @@
  "file": "378 RIVALS Was Supposed to Be a Zombie Game.mp4",
  "target": 0,
  "accent": "#ff3d00",
- "voice": "narrator",
- "speed": 1.08,
+ "voice": "am_michael",
+ "speed": 1.06,
  "cap": {
   "font": "../modern/fonts/Bangers-Regular.ttf",
   "size": 120,

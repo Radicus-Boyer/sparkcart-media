@@ -10,11 +10,11 @@
  "speed": 1.08,
  "cap": {
   "font": "LuckiestGuy.ttf",
-  "size": 124,
+  "size": 120,
   "mode": "word",
   "fill": "#ffffff",
   "hi": "#ffffff",
-  "cy": 1000,
+  "cy": 1470,
   "stroke": 11
  },
  "pron": {
