@@ -1,0 +1,109 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 390,
+ "slug": "390-creeper-was-a-pig",
+ "file": "390 The Minecraft Creeper Was Supposed to Be a Pig.mp4",
+ "target": 0,
+ "accent": "#66bb6a",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b9f6ca",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "The Minecraft creeper was supposed to be a pig.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GlitchyKittens; Pixel Lore; PixelMorph (YouTube)",
+     "clip": "mc42-cr-a.mp4",
+     "start": 0
+    },
+    "big": "A PIG?",
+    "sub": "THE CREEPER",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In August 2009, Notch was making the pig. He didn't use a modeling program. He wrote the models straight in code.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GlitchyKittens; Pixel Lore; PixelMorph (YouTube)",
+     "clip": "mc42-cr-b.mp4",
+     "start": 0
+    },
+    "big": "MODELS\nIN CODE",
+    "sub": "AUGUST 2009",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He mixed up the numbers and swapped the length and the height. So instead of a pig, he got a tall, skinny thing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GlitchyKittens; Pixel Lore; PixelMorph (YouTube)",
+     "clip": "mc42-cr-c.mp4",
+     "start": 0
+    },
+    "big": "TALL +\nSKINNY",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He made it green and gave it a hiss. Notch later said, the creepers were a mistake.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GlitchyKittens; Pixel Lore; PixelMorph (YouTube)",
+     "clip": "mc42-cr-a.mp4",
+     "start": 7.0
+    },
+    "big": "A MISTAKE",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Should Mojang make a pig creeper?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GlitchyKittens; Pixel Lore; PixelMorph (YouTube)",
+     "clip": "mc42-cr-b.mp4",
+     "start": 7.0
+    },
+    "big": "PIG\nCREEPER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

@@ -1,0 +1,259 @@
+{
+ "batch": 42,
+ "note": "Miku is software, Base After Base, Grow a Garden teen, Cycles ball, Creeper pig, hidden GD levels, RIVALS anti-cheat, Electroman harder, GD 7 levels, Minecraft first sales",
+ "posting": "Z:/claudeprojects/roblox vids/batch-42/posting.txt",
+ "episodes": [
+  "episodes/roblox/386-hatsune-miku-is-software.json",
+  "episodes/roblox/387-base-after-base-copyright.json",
+  "episodes/roblox/388-grow-a-garden-16-year-old.json",
+  "episodes/roblox/389-cycles-first-ball.json",
+  "episodes/roblox/390-creeper-was-a-pig.json",
+  "episodes/roblox/391-hidden-future-levels.json",
+  "episodes/roblox/392-rivals-blocked-a-million-cheaters.json",
+  "episodes/roblox/393-electroman-got-harder.json",
+  "episodes/roblox/394-gd-launched-with-7-levels.json",
+  "episodes/roblox/395-minecraft-first-month-sales.json"
+ ],
+ "clips": [
+  {
+   "name": "tr42-mk-a",
+   "url": "https://www.youtube.com/watch?v=XBXazVIXAPo",
+   "backup": [],
+   "section": "*30:00-30:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr42-mk-b",
+   "url": "https://www.youtube.com/watch?v=XBXazVIXAPo",
+   "backup": [],
+   "section": "*1:00:00-1:00:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr42-mk-c",
+   "url": "https://www.youtube.com/watch?v=X-ChzEIfNPE",
+   "backup": [],
+   "section": "*2:20-2:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-ba-a",
+   "url": "https://www.youtube.com/watch?v=_TOcf7orAOk",
+   "backup": [],
+   "section": "*0:15-0:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-ba-b",
+   "url": "https://www.youtube.com/watch?v=_TOcf7orAOk",
+   "backup": [],
+   "section": "*1:05-1:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-ba-c",
+   "url": "https://www.youtube.com/watch?v=alvV4rN7QHw",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb42-gg-a",
+   "url": "https://www.youtube.com/watch?v=38P9CZ3givU",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb42-gg-b",
+   "url": "https://www.youtube.com/watch?v=D9XF5nnfwUg",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb42-gg-c",
+   "url": "https://www.youtube.com/watch?v=RdxyGuDY6ow",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-cy-a",
+   "url": "https://www.youtube.com/watch?v=WRd4-TWnEtk",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-cy-b",
+   "url": "https://www.youtube.com/watch?v=WRd4-TWnEtk",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-cy-c",
+   "url": "https://www.youtube.com/watch?v=BxumMtoJnuA",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc42-cr-a",
+   "url": "https://www.youtube.com/watch?v=bbLhBXwwpt0",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc42-cr-b",
+   "url": "https://www.youtube.com/watch?v=8qb8J4hRI1w",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc42-cr-c",
+   "url": "https://www.youtube.com/watch?v=tvrbRd5lNWg",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-hl-a",
+   "url": "https://www.youtube.com/watch?v=AoLMZGV1SgM",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-hl-b",
+   "url": "https://www.youtube.com/watch?v=HrGBUnn9Y0g",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-hl-c",
+   "url": "https://www.youtube.com/watch?v=BxumMtoJnuA",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb42-ra-a",
+   "url": "https://www.youtube.com/watch?v=CzZ576X91Bs",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb42-ra-b",
+   "url": "https://www.youtube.com/watch?v=lHDRoZ_PRYU",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "rb42-ra-c",
+   "url": "https://www.youtube.com/watch?v=lHDRoZ_PRYU",
+   "backup": [],
+   "section": "*16:00-16:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-ea-a",
+   "url": "https://www.youtube.com/watch?v=ivkQcjt22tQ",
+   "backup": [],
+   "section": "*0:05-0:25",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-ea-b",
+   "url": "https://www.youtube.com/watch?v=ivkQcjt22tQ",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-ea-c",
+   "url": "https://www.youtube.com/watch?v=ivkQcjt22tQ",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-gl-a",
+   "url": "https://www.youtube.com/watch?v=zDaMERuqcGM",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-gl-b",
+   "url": "https://www.youtube.com/watch?v=zDaMERuqcGM",
+   "backup": [],
+   "section": "*6:00-6:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd42-gl-c",
+   "url": "https://www.youtube.com/watch?v=E5L083YQzVE",
+   "backup": [],
+   "section": "*0:15-0:35",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc42-ms-a",
+   "url": "https://www.youtube.com/watch?v=d5vAsPKc-js",
+   "backup": [],
+   "section": "*1:00:00-1:00:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc42-ms-b",
+   "url": "https://www.youtube.com/watch?v=FDVVk843oF8",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "mc42-ms-c",
+   "url": "https://www.youtube.com/watch?v=eUkZNk90rbQ",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

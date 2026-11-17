@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 391,
+ "slug": "391-hidden-future-levels",
+ "file": "391 These Geometry Dash Levels Were Hidden in the Game Before They Existed.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step"
+ },
+ "lines": [
+  {
+   "t": "These Geometry Dash levels were hidden in the game before they even existed.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock; RodrigoYiyo (YouTube)",
+     "clip": "gd42-hl-a.mp4",
+     "start": 0
+    },
+    "big": "[HIDDEN]\nFUTURE LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Versions 1.0 to 1.3 already had slots for three future levels. Time Machine, Cycles, and xStep.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock; RodrigoYiyo (YouTube)",
+     "clip": "gd42-hl-b.mp4",
+     "start": 0
+    },
+    "big": "[1.0 - 1.3]\nTIME MACHINE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "If you got into them early, you'd play a placeholder level, with the real song already playing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock; RodrigoYiyo (YouTube)",
+     "clip": "gd42-hl-c.mp4",
+     "start": 0
+    },
+    "big": "[PLACEHOLDER]\nREAL SONG",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then they came out one by one. Time Machine in update 1.1. Cycles in 1.2. And xStep in 1.3.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock; RodrigoYiyo (YouTube)",
+     "clip": "gd42-hl-b.mp4",
+     "start": 7.0
+    },
+    "big": "[1.1 - 1.2 - 1.3]\nONE BY ONE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What would you hide in a game?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock; RodrigoYiyo (YouTube)",
+     "clip": "gd42-hl-a.mp4",
+     "start": 7.0
+    },
+    "big": "WHAT WOULD\nYOU HIDE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; CJrock; RodrigoYiyo (YouTube)",
+     "clip": "gd42-hl-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

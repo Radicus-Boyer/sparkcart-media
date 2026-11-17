@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 395,
+ "slug": "395-minecraft-first-month-sales",
+ "file": "395 Minecraft Sold Only 1,000 Copies in Its First Month.mp4",
+ "target": 0,
+ "accent": "#66bb6a",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#b9f6ca",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "Minecraft sold about 1,000 copies in its first month.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); youngston; Eider (YouTube)",
+     "clip": "mc42-ms-a.mp4",
+     "start": 0
+    },
+    "big": "1,000\nCOPIES",
+    "sub": "FIRST MONTH",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Notch put it up for sale so he could work on it full time. The first copy sold on June 13th, 2009.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); youngston; Eider (YouTube)",
+     "clip": "mc42-ms-c.mp4",
+     "start": 0
+    },
+    "big": "FIRST SALE",
+    "sub": "JUNE 13, 2009",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "About 20,000 more people signed up to play the free version.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); youngston; Eider (YouTube)",
+     "clip": "mc42-ms-b.mp4",
+     "start": 0
+    },
+    "sub": "FREE PLAYERS",
+    "bs": 130,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 20000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Today it's the best selling video game of all time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); youngston; Eider (YouTube)",
+     "clip": "mc42-ms-a.mp4",
+     "start": 7.0
+    },
+    "big": "#1 BEST\nSELLER",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "When did you first play Minecraft?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Notch's Cave Game test (re-upload); youngston; Eider (YouTube)",
+     "clip": "mc42-ms-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nFIRST TIME?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

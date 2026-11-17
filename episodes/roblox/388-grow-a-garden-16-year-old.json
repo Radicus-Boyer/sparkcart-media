@@ -1,0 +1,115 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 388,
+ "slug": "388-grow-a-garden-16-year-old",
+ "file": "388 A 16 Year Old Made This Roblox Game in a Few Days.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ccff90",
+  "cy": 1470
+ },
+ "pron": {},
+ "lines": [
+  {
+   "t": "A 16 year old made this Roblox game in just a few days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Maizen; Laughability; FoltynPlays (Roblox gameplay, YouTube)",
+     "clip": "rb42-gg-a.mp4",
+     "start": 0
+    },
+    "big": "16 YEARS\nOLD",
+    "sub": "GROW A GARDEN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Grow a Garden came out on March 26th, 2025. You plant seeds, sell crops, and come back later to see them grow.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Maizen; Laughability; FoltynPlays (Roblox gameplay, YouTube)",
+     "clip": "rb42-gg-b.mp4",
+     "start": 0
+    },
+    "big": "PLANT\nAND WAIT",
+    "sub": "MARCH 2025",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "A studio partnered with the creator when it only had about 500 players. Then they added weekly updates.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Maizen; Laughability; FoltynPlays (Roblox gameplay, YouTube)",
+     "clip": "rb42-gg-c.mp4",
+     "start": 0
+    },
+    "big": "500\nPLAYERS",
+    "sub": "THEN WEEKLY UPDATES",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "About three months later, it hit 22 million players at the same time. A world record.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Maizen; Laughability; FoltynPlays (Roblox gameplay, YouTube)",
+     "clip": "rb42-gg-a.mp4",
+     "start": 7.0
+    },
+    "sub": "PLAYERS AT ONCE",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 22300000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Could you make a game this big?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Maizen; Laughability; FoltynPlays (Roblox gameplay, YouTube)",
+     "clip": "rb42-gg-b.mp4",
+     "start": 7.0
+    },
+    "big": "COULD\nYOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

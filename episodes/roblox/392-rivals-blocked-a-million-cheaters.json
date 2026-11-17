@@ -1,0 +1,117 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 392,
+ "slug": "392-rivals-blocked-a-million-cheaters",
+ "file": "392 RIVALS Has Blocked Over a Million Cheaters.mp4",
+ "target": 0,
+ "accent": "#ff3d00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab91",
+  "cy": 1470
+ },
+ "pron": {
+  "RIVALS": "Rivals"
+ },
+ "lines": [
+  {
+   "t": "RIVALS has stopped over one million cheating attempts.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb42-ra-a.mp4",
+     "start": 0
+    },
+    "big": "1 MILLION\nCHEATERS",
+    "sub": "RIVALS",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Its anti-cheat system has blocked more than a million tries to hack the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb42-ra-b.mp4",
+     "start": 0
+    },
+    "sub": "CHEAT ATTEMPTS BLOCKED",
+    "bs": 120,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 1000000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It's one of the biggest shooters on Roblox. Over 13 billion visits, and a 94 percent like rating.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb42-ra-c.mp4",
+     "start": 0
+    },
+    "big": "13 BILLION\nVISITS",
+    "sub": "94% LIKES",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It even won Best Shooter at the Roblox Innovation Awards in 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb42-ra-a.mp4",
+     "start": 7.0
+    },
+    "big": "BEST\nSHOOTER",
+    "sub": "2025 AWARDS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Have you ever played against a hacker?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb42-ra-b.mp4",
+     "start": 7.0
+    },
+    "big": "HACKER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

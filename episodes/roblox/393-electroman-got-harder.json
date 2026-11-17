@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 393,
+ "slug": "393-electroman-got-harder",
+ "file": "393 The Only Geometry Dash Level That Got Harder.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Electroman": "Electro man"
+ },
+ "lines": [
+  {
+   "t": "This is the only main level in Geometry Dash that ever got rated harder.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB (YouTube)",
+     "clip": "gd42-ea-a.mp4",
+     "start": 0
+    },
+    "big": "[GOT HARDER]\nELECTROMAN ADVENTURES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Electroman Adventures was rated harder. Then update 1.7 bumped it up to insane.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB (YouTube)",
+     "clip": "gd42-ea-c.mp4",
+     "start": 0
+    },
+    "big": "[HARDER]\nTO INSANE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's one of only two main levels with blocks you can break. And there's a trick.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB (YouTube)",
+     "clip": "gd42-ea-b.mp4",
+     "start": 0
+    },
+    "big": "[BREAKABLE]\nBLOCKS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Skip the portals at 66 percent, and you can play the rest of the level mirrored.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB (YouTube)",
+     "clip": "gd42-ea-b.mp4",
+     "start": 6.0
+    },
+    "big": "[66%]\nMIRROR TRICK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you know the mirror trick?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB (YouTube)",
+     "clip": "gd42-ea-a.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nKNOW?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 500 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB (YouTube)",
+     "clip": "gd42-ea-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
