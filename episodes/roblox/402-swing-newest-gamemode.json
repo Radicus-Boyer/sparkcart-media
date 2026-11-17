@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 402,
+ "slug": "402-swing-newest-gamemode",
+ "file": "402 Geometry Dash Waited 6 Years for This Game Mode.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash players waited six years for this game mode.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Dorami (YouTube)",
+     "clip": "gd43-sw-a.mp4",
+     "start": 0
+    },
+    "big": "[6 YEARS]\nTHE SWING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "After update 2.1 in 2017, the next big update didn't come out until December 19th, 2023.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Dorami (YouTube)",
+     "clip": "gd43-sw-c.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 2.2]\nDEC 2023",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It brought the swing. Kind of a mix of the ship and the ball. Fans call it the swing copter.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Dorami (YouTube)",
+     "clip": "gd43-sw-b.mp4",
+     "start": 0
+    },
+    "big": "[SHIP + BALL]\nSWING COPTER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It showed up in the new level, Dash. And the game's player count blew past its old record.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Dorami (YouTube)",
+     "clip": "gd43-sw-a.mp4",
+     "start": 7.0
+    },
+    "big": "[DASH]\nNEW RECORD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Swing or wave, which is worse?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Dorami (YouTube)",
+     "clip": "gd43-sw-b.mp4",
+     "start": 7.0
+    },
+    "big": "SWING OR\nWAVE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Dorami (YouTube)",
+     "clip": "gd43-sw-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

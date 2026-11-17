@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 396,
+ "slug": "396-back-on-track-hidden-mechanics",
+ "file": "396 Geometry Dash Level 2 Hid Mechanics Before They Existed.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step"
+ },
+ "lines": [
+  {
+   "t": "The second level in Geometry Dash was hiding things you weren't supposed to see yet.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd43-bt-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 2]\nBACK ON TRACK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Go for the secret coin, and you'll hit a gravity portal. Before Dry Out ever teaches you what it is.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd43-bt-b.mp4",
+     "start": 0
+    },
+    "big": "[SECRET COIN]\nGRAVITY PORTAL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And there's a blue gravity pad in there too. The game doesn't officially show you that until xStep.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd43-bt-c.mp4",
+     "start": 0
+    },
+    "big": "[EARLY]\nBLUE PAD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "So a level rated easy was secretly teaching you stuff from much harder levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd43-bt-a.mp4",
+     "start": 7.0
+    },
+    "big": "[EASY?]\nNOT REALLY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you find that coin as a kid?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd43-bt-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nFIND IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; Conrad Hellman (YouTube)",
+     "clip": "gd43-bt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

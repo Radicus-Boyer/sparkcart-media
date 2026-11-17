@@ -1,0 +1,136 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 403,
+ "slug": "403-miku-opened-for-lady-gaga",
+ "file": "403 Hatsune Miku Opened for Lady Gaga.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "artRAVE": "art rave",
+  "Gaga": "Gah-gah"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku once opened for Lady Gaga.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); Kawaii Latin (YouTube)",
+     "clip": "tr43-mg-a.mp4",
+     "start": 0
+    },
+    "big": "OPENED FOR\nLADY GAGA",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In 2014, Gaga picked her for the artRAVE tour. The offer came just seven weeks before the first show.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); Kawaii Latin (YouTube)",
+     "clip": "tr43-mg-b.mp4",
+     "start": 0
+    },
+    "big": "7 WEEKS\nNOTICE",
+    "sub": "2014",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Miku opened 15 shows across North America, with a 25 minute set.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); Kawaii Latin (YouTube)",
+     "clip": "tr43-mg-c.mp4",
+     "start": 0
+    },
+    "sub": "SHOWS WITH GAGA",
+    "bs": 150,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 15,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "A few months later, she even sang live on David Letterman. Her first time on American TV.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); Kawaii Latin (YouTube)",
+     "clip": "tr43-mg-a.mp4",
+     "start": 7.0
+    },
+    "big": "LIVE ON\nLETTERMAN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you watch a Miku concert?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); Kawaii Latin (YouTube)",
+     "clip": "tr43-mg-b.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD\nYOU GO?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); Kawaii Latin (YouTube)",
+     "clip": "tr43-mg-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

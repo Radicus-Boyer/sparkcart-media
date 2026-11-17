@@ -1,0 +1,134 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 399,
+ "slug": "399-bloxburg-cost-robux",
+ "file": "399 This Roblox Game Made You Pay Just to Play.mp4",
+ "target": 0,
+ "accent": "#ffab40",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffe0b2",
+  "cy": 1470
+ },
+ "pron": {
+  "Coeptus": "Co-ep-tus",
+  "Bloxburg": "Blox burg"
+ },
+ "lines": [
+  {
+   "t": "For almost ten years, this Roblox game made you pay just to get in.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; weim1643 (Roblox gameplay, YouTube)",
+     "clip": "rb43-bx-a.mp4",
+     "start": 0
+    },
+    "big": "PAY TO\nPLAY",
+    "sub": "BLOXBURG",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Welcome to Bloxburg was made in 2014 by a university student called Coeptus. It's basically The Sims on Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; weim1643 (Roblox gameplay, YouTube)",
+     "clip": "rb43-bx-b.mp4",
+     "start": 0
+    },
+    "big": "THE SIMS\nON ROBLOX",
+    "sub": "MADE IN 2014",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It used paid access. 25 Robux, just to play.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; weim1643 (Roblox gameplay, YouTube)",
+     "clip": "rb43-bx-c.mp4",
+     "start": 0
+    },
+    "sub": "ROBUX TO ENTER",
+    "bs": 150,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 25,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "And people still paid. It became one of the most played games on Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; weim1643 (Roblox gameplay, YouTube)",
+     "clip": "rb43-bx-a.mp4",
+     "start": 7.0
+    },
+    "big": "PEOPLE\nSTILL PAID",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you pay for Bloxburg?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; weim1643 (Roblox gameplay, YouTube)",
+     "clip": "rb43-bx-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nPAY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; weim1643 (Roblox gameplay, YouTube)",
+     "clip": "rb43-bx-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

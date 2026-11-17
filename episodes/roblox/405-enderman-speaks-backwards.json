@@ -1,0 +1,128 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 405,
+ "slug": "405-enderman-speaks-backwards",
+ "file": "405 Endermen Are Speaking English Backwards.mp4",
+ "target": 0,
+ "accent": "#d500f9",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ea80fc",
+  "cy": 1470
+ },
+ "pron": {
+  "Endermen": "Ender men"
+ },
+ "lines": [
+  {
+   "t": "Endermen in Minecraft are actually speaking English. Backwards.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Minecraft Stories; Eider (YouTube)",
+     "clip": "mc43-en-a.mp4",
+     "start": 0
+    },
+    "big": "BACKWARDS\nENGLISH",
+    "sub": "ENDERMEN",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Flip one of their sounds around, and you get the word, here. Another one is, hiya.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Minecraft Stories; Eider (YouTube)",
+     "clip": "mc43-en-b.mp4",
+     "start": 0
+    },
+    "big": "HERE\nHIYA",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Slow some of them down, and you can hear, what's up. Or this way. And one says, forever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Minecraft Stories; Eider (YouTube)",
+     "clip": "mc43-en-c.mp4",
+     "start": 0
+    },
+    "big": "THIS WAY",
+    "sub": "FOREVER",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So the scariest sounds in Minecraft are just people saying hi.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Minecraft Stories; Eider (YouTube)",
+     "clip": "mc43-en-a.mp4",
+     "start": 7.0
+    },
+    "big": "JUST\nSAYING HI",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you ever notice that?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Minecraft Stories; Eider (YouTube)",
+     "clip": "mc43-en-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nNOTICE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Minecraft Stories; Eider (YouTube)",
+     "clip": "mc43-en-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

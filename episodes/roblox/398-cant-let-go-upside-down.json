@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 398,
+ "slug": "398-cant-let-go-upside-down",
+ "file": "398 This Easy Geometry Dash Level Is Secretly Brutal.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Can't Let Go": "Can't Let Go"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash level is only rated hard. But a lot of players say it's worse than the next one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd43-cl-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 6]\nCAN'T LET GO",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Can't Let Go flips you upside down from about 70 to 86 percent. And it's really hard to read.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd43-cl-c.mp4",
+     "start": 0
+    },
+    "big": "[70% - 86%]\nUPSIDE DOWN",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Even worse, there's a coin in that part that throws you right into a spike, with no warning.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd43-cl-b.mp4",
+     "start": 0
+    },
+    "big": "[THE COIN]\nNO WARNING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Jumper comes next and gives more stars. But many players think Can't Let Go is harder.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd43-cl-a.mp4",
+     "start": 7.0
+    },
+    "big": "[JUMPER]\nEASIER?",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Which was harder for you?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd43-cl-b.mp4",
+     "start": 7.0
+    },
+    "big": "WHICH WAS\nHARDER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd43-cl-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

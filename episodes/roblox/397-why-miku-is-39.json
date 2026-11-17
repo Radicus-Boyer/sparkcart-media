@@ -1,0 +1,133 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 397,
+ "slug": "397-why-miku-is-39",
+ "file": "397 Why 39 Is Hatsune Miku's Number.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "san kyu": "sahn kyoo",
+  "mi": "mee",
+  "ku": "koo"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku fans keep writing the number 39. Here's why.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); 39's Giving Day (YouTube)",
+     "clip": "tr43-m9-a.mp4",
+     "start": 0
+    },
+    "big": "39?",
+    "sub": "HATSUNE MIKU",
+    "bs": 180,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In Japanese, three can be read as mi, and nine can be read as ku. Mi ku.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); 39's Giving Day (YouTube)",
+     "clip": "tr43-m9-c.mp4",
+     "start": 0
+    },
+    "big": "3 = MI\n9 = KU",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Read another way, 39 sounds like san kyu. Thank you.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); 39's Giving Day (YouTube)",
+     "clip": "tr43-m9-b.mp4",
+     "start": 0
+    },
+    "big": "SAN KYU",
+    "sub": "= THANK YOU",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So March 9th became Miku Day. In 2010, her first solo concert was even held on that day.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); 39's Giving Day (YouTube)",
+     "clip": "tr43-m9-b.mp4",
+     "start": 7.0
+    },
+    "big": "MARCH 9",
+    "sub": "MIKU DAY",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you know about Miku Day?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); 39's Giving Day (YouTube)",
+     "clip": "tr43-m9-a.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nKNOW?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live); 39's Giving Day (YouTube)",
+     "clip": "tr43-m9-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

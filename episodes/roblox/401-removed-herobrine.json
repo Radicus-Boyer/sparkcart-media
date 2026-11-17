@@ -1,0 +1,129 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 401,
+ "slug": "401-removed-herobrine",
+ "file": "401 Why Minecraft Keeps Removing Herobrine.mp4",
+ "target": 0,
+ "accent": "#e0e0e0",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Herobrine": "Hero brine",
+  "Mojang": "Mo-yang"
+ },
+ "lines": [
+  {
+   "t": "Minecraft has removed Herobrine again and again. But he was never in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Eider; MrCreepyPasta (YouTube)",
+     "clip": "mc43-hb-a.mp4",
+     "start": 0
+    },
+    "big": "REMOVED\nHEROBRINE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Herobrine started as a creepy story online in 2010. Steve, but with glowing white eyes.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Eider; MrCreepyPasta (YouTube)",
+     "clip": "mc43-hb-b.mp4",
+     "start": 0
+    },
+    "big": "WHITE\nEYES",
+    "sub": "2010",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "So Mojang played along. Update notes kept saying, removed Herobrine. As a running joke.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Eider; MrCreepyPasta (YouTube)",
+     "clip": "mc43-hb-c.mp4",
+     "start": 0
+    },
+    "big": "A RUNNING\nJOKE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It stopped after 1.16. Then in 1.20, they removed him one more time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Eider; MrCreepyPasta (YouTube)",
+     "clip": "mc43-hb-a.mp4",
+     "start": 7.0
+    },
+    "big": "1.20",
+    "sub": "REMOVED AGAIN",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you believe in Herobrine?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Eider; MrCreepyPasta (YouTube)",
+     "clip": "mc43-hb-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nBELIEVE?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Eider; MrCreepyPasta (YouTube)",
+     "clip": "mc43-hb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}
