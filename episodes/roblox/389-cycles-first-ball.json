@@ -116,7 +116,7 @@
    }
   },
   {
-   "t": "Help a small creator hit 500 subs by Christmas!",
+   "t": "Help a small creator hit 1000 subs by Christmas!",
    "sc": {
     "bg": "night",
     "ground": "dark",
@@ -126,7 +126,7 @@
      "start": 7.0
     },
     "big": "SUBSCRIBE",
-    "sub": "HELP US HIT 500 BY CHRISTMAS",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
     "bs": 150,
     "ss": 44,
     "by": 300
