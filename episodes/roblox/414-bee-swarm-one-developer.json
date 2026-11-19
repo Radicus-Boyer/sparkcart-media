@@ -1,0 +1,133 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 414,
+ "slug": "414-bee-swarm-one-developer",
+ "file": "414 One Person Made This Roblox Game in 2018 and Never Made Another.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#fff59d",
+  "cy": 1470
+ },
+ "pron": {
+  "Onett": "Oh-net"
+ },
+ "lines": [
+  {
+   "t": "One person made this Roblox game in 2018, and never made another one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; PrysMoon (Roblox gameplay, YouTube)",
+     "clip": "rb44-bs-a.mp4",
+     "start": 0
+    },
+    "big": "ONE\nDEVELOPER",
+    "sub": "BEE SWARM",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Bee Swarm Simulator came out on March 23rd, 2018. Made by a solo developer named Onett.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; PrysMoon (Roblox gameplay, YouTube)",
+     "clip": "rb44-bs-b.mp4",
+     "start": 0
+    },
+    "big": "ONETT",
+    "sub": "MARCH 2018",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It was the 19th game on Roblox to hit a billion visits. Now it has over 4 billion.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; PrysMoon (Roblox gameplay, YouTube)",
+     "clip": "rb44-bs-c.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 4500000000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "Most simulators die in a year or two. Onett just kept updating this one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; PrysMoon (Roblox gameplay, YouTube)",
+     "clip": "rb44-bs-a.mp4",
+     "start": 7.0
+    },
+    "big": "STILL\nUPDATING",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you ever play Bee Swarm?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; PrysMoon (Roblox gameplay, YouTube)",
+     "clip": "rb44-bs-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nPLAY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Arutik Play; PrysMoon (Roblox gameplay, YouTube)",
+     "clip": "rb44-bs-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

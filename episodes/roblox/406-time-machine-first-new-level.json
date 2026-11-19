@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 406,
+ "slug": "406-time-machine-first-new-level",
+ "file": "406 The First Level Ever Added to Geometry Dash.mp4",
+ "target": 0,
+ "accent": "#ffc400",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "This was the first level ever added to Geometry Dash after it came out.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd44-tm-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 8]\nTIME MACHINE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Geometry Dash launched with seven levels. Then update 1.1 in October 2013 brought Time Machine.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd44-tm-c.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 1.1]\nOCT 2013",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The song is by Waterflame. And it's the first level rated harder that wasn't in the original game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd44-tm-b.mp4",
+     "start": 0
+    },
+    "big": "[WATERFLAME]\nHARDER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The same update also released Geometry Dash Lite. With just one level, Stereo Madness.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd44-tm-a.mp4",
+     "start": 7.0
+    },
+    "big": "[GD LITE]\n1 LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you start on Lite or full?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd44-tm-b.mp4",
+     "start": 7.0
+    },
+    "big": "LITE OR\nFULL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: razing717; RodrigoYiyo (YouTube)",
+     "clip": "gd44-tm-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

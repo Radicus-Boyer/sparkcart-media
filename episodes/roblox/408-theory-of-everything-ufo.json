@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 408,
+ "slug": "408-theory-of-everything-ufo",
+ "file": "408 This Geometry Dash Mode Might Be Because of Flappy Bird.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "DJ-Nate": "DJ Nate"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash game mode might exist because of Flappy Bird.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; JB (YouTube)",
+     "clip": "gd44-te-a.mp4",
+     "start": 0
+    },
+    "big": "[THE UFO]\nFLAPPY BIRD?",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Theory of Everything brought the UFO. Every tap gives you a little boost upward.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; JB (YouTube)",
+     "clip": "gd44-te-c.mp4",
+     "start": 0
+    },
+    "big": "[TAP]\nBOOST UP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out right around when Flappy Bird was blowing up. Same idea, tap to flap.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; JB (YouTube)",
+     "clip": "gd44-te-b.mp4",
+     "start": 0
+    },
+    "big": "[TAP TO]\nFLAP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It also added purple jump rings. And the song is by DJ Nate.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; JB (YouTube)",
+     "clip": "gd44-te-a.mp4",
+     "start": 7.0
+    },
+    "big": "[DJ-NATE]\nPURPLE ORBS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "UFO or ship, which is easier?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; JB (YouTube)",
+     "clip": "gd44-te-b.mp4",
+     "start": 7.0
+    },
+    "big": "UFO OR\nSHIP?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo; JB (YouTube)",
+     "clip": "gd44-te-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

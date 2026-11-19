@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 413,
+ "slug": "413-gd-was-a-platformer",
+ "file": "413 Geometry Dash Was Supposed to Be a Platformer.mp4",
+ "target": 0,
+ "accent": "#bdbdbd",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash was originally going to be a platformer.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Crano (YouTube)",
+     "clip": "gd44-tw-a.mp4",
+     "start": 0
+    },
+    "big": "[PLATFORMER]\nFROM THE START",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "RobTop says the game started out as a platformer where you could move in any direction.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Crano (YouTube)",
+     "clip": "gd44-tw-c.mp4",
+     "start": 0
+    },
+    "big": "[ANY DIRECTION]\nORIGINAL IDEA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Ten years later, update 2.2 finally added platformer mode. With four official levels in The Tower.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Crano (YouTube)",
+     "clip": "gd44-tw-b.mp4",
+     "start": 0
+    },
+    "big": "[THE TOWER]\n4 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Tower, The Sewers, The Cellar, and The Secret Hollow. And they give moons, not stars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Crano (YouTube)",
+     "clip": "gd44-tw-a.mp4",
+     "start": 7.0
+    },
+    "big": "[MOONS]\nNOT STARS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Platformer or classic?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Crano (YouTube)",
+     "clip": "gd44-tw-b.mp4",
+     "start": 7.0
+    },
+    "big": "PLATFORMER\nOR CLASSIC?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Crano (YouTube)",
+     "clip": "gd44-tw-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

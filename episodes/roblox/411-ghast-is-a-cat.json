@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 411,
+ "slug": "411-ghast-is-a-cat",
+ "file": "411 The Minecraft Ghast Is Actually a Cat.mp4",
+ "target": 0,
+ "accent": "#ff5252",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff8a80",
+  "cy": 1470
+ },
+ "pron": {
+  "C418": "C four eighteen",
+  "Ghast": "Gast"
+ },
+ "lines": [
+  {
+   "t": "That scary Ghast sound in Minecraft? It's actually a cat.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: cleandronion; Eider (YouTube)",
+     "clip": "mc44-gh-a.mp4",
+     "start": 0
+    },
+    "big": "IT'S A\nCAT",
+    "sub": "THE GHAST",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "C418, who made Minecraft's music, recorded his own cat. Right after it got woken up from a nap.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: cleandronion; Eider (YouTube)",
+     "clip": "mc44-gh-b.mp4",
+     "start": 0
+    },
+    "big": "C418'S\nCAT",
+    "sub": "WOKEN UP",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "He even wanted his cat to voice the ocelots. But it never meowed clearly enough.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: cleandronion; Eider (YouTube)",
+     "clip": "mc44-gh-c.mp4",
+     "start": 0
+    },
+    "big": "OCELOTS?",
+    "sub": "NOPE",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And creeper explosions? Those are gunshot sounds, pitched way down.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: cleandronion; Eider (YouTube)",
+     "clip": "mc44-gh-a.mp4",
+     "start": 7.0
+    },
+    "big": "GUNSHOTS",
+    "sub": "CREEPER BOOM",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What mob sound scares you most?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: cleandronion; Eider (YouTube)",
+     "clip": "mc44-gh-b.mp4",
+     "start": 7.0
+    },
+    "big": "SCARIEST\nSOUND?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: cleandronion; Eider (YouTube)",
+     "clip": "mc44-gh-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MINECRAFT"
+}

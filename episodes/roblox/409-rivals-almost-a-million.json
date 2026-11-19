@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 409,
+ "slug": "409-rivals-almost-a-million",
+ "file": "409 RIVALS Almost Hit 1 Million Players at Once.mp4",
+ "target": 0,
+ "accent": "#ff3d00",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab91",
+  "cy": 1470
+ },
+ "pron": {
+  "RIVALS": "Rivals"
+ },
+ "lines": [
+  {
+   "t": "RIVALS almost hit one million players at the same time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: anthonyy; Quackers552; MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb44-rv-a.mp4",
+     "start": 0
+    },
+    "big": "1 MILLION?",
+    "sub": "RIVALS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Its peak was about 961,000 players online at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: anthonyy; Quackers552; MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb44-rv-b.mp4",
+     "start": 0
+    },
+    "sub": "PLAYERS AT ONCE",
+    "bs": 120,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 961600,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It's one of the biggest shooters on Roblox, with around 200,000 people playing on a normal day.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: anthonyy; Quackers552; MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb44-rv-c.mp4",
+     "start": 0
+    },
+    "big": "200K\nEVERY DAY",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Roblox even used it in a live creator tournament in Los Angeles, with a 50,000 dollar prize pool.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: anthonyy; Quackers552; MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb44-rv-a.mp4",
+     "start": 7.0
+    },
+    "big": "$50,000\nTOURNAMENT",
+    "bs": 140,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Will RIVALS hit a million?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: anthonyy; Quackers552; MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb44-rv-b.mp4",
+     "start": 7.0
+    },
+    "big": "WILL IT\nHIT 1M?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: anthonyy; Quackers552; MiniBloxia (Roblox gameplay, YouTube)",
+     "clip": "rb44-rv-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

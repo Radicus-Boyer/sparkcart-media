@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 412,
+ "slug": "412-miku-coachella-four-years",
+ "file": "412 Hatsune Miku Waited 4 Years to Play Coachella.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Coachella": "Co-uh-chell-uh"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku had to wait four years to play Coachella.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (fan recording, Coachella 2024); Hatsune Miku official (YouTube)",
+     "clip": "tr44-mc-a.mp4",
+     "start": 0
+    },
+    "big": "4 YEARS",
+    "sub": "COACHELLA",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "She was booked for Coachella 2020. Then the pandemic cancelled the whole festival.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (fan recording, Coachella 2024); Hatsune Miku official (YouTube)",
+     "clip": "tr44-mc-c.mp4",
+     "start": 0
+    },
+    "big": "CANCELLED",
+    "sub": "2020",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "She finally played it in April 2024. But fans were shocked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (fan recording, Coachella 2024); Hatsune Miku official (YouTube)",
+     "clip": "tr44-mc-b.mp4",
+     "start": 0
+    },
+    "big": "APRIL\n2024",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Instead of a hologram, she showed up on a giant LED screen. And some fans were not happy.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (fan recording, Coachella 2024); Hatsune Miku official (YouTube)",
+     "clip": "tr44-mc-a.mp4",
+     "start": 7.0
+    },
+    "big": "NO\nHOLOGRAM",
+    "sub": "JUST A SCREEN",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Hologram or screen, does it matter?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (fan recording, Coachella 2024); Hatsune Miku official (YouTube)",
+     "clip": "tr44-mc-b.mp4",
+     "start": 7.0
+    },
+    "big": "DOES IT\nMATTER?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (fan recording, Coachella 2024); Hatsune Miku official (YouTube)",
+     "clip": "tr44-mc-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 415,
+ "slug": "415-meltdown-first-spinoff",
+ "file": "415 The First Geometry Dash Spin-Off Was Free.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "F-777": "F seven seven seven"
+ },
+ "lines": [
+  {
+   "t": "The first Geometry Dash spin-off was completely free.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VIX50; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-md-a.mp4",
+     "start": 0
+    },
+    "big": "[MELTDOWN]\nFREE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Geometry Dash Meltdown came out on December 19th, 2015. Just three levels, all with music by F-777.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VIX50; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-md-c.mp4",
+     "start": 0
+    },
+    "big": "[DEC 2015]\nF-777",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Seven Seas, Viking Arena, and Airborne Robots.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VIX50; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-md-b.mp4",
+     "start": 0
+    },
+    "big": "[3 LEVELS]\nSEVEN SEAS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was basically a free teaser for the full game. And it worked, because two more spin-offs followed.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VIX50; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-md-a.mp4",
+     "start": 7.0
+    },
+    "big": "[WORLD]\n[SUBZERO]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Best Meltdown level?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VIX50; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-md-b.mp4",
+     "start": 7.0
+    },
+    "big": "BEST\nLEVEL?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: VIX50; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-md-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

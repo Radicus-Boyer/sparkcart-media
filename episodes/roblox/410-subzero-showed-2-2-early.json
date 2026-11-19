@@ -1,0 +1,142 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 410,
+ "slug": "410-subzero-showed-2-2-early",
+ "file": "410 This Geometry Dash Game Showed 2.2 Six Years Early.mp4",
+ "target": 0,
+ "accent": "#40c4ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Nock Em": "Knock em"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash game showed off update 2.2. Six years before it came out.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-sz-a.mp4",
+     "start": 0
+    },
+    "big": "[SUBZERO]\n2017",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Geometry Dash SubZero came out on December 21st, 2017. A free spin-off with just three levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-sz-c.mp4",
+     "start": 0
+    },
+    "big": "[FREE]\n3 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Press Start, Nock Em, and Power Trip. And they all used features from update 2.2.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-sz-b.mp4",
+     "start": 0
+    },
+    "big": "[2.2 FEATURES]\nIN 2017",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But 2.2 didn't come out until December 2023. So players waited six years to use them.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-sz-a.mp4",
+     "start": 7.0
+    },
+    "big": "[6 YEARS]\nOF WAITING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you play SubZero?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-sz-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nPLAY IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd44-sz-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,136 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 407,
+ "slug": "407-miku-went-to-space",
+ "file": "407 Hatsune Miku Went to Space.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Akatsuki": "Ah-kaht-soo-kee"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku has been to space. For real.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live) (YouTube)",
+     "clip": "tr44-ms-a.mp4",
+     "start": 0
+    },
+    "big": "MIKU IN\nSPACE",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In May 2010, Japan launched a probe to Venus called Akatsuki. Fans sent in drawings and messages of Miku.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live) (YouTube)",
+     "clip": "tr44-ms-b.mp4",
+     "start": 0
+    },
+    "big": "AKATSUKI",
+    "sub": "MAY 2010",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "About 13,000 of them were printed onto metal plates, and attached to the probe.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live) (YouTube)",
+     "clip": "tr44-ms-c.mp4",
+     "start": 0
+    },
+    "sub": "MIKU DRAWINGS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 13000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "It missed Venus, drifted for five years, then finally made it. Japan ended the mission in 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live) (YouTube)",
+     "clip": "tr44-ms-a.mp4",
+     "start": 7.0
+    },
+    "big": "5 YEARS\nLATE",
+    "sub": "MISSION ENDED 2025",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you send your art to space?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live) (YouTube)",
+     "clip": "tr44-ms-b.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD\nYOU?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku official (Magical Mirai live) (YouTube)",
+     "clip": "tr44-ms-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}
