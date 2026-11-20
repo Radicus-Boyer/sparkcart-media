@@ -1,0 +1,134 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 419,
+ "slug": "419-rivals-five-minute-test-map",
+ "file": "419 RIVALS Started as a 5 Minute Test Map.mp4",
+ "target": 0,
+ "accent": "#ff3d00",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffab91",
+  "cy": 1470
+ },
+ "pron": {
+  "RIVALS": "Rivals",
+  "Nosniy": "Noz-nee"
+ },
+ "lines": [
+  {
+   "t": "RIVALS started out as a five minute test map.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Das; dabaconboy; anthonyy (Roblox gameplay, YouTube)",
+     "clip": "rb45-rt-a.mp4",
+     "start": 0
+    },
+    "big": "5 MINUTE\nTEST MAP",
+    "sub": "RIVALS",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The team at Nosniy Games said so on Roblox's own podcast. A quick test, that turned into a worldwide hit.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Das; dabaconboy; anthonyy (Roblox gameplay, YouTube)",
+     "clip": "rb45-rt-b.mp4",
+     "start": 0
+    },
+    "big": "A QUICK\nTEST",
+    "sub": "NOSNIY GAMES",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It went up on Roblox in May 2024. Now it's past 17 billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Das; dabaconboy; anthonyy (Roblox gameplay, YouTube)",
+     "clip": "rb45-rt-c.mp4",
+     "start": 0
+    },
+    "sub": "VISITS",
+    "bs": 110,
+    "by": 300,
+    "ss": 56,
+    "count": {
+     "from": 0,
+     "to": 17700000000,
+     "fmt": "{:,.0f}",
+     "dur": 1.3
+    }
+   }
+  },
+  {
+   "t": "And at its peak, about 964,000 people were playing at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Das; dabaconboy; anthonyy (Roblox gameplay, YouTube)",
+     "clip": "rb45-rt-a.mp4",
+     "start": 7.0
+    },
+    "big": "964K\nAT ONCE",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's your best RIVALS weapon?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Das; dabaconboy; anthonyy (Roblox gameplay, YouTube)",
+     "clip": "rb45-rt-b.mp4",
+     "start": 7.0
+    },
+    "big": "BEST\nWEAPON?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Das; dabaconboy; anthonyy (Roblox gameplay, YouTube)",
+     "clip": "rb45-rt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true
+}

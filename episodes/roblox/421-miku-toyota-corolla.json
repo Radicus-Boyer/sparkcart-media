@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 421,
+ "slug": "421-miku-toyota-corolla",
+ "file": "421 Hatsune Miku Once Sold Cars in America.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Corolla": "Co-roll-uh"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku once sold cars in America.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yami Sweet (2011 Toyota ad); Hatsune Miku official (YouTube)",
+     "clip": "tr45-mt-a.mp4",
+     "start": 0
+    },
+    "big": "SELLING\nCARS",
+    "sub": "HATSUNE MIKU",
+    "bs": 160,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In May 2011, Toyota made her the face of the Corolla. They called it the official car of Hatsune Miku.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yami Sweet (2011 Toyota ad); Hatsune Miku official (YouTube)",
+     "clip": "tr45-mt-b.mp4",
+     "start": 0
+    },
+    "big": "OFFICIAL\nCAR",
+    "sub": "TOYOTA COROLLA",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "In the first ad, she drives the car herself. Fans pointed out, she's supposed to be 16.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yami Sweet (2011 Toyota ad); Hatsune Miku official (YouTube)",
+     "clip": "tr45-mt-a.mp4",
+     "start": 0
+    },
+    "big": "SHE'S\n16",
+    "bs": 170,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Toyota also sponsored her first ever concert in America, in Los Angeles that July.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yami Sweet (2011 Toyota ad); Hatsune Miku official (YouTube)",
+     "clip": "tr45-mt-c.mp4",
+     "start": 7.0
+    },
+    "big": "FIRST US\nCONCERT",
+    "sub": "JULY 2011",
+    "bs": 150,
+    "by": 300,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would Miku sell you a car?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yami Sweet (2011 Toyota ad); Hatsune Miku official (YouTube)",
+     "clip": "tr45-mt-b.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD\nYOU BUY?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Yami Sweet (2011 Toyota ad); Hatsune Miku official (YouTube)",
+     "clip": "tr45-mt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

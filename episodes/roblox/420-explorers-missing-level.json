@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 420,
+ "slug": "420-explorers-missing-level",
+ "file": "420 Geometry Dash 2.2 Was Supposed to Have Another Level.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "Hinkik": "Hin-kick",
+  "MDK": "M D K",
+  "RobTop": "Rob Top"
+ },
+ "lines": [
+  {
+   "t": "Update 2.2 was supposed to have a second new level. It never came out.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Nexus [GD] (YouTube)",
+     "clip": "gd45-ex-a.mp4",
+     "start": 0
+    },
+    "big": "[2.2]\nA MISSING LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "2.2 brought Dash, with a song by MDK. Before its name was revealed, they just called it the secret song.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Nexus [GD] (YouTube)",
+     "clip": "gd45-ex-c.mp4",
+     "start": 0
+    },
+    "big": "[DASH]\nTHE SECRET SONG",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But another level, Explorers, with a song by Hinkik, was planned too.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Nexus [GD] (YouTube)",
+     "clip": "gd45-ex-b.mp4",
+     "start": 0
+    },
+    "big": "[EXPLORERS]\nHINKIK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "RobTop pushed it back because of bugs. So fans built their own versions instead.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Nexus [GD] (YouTube)",
+     "clip": "gd45-ex-b.mp4",
+     "start": 7.0
+    },
+    "big": "[DELAYED]\nFAN VERSIONS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Will Explorers ever come out?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Nexus [GD] (YouTube)",
+     "clip": "gd45-ex-a.mp4",
+     "start": 7.0
+    },
+    "big": "WILL IT\nCOME OUT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; Nexus [GD] (YouTube)",
+     "clip": "gd45-ex-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

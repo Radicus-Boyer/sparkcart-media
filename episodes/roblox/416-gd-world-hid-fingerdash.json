@@ -1,0 +1,141 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 416,
+ "slug": "416-gd-world-hid-fingerdash",
+ "file": "416 This Geometry Dash Game Hid a Level That Wasn't Out Yet.mp4",
+ "target": 0,
+ "accent": "#00e676",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash game had a secret level hidden inside it, before that level even came out.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; VIX50 (YouTube)",
+     "clip": "gd45-gw-a.mp4",
+     "start": 0
+    },
+    "big": "[GD WORLD]\nA HIDDEN LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Geometry Dash World came out on December 21st, 2016. Ten short levels, split into two worlds.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; VIX50 (YouTube)",
+     "clip": "gd45-gw-c.mp4",
+     "start": 0
+    },
+    "big": "[DASHLANDS]\n[TOXIC FACTORY]",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But inside the game files was Fingerdash. The main level from update 2.1, which wasn't out yet.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; VIX50 (YouTube)",
+     "clip": "gd45-gw-b.mp4",
+     "start": 0
+    },
+    "big": "[FINGERDASH]\nIN THE FILES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "You could only reach it by modding the game. Update 2.1 came out a month later.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; VIX50 (YouTube)",
+     "clip": "gd45-gw-a.mp4",
+     "start": 7.0
+    },
+    "big": "[MODS ONLY]\n2.1 CAME LATER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you play GD World?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; VIX50 (YouTube)",
+     "clip": "gd45-gw-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nPLAY IT?",
+    "sub": "COMMENT BELOW",
+    "bs": 140,
+    "ss": 50,
+    "by": 300
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; VIX50 (YouTube)",
+     "clip": "gd45-gw-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "sub": "HELP US HIT 1000 BY CHRISTMAS",
+    "bs": 150,
+    "ss": 44,
+    "by": 300
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
