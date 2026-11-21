@@ -201,9 +201,9 @@
   },
   {
    "name": "gd46-eb-c",
-   "url": "https://www.youtube.com/watch?v=AOxqjj3XYlo",
+   "url": "https://www.youtube.com/watch?v=RdUwTwoxHOw",
    "backup": [],
-   "section": "*1:20-1:40",
+   "section": "*0:20-0:40",
    "cut": 0,
    "len": 13
   },
@@ -211,7 +211,7 @@
    "name": "gd46-vs-a",
    "url": "https://www.youtube.com/watch?v=EOr8hDyXDvQ",
    "backup": [],
-   "section": "*2:40-3:00",
+   "section": "*1:40-2:00",
    "cut": 0,
    "len": 13
   },
@@ -235,7 +235,7 @@
    "name": "gd46-ep-a",
    "url": "https://www.youtube.com/watch?v=78zMwjc8ZxM",
    "backup": [],
-   "section": "*1:00-1:20",
+   "section": "*3:00-3:20",
    "cut": 0,
    "len": 13
   },
