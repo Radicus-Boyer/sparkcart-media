@@ -1,0 +1,283 @@
+{
+ "preset": "whatif",
+ "check_only": true,
+ "channels": [
+  "partdrop-yt",
+  "partdrop-tt"
+ ],
+ "title": "What If Every Honk Made Your Car Faster? #Shorts",
+ "caption": "Honk 1: 10 km/h. Honk 4,000: escape velocity. How far would you get? Comment what we should test next!",
+ "hashtags": [
+  "#whatif",
+  "#cars",
+  "#animation",
+  "#shorts"
+ ],
+ "tags": [
+  "what if",
+  "honk",
+  "car speed",
+  "sound barrier",
+  "escape velocity",
+  "animation"
+ ],
+ "script": "What if your car got faster every time you honked? Honk 1. 10 kilometers an hour. Slower than a bike. Honk 5. 50. Normal city speed. Honk 10, 100. The guy behind you honks back. Now his car is speeding up too. Honk 20, 200. Faster than a race car. Every driver on the road is honking now. Honk 50, 500. Your tires are smoking. Honk 124, 1240. You just broke the sound barrier. The sonic boom sets off every car horn in the city. Honk 600, 6000. You leave the highway behind. Honk 4000. 40000 kilometers an hour. Escape velocity. and your car leaves the earth still honking.",
+ "subtitles": [
+  {
+   "start": 0.41,
+   "end": 0.9,
+   "text": "What if your"
+  },
+  {
+   "start": 0.9,
+   "end": 1.46,
+   "text": "car got faster"
+  },
+  {
+   "start": 1.46,
+   "end": 2.02,
+   "text": "every time you"
+  },
+  {
+   "start": 2.02,
+   "end": 2.57,
+   "text": "honked?"
+  },
+  {
+   "start": 3.0,
+   "end": 3.68,
+   "text": "Honk 1."
+  },
+  {
+   "start": 3.68,
+   "end": 4.7,
+   "text": "10 kilometers an"
+  },
+  {
+   "start": 4.7,
+   "end": 5.15,
+   "text": "hour."
+  },
+  {
+   "start": 5.15,
+   "end": 5.96,
+   "text": "Slower than a"
+  },
+  {
+   "start": 5.96,
+   "end": 6.6,
+   "text": "bike."
+  },
+  {
+   "start": 7.0,
+   "end": 7.76,
+   "text": "Honk 5."
+  },
+  {
+   "start": 7.76,
+   "end": 8.28,
+   "text": "50."
+  },
+  {
+   "start": 8.28,
+   "end": 9.71,
+   "text": "Normal city speed."
+  },
+  {
+   "start": 10.09,
+   "end": 10.63,
+   "text": "Honk 10."
+  },
+  {
+   "start": 10.63,
+   "end": 11.3,
+   "text": "100."
+  },
+  {
+   "start": 11.3,
+   "end": 11.99,
+   "text": "The guy behind"
+  },
+  {
+   "start": 11.99,
+   "end": 13.01,
+   "text": "you honks back."
+  },
+  {
+   "start": 13.37,
+   "end": 13.84,
+   "text": "Now his car"
+  },
+  {
+   "start": 13.84,
+   "end": 14.47,
+   "text": "is speeding up,"
+  },
+  {
+   "start": 14.47,
+   "end": 14.93,
+   "text": "too."
+  },
+  {
+   "start": 15.27,
+   "end": 15.93,
+   "text": "Honk 20."
+  },
+  {
+   "start": 15.93,
+   "end": 16.6,
+   "text": "200."
+  },
+  {
+   "start": 16.6,
+   "end": 17.24,
+   "text": "Faster than a"
+  },
+  {
+   "start": 17.24,
+   "end": 17.98,
+   "text": "race car."
+  },
+  {
+   "start": 18.3,
+   "end": 18.78,
+   "text": "Every driver on"
+  },
+  {
+   "start": 18.78,
+   "end": 19.15,
+   "text": "the road is"
+  },
+  {
+   "start": 19.15,
+   "end": 19.79,
+   "text": "honking now."
+  },
+  {
+   "start": 20.09,
+   "end": 20.63,
+   "text": "Honk 50."
+  },
+  {
+   "start": 20.63,
+   "end": 21.23,
+   "text": "500."
+  },
+  {
+   "start": 21.23,
+   "end": 21.89,
+   "text": "Your tires start"
+  },
+  {
+   "start": 21.89,
+   "end": 22.49,
+   "text": "smoking."
+  },
+  {
+   "start": 22.77,
+   "end": 23.48,
+   "text": "Honk 100"
+  },
+  {
+   "start": 23.48,
+   "end": 24.09,
+   "text": "24."
+  },
+  {
+   "start": 24.09,
+   "end": 24.88,
+   "text": "1200 and"
+  },
+  {
+   "start": 24.88,
+   "end": 25.24,
+   "text": "40."
+  },
+  {
+   "start": 25.24,
+   "end": 25.87,
+   "text": "You just broke"
+  },
+  {
+   "start": 25.87,
+   "end": 26.93,
+   "text": "the sound barrier."
+  },
+  {
+   "start": 27.19,
+   "end": 27.83,
+   "text": "The sonic boom"
+  },
+  {
+   "start": 27.83,
+   "end": 28.47,
+   "text": "sets off every"
+  },
+  {
+   "start": 28.47,
+   "end": 28.99,
+   "text": "car horn in"
+  },
+  {
+   "start": 28.99,
+   "end": 29.69,
+   "text": "the city."
+  },
+  {
+   "start": 29.93,
+   "end": 30.91,
+   "text": "Honk 600."
+  },
+  {
+   "start": 30.91,
+   "end": 31.69,
+   "text": "6000."
+  },
+  {
+   "start": 31.69,
+   "end": 32.4,
+   "text": "You leave the"
+  },
+  {
+   "start": 32.4,
+   "end": 33.46,
+   "text": "highway behind."
+  },
+  {
+   "start": 33.68,
+   "end": 34.81,
+   "text": "Honk 4000."
+  },
+  {
+   "start": 34.81,
+   "end": 36.13,
+   "text": "40,000 kilometers"
+  },
+  {
+   "start": 36.13,
+   "end": 36.71,
+   "text": "an hour."
+  },
+  {
+   "start": 36.71,
+   "end": 37.87,
+   "text": "Escape velocity."
+  },
+  {
+   "start": 38.07,
+   "end": 38.5,
+   "text": "And your car"
+  },
+  {
+   "start": 38.5,
+   "end": 39.14,
+   "text": "leaves the Earth."
+  },
+  {
+   "start": 39.14,
+   "end": 39.88,
+   "text": "Still honking."
+  }
+ ],
+ "duration": 41.95
+}

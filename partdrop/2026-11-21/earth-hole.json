@@ -1,0 +1,323 @@
+{
+ "preset": "whatif",
+ "check_only": true,
+ "channels": [
+  "partdrop-yt",
+  "partdrop-tt"
+ ],
+ "title": "What If You Jumped Into a Hole Through the Earth? #Shorts",
+ "caption": "12 km is the deepest hole humans ever dug. You keep going for 12,742. Comment what we should test next!",
+ "hashtags": [
+  "#whatif",
+  "#science",
+  "#earth",
+  "#animation",
+  "#shorts"
+ ],
+ "tags": [
+  "what if",
+  "hole through the earth",
+  "earth core",
+  "science",
+  "animation"
+ ],
+ "script": "What if you dug a hole straight through the earth and jumped in? First, you fall through the dirt, 10 meters. Easy. 12 kilometers. The deepest hole humans ever dug stopped right here. 30 kilometers. You leave the crust. The rocks start glowing. Now you're in the mantle. It's hotter than a pizza oven. You're falling faster and faster. Nothing is slowing you down. 2,900 kilometers. The outer core. An ocean of liquid metal. 6,371 kilometers. The center of the earth. It's as hot as the surface of the sun down here. And you're weightless. Gravity pulls you from every side. But you're moving so fast, you shoot right past the middle. About 40 minutes after you jumped, you pop out on the other side of the world. and then you fall back in and do it all over again forever.",
+ "subtitles": [
+  {
+   "start": 0.31,
+   "end": 0.78,
+   "text": "What if you"
+  },
+  {
+   "start": 0.78,
+   "end": 1.21,
+   "text": "dug a hole"
+  },
+  {
+   "start": 1.21,
+   "end": 1.84,
+   "text": "straight through"
+  },
+  {
+   "start": 1.84,
+   "end": 2.27,
+   "text": "the Earth,"
+  },
+  {
+   "start": 2.27,
+   "end": 3.11,
+   "text": "and jumped in?"
+  },
+  {
+   "start": 3.54,
+   "end": 3.96,
+   "text": "First,"
+  },
+  {
+   "start": 3.96,
+   "end": 4.91,
+   "text": "you fall through"
+  },
+  {
+   "start": 4.91,
+   "end": 5.59,
+   "text": "the dirt."
+  },
+  {
+   "start": 5.59,
+   "end": 6.36,
+   "text": "10 meters."
+  },
+  {
+   "start": 6.36,
+   "end": 7.0,
+   "text": "Easy."
+  },
+  {
+   "start": 7.4,
+   "end": 8.44,
+   "text": "12 kilometers."
+  },
+  {
+   "start": 8.44,
+   "end": 9.31,
+   "text": "The deepest hole"
+  },
+  {
+   "start": 9.31,
+   "end": 10.14,
+   "text": "humans ever dug"
+  },
+  {
+   "start": 10.14,
+   "end": 11.44,
+   "text": "stopped right here."
+  },
+  {
+   "start": 11.82,
+   "end": 12.78,
+   "text": "30 kilometers."
+  },
+  {
+   "start": 12.78,
+   "end": 13.45,
+   "text": "You leave the"
+  },
+  {
+   "start": 13.45,
+   "end": 13.86,
+   "text": "crust."
+  },
+  {
+   "start": 13.86,
+   "end": 14.61,
+   "text": "The rocks start"
+  },
+  {
+   "start": 14.61,
+   "end": 15.31,
+   "text": "glowing."
+  },
+  {
+   "start": 15.67,
+   "end": 16.14,
+   "text": "Now you're in"
+  },
+  {
+   "start": 16.14,
+   "end": 16.59,
+   "text": "the mantle."
+  },
+  {
+   "start": 16.59,
+   "end": 17.15,
+   "text": "It's hotter than"
+  },
+  {
+   "start": 17.15,
+   "end": 17.88,
+   "text": "a pizza oven."
+  },
+  {
+   "start": 18.22,
+   "end": 19.22,
+   "text": "You're falling faster"
+  },
+  {
+   "start": 19.22,
+   "end": 19.86,
+   "text": "and faster."
+  },
+  {
+   "start": 19.86,
+   "end": 20.74,
+   "text": "Nothing is slowing"
+  },
+  {
+   "start": 20.74,
+   "end": 21.49,
+   "text": "you down."
+  },
+  {
+   "start": 21.81,
+   "end": 22.8,
+   "text": "2009"
+  },
+  {
+   "start": 22.8,
+   "end": 23.98,
+   "text": "100 kilometers."
+  },
+  {
+   "start": 23.98,
+   "end": 24.97,
+   "text": "The outer core."
+  },
+  {
+   "start": 24.97,
+   "end": 25.66,
+   "text": "An ocean of"
+  },
+  {
+   "start": 25.66,
+   "end": 26.72,
+   "text": "liquid metal."
+  },
+  {
+   "start": 27.02,
+   "end": 27.8,
+   "text": "6003"
+  },
+  {
+   "start": 27.8,
+   "end": 28.6,
+   "text": "170"
+  },
+  {
+   "start": 28.6,
+   "end": 29.32,
+   "text": "1 kilometers."
+  },
+  {
+   "start": 29.32,
+   "end": 29.9,
+   "text": "The center of"
+  },
+  {
+   "start": 29.9,
+   "end": 30.63,
+   "text": "the Earth."
+  },
+  {
+   "start": 30.91,
+   "end": 31.4,
+   "text": "It's as hot"
+  },
+  {
+   "start": 31.4,
+   "end": 32.0,
+   "text": "as the surface"
+  },
+  {
+   "start": 32.0,
+   "end": 32.46,
+   "text": "of the Sun"
+  },
+  {
+   "start": 32.46,
+   "end": 33.17,
+   "text": "down here."
+  },
+  {
+   "start": 33.43,
+   "end": 34.38,
+   "text": "And you're weightless."
+  },
+  {
+   "start": 34.38,
+   "end": 35.07,
+   "text": "Gravity pulls you"
+  },
+  {
+   "start": 35.07,
+   "end": 36.01,
+   "text": "from every side."
+  },
+  {
+   "start": 36.25,
+   "end": 37.05,
+   "text": "But you're moving"
+  },
+  {
+   "start": 37.05,
+   "end": 37.48,
+   "text": "so fast,"
+  },
+  {
+   "start": 37.48,
+   "end": 38.19,
+   "text": "you shoot right"
+  },
+  {
+   "start": 38.19,
+   "end": 39.23,
+   "text": "past the middle."
+  },
+  {
+   "start": 39.45,
+   "end": 40.13,
+   "text": "About 40 minutes"
+  },
+  {
+   "start": 40.13,
+   "end": 40.76,
+   "text": "after you jumped,"
+  },
+  {
+   "start": 40.76,
+   "end": 41.18,
+   "text": "you pop out"
+  },
+  {
+   "start": 41.18,
+   "end": 41.64,
+   "text": "on the other"
+  },
+  {
+   "start": 41.64,
+   "end": 42.06,
+   "text": "side of the"
+  },
+  {
+   "start": 42.06,
+   "end": 42.56,
+   "text": "world."
+  },
+  {
+   "start": 42.76,
+   "end": 43.24,
+   "text": "And then you"
+  },
+  {
+   "start": 43.24,
+   "end": 43.82,
+   "text": "fall back in."
+  },
+  {
+   "start": 43.82,
+   "end": 44.2,
+   "text": "And do it"
+  },
+  {
+   "start": 44.2,
+   "end": 44.84,
+   "text": "all over again."
+  },
+  {
+   "start": 44.84,
+   "end": 45.42,
+   "text": "Forever."
+  }
+ ],
+ "duration": 47.84
+}
