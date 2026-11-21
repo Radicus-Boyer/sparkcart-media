@@ -33,7 +33,7 @@
   "Servax": "Sir Vax",
   "xStep": "X step",
   "DJVI": "D J V I",
-  "Erebus": "Eh-reh-bus",
+  "Erebus": "Erra-bus",
   "ILRELL": "Ill-rel",
   "Rustam": "Roo-stam",
   "40,803": "forty thousand eight hundred and three"
@@ -56,7 +56,7 @@
    }
   },
   {
-   "t": "It's Erebus, built by Rustam and ILRELL to look like a radioactive facility.",
+   "t": "The level is Erebus, built by Rustam and ILRELL to look like a radioactive facility.",
    "sc": {
     "bg": "night",
     "ground": "dark",
