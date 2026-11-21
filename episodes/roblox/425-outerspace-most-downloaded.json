@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 425,
+ "slug": "425-outerspace-most-downloaded",
+ "file": "425 The Most Downloaded Geometry Dash Level Isn't a Demon.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Nicki1202": "Nicky twelve oh two",
+  "OuterSpace": "Outer Space"
+ },
+ "lines": [
+  {
+   "t": "The most downloaded level in Geometry Dash isn't a demon. It's rated Hard.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; Carlitos GG (YouTube)",
+     "clip": "gd46-os-a.mp4",
+     "start": 0
+    },
+    "big": "[MOST PLAYED]\nOUTERSPACE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's called OuterSpace, a short level by Nicki1202 with a boss fight at the end.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; Carlitos GG (YouTube)",
+     "clip": "gd46-os-c.mp4",
+     "start": 0
+    },
+    "big": "[BY NICKI1202]\nBOSS FIGHT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was the first level ever to pass one hundred million downloads.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; Carlitos GG (YouTube)",
+     "clip": "gd46-os-b.mp4",
+     "start": 0
+    },
+    "big": "[DOWNLOADS]\n100 MILLION",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "When RobTop put it in the Fire Gauntlet, Nicki thanked him, and called it probably their worst level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; Carlitos GG (YouTube)",
+     "clip": "gd46-os-a.mp4",
+     "start": 7.0
+    },
+    "big": "[THE CREATOR]\nMY WORST?",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Have you beaten OuterSpace?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; Carlitos GG (YouTube)",
+     "clip": "gd46-os-b.mp4",
+     "start": 7.0
+    },
+    "big": "BEATEN\nIT?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; Carlitos GG (YouTube)",
+     "clip": "gd46-os-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

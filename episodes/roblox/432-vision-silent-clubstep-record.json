@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 432,
+ "slug": "432-vision-silent-clubstep-record",
+ "file": "432 One Player Spent 821,000 Attempts on ONE Geometry Dash Level.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "821,027": "eight hundred twenty one thousand and twenty seven"
+ },
+ "lines": [
+  {
+   "t": "One Geometry Dash player spent over eight hundred thousand attempts on a single level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vision (YouTube)",
+     "clip": "gd46-vs-a.mp4",
+     "start": 0
+    },
+    "big": "[RECORD]\n821,027",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The level was Silent Clubstep, a remake of Clubstep once called humanly impossible.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vision (YouTube)",
+     "clip": "gd46-vs-c.mp4",
+     "start": 0
+    },
+    "big": "[SILENT]\nCLUBSTEP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Vision finally beat it after 821,027 attempts. That's the most ever spent beating one level.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vision (YouTube)",
+     "clip": "gd46-vs-b.mp4",
+     "start": 0
+    },
+    "big": "[MOST EVER]\nATTEMPTS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And he beat it on Geometry Dash's tenth anniversary.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vision (YouTube)",
+     "clip": "gd46-vs-a.mp4",
+     "start": 7.0
+    },
+    "big": "[10 YEARS]\nANNIVERSARY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "How many attempts was your hardest level?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vision (YouTube)",
+     "clip": "gd46-vs-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR MOST\nATTEMPTS?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Vision (YouTube)",
+     "clip": "gd46-vs-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

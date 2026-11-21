@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 433,
+ "slug": "433-gd-everyplay-replays",
+ "file": "433 Geometry Dash Used to Let You Watch Your Replays.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Everyplay": "Every play"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash used to let you watch replays of your own runs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd46-ep-a.mp4",
+     "start": 0
+    },
+    "big": "[REPLAYS]\nWATCH REPLAY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "On mobile, a tool called Everyplay recorded your attempts so you could share them.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd46-ep-c.mp4",
+     "start": 0
+    },
+    "big": "[EVERYPLAY]\nRECORDING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then Everyplay shut down, and the replay feature disappeared with it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd46-ep-b.mp4",
+     "start": 0
+    },
+    "big": "[SHUT DOWN]\nGONE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "But the PC version still has a hidden watch replay button in its files.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd46-ep-a.mp4",
+     "start": 7.0
+    },
+    "big": "[STILL THERE]\nIN THE FILES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you ever record a run on Everyplay?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd46-ep-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU\nRECORD?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd46-ep-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

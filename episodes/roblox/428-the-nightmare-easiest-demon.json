@@ -1,0 +1,144 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 428,
+ "slug": "428-the-nightmare-easiest-demon",
+ "file": "428 The Easiest Demon in Geometry Dash Is Called The Nightmare.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "13519": "one three five one nine"
+ },
+ "lines": [
+  {
+   "t": "The easiest demon in Geometry Dash is called The Nightmare.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: KrmaL; DogChavez (YouTube)",
+     "clip": "gd46-nm-a.mp4",
+     "start": 0
+    },
+    "big": "[EASIEST DEMON]\nTHE NIGHTMARE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was made by Jax, one of the Korean creators who ruled early Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: KrmaL; DogChavez (YouTube)",
+     "clip": "gd46-nm-c.mp4",
+     "start": 0
+    },
+    "big": "[BY JAX]\nKOREAN ERA",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Its level ID is only 13519, from the game's earliest online days.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: KrmaL; DogChavez (YouTube)",
+     "clip": "gd46-nm-b.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL ID]\n13519",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Years later, it's still the first demon so many players ever beat.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: KrmaL; DogChavez (YouTube)",
+     "clip": "gd46-nm-a.mp4",
+     "start": 7.0
+    },
+    "big": "[STILL]\nFIRST DEMON",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Was The Nightmare your first demon?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: KrmaL; DogChavez (YouTube)",
+     "clip": "gd46-nm-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR FIRST\nDEMON?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: KrmaL; DogChavez (YouTube)",
+     "clip": "gd46-nm-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

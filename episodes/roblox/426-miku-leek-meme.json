@@ -1,0 +1,134 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 426,
+ "slug": "426-miku-leek-meme",
+ "file": "426 Hatsune Miku Holds a Leek Because of a Meme.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Ievan": "Ee-eh-vahn",
+  "Polkka": "Pole-ka",
+  "Otomania": "Oh-toe-mania",
+  "Hachune": "Ha-choo-neh"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku holds a leek because of a meme.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: yoyo; Neorar; Hatsune Miku live (YouTube)",
+     "clip": "tr46-lk-a.mp4",
+     "start": 0
+    },
+    "big": "THE LEEK\nMEME",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "HATSUNE MIKU"
+   }
+  },
+  {
+   "t": "Before Miku, a looping animation showed an anime girl spinning a leek to a Finnish song, Ievan Polkka.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: yoyo; Neorar; Hatsune Miku live (YouTube)",
+     "clip": "tr46-lk-c.mp4",
+     "start": 0
+    },
+    "big": "LEEK\nSPIN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "IEVAN POLKKA"
+   }
+  },
+  {
+   "t": "In September 2007, days after Miku came out, a producer called Otomania made her sing it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: yoyo; Neorar; Hatsune Miku live (YouTube)",
+     "clip": "tr46-lk-b.mp4",
+     "start": 0
+    },
+    "big": "MIKU\nCOVER",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SEPTEMBER 2007"
+   }
+  },
+  {
+   "t": "The video showed a tiny Miku spinning a leek. Fans named her Hachune Miku, and the leek stuck forever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: yoyo; Neorar; Hatsune Miku live (YouTube)",
+     "clip": "tr46-lk-a.mp4",
+     "start": 7.0
+    },
+    "big": "HACHUNE\nMIKU",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Do you know the leek song?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: yoyo; Neorar; Hatsune Miku live (YouTube)",
+     "clip": "tr46-lk-b.mp4",
+     "start": 7.0
+    },
+    "big": "KNOW THE\nSONG?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: yoyo; Neorar; Hatsune Miku live (YouTube)",
+     "clip": "tr46-lk-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

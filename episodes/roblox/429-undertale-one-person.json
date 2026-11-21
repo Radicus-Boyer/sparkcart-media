@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 429,
+ "slug": "429-undertale-one-person",
+ "file": "429 Undertale Was Made Almost Entirely by One Person.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_puck",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Temmie": "Tem-ee"
+ },
+ "lines": [
+  {
+   "t": "Undertale was made almost entirely by one person.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Stega; Shirrako; Havoc teh Rabbit (YouTube)",
+     "clip": "tr46-ut-a.mp4",
+     "start": 0
+    },
+    "big": "ONE\nPERSON",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "UNDERTALE"
+   }
+  },
+  {
+   "t": "In June 2013, Toby Fox asked Kickstarter for five thousand dollars to make it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Stega; Shirrako; Havoc teh Rabbit (YouTube)",
+     "clip": "tr46-ut-c.mp4",
+     "start": 0
+    },
+    "big": "$5,000\nGOAL",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "KICKSTARTER"
+   }
+  },
+  {
+   "t": "Two thousand three hundred ninety eight people gave him over fifty one thousand. Ten times his goal.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Stega; Shirrako; Havoc teh Rabbit (YouTube)",
+     "clip": "tr46-ut-b.mp4",
+     "start": 0
+    },
+    "big": "$51,124\nRAISED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "10X THE GOAL"
+   }
+  },
+  {
+   "t": "Apart from some art by Temmie Chang, he made the whole game and its music himself.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Stega; Shirrako; Havoc teh Rabbit (YouTube)",
+     "clip": "tr46-ut-a.mp4",
+     "start": 7.0
+    },
+    "big": "ONE\nDEVELOPER",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "TOBY FOX"
+   }
+  },
+  {
+   "t": "Pacifist or genocide?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Stega; Shirrako; Havoc teh Rabbit (YouTube)",
+     "clip": "tr46-ut-b.mp4",
+     "start": 7.0
+    },
+    "big": "PACIFIST OR\nGENOCIDE?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Stega; Shirrako; Havoc teh Rabbit (YouTube)",
+     "clip": "tr46-ut-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "UNDERTALE"
+}

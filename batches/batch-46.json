@@ -1,0 +1,259 @@
+{
+ "batch": 46,
+ "note": "8 GD (Challenge, OuterSpace, Sakupen Hell, Nightmare, App Store, Erebus, Vision, Everyplay) + Miku leek + Undertale (reach test)",
+ "posting": "Z:/claudeprojects/roblox vids/batch-46/posting.txt",
+ "episodes": [
+  "episodes/roblox/424-the-challenge-secret-level.json",
+  "episodes/roblox/425-outerspace-most-downloaded.json",
+  "episodes/roblox/426-miku-leek-meme.json",
+  "episodes/roblox/427-sakupen-hell-impossible.json",
+  "episodes/roblox/428-the-nightmare-easiest-demon.json",
+  "episodes/roblox/429-undertale-one-person.json",
+  "episodes/roblox/430-gd-app-store-top-seller.json",
+  "episodes/roblox/431-erebus-top-one-coins.json",
+  "episodes/roblox/432-vision-silent-clubstep-record.json",
+  "episodes/roblox/433-gd-everyplay-replays.json"
+ ],
+ "clips": [
+  {
+   "name": "gd46-ch-a",
+   "url": "https://www.youtube.com/watch?v=DtAtPtxNrT4",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-ch-b",
+   "url": "https://www.youtube.com/watch?v=DtAtPtxNrT4",
+   "backup": [],
+   "section": "*0:55-1:15",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-ch-c",
+   "url": "https://www.youtube.com/watch?v=RDO9w7Hc7ms",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-os-a",
+   "url": "https://www.youtube.com/watch?v=cMM2Btu40Ys",
+   "backup": [],
+   "section": "*0:55-1:15",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-os-b",
+   "url": "https://www.youtube.com/watch?v=LNVoDlc8WDg",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-os-c",
+   "url": "https://www.youtube.com/watch?v=cMM2Btu40Ys",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr46-lk-a",
+   "url": "https://www.youtube.com/watch?v=6AeONu99eu4",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr46-lk-b",
+   "url": "https://www.youtube.com/watch?v=nMqsPfCEivY",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr46-lk-c",
+   "url": "https://www.youtube.com/watch?v=7EEUU-yIN5c",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-sh-a",
+   "url": "https://www.youtube.com/watch?v=svyOjwLCErg",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-sh-b",
+   "url": "https://www.youtube.com/watch?v=oiCaP5Qaql0",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-sh-c",
+   "url": "https://www.youtube.com/watch?v=oiCaP5Qaql0",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-nm-a",
+   "url": "https://www.youtube.com/watch?v=i0dlZgqA8ds",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-nm-b",
+   "url": "https://www.youtube.com/watch?v=i0dlZgqA8ds",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-nm-c",
+   "url": "https://www.youtube.com/watch?v=5QmyNeihaOk",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr46-ut-a",
+   "url": "https://www.youtube.com/watch?v=YR7sjTBfizQ",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr46-ut-b",
+   "url": "https://www.youtube.com/watch?v=Orj0t8SK9c4",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr46-ut-c",
+   "url": "https://www.youtube.com/watch?v=vEVR2FUB3ic",
+   "backup": [],
+   "section": "*30:00-30:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-as-a",
+   "url": "https://www.youtube.com/watch?v=Vs79-U4H8LQ",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-as-b",
+   "url": "https://www.youtube.com/watch?v=Vs79-U4H8LQ",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-as-c",
+   "url": "https://www.youtube.com/watch?v=78zMwjc8ZxM",
+   "backup": [],
+   "section": "*5:00-5:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-eb-a",
+   "url": "https://www.youtube.com/watch?v=AOxqjj3XYlo",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-eb-b",
+   "url": "https://www.youtube.com/watch?v=RdUwTwoxHOw",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-eb-c",
+   "url": "https://www.youtube.com/watch?v=AOxqjj3XYlo",
+   "backup": [],
+   "section": "*1:20-1:40",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-vs-a",
+   "url": "https://www.youtube.com/watch?v=EOr8hDyXDvQ",
+   "backup": [],
+   "section": "*2:40-3:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-vs-b",
+   "url": "https://www.youtube.com/watch?v=cZZD15Y34-Q",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-vs-c",
+   "url": "https://www.youtube.com/watch?v=EOr8hDyXDvQ",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-ep-a",
+   "url": "https://www.youtube.com/watch?v=78zMwjc8ZxM",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-ep-b",
+   "url": "https://www.youtube.com/watch?v=78zMwjc8ZxM",
+   "backup": [],
+   "section": "*8:00-8:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd46-ep-c",
+   "url": "https://www.youtube.com/watch?v=Vs79-U4H8LQ",
+   "backup": [],
+   "section": "*10:00-10:20",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 431,
+ "slug": "431-erebus-top-one-coins",
+ "file": "431 Only ONE Top 1 Geometry Dash Level Had User Coins.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Erebus": "Eh-reh-bus",
+  "ILRELL": "Ill-rel",
+  "Rustam": "Roo-stam",
+  "40,803": "forty thousand eight hundred and three"
+ },
+ "lines": [
+  {
+   "t": "Only one Top 1 level in Geometry Dash history ever had user coins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Duriel; Waivve (YouTube)",
+     "clip": "gd46-eb-a.mp4",
+     "start": 0
+    },
+    "big": "[TOP 1]\nWITH COINS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It's Erebus, built by Rustam and ILRELL to look like a radioactive facility.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Duriel; Waivve (YouTube)",
+     "clip": "gd46-eb-c.mp4",
+     "start": 0
+    },
+    "big": "[EREBUS]\nRADIOACTIVE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The first verifier quit. Then BoldStep took 40,803 attempts over three months.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Duriel; Waivve (YouTube)",
+     "clip": "gd46-eb-b.mp4",
+     "start": 0
+    },
+    "big": "[BOLDSTEP]\n40,803 TRIES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He verified it in March 2017, and it became the hardest level in the game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Duriel; Waivve (YouTube)",
+     "clip": "gd46-eb-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NEW]\nTOP 1",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Could you get those coins?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Duriel; Waivve (YouTube)",
+     "clip": "gd46-eb-b.mp4",
+     "start": 7.0
+    },
+    "big": "COULD YOU\nGET THEM?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Duriel; Waivve (YouTube)",
+     "clip": "gd46-eb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
