@@ -1,0 +1,277 @@
+{
+ "preset": "whatif",
+ "check_only": true,
+ "channels": [
+  "partdrop-yt",
+  "partdrop-tt"
+ ],
+ "title": "What If It Rained Jelly Beans for a Whole Day? #Shorts",
+ "caption": "Minute 1: bonk. Hour 24: the whole city is a candy bowl. Then it rains milk. Comment what we should test next!",
+ "hashtags": [
+  "#whatif",
+  "#jellybeans",
+  "#animation",
+  "#shorts"
+ ],
+ "tags": [
+  "what if",
+  "jelly beans",
+  "candy rain",
+  "animation",
+  "funny"
+ ],
+ "script": "What if it rained jelly beans for a whole day? Minute 1. A single jelly bean bonks you on the head. Minute 10. A light candy drizzle. Kids run outside with their mouths open. Hour 1 Umbrellas are useless, everything is sticky. Hour 3. The jelly beans are up to your ankles. Every ant in the city is having the best day of its life. Hour 6. Cars are stuck. School is canceled. Hour 10. Dentists are booked for the next 10 years. hour 15. The beans reach the second floor. You paddle out of your window on a pool float. Hour 20. Only the rooftops are left. Hour 24. The rain stops. The whole city is one giant candy bowl. and then it starts raining milk.",
+ "subtitles": [
+  {
+   "start": 0.36,
+   "end": 0.8,
+   "text": "What if it"
+  },
+  {
+   "start": 0.8,
+   "end": 1.52,
+   "text": "rained jelly beans"
+  },
+  {
+   "start": 1.52,
+   "end": 1.99,
+   "text": "for a whole"
+  },
+  {
+   "start": 1.99,
+   "end": 2.45,
+   "text": "day?"
+  },
+  {
+   "start": 2.88,
+   "end": 3.46,
+   "text": "Minute 1."
+  },
+  {
+   "start": 3.46,
+   "end": 4.1,
+   "text": "A single jelly"
+  },
+  {
+   "start": 4.1,
+   "end": 4.74,
+   "text": "bean bonks you"
+  },
+  {
+   "start": 4.74,
+   "end": 5.57,
+   "text": "on the head."
+  },
+  {
+   "start": 5.97,
+   "end": 6.61,
+   "text": "Minute 10."
+  },
+  {
+   "start": 6.61,
+   "end": 7.27,
+   "text": "A light candy"
+  },
+  {
+   "start": 7.27,
+   "end": 7.75,
+   "text": "drizzle."
+  },
+  {
+   "start": 7.75,
+   "end": 8.54,
+   "text": "Kids run outside"
+  },
+  {
+   "start": 8.54,
+   "end": 9.37,
+   "text": "with their mouths"
+  },
+  {
+   "start": 9.37,
+   "end": 9.93,
+   "text": "open."
+  },
+  {
+   "start": 10.31,
+   "end": 10.95,
+   "text": "Hour 1."
+  },
+  {
+   "start": 10.95,
+   "end": 12.25,
+   "text": "Umbrellas are useless."
+  },
+  {
+   "start": 12.25,
+   "end": 13.71,
+   "text": "Everything is sticky."
+  },
+  {
+   "start": 14.07,
+   "end": 14.67,
+   "text": "Hour 3."
+  },
+  {
+   "start": 14.67,
+   "end": 15.36,
+   "text": "The jelly beans"
+  },
+  {
+   "start": 15.36,
+   "end": 15.82,
+   "text": "are up to"
+  },
+  {
+   "start": 15.82,
+   "end": 16.66,
+   "text": "your ankles."
+  },
+  {
+   "start": 17.0,
+   "end": 17.54,
+   "text": "Every ant in"
+  },
+  {
+   "start": 17.54,
+   "end": 18.04,
+   "text": "the city is"
+  },
+  {
+   "start": 18.04,
+   "end": 18.69,
+   "text": "having the best"
+  },
+  {
+   "start": 18.69,
+   "end": 19.16,
+   "text": "day of its"
+  },
+  {
+   "start": 19.16,
+   "end": 19.67,
+   "text": "life."
+  },
+  {
+   "start": 19.99,
+   "end": 20.66,
+   "text": "Hour 6."
+  },
+  {
+   "start": 20.66,
+   "end": 21.66,
+   "text": "Cars are stuck."
+  },
+  {
+   "start": 21.66,
+   "end": 23.06,
+   "text": "School is canceled."
+  },
+  {
+   "start": 23.36,
+   "end": 23.92,
+   "text": "Hour 10."
+  },
+  {
+   "start": 23.92,
+   "end": 24.85,
+   "text": "Dentists are booked"
+  },
+  {
+   "start": 24.85,
+   "end": 25.48,
+   "text": "for the next"
+  },
+  {
+   "start": 25.48,
+   "end": 26.29,
+   "text": "10 years."
+  },
+  {
+   "start": 26.57,
+   "end": 27.27,
+   "text": "Hour 15."
+  },
+  {
+   "start": 27.27,
+   "end": 27.99,
+   "text": "The beans reach"
+  },
+  {
+   "start": 27.99,
+   "end": 29.08,
+   "text": "the second floor."
+  },
+  {
+   "start": 29.34,
+   "end": 29.85,
+   "text": "You paddle out"
+  },
+  {
+   "start": 29.85,
+   "end": 30.35,
+   "text": "of your window"
+  },
+  {
+   "start": 30.35,
+   "end": 30.71,
+   "text": "on a pool"
+  },
+  {
+   "start": 30.71,
+   "end": 31.2,
+   "text": "float."
+  },
+  {
+   "start": 31.44,
+   "end": 32.09,
+   "text": "Hour 20."
+  },
+  {
+   "start": 32.09,
+   "end": 32.89,
+   "text": "Only the rooftops"
+  },
+  {
+   "start": 32.89,
+   "end": 33.62,
+   "text": "are left."
+  },
+  {
+   "start": 33.84,
+   "end": 35.06,
+   "text": "Hour 24."
+  },
+  {
+   "start": 35.06,
+   "end": 36.16,
+   "text": "The rain stops."
+  },
+  {
+   "start": 36.16,
+   "end": 37.1,
+   "text": "The whole city"
+  },
+  {
+   "start": 37.1,
+   "end": 37.92,
+   "text": "is 1 giant"
+  },
+  {
+   "start": 37.92,
+   "end": 38.97,
+   "text": "candy bowl."
+  },
+  {
+   "start": 39.17,
+   "end": 39.53,
+   "text": "And then it"
+  },
+  {
+   "start": 39.53,
+   "end": 40.37,
+   "text": "starts raining milk."
+  }
+ ],
+ "duration": 42.49
+}
