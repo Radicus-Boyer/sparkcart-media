@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 442,
+ "slug": "442-jailbreak-100k-players",
+ "file": "442 Jailbreak Was the First Roblox Game to Hit 100000 Players.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Badimo": "Bah-dee-moh",
+  "Jailbreak": "Jail break"
+ },
+ "lines": [
+  {
+   "t": "Jailbreak was the first Roblox game to hit one hundred thousand players at once.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BumbleB; Denis (YouTube)",
+     "clip": "tr47-jb-a.mp4",
+     "start": 0
+    },
+    "big": "FIRST TO\n100,000",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "JAILBREAK"
+   }
+  },
+  {
+   "t": "A small group called Badimo released it in April 2017, and it blew up fast.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BumbleB; Denis (YouTube)",
+     "clip": "tr47-jb-c.mp4",
+     "start": 0
+    },
+    "big": "BADIMO\nAPRIL 2017",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ROBLOX"
+   }
+  },
+  {
+   "t": "In December that year, it broke the record held by the Egg Hunt event.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BumbleB; Denis (YouTube)",
+     "clip": "tr47-jb-b.mp4",
+     "start": 0
+    },
+    "big": "NEW\nRECORD",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "BEAT EGG HUNT"
+   }
+  },
+  {
+   "t": "By August 2024, Jailbreak had passed seven billion visits.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BumbleB; Denis (YouTube)",
+     "clip": "tr47-jb-a.mp4",
+     "start": 7.0
+    },
+    "big": "7 BILLION\nVISITS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Cop or criminal?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BumbleB; Denis (YouTube)",
+     "clip": "tr47-jb-b.mp4",
+     "start": 7.0
+    },
+    "big": "COP OR\nCRIMINAL?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: BumbleB; Denis (YouTube)",
+     "clip": "tr47-jb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

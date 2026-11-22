@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 443,
+ "slug": "443-gd-2-2-five-times",
+ "file": "443 Geometry Dash Got 5 Times Its Old Player Record in One Night.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash got five times its old player record in a single night.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-uf-a.mp4",
+     "start": 0
+    },
+    "big": "[ONE NIGHT]\n5X RECORD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "For years, the Steam version hovered around ten thousand players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-uf-c.mp4",
+     "start": 0
+    },
+    "big": "[FOR YEARS]\n10,000 PLAYERS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then update two point two dropped in December 2023, the first major update since 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-uf-b.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 2.2]\nDEC 2023",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That night, Steam peaked at eighty eight thousand three hundred forty six players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-uf-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NEW PEAK]\n88,346",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you come back for 2.2?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-uf-b.mp4",
+     "start": 7.0
+    },
+    "big": "CAME BACK\nFOR 2.2?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-uf-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

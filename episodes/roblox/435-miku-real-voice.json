@@ -1,0 +1,135 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 435,
+ "slug": "435-miku-real-voice",
+ "file": "435 Hatsune Miku Sounds Like a Robot but Her Voice Is a Real Person.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Crypton": "Krip-ton",
+  "Vocaloid": "Voh-kuh-loid",
+  "Yamaha": "Yah-mah-hah",
+  "Saki": "Sah-kee",
+  "Fujita": "Foo-jee-tah"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku sounds like a robot, but her voice comes from a real person.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); 7013ql (YouTube)",
+     "clip": "tr47-mk-a.mp4",
+     "start": 0
+    },
+    "big": "REAL\nVOICE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "HATSUNE MIKU"
+   }
+  },
+  {
+   "t": "Crypton Future Media released Miku in August 2007, built on Yamaha's Vocaloid technology.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); 7013ql (YouTube)",
+     "clip": "tr47-mk-c.mp4",
+     "start": 0
+    },
+    "big": "RELEASED\n2007",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "CRYPTON"
+   }
+  },
+  {
+   "t": "They recorded voice actress Saki Fujita at a controlled pitch and tone, then turned those samples into a singing voice.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); 7013ql (YouTube)",
+     "clip": "tr47-mk-b.mp4",
+     "start": 0
+    },
+    "big": "SAKI\nFUJITA",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "THE REAL VOICE"
+   }
+  },
+  {
+   "t": "Even her name tells the story. Hatsune Miku means the first sound of the future.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); 7013ql (YouTube)",
+     "clip": "tr47-mk-a.mp4",
+     "start": 7.0
+    },
+    "big": "FIRST SOUND\nOF THE FUTURE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Do you sing along to Miku?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); 7013ql (YouTube)",
+     "clip": "tr47-mk-b.mp4",
+     "start": 7.0
+    },
+    "big": "SING\nALONG?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); 7013ql (YouTube)",
+     "clip": "tr47-mk-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

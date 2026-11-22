@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 440,
+ "slug": "440-gd-windows-phone-before-pc",
+ "file": "440 Geometry Dash Came Out on Windows Phone Before PC.mp4",
+ "target": 0,
+ "accent": "#00b0ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash came out on Windows Phone before it ever came to PC.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Partition Sion (YouTube)",
+     "clip": "gd47-wp-a.mp4",
+     "start": 0
+    },
+    "big": "[RELEASE ORDER]\nWINDOWS PHONE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It launched on iPhone and Android in August 2013.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Partition Sion (YouTube)",
+     "clip": "gd47-wp-c.mp4",
+     "start": 0
+    },
+    "big": "[MOBILE FIRST]\nAUG 2013",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Windows Phone got it in June 2014.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Partition Sion (YouTube)",
+     "clip": "gd47-wp-b.mp4",
+     "start": 0
+    },
+    "big": "[WINDOWS PHONE]\nJUNE 2014",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And Steam only got it that December, more than a year after mobile.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Partition Sion (YouTube)",
+     "clip": "gd47-wp-a.mp4",
+     "start": 7.0
+    },
+    "big": "[STEAM]\nDEC 2014",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you play on mobile or PC first?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Partition Sion (YouTube)",
+     "clip": "gd47-wp-b.mp4",
+     "start": 7.0
+    },
+    "big": "MOBILE\nOR PC?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Partition Sion (YouTube)",
+     "clip": "gd47-wp-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 441,
+ "slug": "441-geometry-jump-name",
+ "file": "441 Geometry Dash Wasn't Called Geometry Dash at First.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash wasn't called Geometry Dash when it was first announced.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-gj-a.mp4",
+     "start": 0
+    },
+    "big": "[FIRST NAME]\nGEOMETRY JUMP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "On April twenty ninth, 2013, RobTop announced a game called Geometry Jump.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-gj-c.mp4",
+     "start": 0
+    },
+    "big": "[ANNOUNCED]\nAPRIL 2013",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He built it in about four months, even though his programming skills were basic at the time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-gj-b.mp4",
+     "start": 0
+    },
+    "big": "[FOUR MONTHS]\nBASIC SKILLS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "By launch that August, it had been renamed Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-gj-a.mp4",
+     "start": 7.0
+    },
+    "big": "[RENAMED]\nGEOMETRY DASH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Which name sounds better?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-gj-b.mp4",
+     "start": 7.0
+    },
+    "big": "JUMP\nOR DASH?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd47-gj-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

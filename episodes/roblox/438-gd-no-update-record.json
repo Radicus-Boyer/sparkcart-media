@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 438,
+ "slug": "438-gd-no-update-record",
+ "file": "438 Geometry Dash Broke Its Steam Record With No New Update.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash passed one hundred thousand players on Steam, with no new update.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; DogChavez; Duriel (YouTube)",
+     "clip": "gd47-nu-a.mp4",
+     "start": 0
+    },
+    "big": "[STEAM RECORD]\nNO UPDATE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In January 2026, Steam tracking showed one hundred three thousand players at once, ahead of Call of Duty and Apex Legends.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; DogChavez; Duriel (YouTube)",
+     "clip": "gd47-nu-c.mp4",
+     "start": 0
+    },
+    "big": "[PLAYERS]\n103,840",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The reason wasn't a patch. It was TikTok, and the level editor.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; DogChavez; Duriel (YouTube)",
+     "clip": "gd47-nu-b.mp4",
+     "start": 0
+    },
+    "big": "[THE REASON]\nTIKTOK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "A twelve year old game beat the record that update two point two had set.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; DogChavez; Duriel (YouTube)",
+     "clip": "gd47-nu-a.mp4",
+     "start": 7.0
+    },
+    "big": "[12 YEARS OLD]\nNEW RECORD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did TikTok bring you back to Geometry Dash?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; DogChavez; Duriel (YouTube)",
+     "clip": "gd47-nu-b.mp4",
+     "start": 7.0
+    },
+    "big": "TIKTOK BROUGHT\nYOU BACK?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dylannes; DogChavez; Duriel (YouTube)",
+     "clip": "gd47-nu-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 439,
+ "slug": "439-sonic-wave-sunix",
+ "file": "439 This Geometry Dash Level Split Extreme Demons in Two.mp4",
+ "target": 0,
+ "accent": "#7c4dff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Sunix": "Sun-icks",
+  "Cyclic": "Sigh-click"
+ },
+ "lines": [
+  {
+   "t": "One Geometry Dash level split Extreme Demons into easy ones and hard ones. It's called Sonic Wave.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-sw-a.mp4",
+     "start": 0
+    },
+    "big": "[EXTREME DEMON]\nSONIC WAVE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Cyclic made it, and for a long time, people argued about whether it could even be beaten.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-sw-c.mp4",
+     "start": 0
+    },
+    "big": "[BY CYCLIC]\nCAN IT BE BEAT?",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Then on November twenty fifth, 2016, a player named Sunix verified it, and wrote history.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-sw-b.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIED]\nBY SUNIX",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Today it's one of the most downloaded Extreme Demons, and a touchstone for the whole community.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-sw-a.mp4",
+     "start": 7.0
+    },
+    "big": "[STILL FAMOUS]\nFAN FAVORITE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Have you ever beaten an Extreme Demon?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-sw-b.mp4",
+     "start": 7.0
+    },
+    "big": "EXTREME\nDEMON?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-sw-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

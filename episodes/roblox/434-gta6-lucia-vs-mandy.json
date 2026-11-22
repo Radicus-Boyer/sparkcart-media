@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 434,
+ "slug": "434-gta6-lucia-vs-mandy",
+ "file": "434 GTA 6 Lucia or Mandy: Who Is the Better Girl.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {
+  "Lucia": "Loo-see-ah",
+  "Mandy": "Man-dee",
+  "GTA": "G T A"
+ },
+ "lines": [
+  {
+   "t": "GTA 6 players can't stop arguing about who's the better girl, Lucia or Mandy.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dan Allen Gaming; Fox 2.0 Gaming; kibblz (YouTube)",
+     "clip": "tr47-gt-a.mp4",
+     "start": 0
+    },
+    "big": "LUCIA\nVS MANDY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "GTA 6"
+   }
+  },
+  {
+   "t": "Lucia is the first playable woman in the series, and the game starts with her getting out of prison.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dan Allen Gaming; Fox 2.0 Gaming; kibblz (YouTube)",
+     "clip": "tr47-gt-c.mp4",
+     "start": 0
+    },
+    "big": "LUCIA",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "FIRST FEMALE LEAD"
+   }
+  },
+  {
+   "t": "Mandy never appeared in a single trailer. She shows up early, in the Pipework mission, flirting with Jason while Lucia is still locked up.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dan Allen Gaming; Fox 2.0 Gaming; kibblz (YouTube)",
+     "clip": "tr47-gt-b.mp4",
+     "start": 0
+    },
+    "big": "MANDY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "PIPEWORK MISSION"
+   }
+  },
+  {
+   "t": "Mandy's actor says she does both her voice and her motion capture, and fans have loved her since launch week.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dan Allen Gaming; Fox 2.0 Gaming; kibblz (YouTube)",
+     "clip": "tr47-gt-a.mp4",
+     "start": 7.0
+    },
+    "big": "FAN\nFAVORITE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "GTA 6"
+   }
+  },
+  {
+   "t": "Who's the better girl, Lucia or Mandy?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dan Allen Gaming; Fox 2.0 Gaming; kibblz (YouTube)",
+     "clip": "tr47-gt-b.mp4",
+     "start": 7.0
+    },
+    "big": "LUCIA OR\nMANDY?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Dan Allen Gaming; Fox 2.0 Gaming; kibblz (YouTube)",
+     "clip": "tr47-gt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GTA 6"
+}

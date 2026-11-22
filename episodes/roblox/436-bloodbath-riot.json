@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 436,
+ "slug": "436-bloodbath-riot",
+ "file": "436 This Geometry Dash Level Changed What an Extreme Demon Meant.mp4",
+ "target": 0,
+ "accent": "#d50000",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Riot": "Rye-it",
+  "Bloodbath": "Blood bath"
+ },
+ "lines": [
+  {
+   "t": "This Geometry Dash level changed what an Extreme Demon meant. It's called Bloodbath.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-bb-a.mp4",
+     "start": 0
+    },
+    "big": "[GAME CHANGER]\nBLOODBATH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was a mega collab built in update one point nine, hosted by a player named Riot.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-bb-c.mp4",
+     "start": 0
+    },
+    "big": "[MEGA COLLAB]\nHOSTED BY RIOT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Riot verified it himself, in 2015, so the host was also the first to beat it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-bb-b.mp4",
+     "start": 0
+    },
+    "big": "[VERIFIED]\nBY RIOT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It even became Top 1, the hardest level in the whole game at that time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-bb-a.mp4",
+     "start": 7.0
+    },
+    "big": "[TOP 1]\nHARDEST LEVEL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Have you ever tried Bloodbath?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-bb-b.mp4",
+     "start": 7.0
+    },
+    "big": "TRIED\nBLOODBATH?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd47-bb-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
