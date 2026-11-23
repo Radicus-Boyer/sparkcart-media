@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 449,
+ "slug": "449-gd-242-million-downloads",
+ "file": "449 Geometry Dash Mobile Hit 242 Million Downloads.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "By 2018, Geometry Dash on mobile had reached two hundred forty two million downloads.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Pineapple; MUSIC SOUNDS (YouTube)",
+     "clip": "gd48-dl-a.mp4",
+     "start": 0
+    },
+    "big": "[MOBILE]\n242 MILLION",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That same version had reportedly earned about twenty one million dollars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Pineapple; MUSIC SOUNDS (YouTube)",
+     "clip": "gd48-dl-c.mp4",
+     "start": 0
+    },
+    "big": "[EARNINGS]\n$21 MILLION",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "All of that came from a game built by one Swedish developer.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Pineapple; MUSIC SOUNDS (YouTube)",
+     "clip": "gd48-dl-b.mp4",
+     "start": 0
+    },
+    "big": "[ONE DEVELOPER]\nROBTOP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "He made it in about four months.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Pineapple; MUSIC SOUNDS (YouTube)",
+     "clip": "gd48-dl-a.mp4",
+     "start": 7.0
+    },
+    "big": "[BUILT IN]\nFOUR MONTHS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you buy it on mobile?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Pineapple; MUSIC SOUNDS (YouTube)",
+     "clip": "gd48-dl-b.mp4",
+     "start": 7.0
+    },
+    "big": "BOUGHT IT\nON MOBILE?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; Pineapple; MUSIC SOUNDS (YouTube)",
+     "clip": "gd48-dl-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

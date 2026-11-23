@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 450,
+ "slug": "450-roblox-beat-gta6-playstation",
+ "file": "450 Roblox Knocked GTA 6 Off the Top of the PlayStation Store.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "GTA": "G T A",
+  "PlayStation": "Play Station",
+  "PS5": "P S five"
+ },
+ "lines": [
+  {
+   "t": "Roblox knocked GTA 6 off the top of the PlayStation Store trending list.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: LillePekka; Game Infinity (YouTube)",
+     "clip": "tr48-rp-a.mp4",
+     "start": 0
+    },
+    "big": "ROBLOX\nBEAT GTA 6",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "PLAYSTATION STORE"
+   }
+  },
+  {
+   "t": "It happened on April fourteenth, 2026, right after Roblox launched a native app on PS5.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: LillePekka; Game Infinity (YouTube)",
+     "clip": "tr48-rp-c.mp4",
+     "start": 0
+    },
+    "big": "APRIL 14\n2026",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "NEW PS5 APP"
+   }
+  },
+  {
+   "t": "GTA 6, still months from launch, dropped to second place.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: LillePekka; Game Infinity (YouTube)",
+     "clip": "tr48-rp-b.mp4",
+     "start": 0
+    },
+    "big": "GTA 6\nDROPPED TO #2",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "TRENDING LIST"
+   }
+  },
+  {
+   "t": "Roblox has been public since 2006, so an old game beat the most hyped game in the world.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: LillePekka; Game Infinity (YouTube)",
+     "clip": "tr48-rp-a.mp4",
+     "start": 7.0
+    },
+    "big": "PUBLIC\nSINCE 2006",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "OLD BEATS NEW"
+   }
+  },
+  {
+   "t": "Roblox or GTA 6?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: LillePekka; Game Infinity (YouTube)",
+     "clip": "tr48-rp-b.mp4",
+     "start": 7.0
+    },
+    "big": "ROBLOX OR\nGTA 6?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: LillePekka; Game Infinity (YouTube)",
+     "clip": "tr48-rp-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

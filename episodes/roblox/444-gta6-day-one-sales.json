@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 444,
+ "slug": "444-gta6-day-one-sales",
+ "file": "444 GTA 6 Made an Estimated 1.84 Billion Dollars by Release Day.mp4",
+ "target": 0,
+ "accent": "#ff4081",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ff80ab",
+  "cy": 1470
+ },
+ "pron": {
+  "GTA": "G T A"
+ },
+ "lines": [
+  {
+   "t": "GTA 6 made an estimated one point eight four billion dollars by its release day.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Thempster; GameSpot (YouTube)",
+     "clip": "tr48-gs-a.mp4",
+     "start": 0
+    },
+    "big": "GTA 6\n$1.84 BILLION",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "RELEASE DAY"
+   }
+  },
+  {
+   "t": "That's a Sensor Tower estimate, about nineteen million copies, and three quarters were on PlayStation.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Thempster; GameSpot (YouTube)",
+     "clip": "tr48-gs-c.mp4",
+     "start": 0
+    },
+    "big": "19 MILLION\nCOPIES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SENSOR TOWER ESTIMATE"
+   }
+  },
+  {
+   "t": "GTA 5 needed three days to reach one billion dollars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Thempster; GameSpot (YouTube)",
+     "clip": "tr48-gs-b.mp4",
+     "start": 0
+    },
+    "big": "GTA 5\n3 DAYS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "TO REACH $1 BILLION"
+   }
+  },
+  {
+   "t": "The streams were wild too, with over six million people watching at once, a new record.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Thempster; GameSpot (YouTube)",
+     "clip": "tr48-gs-a.mp4",
+     "start": 7.0
+    },
+    "big": "6 MILLION\nWATCHING",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "LIVESTREAM RECORD"
+   }
+  },
+  {
+   "t": "Did you get GTA 6 on launch day?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Thempster; GameSpot (YouTube)",
+     "clip": "tr48-gs-b.mp4",
+     "start": 7.0
+    },
+    "big": "LAUNCH DAY\nBUYER?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Thempster; GameSpot (YouTube)",
+     "clip": "tr48-gs-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "GTA 6"
+}

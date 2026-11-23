@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 445,
+ "slug": "445-miku-google-japan-2007",
+ "file": "445 Hatsune Miku Ranked Third Most Searched Celebrity on Google Japan.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Crypton": "Krip-ton"
+ },
+ "lines": [
+  {
+   "t": "In 2007, Hatsune Miku ranked third on Google Japan's list of most searched famous people. She's software.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-mg-a.mp4",
+     "start": 0
+    },
+    "big": "MOST SEARCHED\n#3",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "GOOGLE JAPAN 2007"
+   }
+  },
+  {
+   "t": "Crypton Future Media had only released her that August, as a voice program for making music.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-mg-c.mp4",
+     "start": 0
+    },
+    "big": "RELEASED\nAUGUST 2007",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "CRYPTON"
+   }
+  },
+  {
+   "t": "A character on a software box still beat real human celebrities on that list.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-mg-b.mp4",
+     "start": 0
+    },
+    "big": "BEAT REAL\nCELEBRITIES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "THE TOP FIVE"
+   }
+  },
+  {
+   "t": "Her sales matched it, with more than fifteen thousand units in the first two months.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-mg-a.mp4",
+     "start": 7.0
+    },
+    "big": "15,000\nIN 2 MONTHS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SOFTWARE SALES"
+   }
+  },
+  {
+   "t": "Did you know Miku was this big?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-mg-b.mp4",
+     "start": 7.0
+    },
+    "big": "KNEW\nTHIS?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-mg-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 448,
+ "slug": "448-miku-amazon-number-one",
+ "file": "448 Hatsune Miku Was Amazon Japan's Number One Selling Software.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku was the number one selling software on Amazon Japan, just days after she came out.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-ma-a.mp4",
+     "start": 0
+    },
+    "big": "#1 SELLER\nON AMAZON",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "HATSUNE MIKU"
+   }
+  },
+  {
+   "t": "She was released on August thirty first, 2007, and twelve days later Amazon Japan reported fifty seven and a half million yen in sales.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-ma-c.mp4",
+     "start": 0
+    },
+    "big": "57.5 MILLION\nYEN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "12 DAYS"
+   }
+  },
+  {
+   "t": "All that for a music program that makes a voice sing.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-ma-b.mp4",
+     "start": 0
+    },
+    "big": "A MUSIC\nPROGRAM",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "By July 2008, she had sold about forty thousand units.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-ma-a.mp4",
+     "start": 7.0
+    },
+    "big": "40,000\nUNITS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "BY JULY 2008"
+   }
+  },
+  {
+   "t": "Would you have bought Miku in 2007?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-ma-b.mp4",
+     "start": 7.0
+    },
+    "big": "BOUGHT IT\nIN 2007?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Wilson (YouTube)",
+     "clip": "tr48-ma-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

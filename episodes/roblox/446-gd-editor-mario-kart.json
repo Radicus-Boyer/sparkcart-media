@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 446,
+ "slug": "446-gd-editor-mario-kart",
+ "file": "446 Players Rebuilt Super Mario Kart Inside Geometry Dash.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Celeste": "Suh-lest",
+  "Freddy's": "Fred-eez"
+ },
+ "lines": [
+  {
+   "t": "Players have rebuilt entire video games inside the Geometry Dash level editor.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SupaCLUCK; Plaxy [GD]; F_merguez (YouTube)",
+     "clip": "gd48-mk-a.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL EDITOR]\nWHOLE GAMES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "One of them is Super Mario Kart, built using only in game objects.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SupaCLUCK; Plaxy [GD]; F_merguez (YouTube)",
+     "clip": "gd48-mk-c.mp4",
+     "start": 0
+    },
+    "big": "[MARIO KART]\nIN GEOMETRY DASH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Others have rebuilt Five Nights at Freddy's, and Celeste.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SupaCLUCK; Plaxy [GD]; F_merguez (YouTube)",
+     "clip": "gd48-mk-b.mp4",
+     "start": 0
+    },
+    "big": "[ALSO REBUILT]\nFNAF AND CELESTE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That's possible because the updated editor has so many tools.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SupaCLUCK; Plaxy [GD]; F_merguez (YouTube)",
+     "clip": "gd48-mk-a.mp4",
+     "start": 7.0
+    },
+    "big": "[THE EDITOR]\nSO MANY TOOLS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What game should be rebuilt next?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SupaCLUCK; Plaxy [GD]; F_merguez (YouTube)",
+     "clip": "gd48-mk-b.mp4",
+     "start": 7.0
+    },
+    "big": "REBUILD\nWHAT NEXT?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SupaCLUCK; Plaxy [GD]; F_merguez (YouTube)",
+     "clip": "gd48-mk-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

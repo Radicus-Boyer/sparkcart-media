@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 452,
+ "slug": "452-miku-oricon-top-five",
+ "file": "452 Hatsune Miku Had Two Albums in Japan's Weekly Top Five.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Oricon": "Or-ee-con"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku, a piece of software, had two albums in Japan's weekly top five at the same time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); Wilson (YouTube)",
+     "clip": "tr48-mo-a.mp4",
+     "start": 0
+    },
+    "big": "TWO ALBUMS\nTOP 5",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ORICON"
+   }
+  },
+  {
+   "t": "In August 2009, her two best of albums placed fourth and fifth on the Oricon weekly album chart.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); Wilson (YouTube)",
+     "clip": "tr48-mo-c.mp4",
+     "start": 0
+    },
+    "big": "#4 AND #5\nOF THE WEEK",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "AUGUST 2009"
+   }
+  },
+  {
+   "t": "It was the first time a computer synthesized singer got two spots in the weekly top ten.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); Wilson (YouTube)",
+     "clip": "tr48-mo-b.mp4",
+     "start": 0
+    },
+    "big": "FIRST EVER\nFOR A VOCALOID",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And Miku had only turned two that same week, born August thirty first, 2007.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); Wilson (YouTube)",
+     "clip": "tr48-mo-a.mp4",
+     "start": 7.0
+    },
+    "big": "ONLY\nTWO YEARS OLD",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "What's your favorite Miku song?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); Wilson (YouTube)",
+     "clip": "tr48-mo-b.mp4",
+     "start": 7.0
+    },
+    "big": "FAVORITE\nSONG?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Hatsune Miku (official live); Wilson (YouTube)",
+     "clip": "tr48-mo-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

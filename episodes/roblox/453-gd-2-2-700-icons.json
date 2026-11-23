@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 453,
+ "slug": "453-gd-2-2-700-icons",
+ "file": "453 Geometry Dash 2.2 Added 700 New Icons.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash update two point two added seven hundred new icons.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd48-ic-a.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 2.2]\n700 NEW ICONS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It also added a new level, a Swing mode, and a platformer mode with four levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd48-ic-c.mp4",
+     "start": 0
+    },
+    "big": "[ALSO NEW]\nSWING AND PLATFORMER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The level editor was overhauled too, with a huge list of new tools.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd48-ic-b.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL EDITOR]\nOVERHAUL",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out on December nineteenth, 2023, after a nearly seven year wait.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd48-ic-a.mp4",
+     "start": 7.0
+    },
+    "big": "[DEC 2023]\n7 YEAR WAIT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What's your favorite icon?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd48-ic-b.mp4",
+     "start": 7.0
+    },
+    "big": "FAVORITE\nICON?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: DlovanSl; Krisz (YouTube)",
+     "clip": "gd48-ic-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
