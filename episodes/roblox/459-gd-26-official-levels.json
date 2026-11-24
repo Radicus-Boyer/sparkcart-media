@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 459,
+ "slug": "459-gd-26-official-levels",
+ "file": "459 Geometry Dash Has Only 26 Official Levels.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash has only twenty six official levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Krisz; Mulpan (YouTube)",
+     "clip": "gd49-lv-a.mp4",
+     "start": 0
+    },
+    "big": "[OFFICIAL LEVELS]\nONLY 26",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Twenty two of them are the classic auto scrolling levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Krisz; Mulpan (YouTube)",
+     "clip": "gd49-lv-c.mp4",
+     "start": 0
+    },
+    "big": "[CLASSIC]\n22 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The other four are platformer levels, added in 2.2.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Krisz; Mulpan (YouTube)",
+     "clip": "gd49-lv-b.mp4",
+     "start": 0
+    },
+    "big": "[PLATFORMER]\n4 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Everything else you play is made by the community.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Krisz; Mulpan (YouTube)",
+     "clip": "gd49-lv-a.mp4",
+     "start": 7.0
+    },
+    "big": "[THE REST]\nCOMMUNITY MADE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What's your favorite official level?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Krisz; Mulpan (YouTube)",
+     "clip": "gd49-lv-b.mp4",
+     "start": 7.0
+    },
+    "big": "FAVORITE\nOFFICIAL LEVEL?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Krisz; Mulpan (YouTube)",
+     "clip": "gd49-lv-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,129 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 455,
+ "slug": "455-roblox-face-age-check-chat",
+ "file": "455 Roblox Made Face Age Checks Mandatory to Use Chat.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Roblox": "Row-blocks"
+ },
+ "lines": [
+  {
+   "t": "Roblox made face age checks mandatory if you want to use chat.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Game Infinity; Alaska Violet (YouTube)",
+     "clip": "tr49-ra-a.mp4",
+     "start": 0
+    },
+    "big": "FACE CHECK\nTO CHAT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ROBLOX"
+   }
+  },
+  {
+   "t": "It went worldwide in January 2026, and it was a first for a major gaming platform.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Game Infinity; Alaska Violet (YouTube)",
+     "clip": "tr49-ra-c.mp4",
+     "start": 0
+    },
+    "big": "JANUARY 2026\nWORLDWIDE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Players land in one of six age groups, from under nine up to twenty one plus.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Game Infinity; Alaska Violet (YouTube)",
+     "clip": "tr49-ra-b.mp4",
+     "start": 0
+    },
+    "big": "6 AGE\nGROUPS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "UNDER 9 TO 21 PLUS"
+   }
+  },
+  {
+   "t": "Kids under nine need a parent's consent, and Roblox says it deletes the images right away.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Game Infinity; Alaska Violet (YouTube)",
+     "clip": "tr49-ra-a.mp4",
+     "start": 7.0
+    },
+    "big": "UNDER 9\nNEED PARENTS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "IMAGES DELETED"
+   }
+  },
+  {
+   "t": "Did you do the age check?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Game Infinity; Alaska Violet (YouTube)",
+     "clip": "tr49-ra-b.mp4",
+     "start": 7.0
+    },
+    "big": "DID YOU DO\nTHE CHECK?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Game Infinity; Alaska Violet (YouTube)",
+     "clip": "tr49-ra-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

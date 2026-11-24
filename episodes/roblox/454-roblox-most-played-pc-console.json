@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 454,
+ "slug": "454-roblox-most-played-pc-console",
+ "file": "454 Roblox Out-Played Fortnite and Minecraft on PC and Console.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Newzoo": "New zoo",
+  "GEEIQ": "G E E I Q",
+  "Roblox": "Row-blocks"
+ },
+ "lines": [
+  {
+   "t": "Roblox out played Fortnite and Minecraft on PC and console in the first half of 2026.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr49-rp-a.mp4",
+     "start": 0
+    },
+    "big": "ROBLOX\n#1 MOST PLAYED",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "PC AND CONSOLE"
+   }
+  },
+  {
+   "t": "Newzoo and GEEIQ counted four point oh five billion hours on Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr49-rp-c.mp4",
+     "start": 0
+    },
+    "big": "4.05 BILLION\nHOURS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "FIRST HALF 2026"
+   }
+  },
+  {
+   "t": "Fortnite had two point eight nine billion hours, and Minecraft had two point two eight.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr49-rp-b.mp4",
+     "start": 0
+    },
+    "big": "FORTNITE 2.89B\nMINECRAFT 2.28B",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And that's only PC and console, not phones, where most Roblox players are.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr49-rp-a.mp4",
+     "start": 7.0
+    },
+    "big": "NOT EVEN\nPHONES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "MOBILE EXTRA"
+   }
+  },
+  {
+   "t": "Roblox, Fortnite or Minecraft?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr49-rp-b.mp4",
+     "start": 7.0
+    },
+    "big": "ROBLOX, FORTNITE\nOR MINECRAFT?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr49-rp-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

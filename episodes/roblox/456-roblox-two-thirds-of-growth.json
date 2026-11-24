@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 456,
+ "slug": "456-roblox-two-thirds-of-growth",
+ "file": "456 Roblox Drove Two Thirds of Gaming's Growth in 2025.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Roblox": "Row-blocks",
+  "Newzoo": "New zoo",
+  "Circana": "Sir-can-ah",
+  "Ampere": "Am-peer"
+ },
+ "lines": [
+  {
+   "t": "Roblox drove about two thirds of the gaming industry's growth in 2025.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WVcRd3Pne08; ZrVwFcllsfA (YouTube)",
+     "clip": "tr49-rg-a.mp4",
+     "start": 0
+    },
+    "big": "2/3 OF\nGAMING GROWTH",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ROBLOX IN 2025"
+   }
+  },
+  {
+   "t": "That's from analyst Matthew Ball, who pulled data from Newzoo, Ampere and Circana.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WVcRd3Pne08; ZrVwFcllsfA (YouTube)",
+     "clip": "tr49-rg-c.mp4",
+     "start": 0
+    },
+    "big": "MATTHEW BALL\nREPORT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Roblox took over four and a half percent of all consumer game spending.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WVcRd3Pne08; ZrVwFcllsfA (YouTube)",
+     "clip": "tr49-rg-b.mp4",
+     "start": 0
+    },
+    "big": "4.5% OF ALL\nGAME SPENDING",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Players spent about ten billion hours on it every month, more than Steam and PlayStation combined.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WVcRd3Pne08; ZrVwFcllsfA (YouTube)",
+     "clip": "tr49-rg-a.mp4",
+     "start": 7.0
+    },
+    "big": "10 BILLION\nHOURS A MONTH",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "PER MONTH"
+   }
+  },
+  {
+   "t": "Do you still play Roblox?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WVcRd3Pne08; ZrVwFcllsfA (YouTube)",
+     "clip": "tr49-rg-b.mp4",
+     "start": 7.0
+    },
+    "big": "STILL\nPLAY ROBLOX?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: WVcRd3Pne08; ZrVwFcllsfA (YouTube)",
+     "clip": "tr49-rg-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

@@ -1,0 +1,130 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 457,
+ "slug": "457-miku-letterman-2014",
+ "file": "457 Hatsune Miku Performed on David Letterman in 2014.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Letterman": "Letter man"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku performed on David Letterman. A hologram was the musical guest.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Letterman; Brainwrecked Tech; VIV Vocaloid (YouTube)",
+     "clip": "tr49-ml-a.mp4",
+     "start": 0
+    },
+    "big": "A HOLOGRAM ON\nLETTERMAN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "OCTOBER 2014"
+   }
+  },
+  {
+   "t": "It was October eighth, 2014, her North American TV debut.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Letterman; Brainwrecked Tech; VIV Vocaloid (YouTube)",
+     "clip": "tr49-ml-c.mp4",
+     "start": 0
+    },
+    "big": "FIRST US\nTV DEBUT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "She sang Sharing the World, the theme of that year's Miku Expo.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Letterman; Brainwrecked Tech; VIV Vocaloid (YouTube)",
+     "clip": "tr49-ml-b.mp4",
+     "start": 0
+    },
+    "big": "SHARING\nTHE WORLD",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "MIKU EXPO"
+   }
+  },
+  {
+   "t": "Letterman looked stunned and just said wow.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Letterman; Brainwrecked Tech; VIV Vocaloid (YouTube)",
+     "clip": "tr49-ml-a.mp4",
+     "start": 7.0
+    },
+    "big": "LETTERMAN'S\nREACTION: WOW",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you see this live?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Letterman; Brainwrecked Tech; VIV Vocaloid (YouTube)",
+     "clip": "tr49-ml-b.mp4",
+     "start": 7.0
+    },
+    "big": "SEEN THIS\nLIVE?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Letterman; Brainwrecked Tech; VIV Vocaloid (YouTube)",
+     "clip": "tr49-ml-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

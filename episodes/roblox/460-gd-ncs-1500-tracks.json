@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 460,
+ "slug": "460-gd-ncs-1500-tracks",
+ "file": "460 Geometry Dash Added Over 1500 Free NCS Songs.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "NCS": "N C S",
+  "NoCopyrightSounds": "No copyright sounds"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash added over fifteen hundred free songs from NCS.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd49-nc-a.mp4",
+     "start": 0
+    },
+    "big": "[NCS MUSIC]\n1,500 TRACKS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "NoCopyrightSounds is a UK electronic label that lets creators use its music for free.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd49-nc-c.mp4",
+     "start": 0
+    },
+    "big": "[THE LABEL]\nNOCOPYRIGHTSOUNDS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The partnership was announced in June 2024, when the game hit ten years old.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd49-nc-b.mp4",
+     "start": 0
+    },
+    "big": "[JUNE 2024]\n10TH ANNIVERSARY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It even came with a level contest using the NCS catalogue.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd49-nc-a.mp4",
+     "start": 7.0
+    },
+    "big": "[LEVEL CONTEST]\nUSE NCS MUSIC",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What's your favorite GD song?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd49-nc-b.mp4",
+     "start": 7.0
+    },
+    "big": "FAVORITE\nGD SONG?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD]; GuitarHeroStyles (YouTube)",
+     "clip": "gd49-nc-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
