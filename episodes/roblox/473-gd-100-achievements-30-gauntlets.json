@@ -1,0 +1,143 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 473,
+ "slug": "473-gd-100-achievements-30-gauntlets",
+ "file": "473 Geometry Dash 2.2 Added Over 100 Achievements and 30 Gauntlets.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash 2.2 added over one hundred new achievements.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: snowIY; Nexus [GD] (YouTube)",
+     "clip": "gd50-ag-a.mp4",
+     "start": 0
+    },
+    "big": "[2.2 UPDATE]\n100+ ACHIEVEMENTS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It also added over thirty new gauntlets.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: snowIY; Nexus [GD] (YouTube)",
+     "clip": "gd50-ag-c.mp4",
+     "start": 0
+    },
+    "big": "[GAUNTLETS]\n30+ NEW",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Gauntlets are themed packs of levels with a reward at the end.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: snowIY; Nexus [GD] (YouTube)",
+     "clip": "gd50-ag-b.mp4",
+     "start": 0
+    },
+    "big": "[GAUNTLET]\nLEVEL PACKS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Plus new shards and secrets to find.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: snowIY; Nexus [GD] (YouTube)",
+     "clip": "gd50-ag-a.mp4",
+     "start": 7.0
+    },
+    "big": "[AND MORE]\nSHARDS AND SECRETS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "How many achievements do you have?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: snowIY; Nexus [GD] (YouTube)",
+     "clip": "gd50-ag-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR\nACHIEVEMENTS?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: snowIY; Nexus [GD] (YouTube)",
+     "clip": "gd50-ag-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,129 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 465,
+ "slug": "465-roblox-20-percent-us-kids",
+ "file": "465 One in Five US Kids Gaming Hours Run Through Roblox.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Roblox": "Row-blocks"
+ },
+ "lines": [
+  {
+   "t": "About one in five American kids' gaming runs through Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-ky-a.mp4",
+     "start": 0
+    },
+    "big": "20% OF US\nKIDS' GAMING",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "UNDER 18"
+   }
+  },
+  {
+   "t": "Roblox says about thirty percent of American thirteen to seventeen year olds play daily.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-ky-c.mp4",
+     "start": 0
+    },
+    "big": "30% OF US TEENS\nPLAY DAILY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "AGES 13 TO 17"
+   }
+  },
+  {
+   "t": "Players over eighteen are now twenty nine percent of age checked daily players.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-ky-b.mp4",
+     "start": 0
+    },
+    "big": "OVER 18\n29%",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "AGE CHECKED PLAYERS"
+   }
+  },
+  {
+   "t": "Roblox calls them its fastest growing group.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-ky-a.mp4",
+     "start": 7.0
+    },
+    "big": "FASTEST\nGROWING GROUP",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "How old were you when you started?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-ky-b.mp4",
+     "start": 7.0
+    },
+    "big": "AGE YOU\nSTARTED?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-ky-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

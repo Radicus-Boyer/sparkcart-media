@@ -1,0 +1,129 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 464,
+ "slug": "464-roblox-first-yearly-drop",
+ "file": "464 Roblox Daily Players Fell for the First Time Ever.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Roblox": "Row-blocks"
+ },
+ "lines": [
+  {
+   "t": "Roblox daily players fell for the first time ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-rd-a.mp4",
+     "start": 0
+    },
+    "big": "ROBLOX'S FIRST\nYEARLY DROP",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "Q3 2026"
+   }
+  },
+  {
+   "t": "It averaged one hundred thirty eight million daily players from July to September.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-rd-c.mp4",
+     "start": 0
+    },
+    "big": "138 MILLION\nDAILY PLAYERS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "JULY TO SEPTEMBER"
+   }
+  },
+  {
+   "t": "That's down nine percent from last year, but up twelve percent from the quarter before.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-rd-b.mp4",
+     "start": 0
+    },
+    "big": "DOWN 9% YEARLY\nUP 12% QUARTERLY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Revenue still grew sixteen percent to one point six billion dollars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-rd-a.mp4",
+     "start": 7.0
+    },
+    "big": "REVENUE\nUP 16%",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "$1.6 BILLION"
+   }
+  },
+  {
+   "t": "Is Roblox still your favorite?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-rd-b.mp4",
+     "start": 7.0
+    },
+    "big": "STILL YOUR\nFAVORITE?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; LillePekka (YouTube)",
+     "clip": "tr50-rd-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

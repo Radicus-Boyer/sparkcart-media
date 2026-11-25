@@ -1,0 +1,131 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 468,
+ "slug": "468-miku-snow-miku-sculpture",
+ "file": "468 Snow Miku Started as a Snow Sculpture in Sapporo.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Sapporo": "Sah-poh-roh"
+ },
+ "lines": [
+  {
+   "t": "Snow Miku started as a snow sculpture.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: redlegsfan21; earlgreyv3 (YouTube)",
+     "clip": "tr50-sm-a.mp4",
+     "start": 0
+    },
+    "big": "SNOW MIKU\nWAS A SCULPTURE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SAPPORO, 2010"
+   }
+  },
+  {
+   "t": "It was built for the sixty first Sapporo Snow Festival in February 2010.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: redlegsfan21; earlgreyv3 (YouTube)",
+     "clip": "tr50-sm-c.mp4",
+     "start": 0
+    },
+    "big": "61ST SAPPORO\nSNOW FESTIVAL",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "FEBRUARY 2010"
+   }
+  },
+  {
+   "t": "Since 2012, fans pick her costume every year in a public design contest.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: redlegsfan21; earlgreyv3 (YouTube)",
+     "clip": "tr50-sm-b.mp4",
+     "start": 0
+    },
+    "big": "FANS PICK\nHER OUTFIT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SINCE 2012"
+   }
+  },
+  {
+   "t": "And since September 2024, she's been an official tourism ambassador for Sapporo.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: redlegsfan21; earlgreyv3 (YouTube)",
+     "clip": "tr50-sm-a.mp4",
+     "start": 7.0
+    },
+    "big": "SAPPORO'S\nAMBASSADOR",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SINCE SEPTEMBER 2024"
+   }
+  },
+  {
+   "t": "What's your favorite Snow Miku?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: redlegsfan21; earlgreyv3 (YouTube)",
+     "clip": "tr50-sm-b.mp4",
+     "start": 7.0
+    },
+    "big": "FAVORITE\nSNOW MIKU?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: redlegsfan21; earlgreyv3 (YouTube)",
+     "clip": "tr50-sm-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

@@ -1,0 +1,132 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 466,
+ "slug": "466-miku-project-diva-psp-2009",
+ "file": "466 Hatsune Miku Project Diva Opened at Number Two in Japan.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Diva": "Dee-va",
+  "PSP": "P S P"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku's first Project Diva game opened at number two in Japan.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jugador 2; darku (YouTube)",
+     "clip": "tr50-pd-a.mp4",
+     "start": 0
+    },
+    "big": "OPENED AT\n#2 IN JAPAN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "PSP, 2009"
+   }
+  },
+  {
+   "t": "It came out July second, 2009, and sold about one hundred one thousand copies in week one.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jugador 2; darku (YouTube)",
+     "clip": "tr50-pd-c.mp4",
+     "start": 0
+    },
+    "big": "101,000 COPIES\nWEEK ONE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "JULY 2, 2009"
+   }
+  },
+  {
+   "t": "Only Wii Sports Resort sold more that week, with about one hundred fifty five thousand.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jugador 2; darku (YouTube)",
+     "clip": "tr50-pd-b.mp4",
+     "start": 0
+    },
+    "big": "BEHIND ONLY\nWII SPORTS RESORT",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "And it was never released outside Japan.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jugador 2; darku (YouTube)",
+     "clip": "tr50-pd-a.mp4",
+     "start": 7.0
+    },
+    "big": "JAPAN\nONLY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "NO INTERNATIONAL RELEASE"
+   }
+  },
+  {
+   "t": "Did you play Project Diva?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jugador 2; darku (YouTube)",
+     "clip": "tr50-pd-b.mp4",
+     "start": 7.0
+    },
+    "big": "PLAYED\nPROJECT DIVA?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Jugador 2; darku (YouTube)",
+     "clip": "tr50-pd-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

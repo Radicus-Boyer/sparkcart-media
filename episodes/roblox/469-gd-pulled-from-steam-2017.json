@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 469,
+ "slug": "469-gd-pulled-from-steam-2017",
+ "file": "469 Geometry Dash Was Pulled From Steam in 2017.mp4",
+ "target": 0,
+ "accent": "#d50000",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Newgrounds": "New grounds",
+  "Fulp": "Fulp"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash was pulled from Steam in January 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd50-ps-a.mp4",
+     "start": 0
+    },
+    "big": "[PULLED FROM STEAM]\nJANUARY 2017",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Artists on Newgrounds complained that players kept uploading music they didn't make.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd50-ps-c.mp4",
+     "start": 0
+    },
+    "big": "[THE REASON]\nNEWGROUNDS MUSIC",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Newgrounds founder Tom Fulp explained it in a public post.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd50-ps-b.mp4",
+     "start": 0
+    },
+    "big": "[THE POST]\nTOM FULP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "A compromise followed on February second.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd50-ps-a.mp4",
+     "start": 7.0
+    },
+    "big": "[COMPROMISE]\nFEBRUARY 2, 2017",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you play it on Steam?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd50-ps-b.mp4",
+     "start": 7.0
+    },
+    "big": "PLAYED IT\nON STEAM?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd50-ps-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,134 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 467,
+ "slug": "467-miku-project-diva-2nd-2010",
+ "file": "467 Hatsune Miku Project Diva 2nd Nearly Hit Number One in Japan.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#84ffff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Diva": "Dee-va",
+  "PSP": "P S P",
+  "Sengoku Basara": "Sen-go-koo Ba-sa-ra"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku's second PSP game almost hit number one in Japan.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Precious Anne; MaybeMidnight (YouTube)",
+     "clip": "tr50-d2-a.mp4",
+     "start": 0
+    },
+    "big": "ALMOST\n#1 IN JAPAN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "AUGUST 2010"
+   }
+  },
+  {
+   "t": "Project Diva 2nd sold about two hundred forty one thousand copies in its first week.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Precious Anne; MaybeMidnight (YouTube)",
+     "clip": "tr50-d2-c.mp4",
+     "start": 0
+    },
+    "big": "241,000\nFIRST WEEK",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "PSP"
+   }
+  },
+  {
+   "t": "Sengoku Basara 3 beat it by about two thousand copies.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Precious Anne; MaybeMidnight (YouTube)",
+     "clip": "tr50-d2-b.mp4",
+     "start": 0
+    },
+    "big": "BEATEN BY\n2,000 COPIES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SENGOKU BASARA 3"
+   }
+  },
+  {
+   "t": "That's more than double the first game's launch.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Precious Anne; MaybeMidnight (YouTube)",
+     "clip": "tr50-d2-a.mp4",
+     "start": 7.0
+    },
+    "big": "2X THE\nFIRST GAME",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "101,000 IN 2009"
+   }
+  },
+  {
+   "t": "Which Diva game was your favorite?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Precious Anne; MaybeMidnight (YouTube)",
+     "clip": "tr50-d2-b.mp4",
+     "start": 7.0
+    },
+    "big": "FAVORITE\nDIVA GAME?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Precious Anne; MaybeMidnight (YouTube)",
+     "clip": "tr50-d2-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

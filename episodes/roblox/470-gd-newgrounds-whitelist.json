@@ -1,0 +1,145 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 470,
+ "slug": "470-gd-newgrounds-whitelist",
+ "file": "470 Newly Scouted Newgrounds Artists Need RobTop's Approval for Geometry Dash.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Newgrounds": "New grounds",
+  "RobTop": "Rob top"
+ },
+ "lines": [
+  {
+   "t": "Newly scouted Newgrounds artists need RobTop's approval to be in Geometry Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock; Nexus [GD] (YouTube)",
+     "clip": "gd50-wl-a.mp4",
+     "start": 0
+    },
+    "big": "[WHITELIST]\nROBTOP APPROVES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The rule started on February second, 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock; Nexus [GD] (YouTube)",
+     "clip": "gd50-wl-c.mp4",
+     "start": 0
+    },
+    "big": "[THE RULE]\nFEBRUARY 2, 2017",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Artists scouted before then could tick a box to allow or block their songs.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock; Nexus [GD] (YouTube)",
+     "clip": "gd50-wl-b.mp4",
+     "start": 0
+    },
+    "big": "[OLDER ARTISTS]\nOPT IN OR OUT",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It was the compromise that followed the Steam removal.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock; Nexus [GD] (YouTube)",
+     "clip": "gd50-wl-a.mp4",
+     "start": 7.0
+    },
+    "big": "[THE COMPROMISE]\nAFTER STEAM",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Do you use Newgrounds songs?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock; Nexus [GD] (YouTube)",
+     "clip": "gd50-wl-b.mp4",
+     "start": 7.0
+    },
+    "big": "USE NEWGROUNDS\nSONGS?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; CJrock; Nexus [GD] (YouTube)",
+     "clip": "gd50-wl-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
