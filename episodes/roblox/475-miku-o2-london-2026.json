@@ -1,0 +1,146 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 475,
+ "slug": "475-miku-o2-london-2026",
+ "file": "475 Hatsune Miku Headlined London's O2 Arena in 2026.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#00e5ff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Jakarta": "Ja-kar-ta"
+ },
+ "lines": [
+  {
+   "t": "Hatsune Miku headlined London's O2 Arena, billed as the first virtual artist to do it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-a.mp4",
+     "start": 0
+    },
+    "big": "FIRST VIRTUAL ARTIST\nAT THE O2",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "NOVEMBER 12, 2026"
+   }
+  },
+  {
+   "t": "The show kicked off her European tour.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-c.mp4",
+     "start": 0
+    },
+    "big": "EUROPEAN\nTOUR OPENER",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "MIKU EXPO 2026"
+   }
+  },
+  {
+   "t": "The theme this year was steampunk.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-b.mp4",
+     "start": 0
+    },
+    "big": "STEAMPUNK\nTHEME",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Miku Expo started in Jakarta in 2014.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-a.mp4",
+     "start": 7.0
+    },
+    "big": "FIRST SHOW\nJAKARTA 2014",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It was her first European tour in two years.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-c.mp4",
+     "start": 3.0
+    },
+    "big": "FIRST IN\n2 YEARS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Did you go to a Miku Expo?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-b.mp4",
+     "start": 7.0
+    },
+    "big": "GO TO A\nMIKU EXPO?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_ (YouTube)",
+     "clip": "tr51-o2-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

@@ -1,0 +1,259 @@
+{
+ "batch": 51,
+ "note": "batch 51: 1 Roblox, 3 Miku, 6 GD",
+ "posting": "Z:/claudeprojects/roblox vids/batch-51/posting.txt",
+ "episodes": [
+  "episodes/roblox/474-roblox-build-70000-games.json",
+  "episodes/roblox/475-miku-o2-london-2026.json",
+  "episodes/roblox/476-miku-v6-english-ai-voice.json",
+  "episodes/roblox/477-miku-expo-fan-made-songs.json",
+  "episodes/roblox/478-gd-2-0-robot-user-coins.json",
+  "episodes/roblox/479-gd-world-seven-dex-arson.json",
+  "episodes/roblox/480-gd-seven-original-levels.json",
+  "episodes/roblox/481-gd-1-9-wave.json",
+  "episodes/roblox/482-gd-2-1-daily-levels.json",
+  "episodes/roblox/483-gd-1-3-star-system.json"
+ ],
+ "clips": [
+  {
+   "name": "tr51-bd-a",
+   "url": "https://www.youtube.com/watch?v=lHXOrdcmUaM",
+   "backup": [],
+   "section": "*12:00-12:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-bd-b",
+   "url": "https://www.youtube.com/watch?v=y_oJplFJSlk",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-bd-c",
+   "url": "https://www.youtube.com/watch?v=rjGZzdQr9dA",
+   "backup": [],
+   "section": "*2:00-2:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-o2-a",
+   "url": "https://www.youtube.com/watch?v=gWr30gfYGS0",
+   "backup": [],
+   "section": "*30:00-30:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-o2-b",
+   "url": "https://www.youtube.com/watch?v=E_J65dXT7IA",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-o2-c",
+   "url": "https://www.youtube.com/watch?v=gWr30gfYGS0",
+   "backup": [],
+   "section": "*60:00-60:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-v6-a",
+   "url": "https://www.youtube.com/watch?v=3CagyW_awv4",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-v6-b",
+   "url": "https://www.youtube.com/watch?v=l50dOb1-SVY",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-v6-c",
+   "url": "https://www.youtube.com/watch?v=3CagyW_awv4",
+   "backup": [],
+   "section": "*2:30-2:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-ex-a",
+   "url": "https://www.youtube.com/watch?v=OpZx8KvTt1k",
+   "backup": [],
+   "section": "*20:00-20:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-ex-b",
+   "url": "https://www.youtube.com/watch?v=E_J65dXT7IA",
+   "backup": [],
+   "section": "*50:00-50:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "tr51-ex-c",
+   "url": "https://www.youtube.com/watch?v=b6VhAvtekeU",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-v2-a",
+   "url": "https://www.youtube.com/watch?v=hD5xRG7FPog",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-v2-b",
+   "url": "https://www.youtube.com/watch?v=EOEpjS2KZpg",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-v2-c",
+   "url": "https://www.youtube.com/watch?v=hD5xRG7FPog",
+   "backup": [],
+   "section": "*1:10-1:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-wd-a",
+   "url": "https://www.youtube.com/watch?v=Wx-q1hOFPT4",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-wd-b",
+   "url": "https://www.youtube.com/watch?v=zuwe5kShS3g",
+   "backup": [],
+   "section": "*1:30-1:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-wd-c",
+   "url": "https://www.youtube.com/watch?v=EO8VY7A4B94",
+   "backup": [],
+   "section": "*3:00-3:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-o7-a",
+   "url": "https://www.youtube.com/watch?v=E5L083YQzVE",
+   "backup": [],
+   "section": "*1:00-1:20",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-o7-b",
+   "url": "https://www.youtube.com/watch?v=MQpLQjqknq8",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-o7-c",
+   "url": "https://www.youtube.com/watch?v=jPqVXbKNoLk",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-wv-a",
+   "url": "https://www.youtube.com/watch?v=s2ODuHbavJo",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-wv-b",
+   "url": "https://www.youtube.com/watch?v=gxV_w6zf68k",
+   "backup": [],
+   "section": "*0:50-1:10",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-wv-c",
+   "url": "https://www.youtube.com/watch?v=1YI4oUUiV80",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-dl-a",
+   "url": "https://www.youtube.com/watch?v=ZJhr2ig24fc",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-dl-b",
+   "url": "https://www.youtube.com/watch?v=6Sc76GLjUvM",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-dl-c",
+   "url": "https://www.youtube.com/watch?v=ttxZNV9pSzs",
+   "backup": [],
+   "section": "*0:30-0:50",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-st-a",
+   "url": "https://www.youtube.com/watch?v=HrGBUnn9Y0g",
+   "backup": [],
+   "section": "*0:10-0:30",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-st-b",
+   "url": "https://www.youtube.com/watch?v=VInQkeec188",
+   "backup": [],
+   "section": "*0:40-1:00",
+   "cut": 0,
+   "len": 13
+  },
+  {
+   "name": "gd51-st-c",
+   "url": "https://www.youtube.com/watch?v=E5L083YQzVE",
+   "backup": [],
+   "section": "*0:20-0:40",
+   "cut": 0,
+   "len": 13
+  }
+ ]
+}

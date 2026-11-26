@@ -1,0 +1,146 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 474,
+ "slug": "474-roblox-build-70000-games",
+ "file": "474 Roblox AI Tool Build Has Made Over 70000 Games.mp4",
+ "target": 0,
+ "accent": "#2979ff",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Roblox": "Row-blocks"
+ },
+ "lines": [
+  {
+   "t": "Roblox's new AI tool has already published over seventy thousand games.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-a.mp4",
+     "start": 0
+    },
+    "big": "70,000 GAMES\nMADE WITH AI",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ROBLOX BUILD"
+   }
+  },
+  {
+   "t": "It's called Build, and it turns a text prompt into a playable game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-c.mp4",
+     "start": 0
+    },
+    "big": "TEXT PROMPT\nTO GAME",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "NO CODING"
+   }
+  },
+  {
+   "t": "More than five hundred thousand people have tried it since July.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-b.mp4",
+     "start": 0
+    },
+    "big": "500,000+\nUSERS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SINCE JULY"
+   }
+  },
+  {
+   "t": "So far it's only live in New Zealand, Singapore, Serbia and Thailand.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-a.mp4",
+     "start": 7.0
+    },
+    "big": "ONLY 4\nCOUNTRIES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ALPHA TEST"
+   }
+  },
+  {
+   "t": "Roblox says AI games are ranked by player retention, like every other game.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-c.mp4",
+     "start": 3.0
+    },
+    "big": "RANKED BY\nRETENTION",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Would you play an AI made game?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-b.mp4",
+     "start": 7.0
+    },
+    "big": "WOULD YOU\nPLAY ONE?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RICHLEV GAMING; Cocajola; Ropilot AI (YouTube)",
+     "clip": "tr51-bd-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

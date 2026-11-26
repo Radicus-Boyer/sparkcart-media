@@ -1,0 +1,160 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 481,
+ "slug": "481-gd-1-9-wave",
+ "file": "481 Geometry Dash Added the Wave in Update 1.9.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Theory of Everything": "Theory of Everything"
+ },
+ "lines": [
+  {
+   "t": "The Wave was added to Geometry Dash in update 1.9.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-a.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 1.9]\nTHE WAVE ARRIVES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out in November 2014.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-c.mp4",
+     "start": 0
+    },
+    "big": "[RELEASE]\nNOVEMBER 2014",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The update also added Blast Processing and Theory of Everything 2.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-b.mp4",
+     "start": 0
+    },
+    "big": "[2 NEW LEVELS]\nBLAST PROCESSING",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The Wave moves diagonally, and one touch of a wall ends the run.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-a.mp4",
+     "start": 7.0
+    },
+    "big": "[THE WAVE]\nONE TOUCH AND DEAD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Update 1.9 was billed as the biggest update ever.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-c.mp4",
+     "start": 3.0
+    },
+    "big": "[1.9]\nBIGGEST UPDATE EVER",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Wave or UFO?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-b.mp4",
+     "start": 7.0
+    },
+    "big": "WAVE\nOR UFO?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: JB; CJrock (YouTube)",
+     "clip": "gd51-wv-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

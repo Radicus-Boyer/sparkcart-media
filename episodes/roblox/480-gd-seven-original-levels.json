@@ -1,0 +1,162 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 480,
+ "slug": "480-gd-seven-original-levels",
+ "file": "480 Every Original Geometry Dash Level Was Named After Its Song.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "ForeverBound": "Forever Bound",
+  "Polargeist": "Polar geist",
+  "Waterflame": "Water flame"
+ },
+ "lines": [
+  {
+   "t": "The first Geometry Dash had seven levels, and each was named after its song.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-a.mp4",
+     "start": 0
+    },
+    "big": "[GD 1.0]\n7 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Stereo Madness was the first, with music by ForeverBound.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-c.mp4",
+     "start": 0
+    },
+    "big": "[LEVEL 1]\nSTEREO MADNESS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Back on Track, Dry Out, Base After Base and Can't Let Go were all by DJVI.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-b.mp4",
+     "start": 0
+    },
+    "big": "[DJVI]\n4 OF THE 7",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Polargeist was by Step, and Jumper was by Waterflame.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-a.mp4",
+     "start": 7.0
+    },
+    "big": "[THE REST]\nSTEP + WATERFLAME",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It launched on August thirteenth, 2013.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-c.mp4",
+     "start": 3.0
+    },
+    "big": "[LAUNCH]\nAUG 13, 2013",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "What was your first GD level?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR FIRST\nLEVEL?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Razing717; Partition Sion; Muzik Bike (YouTube)",
+     "clip": "gd51-o7-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

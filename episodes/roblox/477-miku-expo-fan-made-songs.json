@@ -1,0 +1,151 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 477,
+ "slug": "477-miku-expo-fan-made-songs",
+ "file": "477 Every Song at a Miku Expo Is Made by Fans.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#00e5ff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Jakarta": "Ja-kar-ta",
+  "Piapro": "Pee-a-pro",
+  "Oceania": "Oh-shee-an-ia"
+ },
+ "lines": [
+  {
+   "t": "Every song at a Hatsune Miku concert is made by fan creators.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-a.mp4",
+     "start": 0
+    },
+    "big": "ALL SONGS\nMADE BY FANS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "MIKU EXPO"
+   }
+  },
+  {
+   "t": "Miku Expo started in Jakarta in 2014.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-c.mp4",
+     "start": 0
+    },
+    "big": "JAKARTA\n2014",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "FIRST SHOW"
+   }
+  },
+  {
+   "t": "It has since toured Asia, North America, Europe and Oceania.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-b.mp4",
+     "start": 0
+    },
+    "big": "WORLD\nTOUR",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SINCE 2014"
+   }
+  },
+  {
+   "t": "2026 is the twelfth year of the series.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-a.mp4",
+     "start": 7.0
+    },
+    "big": "12TH YEAR\nOF MIKU EXPO",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "2026"
+   }
+  },
+  {
+   "t": "The 2026 song contest let other Piapro characters in for the first time.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-c.mp4",
+     "start": 3.0
+    },
+    "big": "OTHER PIAPRO\nCHARACTERS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "FIRST TIME"
+   }
+  },
+  {
+   "t": "Would you enter a song?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-b.mp4",
+     "start": 7.0
+    },
+    "big": "ENTER A\nSONG?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Meikafang; TommyQ_; Hatsune Miku (YouTube)",
+     "clip": "tr51-ex-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

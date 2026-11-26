@@ -1,0 +1,159 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 483,
+ "slug": "483-gd-1-3-star-system",
+ "file": "483 Geometry Dash Added Stars in Update 1.3.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash got its star system in update 1.3.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-a.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 1.3]\nSTARS ADDED",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Players earned stars for finishing levels.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-c.mp4",
+     "start": 0
+    },
+    "big": "[THE REWARD]\nSTARS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Harder levels gave more stars than easier ones.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-b.mp4",
+     "start": 0
+    },
+    "big": "[HARDER]\nMORE STARS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That update also added the level xStep.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NEW LEVEL]\nXSTEP",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Stars are still a main collectible today.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-c.mp4",
+     "start": 3.0
+    },
+    "big": "[STILL HERE]\nSTARS TODAY",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "How many stars do you have?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-b.mp4",
+     "start": 7.0
+    },
+    "big": "YOUR STAR\nCOUNT?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: CJrock; GuitarHeroStyles; Razing717 (YouTube)",
+     "clip": "gd51-st-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

@@ -1,0 +1,159 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 478,
+ "slug": "478-gd-2-0-robot-user-coins",
+ "file": "478 Geometry Dash 2.0 Added the Robot and User Coins.mp4",
+ "target": 0,
+ "accent": "#ffd600",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash 2.0 added the Robot, user coins and moving objects.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-a.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 2.0]\nROBOT AND COINS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out on August twenty sixth, 2015.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-c.mp4",
+     "start": 0
+    },
+    "big": "[RELEASE DATE]\nAUG 26, 2015",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It also added the level Geometrical Dominator.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-b.mp4",
+     "start": 0
+    },
+    "big": "[NEW LEVEL]\nGEOMETRICAL DOMINATOR",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "And a new Demon level called Deadlocked.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-a.mp4",
+     "start": 7.0
+    },
+    "big": "[NEW DEMON]\nDEADLOCKED",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Players had waited almost a year for it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-c.mp4",
+     "start": 3.0
+    },
+    "big": "[THE WAIT]\nALMOST A YEAR",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Did you play before 2.0?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-b.mp4",
+     "start": 7.0
+    },
+    "big": "PLAYED BEFORE\n2.0?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: GuitarHeroStyles; JB (YouTube)",
+     "clip": "gd51-v2-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}
