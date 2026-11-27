@@ -228,6 +228,36 @@ def confetti(img, T, t):
         if T['lullaby']: poly(img, star_pts(x, y, 14, dt + k), (255, 245, 180))
         else: rect(img, x, y, x + 16, y + 26, PALETTE[k % 6])
 
+
+def hype(img, T, t):
+    """Extra visual stimulation: beat zoom pulse, rainbow rings, twinkling sparkles, animated rainbow side stripes."""
+    if os.environ.get('GG_HYPE', '1') != '1': return img
+    p, bi = beat_phase(T['beats'], t)
+    z = 1 + 0.04 * max(0.0, 1 - p * 3.0)
+    if z > 1.001:
+        M = np.array([[z, 0, 540 * (1 - z)], [0, z, 1100 * (1 - z)]], np.float32)
+        img = cv2.warpAffine(img, M, (W, H), flags=cv2.INTER_LINEAR, borderMode=cv2.BORDER_REFLECT)
+    # rainbow rings from the bunny on each of the last two beats
+    for k in range(2):
+        b = bi - k
+        if b < 0 or b >= len(T['beats']): continue
+        dt = t - T['beats'][b]
+        if 0 <= dt < 0.55:
+            r = 90 + dt * 1100; th = max(1, int(16 * (1 - dt / 0.55)))
+            cv2.circle(img, (540, 1250), int(r), PALETTE[b % 6][::-1] if False else PALETTE[b % 6], th, cv2.LINE_AA)
+    # twinkling sparkles scattered around
+    rnd = random.Random(5)
+    for k in range(26):
+        x = rnd.uniform(40, W - 40); y = rnd.uniform(260, 1450)
+        s = 8 + 14 * abs(math.sin(t * 5 + k * 1.7))
+        poly(img, star_pts(x, y, s, 0.3 * math.sin(t + k)), PALETTE[(k + bi) % 6])
+    # animated rainbow stripes down both sides
+    off = int(t * 9)
+    for i in range(0, H, 80):
+        col = PALETTE[((i // 80) + off) % 6]
+        rect(img, 0, i, 18, i + 80, col); rect(img, W - 18, i, W, i + 80, col)
+    return img
+
 def render_frame(args):
     T, fi = args; t = fi / FPS
     idx, (st, name) = scene_at(T, t)
@@ -235,6 +265,7 @@ def render_frame(args):
     if idx > 0 and t - st < 0.5:
         prev = scene_frame(T, t, idx - 1, T['scenes'][idx - 1][1])
         img = circle_wipe(img, prev, (t - st) / 0.5)
+    img = hype(img, T, t)
     confetti(img, T, t)
     return overlay(img, T, t).tobytes()
 

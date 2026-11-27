@@ -1,0 +1,302 @@
+[
+ {
+  "id": "19_wash_hands",
+  "title": "Wash Your Hands Song",
+  "bpm": 100,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "garden",
+    "lines": [
+     "We played outside in the dirt today,",
+     "now let's wash our hands the bubbly way!"
+    ]
+   },
+   {
+    "scene": "bathroom",
+    "lines": [
+     "Soap and water, rub, rub, rub,",
+     "scrub between your fingers, scrub, scrub, scrub!"
+    ]
+   },
+   {
+    "scene": "meadow",
+    "lines": [
+     "Rinse them off and dry them too,",
+     "clean hands, happy hands for me and you!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "20_little_stars",
+  "title": "Ten Little Stars",
+  "bpm": 96,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "night",
+    "lines": [
+     "One, two, three, little stars so bright,",
+     "twinkle, twinkle in the night!"
+    ]
+   },
+   {
+    "scene": "space",
+    "lines": [
+     "Four, five, six, they shine so far,",
+     "wave hello to every star!"
+    ]
+   },
+   {
+    "scene": "moon",
+    "lines": [
+     "Seven, eight, nine, and ten stars too,",
+     "ten little stars say hi to you!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "21_rainy_day",
+  "title": "Rainy Day Splash Song",
+  "bpm": 98,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "rain",
+    "lines": [
+     "Pitter patter, rain is here,",
+     "grab your boots and rain coat, dear!"
+    ]
+   },
+   {
+    "scene": "mud",
+    "lines": [
+     "Jump in puddles, splash, splash, splash,",
+     "muddy boots go dash, dash, dash!"
+    ]
+   },
+   {
+    "scene": "meadow",
+    "lines": [
+     "Now the sun comes out to play,",
+     "a big bright rainbow says hooray!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "22_clean_up",
+  "title": "Clean Up Song",
+  "bpm": 100,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "bedroom",
+    "lines": [
+     "Toys are on the floor, oh my,",
+     "clean up, clean up, let's all try!"
+    ]
+   },
+   {
+    "scene": "garden",
+    "lines": [
+     "Pick up leaves and pick up sticks,",
+     "helping out is quick, quick, quick!"
+    ]
+   },
+   {
+    "scene": "meadow",
+    "lines": [
+     "Everything is clean, hooray,",
+     "now it's time to run and play!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "23_opposites",
+  "title": "Opposites Song",
+  "bpm": 100,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "meadow",
+    "lines": [
+     "Big and small, big and small,",
+     "Bunny's big and Chick is small!"
+    ]
+   },
+   {
+    "scene": "clouds",
+    "lines": [
+     "Up and down, up and down,",
+     "fly up high, then float back down!"
+    ]
+   },
+   {
+    "scene": "beach",
+    "lines": [
+     "Fast and slow, fast and slow,",
+     "run so fast, then tiptoe slow!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "24_freeze_dance",
+  "title": "Freeze Dance Song",
+  "bpm": 104,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "disco",
+    "lines": [
+     "Dance, dance, wiggle all around,",
+     "then freeze like ice and don't make a sound!"
+    ]
+   },
+   {
+    "scene": "autumn",
+    "lines": [
+     "Spin, spin, spin like falling leaves,",
+     "now freeze like a statue, if you please!"
+    ]
+   },
+   {
+    "scene": "meadow",
+    "lines": [
+     "Jump, jump, jump up to the sky,",
+     "freeze and wave and say goodbye!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "25_little_ducks",
+  "title": "Counting Little Ducks",
+  "bpm": 98,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "pond",
+    "lines": [
+     "One little duck goes for a swim,",
+     "two little ducks swim after him!"
+    ]
+   },
+   {
+    "scene": "farm",
+    "lines": [
+     "Three little ducks walk past the barn,",
+     "four little ducks hop round the farm!"
+    ]
+   },
+   {
+    "scene": "meadow",
+    "lines": [
+     "Five little ducks all in a row,",
+     "one, two, three, four, five, let's go!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "26_birthday",
+  "title": "Birthday Party Song",
+  "bpm": 104,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "meadow",
+    "lines": [
+     "Hip hip hooray, it's a party day,",
+     "balloons are floating, come and play!"
+    ]
+   },
+   {
+    "scene": "disco",
+    "lines": [
+     "Count the candles, one, two, three,",
+     "four and five, blow with me!"
+    ]
+   },
+   {
+    "scene": "clouds",
+    "lines": [
+     "Clap your hands and shout hooray,",
+     "happy birthday, hip hip hooray!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "27_bubbles",
+  "title": "Bubble Pop Song",
+  "bpm": 100,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "underwater",
+    "lines": [
+     "Bubbles, bubbles, round and bright,",
+     "floating up in the shining light!"
+    ]
+   },
+   {
+    "scene": "bathroom",
+    "lines": [
+     "Pop, pop, pop, one, two, three,",
+     "tickle, tickle, pop with me!"
+    ]
+   },
+   {
+    "scene": "clouds",
+    "lines": [
+     "Rainbow bubbles in the sky,",
+     "wave your hands and watch them fly!"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "28_hello_friends",
+  "title": "Hello Friends Song",
+  "bpm": 98,
+  "dur": 30,
+  "style": "upbeat",
+  "verses": [
+   {
+    "scene": "meadow",
+    "lines": [
+     "Hello, hello, how are you?",
+     "Wave your hand and say hi too!"
+    ]
+   },
+   {
+    "scene": "garden_flowers",
+    "lines": [
+     "Share your toys and take your turn,",
+     "that's how happy friends all learn!"
+    ]
+   },
+   {
+    "scene": "sunset_meadow",
+    "lines": [
+     "Hug a friend, hug them tight,",
+     "we are friends, day and night!"
+    ]
+   }
+  ]
+ }
+]
