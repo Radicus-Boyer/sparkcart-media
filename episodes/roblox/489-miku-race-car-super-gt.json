@@ -1,0 +1,155 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 489,
+ "slug": "489-miku-race-car-super-gt",
+ "file": "489 A Hatsune Miku Race Car Won Super GT Three Times.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "am_liam",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#00e5ff",
+  "cy": 1470
+ },
+ "pron": {
+  "Miku": "Mee-koo",
+  "Hatsune": "Hot-soo-neh",
+  "Sepang": "Seh-pang",
+  "Taniguchi": "Tah-nee-goo-chee",
+  "Kataoka": "Kah-tah-oh-kah",
+  "Nobuteru": "No-boo-teh-roo",
+  "Tatsuya": "Tat-soo-ya",
+  "Super GT": "Super G T",
+  "GT300": "G T three hundred"
+ },
+ "lines": [
+  {
+   "t": "A Hatsune Miku race car has won the Super GT championship three times.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-a.mp4",
+     "start": 0
+    },
+    "big": "3 SUPER GT\nTITLES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "MIKU RACE CAR"
+   }
+  },
+  {
+   "t": "It races for Good Smile Racing, and the car gets a new Miku design every year.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-c.mp4",
+     "start": 0
+    },
+    "big": "NEW MIKU\nDESIGN YEARLY",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "GOOD SMILE RACING"
+   }
+  },
+  {
+   "t": "In June 2011 it won at Sepang in Malaysia, reported as the first character car to win an international race.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-b.mp4",
+     "start": 0
+    },
+    "big": "FIRST CHARACTER\nCAR TO WIN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "SEPANG 2011"
+   }
+  },
+  {
+   "t": "The titles came in 2011, 2014 and 2017.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-a.mp4",
+     "start": 7.0
+    },
+    "big": "2011 2014\n2017",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "GT300 CLASS"
+   }
+  },
+  {
+   "t": "Nobuteru Taniguchi and Tatsuya Kataoka drove for the last two.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-c.mp4",
+     "start": 3.0
+    },
+    "big": "TANIGUCHI +\nKATAOKA",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "LAST 2 TITLES"
+   }
+  },
+  {
+   "t": "Would you watch a Miku race?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-b.mp4",
+     "start": 7.0
+    },
+    "big": "WATCH A\nMIKU RACE?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: SUPER GT; GOODSMILE RACING (YouTube)",
+     "clip": "tr52-rc-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "MEME LORE"
+}

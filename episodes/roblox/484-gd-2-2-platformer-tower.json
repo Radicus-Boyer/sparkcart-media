@@ -1,0 +1,160 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 484,
+ "slug": "484-gd-2-2-platformer-tower",
+ "file": "484 Geometry Dash 2.2 Added Platformer Mode and The Tower.mp4",
+ "target": 0,
+ "accent": "#00e5ff",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "W A S D": "W A S D"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash 2.2 added Platformer Mode, where you finally control your own icon.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-a.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 2.2]\nPLATFORMER MODE",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out on December nineteenth, 2023.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-c.mp4",
+     "start": 0
+    },
+    "big": "[RELEASE DATE]\nDEC 19, 2023",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "The update brought four official platformer levels, all set in a place called The Tower.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-b.mp4",
+     "start": 0
+    },
+    "big": "[THE TOWER]\n4 LEVELS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "In Platformer Mode you move freely with the arrow keys or W A S D.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-a.mp4",
+     "start": 7.0
+    },
+    "big": "[FREE MOVEMENT]\nARROW KEYS OR WASD",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Update 2.2 also brought the Swing mode and a new level called Dash.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-c.mp4",
+     "start": 3.0
+    },
+    "big": "[ALSO NEW]\nSWING AND DASH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Platformer or classic?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-b.mp4",
+     "start": 7.0
+    },
+    "big": "PLATFORMER\nOR CLASSIC?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Nexus [GD] (YouTube)",
+     "clip": "gd52-pt-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

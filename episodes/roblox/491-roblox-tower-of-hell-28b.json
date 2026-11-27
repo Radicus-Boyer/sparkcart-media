@@ -1,0 +1,146 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 491,
+ "slug": "491-roblox-tower-of-hell-28b",
+ "file": "491 Roblox Tower of Hell Has 28 Billion Visits.mp4",
+ "target": 0,
+ "accent": "#ff1744",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffd600",
+  "cy": 1470
+ },
+ "pron": {
+  "Roblox": "Row-blocks",
+  "YXceptional": "Why X ceptional",
+  "obby": "ob-bee"
+ },
+ "lines": [
+  {
+   "t": "Tower of Hell has been visited over twenty eight billion times on Roblox.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-a.mp4",
+     "start": 0
+    },
+    "big": "28 BILLION\nVISITS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "TOWER OF HELL"
+   }
+  },
+  {
+   "t": "It came out in June 2018, made by YXceptional Studios.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-c.mp4",
+     "start": 0
+    },
+    "big": "JUNE 2018",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "YXCEPTIONAL STUDIOS"
+   }
+  },
+  {
+   "t": "It's an obby with no checkpoints, so one fall sends you back down.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-b.mp4",
+     "start": 0
+    },
+    "big": "NO\nCHECKPOINTS",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Every round builds a new tower, randomly.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-a.mp4",
+     "start": 7.0
+    },
+    "big": "NEW TOWER\nEVERY ROUND",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "More than eleven million people have favorited it.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-c.mp4",
+     "start": 3.0
+    },
+    "big": "11 MILLION+\nFAVORITES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Have you beaten Tower of Hell?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-b.mp4",
+     "start": 7.0
+    },
+    "big": "BEAT THE\nTOWER?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: Mins; Grave; Remaining (YouTube)",
+     "clip": "tr52-th-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ROBLOX"
+}

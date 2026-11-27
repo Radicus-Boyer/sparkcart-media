@@ -1,0 +1,148 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 493,
+ "slug": "493-chess-two-20-year-olds-worlds",
+ "file": "493 Two 20 Year Olds Are Playing for the World Chess Title.mp4",
+ "target": 0,
+ "accent": "#ffea00",
+ "voice": "am_fenrir",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffea00",
+  "cy": 1470
+ },
+ "pron": {
+  "Gukesh": "Goo-kesh",
+  "Sindarov": "Sin-da-rov",
+  "Javokhir": "Ja-vo-heer",
+  "Uzbekistan": "Ooz-beh-ki-stan",
+  "Geneva": "Je-nee-va"
+ },
+ "lines": [
+  {
+   "t": "Two twenty year olds are playing for the world chess title right now.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-a.mp4",
+     "start": 0
+    },
+    "big": "BOTH\nARE 20",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "WORLD CHAMPIONSHIP"
+   }
+  },
+  {
+   "t": "Gukesh from India is defending, and Javokhir Sindarov from Uzbekistan is the challenger.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-c.mp4",
+     "start": 0
+    },
+    "big": "GUKESH VS\nSINDAROV",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "CHAMPION VS CHALLENGER"
+   }
+  },
+  {
+   "t": "The match is in Geneva, running from November twenty fourth to December twelfth.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-b.mp4",
+     "start": 0
+    },
+    "big": "GENEVA\nNOV 24 - DEC 12",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It's fourteen games, and the first to seven and a half points wins.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-a.mp4",
+     "start": 7.0
+    },
+    "big": "14 GAMES\n7.5 TO WIN",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "The prize fund is two and a half million dollars.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-c.mp4",
+     "start": 3.0
+    },
+    "big": "$2.5 MILLION\nPRIZE FUND",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "Who wins, Gukesh or Sindarov?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-b.mp4",
+     "start": 7.0
+    },
+    "big": "WHO\nWINS?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: agadmator; ChessNetwork (YouTube)",
+     "clip": "tr52-ch-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "CHESS"
+}

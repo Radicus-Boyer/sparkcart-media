@@ -1,0 +1,161 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 488,
+ "slug": "488-gd-1-4-size-portals",
+ "file": "488 Geometry Dash 1.4 Added Size Portals.mp4",
+ "target": 0,
+ "accent": "#ff6d00",
+ "voice": "narrator",
+ "speed": 1.08,
+ "cap": {
+  "font": "LuckiestGuy.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#ffffff",
+  "cy": 1470,
+  "stroke": 11
+ },
+ "pron": {
+  "Demonlist": "Demon list",
+  "Zoink": "Zoynk",
+  "wPopoff": "W Pop off",
+  "Cuatrocientos": "Kwatro-see-entos",
+  "Demishio": "Deh-mee-shee-o",
+  "Kyouki": "Kyoh-kee",
+  "Vortrox": "Vor-trox",
+  "OniLink": "Oni Link",
+  "Netermind": "Neter-mind",
+  "Taiago": "Tie-ah-go",
+  "Exen": "Ex-en",
+  "ivyteal": "ivy teal",
+  "Servax": "Sir Vax",
+  "xStep": "X step",
+  "DJVI": "D J V I",
+  "Clutterfunk": "Clutter funk",
+  "UFO": "U F O"
+ },
+ "lines": [
+  {
+   "t": "Geometry Dash update 1.4 added size portals that shrink your icon.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-a.mp4",
+     "start": 0
+    },
+    "big": "[UPDATE 1.4]\nSIZE PORTALS",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "It came out in December 2013.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-c.mp4",
+     "start": 0
+    },
+    "big": "[RELEASE]\nDECEMBER 2013",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "That update also added the level Clutterfunk.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-b.mp4",
+     "start": 0
+    },
+    "big": "[NEW LEVEL]\nCLUTTERFUNK",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Update 1.5 followed in the same month, adding the UFO.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-a.mp4",
+     "start": 7.0
+    },
+    "big": "[UPDATE 1.5]\nSAME MONTH",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "So the game got two big updates in one month.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-c.mp4",
+     "start": 3.0
+    },
+    "big": "[DECEMBER 2013]\n2 UPDATES",
+    "by": 250,
+    "bs": 74,
+    "ss": 50
+   }
+  },
+  {
+   "t": "Mini or normal size?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-b.mp4",
+     "start": 7.0
+    },
+    "big": "MINI OR\nNORMAL?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: RodrigoYiyo (YouTube)",
+     "clip": "gd52-sz-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "gd_player": "RobTop",
+ "edition": "GEOMETRY DASH",
+ "mood": "spooky"
+}

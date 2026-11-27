@@ -1,0 +1,147 @@
+{
+ "preset": "roblox",
+ "hdr": "tag",
+ "num": 492,
+ "slug": "492-zelda-oot-only-99",
+ "file": "492 Zelda Ocarina of Time Is the Only 99 on Metacritic.mp4",
+ "target": 0,
+ "accent": "#76ff03",
+ "voice": "am_michael",
+ "speed": 1.06,
+ "cap": {
+  "font": "../modern/fonts/Bangers-Regular.ttf",
+  "size": 120,
+  "mode": "word",
+  "fill": "#ffffff",
+  "hi": "#76ff03",
+  "cy": 1470
+ },
+ "pron": {
+  "Zelda": "Zel-da",
+  "Ocarina": "Oh-ka-ree-na",
+  "Metacritic": "Meta critic"
+ },
+ "lines": [
+  {
+   "t": "Ocarina of Time is the only video game ever to score a ninety nine on Metacritic.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-a.mp4",
+     "start": 0
+    },
+    "big": "99 ON\nMETACRITIC",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "ONLY GAME EVER"
+   }
+  },
+  {
+   "t": "It came out on the Nintendo 64 in November 1998.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-c.mp4",
+     "start": 0
+    },
+    "big": "NOVEMBER\n1998",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "NINTENDO 64"
+   }
+  },
+  {
+   "t": "It was the first three D Zelda, and it introduced Z targeting.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-b.mp4",
+     "start": 0
+    },
+    "big": "FIRST 3D ZELDA\nZ-TARGETING",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "It sold more than seven million copies.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-a.mp4",
+     "start": 7.0
+    },
+    "big": "7 MILLION\nCOPIES",
+    "by": 300,
+    "bs": 150,
+    "ss": 56
+   }
+  },
+  {
+   "t": "A remake launched on Switch 2 on November fifth, 2026, for fifty nine dollars and ninety nine cents.",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-c.mp4",
+     "start": 3.0
+    },
+    "big": "SWITCH 2\nREMAKE",
+    "by": 300,
+    "bs": 150,
+    "ss": 56,
+    "sub": "NOV 5, 2026"
+   }
+  },
+  {
+   "t": "Is Ocarina still the best?",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-b.mp4",
+     "start": 7.0
+    },
+    "big": "STILL THE\nBEST?",
+    "by": 300,
+    "bs": 140,
+    "ss": 50,
+    "sub": "COMMENT BELOW"
+   }
+  },
+  {
+   "t": "Help a small creator hit 1000 subs by Christmas!",
+   "sc": {
+    "bg": "night",
+    "ground": "dark",
+    "full": {
+     "credit": "Clips: bradyONE; Smant; Austin John Plays (YouTube)",
+     "clip": "tr52-oc-c.mp4",
+     "start": 7.0
+    },
+    "big": "SUBSCRIBE",
+    "by": 300,
+    "bs": 150,
+    "ss": 44,
+    "sub": "HELP US HIT 1000 BY CHRISTMAS"
+   }
+  }
+ ],
+ "lead": 1.7,
+ "tail": 0.5,
+ "clip_audio": true,
+ "edition": "ZELDA"
+}
